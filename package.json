@@ -1,0 +1,41 @@
+{
+  "name": "follow-the-money-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "fetch:indiana": "node scripts/fetch-indiana-data.js",
+    "fetch:fec": "node scripts/fetch-fec-data.js",
+    "process": "node scripts/process-data.js",
+    "aggregate": "node scripts/generate-summaries.js",
+    "metadata": "node scripts/update-metadata.js",
+    "update:all": "npm run fetch:indiana && npm run fetch:fec && npm run process && npm run aggregate && npm run metadata",
+    "test": "node --test",
+    "lint": "eslint scripts/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoosier-Civic-Lab/follow-the-money-in.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hoosier-Civic-Lab/follow-the-money-in/issues"
+  },
+  "homepage": "https://github.com/Hoosier-Civic-Lab/follow-the-money-in#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.3.1",
+    "fast-csv": "^5.0.5",
+    "papaparse": "^5.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.0"
+  }
+}
