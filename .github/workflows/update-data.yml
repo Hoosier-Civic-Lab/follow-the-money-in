@@ -1,0 +1,66 @@
+name: Update Campaign Finance Data
+   
+on:
+  # Weekly schedule: Sunday at 2 AM UTC (9 PM EST Saturday)
+  schedule:
+    - cron: '0 2 * * 0'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Fetch Indiana campaign finance data
+        run: npm run fetch:indiana
+        continue-on-error: true
+      
+      - name: Fetch FEC data
+        run: npm run fetch:fec
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        continue-on-error: true
+      
+      - name: Process data
+        run: npm run process
+      
+      - name: Generate summaries
+        run: npm run aggregate
+      
+      - name: Update metadata
+        run: npm run metadata
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add data/processed/
+          git diff --staged --quiet || git commit -m "Data update: $(date -u +%Y-%m-%d)"
+          git push
+      
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '⚠️ Data Update Failed - ' + new Date().toISOString().split('T')[0],
+              body: 'The automated data update workflow failed. Check the logs at: ' + context.serverUrl + '/' + context.repo.owner + '/' + context.repo.repo + '/actions/runs/' + context.runId,
+              labels: ['automation', 'bug']
+            })
