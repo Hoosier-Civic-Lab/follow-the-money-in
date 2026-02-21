@@ -1,49 +1,68 @@
 name: Update Campaign Finance Data
-   
+
 on:
   # Weekly schedule: Sunday at 2 AM UTC (9 PM EST Saturday)
   schedule:
     - cron: '0 2 * * 0'
-  
+
   # Allow manual trigger
   workflow_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v4
+
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
           cache: 'npm'
-      
+
       - name: Install dependencies
         run: npm ci
-      
+
+      - name: Lint (ESLint + convention checks)
+        run: npm run lint && npm run lint:conventions
+
       - name: Fetch Indiana campaign finance data
         run: npm run fetch:indiana
         continue-on-error: true
-      
+
       - name: Fetch FEC data
         run: npm run fetch:fec
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         continue-on-error: true
-      
+
+      - name: Check raw data presence
+        run: |
+          CSV_COUNT=$(find data/raw -name "*.csv" -size +0c 2>/dev/null | wc -l)
+          if [ "$CSV_COUNT" -eq 0 ]; then
+            echo "ERROR: No non-empty CSV files found in data/raw/ after fetch steps."
+            echo "Both fetch steps may have failed. Check fetch:indiana and fetch:fec logs."
+            exit 1
+          fi
+          echo "Found $CSV_COUNT non-empty CSV file(s) in data/raw/"
+
       - name: Process data
         run: npm run process
-      
+
       - name: Generate summaries
         run: npm run aggregate
-      
+
       - name: Update metadata
         run: npm run metadata
-      
+
+      - name: Validate output
+        run: npm run validate:output
+
+      - name: Run integration tests
+        run: node --test tests/integration/
+
       - name: Commit and push changes
         run: |
           git config --local user.name "GitHub Action"
@@ -51,7 +70,7 @@ jobs:
           git add data/processed/
           git diff --staged --quiet || git commit -m "Data update: $(date -u +%Y-%m-%d)"
           git push
-      
+
       - name: Create issue on failure
         if: failure()
         uses: actions/github-script@v6
@@ -61,6 +80,26 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: '⚠️ Data Update Failed - ' + new Date().toISOString().split('T')[0],
-              body: 'The automated data update workflow failed. Check the logs at: ' + context.serverUrl + '/' + context.repo.owner + '/' + context.repo.repo + '/actions/runs/' + context.runId,
+              body: [
+                '## Data update pipeline failed',
+                '',
+                '**Run:** ' + context.serverUrl + '/' + context.repo.owner + '/' + context.repo.repo + '/actions/runs/' + context.runId,
+                '',
+                '## Triage steps',
+                '',
+                '1. Check which step failed in the run log above.',
+                '2. **Lint failure** → run `npm run lint && npm run lint:conventions` locally.',
+                '3. **Fetch failure** → both `fetch:indiana` and `fetch:fec` use `continue-on-error`.',
+                '   If both fail, the raw data presence check will catch it.',
+                '4. **Process/aggregate failure** → check `data/raw/` CSV headers against',
+                '   `docs/references/indiana-field-variants.md`.',
+                '5. **Validate failure** → run `npm run validate:output` locally after pipeline.',
+                '   See `docs/design-docs/data-quirks.md` for remediation pointers in output.',
+                '6. **Integration test failure** → run `node --test tests/integration/` locally.',
+                '',
+                '## Key docs',
+                '- Data quirks: `docs/design-docs/data-quirks.md`',
+                '- Field variants: `docs/references/indiana-field-variants.md`',
+              ].join('\n'),
               labels: ['automation', 'bug']
             })

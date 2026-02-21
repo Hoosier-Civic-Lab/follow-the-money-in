@@ -32,7 +32,7 @@ export function classifyContributor(row) {
     // Corporate indicators
     const corporatePatterns = [
     /\b(inc|llc|corp|corporation|company|ltd|limited)\b/,
-    /\b(& associates|and associates|& sons|and sons)\b/,
+    /(& associates|and associates|& sons|and sons)/,
     /\bpac\b/
     ];
     

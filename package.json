@@ -14,7 +14,9 @@
     "metadata": "node scripts/update-metadata.js",
     "update:all": "npm run fetch:indiana && npm run fetch:fec && npm run process && npm run aggregate && npm run metadata",
     "test": "node --test",
-    "lint": "eslint scripts/"
+    "lint": "eslint scripts/",
+    "lint:conventions": "node scripts/lint/check-conventions.js",
+    "validate:output": "node scripts/validate-output.js"
   },
   "repository": {
     "type": "git",
