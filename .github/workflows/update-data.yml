@@ -71,7 +71,8 @@ jobs:
           git config --local user.email "action@github.com"
           git add data/processed/
           git diff --staged --quiet || git commit -m "Data update: $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main
           git push
 
       - name: Create issue on failure
