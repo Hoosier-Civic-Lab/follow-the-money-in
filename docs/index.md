@@ -17,6 +17,7 @@ All documentation for follow-the-money-in. ≤2 hops from any question about dat
 | Why are state values inconsistent? | `docs/references/state-codes.md` + `docs/design-docs/data-quirks.md#state-normalization` |
 | Why is ~90% unitemized? | `docs/design-docs/data-quirks.md#unitemized-bulk` |
 | How does amount parsing work? | `docs/design-docs/data-quirks.md#amount-float-string` |
+| Why do most candidates have `office: null`? | `docs/design-docs/data-quirks.md#candidate-office-enrichment-gap` |
 
 ## Reference
 

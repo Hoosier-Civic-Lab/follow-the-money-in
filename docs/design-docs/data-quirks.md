@@ -127,6 +127,32 @@ which is semantically wrong. Frontend display should guard against showing negat
 
 ---
 
+## candidate-office-enrichment-gap {#candidate-office-enrichment-gap}
+
+**Symptom:** Most candidates in `candidates-list.json` have `office: null`, `district: null`, `party: null`
+even after running `fetch:indiana:candidates`.
+
+**Root cause:** The Indiana SoS Primary/General Excel files only list candidates for the **current
+election cycle**. `all-contributions.json` accumulates contributions across multiple years, so the
+majority of named candidates are from prior cycles and will not appear in the current Excel.
+
+**Current handling:** `generate-summaries.js` soft-loads `data/raw/indiana-candidates.json` and
+enriches whatever it can find. Unmatched candidates silently get `null` fields — not an error.
+`validate-output.js` warns (not fails) when >50% of candidates lack an `office` value.
+
+**Name matching:** Lookup key is `name.toUpperCase().trim().replace(/\s+/g, ' ')`. A "Last, First"
+→ "First Last" rearrangement is attempted as a fallback. Names with middle initials or suffixes
+(Jr., III) that differ between the contribution CSV and the Excel will still fail to match.
+
+**Test coverage:** None (runtime-only — depends on network fetch of live SoS Excel files).
+
+**Risk if ignored:** None for data integrity. The `[WARN]` in validate-output.js fires if
+>50% missing, signaling a complete fetch failure rather than expected partial coverage.
+
+**See also:** `scripts/fetch-indiana-candidates.js`, `scripts/generate-summaries.js`
+
+---
+
 ## newline-in-text-columns
 
 **Symptom:** CSV parsing produces records with unexpected newlines in string fields

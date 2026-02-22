@@ -19,16 +19,18 @@ Agent navigation map for follow-the-money-in. All details are one hop away via t
 - State abbreviations are **not normalized** (known gap). ([details](docs/design-docs/data-quirks.md#state-normalization))
 - Date column name **varies by year** (`Date` vs `ContributionDate`). ([details](docs/design-docs/data-quirks.md#date-field-name-varies))
 - Amounts are float strings with 4 decimal places — always wrap in `new Decimal()`. ([details](docs/design-docs/data-quirks.md#amount-float-string))
+- Most candidates have `office: null` — expected; SoS Excel covers current cycle only. ([details](docs/design-docs/data-quirks.md#candidate-office-enrichment-gap))
 
 ## Commands
 
 ```bash
-npm run fetch:indiana      # Download Indiana state campaign finance CSVs
-npm run fetch:fec          # Query FEC API for federal candidates/committees
-npm run process            # Parse, classify, and normalize raw data
-npm run aggregate          # Generate summary statistics
-npm run metadata           # Update timestamps and metadata
-npm run update:all         # Full pipeline: fetch → process → aggregate → metadata
+npm run fetch:indiana             # Download Indiana state campaign finance CSVs
+npm run fetch:indiana:candidates  # Scrape SoS elections page → download Primary/General Excel → data/raw/indiana-candidates.json
+npm run fetch:fec                 # Query FEC API for federal candidates/committees
+npm run process                   # Parse, classify, and normalize raw data
+npm run aggregate                 # Generate summary statistics (enriches office/district/party if lookup present)
+npm run metadata                  # Update timestamps and metadata
+npm run update:all                # Full pipeline: fetch → fetch:indiana:candidates → fetch:fec → process → aggregate → metadata
 npm run validate:output    # Validate data/processed/ structure and quality
 npm run lint               # ESLint on scripts/
 npm run lint:conventions   # Custom structural checks (require(), float arithmetic, file size)
