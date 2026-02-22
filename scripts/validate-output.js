@@ -61,6 +61,15 @@ async function validateCandidateFiles() {
         } else {
           fail(`candidates-list.json entries missing fields: ${missing.join(', ')}`);
         }
+
+        // Warn if majority of candidates are missing office enrichment
+        const missingOffice = list.filter(c => !c.office).length;
+        const pct = (missingOffice / list.length * 100).toFixed(1);
+        if (pct > 50) {
+          warn(`${pct}% of candidates missing office field (run fetch:indiana:candidates to enrich)`);
+        } else {
+          pass(`${(100 - pct).toFixed(1)}% of candidates have office field populated`);
+        }
       }
     } catch {
       fail('candidates-list.json is not valid JSON');

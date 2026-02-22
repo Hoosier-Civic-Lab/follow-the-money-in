@@ -4,14 +4,20 @@
  */
 
 /**
- * Filter candidates by a text query (matches anywhere in the name).
+ * Filter candidates by a text query (matches anywhere in the name) and optional office.
  * @param {Array} list
- * @param {{ query: string }} opts
+ * @param {{ query: string, office?: string }} opts
  */
-export function filterCandidates(list, { query = '' }) {
+export function filterCandidates(list, { query = '', office = '' }) {
+    let result = list;
     const q = query.trim().toLowerCase();
-    if (!q) return list;
-    return list.filter(c => c.name.toLowerCase().includes(q));
+    if (q) {
+        result = result.filter(c => c.name.toLowerCase().includes(q));
+    }
+    if (office) {
+        result = result.filter(c => c.office === office);
+    }
+    return result;
 }
 
 /**

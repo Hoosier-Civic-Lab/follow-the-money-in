@@ -113,6 +113,27 @@ async function generateSummaries() {
 async function generateCandidateSummaries(allContributions) {
     console.log('\nGenerating candidate summaries...');
 
+    // Load optional candidate enrichment lookup (office/district/party)
+    let candidateLookup = {};
+    try {
+        candidateLookup = JSON.parse(await readFile('data/raw/indiana-candidates.json', 'utf-8'));
+        console.log(`  Loaded enrichment lookup with ${Object.keys(candidateLookup).length} entries`);
+    } catch {
+        // Not available — soft skip (file won't exist on fresh clones or before fetch:indiana:candidates)
+    }
+
+    function lookupCandidate(name) {
+        const normalized = name.toUpperCase().trim().replace(/\s+/g, ' ');
+        if (candidateLookup[normalized]) return candidateLookup[normalized];
+        // Try "Last, First" → "First Last" rearrangement
+        if (normalized.includes(',')) {
+            const [last, ...rest] = normalized.split(',');
+            const rearranged = `${rest.join(',').trim()} ${last.trim()}`;
+            return candidateLookup[rearranged] || null;
+        }
+        return null;
+    }
+
     // Group contributions by candidate_name (only records that have one)
     const byCandidate = new Map();
     for (const contrib of allContributions) {
@@ -159,12 +180,16 @@ async function generateCandidateSummaries(allContributions) {
         Object.values(bySize).forEach(obj => { obj.total = obj.total.toFixed(2); });
 
         const source = contribs[0]?.source || 'indiana';
+        const info = lookupCandidate(name);
 
         // Write per-candidate file
         const candidateData = {
             id,
             name,
             source,
+            office: info?.office ?? null,
+            district: info?.district ?? null,
+            party: info?.party ?? null,
             totals: {
                 total_raised: totalRaised,
                 total_contributions: contribs.length,
@@ -186,8 +211,16 @@ async function generateCandidateSummaries(allContributions) {
             total_raised: totalRaised,
             total_contributions: contribs.length,
             source,
+            office: info?.office ?? null,
+            district: info?.district ?? null,
+            party: info?.party ?? null,
         });
     }
+
+    // Log enrichment stats
+    const enriched = candidatesList.filter(c => c.office).length;
+    const total = candidatesList.length;
+    console.log(`  Enriched ${enriched}/${total} candidates with office data`);
 
     // Sort index by total_raised descending
     candidatesList.sort((a, b) => new Decimal(b.total_raised).minus(new Decimal(a.total_raised)).toNumber());

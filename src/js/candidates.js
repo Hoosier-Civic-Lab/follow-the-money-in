@@ -95,7 +95,7 @@ function renderTable(items) {
     if (!tbody) return;
 
     if (items.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="4" class="py-10 text-center text-gray-500">No candidates match your search.</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="6" class="py-10 text-center text-gray-500">No candidates match your search.</td></tr>`;
         return;
     }
 
@@ -105,6 +105,8 @@ function renderTable(items) {
                 <span class="font-medium text-gray-100">${escapeHtml(titleCase(c.name))}</span>
             </td>
             <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(c.total_raised)}</td>
+            <td class="py-3 px-4 text-left text-gray-300">${c.office ? escapeHtml(c.office) : '<span class="text-gray-600">—</span>'}</td>
+            <td class="py-3 px-4 text-left text-gray-300">${c.district ? escapeHtml(c.district) : '<span class="text-gray-600">—</span>'}</td>
             <td class="py-3 px-4 text-right text-gray-300">${c.total_contributions.toLocaleString()}</td>
             <td class="py-3 px-4 text-center">
                 <span class="inline-block px-2 py-0.5 rounded text-xs uppercase tracking-wide

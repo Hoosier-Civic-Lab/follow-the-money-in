@@ -8,11 +8,12 @@
   },
   "scripts": {
     "fetch:indiana": "node scripts/fetch-indiana-data.js",
+    "fetch:indiana:candidates": "node scripts/fetch-indiana-candidates.js",
     "fetch:fec": "node scripts/fetch-fec-data.js",
     "process": "node scripts/process-data.js",
     "aggregate": "node scripts/generate-summaries.js",
     "metadata": "node scripts/update-metadata.js",
-    "update:all": "npm run fetch:indiana && npm run fetch:fec && npm run process && npm run aggregate && npm run metadata",
+    "update:all": "npm run fetch:indiana && npm run fetch:indiana:candidates && npm run fetch:fec && npm run process && npm run aggregate && npm run metadata",
     "test": "node --test",
     "lint": "eslint scripts/",
     "lint:conventions": "node scripts/lint/check-conventions.js",
@@ -42,7 +43,8 @@
     "decimal.js": "^10.6.0",
     "dotenv": "^17.3.1",
     "fast-csv": "^5.0.5",
-    "papaparse": "^5.5.3"
+    "papaparse": "^5.5.3",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4",
