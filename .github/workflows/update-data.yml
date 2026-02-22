@@ -81,7 +81,7 @@ jobs:
         run: npm run build
 
       - name: Copy processed data into dist
-        run: cp -r data/processed dist/data/processed
+        run: mkdir -p dist/data && cp -r data/processed dist/data/processed
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
