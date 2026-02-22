@@ -1,8 +1,20 @@
-import { readFile, writeFile } from 'fs/promises';
+import { readFile, writeFile, mkdir } from 'fs/promises';
 import path from 'path';
 import Decimal from 'decimal.js';
 
 const PROCESSED_DIR = 'data/processed';
+
+/**
+ * Convert a candidate name to a URL-safe slug.
+ * e.g. "VANETA G. BECKER" → "vaneta-g-becker"
+ */
+function slugify(name) {
+    return name
+        .toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .trim()
+        .replace(/\s+/g, '-');
+}
 
 async function generateSummaries() {
     console.log('Generating summary statistics...\n');
@@ -84,15 +96,107 @@ async function generateSummaries() {
     // Save summary
     const summaryPath = path.join(PROCESSED_DIR, 'summary-all-races.json');
     await writeFile(summaryPath, JSON.stringify(summary, null, 2));
-    
+
     console.log(`✅ Saved summary to ${summaryPath}`);
     console.log(`\nSummary Stats:`);
     console.log(`  Total Raised: $${summary.totals.total_raised.toLocaleString()}`);
     console.log(`  Total Contributions: ${summary.totals.total_contributions.toLocaleString()}`);
     console.log(`  Itemized: ${summary.totals.total_itemized.toLocaleString()}`);
     console.log(`  Unitemized: ${summary.totals.total_unitemized.toLocaleString()}`);
-    
+
+    // Generate candidate-level summaries
+    await generateCandidateSummaries(allContributions);
+
     return summary;
+}
+
+async function generateCandidateSummaries(allContributions) {
+    console.log('\nGenerating candidate summaries...');
+
+    // Group contributions by candidate_name (only records that have one)
+    const byCandidate = new Map();
+    for (const contrib of allContributions) {
+        if (!contrib.candidate_name) continue;
+        const name = contrib.candidate_name;
+        if (!byCandidate.has(name)) {
+            byCandidate.set(name, []);
+        }
+        byCandidate.get(name).push(contrib);
+    }
+
+    console.log(`  Found ${byCandidate.size} unique candidates with itemized contributions`);
+
+    const candidatesDir = path.join(PROCESSED_DIR, 'candidates');
+    await mkdir(candidatesDir, { recursive: true });
+
+    const candidatesList = [];
+
+    for (const [name, contribs] of byCandidate) {
+        const id = slugify(name);
+        const totalRaised = contribs
+            .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
+            .toFixed(2);
+
+        // Build per-candidate aggregates matching summary-all-races.json shape
+        const byType = {};
+        const bySize = {};
+        for (const c of contribs) {
+            const amount = new Decimal(c.amount);
+
+            const type = c.contributor_type;
+            if (!byType[type]) byType[type] = { count: 0, total: new Decimal(0) };
+            byType[type].count++;
+            byType[type].total = byType[type].total.plus(amount);
+
+            const size = c.contribution_size;
+            if (!bySize[size]) bySize[size] = { count: 0, total: new Decimal(0) };
+            bySize[size].count++;
+            bySize[size].total = bySize[size].total.plus(amount);
+        }
+
+        // Serialize Decimal totals
+        Object.values(byType).forEach(obj => { obj.total = obj.total.toFixed(2); });
+        Object.values(bySize).forEach(obj => { obj.total = obj.total.toFixed(2); });
+
+        const source = contribs[0]?.source || 'indiana';
+
+        // Write per-candidate file
+        const candidateData = {
+            id,
+            name,
+            source,
+            totals: {
+                total_raised: totalRaised,
+                total_contributions: contribs.length,
+                total_itemized: contribs.filter(c => c.contributor_type !== 'unitemized').length,
+                total_unitemized: contribs.filter(c => c.contributor_type === 'unitemized').length,
+            },
+            by_contributor_type: byType,
+            by_contribution_size: bySize,
+            contributions: contribs,
+        };
+
+        const candidatePath = path.join(candidatesDir, `${id}.json`);
+        await writeFile(candidatePath, JSON.stringify(candidateData, null, 2));
+
+        // Add to index
+        candidatesList.push({
+            id,
+            name,
+            total_raised: totalRaised,
+            total_contributions: contribs.length,
+            source,
+        });
+    }
+
+    // Sort index by total_raised descending
+    candidatesList.sort((a, b) => new Decimal(b.total_raised).minus(new Decimal(a.total_raised)).toNumber());
+
+    const listPath = path.join(PROCESSED_DIR, 'candidates-list.json');
+    await writeFile(listPath, JSON.stringify(candidatesList, null, 2));
+
+    console.log(`✅ Saved candidates-list.json (${candidatesList.length} candidates)`);
+    console.log(`✅ Saved ${candidatesList.length} per-candidate files to ${candidatesDir}`);
 }
 
 // Run if called directly

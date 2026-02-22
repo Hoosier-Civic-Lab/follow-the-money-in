@@ -1,0 +1,74 @@
+{
+  "id": "john-terrill-young",
+  "name": "John  Terrill Young",
+  "source": "indiana",
+  "totals": {
+    "total_raised": "8218.00",
+    "total_contributions": 3,
+    "total_itemized": 3,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 2,
+      "total": "6218.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "2000.00"
+    }
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 3,
+      "total": "8218.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771728780055-94009",
+      "date": "2025-12-15 00:00:00",
+      "amount": 2125,
+      "candidate_name": "John  Terrill Young",
+      "contributor_name": "John Young",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Whiteland",
+      "address_state": "IN",
+      "address_zip": "46184",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780055-94010",
+      "date": "2025-10-09 00:00:00",
+      "amount": 4093,
+      "candidate_name": "John  Terrill Young",
+      "contributor_name": "John Young",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Whiteland",
+      "address_state": "IN",
+      "address_zip": "46184",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780055-94011",
+      "date": "2025-11-01 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John  Terrill Young",
+      "contributor_name": "Midwest Carpenters Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "source": "indiana"
+    }
+  ]
+}

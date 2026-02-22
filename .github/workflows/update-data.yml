@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -74,6 +76,18 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git push
+
+      - name: Build frontend
+        run: npm run build
+
+      - name: Copy processed data into dist
+        run: cp -r data/processed dist/data/processed
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
 
       - name: Create issue on failure
         if: failure()

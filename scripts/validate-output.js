@@ -8,7 +8,7 @@
  * Docs:  docs/design-docs/data-quirks.md
  */
 
-import { readFile, access } from 'fs/promises';
+import { readFile, access, readdir } from 'fs/promises';
 import path from 'path';
 
 const PROCESSED_DIR = 'data/processed';
@@ -40,6 +40,46 @@ async function fileExists(filepath) {
     return true;
   } catch {
     return false;
+  }
+}
+
+async function validateCandidateFiles() {
+  const listPath = path.join(PROCESSED_DIR, 'candidates-list.json');
+  if (await fileExists(listPath)) {
+    pass('candidates-list.json present');
+    try {
+      const list = JSON.parse(await readFile(listPath, 'utf-8'));
+      if (!Array.isArray(list) || list.length === 0) {
+        fail('candidates-list.json must be a non-empty array');
+      } else {
+        pass(`candidates-list.json has ${list.length} entries`);
+        const sample = list[0];
+        const requiredFields = ['id', 'name', 'total_raised', 'total_contributions', 'source'];
+        const missing = requiredFields.filter(f => sample[f] === undefined);
+        if (missing.length === 0) {
+          pass('candidates-list.json entries have required fields (id, name, total_raised, total_contributions, source)');
+        } else {
+          fail(`candidates-list.json entries missing fields: ${missing.join(', ')}`);
+        }
+      }
+    } catch {
+      fail('candidates-list.json is not valid JSON');
+    }
+  } else {
+    fail('Missing candidates-list.json', 'scripts/generate-summaries.js');
+  }
+
+  const candidatesDir = path.join(PROCESSED_DIR, 'candidates');
+  try {
+    const files = await readdir(candidatesDir);
+    const jsonFiles = files.filter(f => f.endsWith('.json'));
+    if (jsonFiles.length > 0) {
+      pass(`data/processed/candidates/ has ${jsonFiles.length} per-candidate file(s)`);
+    } else {
+      fail('data/processed/candidates/ exists but has no .json files');
+    }
+  } catch {
+    fail('data/processed/candidates/ directory missing', 'scripts/generate-summaries.js');
   }
 }
 
@@ -192,6 +232,9 @@ async function main() {
 
   console.log('\n--- metadata.json ---');
   await validateMetadata(metadata);
+
+  console.log('\n--- candidates-list.json + candidates/ ---');
+  await validateCandidateFiles();
 
   console.log(`\n${'─'.repeat(50)}`);
   if (failures === 0) {

@@ -16,7 +16,11 @@
     "test": "node --test",
     "lint": "eslint scripts/",
     "lint:conventions": "node scripts/lint/check-conventions.js",
-    "validate:output": "node scripts/validate-output.js"
+    "validate:output": "node scripts/validate-output.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "preview:local": "npm run build && node scripts/copy-data-to-dist.js && npm run preview"
   },
   "repository": {
     "type": "git",
@@ -33,6 +37,7 @@
   "dependencies": {
     "adm-zip": "^0.5.16",
     "axios": "^1.13.5",
+    "chart.js": "^4",
     "date-fns": "^4.1.0",
     "decimal.js": "^10.6.0",
     "dotenv": "^17.3.1",
@@ -40,6 +45,9 @@
     "papaparse": "^5.5.3"
   },
   "devDependencies": {
-    "eslint": "^10.0.0"
+    "@tailwindcss/vite": "^4",
+    "eslint": "^10.0.0",
+    "tailwindcss": "^4",
+    "vite": "^5"
   }
 }

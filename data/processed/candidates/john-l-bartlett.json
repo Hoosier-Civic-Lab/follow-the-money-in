@@ -1,0 +1,142 @@
+{
+  "id": "john-l-bartlett",
+  "name": "John L Bartlett",
+  "source": "indiana",
+  "totals": {
+    "total_raised": "4300.00",
+    "total_contributions": 7,
+    "total_itemized": 7,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 1,
+      "total": "750.00"
+    },
+    "individual": {
+      "count": 3,
+      "total": "2250.00"
+    },
+    "committee": {
+      "count": 3,
+      "total": "1300.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 5,
+      "total": "2300.00"
+    },
+    "large": {
+      "count": 2,
+      "total": "2000.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771728780028-59500",
+      "date": "2025-12-08 00:00:00",
+      "amount": 750,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "2908 San Gabriel, LP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Salt Lake City",
+      "address_state": "UT",
+      "address_zip": "84116",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59501",
+      "date": "2025-08-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Nathaniel  Lee",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59502",
+      "date": "2025-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Phebe Smith/ Shemiah Townsend",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59503",
+      "date": "2025-12-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Laborers International Union of North America LU 120",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59504",
+      "date": "2025-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Acadia Healthcare Company, Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59505",
+      "date": "2025-11-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Humana Incorporated PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40202",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771728780028-59506",
+      "date": "2025-08-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Indiana Farm Bureau Inc. Elect PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "source": "indiana"
+    }
+  ]
+}
