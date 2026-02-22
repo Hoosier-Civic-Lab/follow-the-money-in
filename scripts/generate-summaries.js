@@ -116,14 +116,28 @@ async function generateSummaries() {
 async function generateCandidateSummaries(allContributions) {
     console.log('\nGenerating candidate summaries...');
 
-    // Load optional candidate enrichment lookup (office/district/party)
+    // Load candidate enrichment lookup — three-layer merge, lowest → highest priority:
+    //   1. data/reference/indiana-candidates-historical.json  (prior-cycle baseline, committed)
+    //   2. data/raw/indiana-candidates.json                   (current-cycle auto-fetch)
+    //   3. data/manual/candidate-overrides.json               (human corrections, wins)
+    // Each layer is independently optional; missing files are silently skipped.
     let candidateLookup = {};
-    try {
-        candidateLookup = JSON.parse(await readFile('data/raw/indiana-candidates.json', 'utf-8'));
-        console.log(`  Loaded enrichment lookup with ${Object.keys(candidateLookup).length} entries`);
-    } catch {
-        // Not available — soft skip (file won't exist on fresh clones or before fetch:indiana:candidates)
+    const lookupSources = [
+        { path: 'data/reference/indiana-candidates-historical.json', label: 'historical reference' },
+        { path: 'data/raw/indiana-candidates.json',                  label: 'current-cycle fetch' },
+        { path: 'data/manual/candidate-overrides.json',              label: 'manual overrides' },
+    ];
+    for (const { path: filePath, label } of lookupSources) {
+        try {
+            const layer = JSON.parse(await readFile(filePath, 'utf-8'));
+            const count = Object.keys(layer).length;
+            Object.assign(candidateLookup, layer);
+            console.log(`  Loaded ${label}: ${count} entries`);
+        } catch {
+            console.log(`  Skipped ${label} (not available)`);
+        }
     }
+    console.log(`  Candidate lookup: ${Object.keys(candidateLookup).length} entries total`);
 
     function lookupCandidate(name) {
         const normalized = name.toUpperCase().trim().replace(/\s+/g, ' ');

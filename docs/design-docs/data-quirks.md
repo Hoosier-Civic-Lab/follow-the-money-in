@@ -136,9 +136,16 @@ even after running `fetch:indiana:candidates`.
 election cycle**. `all-contributions.json` accumulates contributions across multiple years, so the
 majority of named candidates are from prior cycles and will not appear in the current Excel.
 
-**Current handling:** `generate-summaries.js` soft-loads `data/raw/indiana-candidates.json` and
-enriches whatever it can find. Unmatched candidates silently get `null` fields — not an error.
-`validate-output.js` warns (not fails) when >50% of candidates lack an `office` value.
+**Current handling:** `generate-summaries.js` builds the lookup via a three-layer merge (lowest → highest priority):
+
+1. `data/reference/indiana-candidates-historical.json` — prior-cycle baseline (committed, updated ≤once/cycle)
+2. `data/raw/indiana-candidates.json` — current-cycle auto-fetch (overrides historical)
+3. `data/manual/candidate-overrides.json` — human corrections (wins over everything)
+
+Each layer is independently optional; missing files are silently skipped. Fresh clones with no
+`data/raw/` still get enrichment from `data/reference/` and `data/manual/`. Unmatched candidates
+silently get `null` fields — not an error. `validate-output.js` warns (not fails) when >50% of
+candidates lack an `office` value.
 
 **Name matching:** Lookup key is `name.toUpperCase().trim().replace(/\s+/g, ' ')`. A "Last, First"
 → "First Last" rearrangement is attempted as a fallback. Names with middle initials or suffixes
@@ -149,7 +156,9 @@ enriches whatever it can find. Unmatched candidates silently get `null` fields �
 **Risk if ignored:** None for data integrity. The `[WARN]` in validate-output.js fires if
 >50% missing, signaling a complete fetch failure rather than expected partial coverage.
 
-**See also:** `scripts/fetch-indiana-candidates.js`, `scripts/generate-summaries.js`
+**See also:** `scripts/fetch-indiana-candidates.js`, `scripts/generate-summaries.js`,
+`data/reference/indiana-candidates-historical.json`, `data/manual/candidate-overrides.json`,
+`scripts/build-reference-indiana.js` — builds historical reference lookup from prior-cycle election CSVs
 
 ---
 

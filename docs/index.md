@@ -30,6 +30,19 @@ All documentation for follow-the-money-in. ≤2 hops from any question about dat
 
 - `docs/design-docs/data-quirks.md` — known data gotchas with symptom/handling/risk entries
 
+## Data directories
+
+| Directory | Gitignored? | Purpose |
+|---|---|---|
+| `data/raw/` | Yes | Auto-fetched every pipeline run; never committed |
+| `data/processed/` | No | Pipeline output; committed |
+| `data/reference/` | No | Semi-static; script-fetchable but updated ≤once/cycle; committed |
+| `data/manual/` | No | Hand-maintained corrections/overrides; never auto-touched; committed |
+
+Key files:
+- `data/reference/indiana-candidates-historical.json` — prior-cycle candidate lookup (office/district/party)
+- `data/manual/candidate-overrides.json` — human-curated candidate corrections (applied last; wins over all other sources)
+
 ## Active work
 
 - `docs/exec-plans/active/` — in-flight plans

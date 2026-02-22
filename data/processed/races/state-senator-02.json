@@ -1,0 +1,88 @@
+{
+  "id": "state-senator-02",
+  "office": "State Senator",
+  "district": "02",
+  "totals": {
+    "total_raised": "9500.00",
+    "total_contributions": 15
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 3,
+      "total": "1200.00"
+    },
+    "individual": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "committee": {
+      "count": 11,
+      "total": "7300.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 12,
+      "total": "5000.00"
+    },
+    "large": {
+      "count": 3,
+      "total": "4500.00"
+    }
+  },
+  "by_month": {
+    "2025-07": {
+      "count": 2,
+      "total": "700.00"
+    },
+    "2025-10": {
+      "count": 5,
+      "total": "5000.00"
+    },
+    "2025-11": {
+      "count": 3,
+      "total": "1200.00"
+    },
+    "2025-09": {
+      "count": 3,
+      "total": "1800.00"
+    },
+    "2025-12": {
+      "count": 2,
+      "total": "800.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "lonnie-m-randolph",
+      "name": "Lonnie M. Randolph",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "9500.00",
+        "total_contributions": 15
+      },
+      "by_month": {
+        "2025-07": {
+          "count": 2,
+          "total": "700.00"
+        },
+        "2025-10": {
+          "count": 5,
+          "total": "5000.00"
+        },
+        "2025-11": {
+          "count": 3,
+          "total": "1200.00"
+        },
+        "2025-09": {
+          "count": 3,
+          "total": "1800.00"
+        },
+        "2025-12": {
+          "count": 2,
+          "total": "800.00"
+        }
+      }
+    }
+  ]
+}

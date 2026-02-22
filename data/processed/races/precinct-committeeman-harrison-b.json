@@ -1,0 +1,76 @@
+{
+  "id": "precinct-committeeman-harrison-b",
+  "office": "Precinct Committeeman",
+  "district": "HARRISON B",
+  "totals": {
+    "total_raised": "25667.94",
+    "total_contributions": 30
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 5,
+      "total": "2400.00"
+    },
+    "individual": {
+      "count": 9,
+      "total": "5660.00"
+    },
+    "committee": {
+      "count": 16,
+      "total": "17607.94"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 14,
+      "total": "5600.00"
+    },
+    "large": {
+      "count": 12,
+      "total": "20000.00"
+    },
+    "small": {
+      "count": 4,
+      "total": "67.94"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 13,
+      "total": "8167.94"
+    },
+    "2025-10": {
+      "count": 16,
+      "total": "16500.00"
+    },
+    "2025-06": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "james-r-buck",
+      "name": "JAMES R BUCK",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "25667.94",
+        "total_contributions": 30
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 13,
+          "total": "8167.94"
+        },
+        "2025-10": {
+          "count": 16,
+          "total": "16500.00"
+        },
+        "2025-06": {
+          "count": 1,
+          "total": "1000.00"
+        }
+      }
+    }
+  ]
+}

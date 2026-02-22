@@ -31,6 +31,7 @@ npm run process                   # Parse, classify, and normalize raw data
 npm run aggregate                 # Generate summary statistics (enriches office/district/party if lookup present)
 npm run metadata                  # Update timestamps and metadata
 npm run update:all                # Full pipeline: fetch → fetch:indiana:candidates → fetch:fec → process → aggregate → metadata
+npm run build:reference:indiana   # Parse historical election CSVs → data/reference/indiana-candidates-historical.json
 npm run validate:output    # Validate data/processed/ structure and quality
 npm run lint               # ESLint on scripts/
 npm run lint:conventions   # Custom structural checks (require(), float arithmetic, file size)
@@ -54,11 +55,13 @@ npm run preview            # Preview an already-built dist/ (requires data alrea
 ```
 Indiana SoS / FEC API
        ↓  (scripts/fetch-*.js)
-data/raw/        ← gitignored, not committed
+data/raw/        ← gitignored, not committed (auto-fetched every pipeline run)
        ↓  (scripts/process-data.js)
-       ↓  (scripts/generate-summaries.js)
+       ↓  (scripts/generate-summaries.js)  ← merges raw + reference + manual lookups
        ↓  (scripts/update-metadata.js)
-data/processed/  ← committed to Git
+data/processed/  ← committed to Git (pipeline output)
+data/reference/  ← committed to Git (semi-static, script-fetchable, updated ≤once/cycle)
+data/manual/     ← committed to Git (hand-maintained corrections/overrides, never auto-touched)
 src/             ← Vite frontend (HTML/JS/CSS)
        ↓  (npm run build → vite build, then cp data/processed dist/data/processed)
 dist/            ← built frontend + data, deployed to GitHub Pages
