@@ -1,0 +1,62 @@
+{
+  "id": "thomas-leroy-arthur",
+  "name": "Thomas Leroy Arthur",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "500.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 2,
+      "total": "500.00"
+    }
+  },
+  "by_contribution_size": {
+    "small": {
+      "count": 1,
+      "total": "50.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "450.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500917-94498",
+      "date": "2025-12-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Thomas Leroy Arthur",
+      "contributor_name": "Thomas Arthur",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "CLAY CITY",
+      "address_state": "IN",
+      "address_zip": "47841-8074",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500917-94499",
+      "date": "2025-12-20 00:00:00",
+      "amount": 450,
+      "candidate_name": "Thomas Leroy Arthur",
+      "contributor_name": "Thomas Arthur",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "CLAY CITY",
+      "address_state": "IN",
+      "address_zip": "47841-8074",
+      "source": "indiana"
+    }
+  ]
+}

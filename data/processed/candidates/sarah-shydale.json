@@ -1,0 +1,66 @@
+{
+  "id": "sarah-shydale",
+  "name": "Sarah Shydale",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "225.93",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "self": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "individual": {
+      "count": 1,
+      "total": "25.93"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "25.93"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500912-88337",
+      "date": "2025-11-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Sarah Shydale",
+      "contributor_type": "self",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500912-88338",
+      "date": "2025-12-21 00:00:00",
+      "amount": 25.93,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "ActBlue Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02196",
+      "source": "indiana"
+    }
+  ]
+}

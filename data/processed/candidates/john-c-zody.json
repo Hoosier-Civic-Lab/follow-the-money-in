@@ -1,0 +1,43 @@
+{
+  "id": "john-c-zody",
+  "name": "John C Zody",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "2.88",
+    "total_contributions": 1,
+    "total_itemized": 1,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 1,
+      "total": "2.88"
+    }
+  },
+  "by_contribution_size": {
+    "small": {
+      "count": 1,
+      "total": "2.88"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500895-77075",
+      "date": "2025-12-31 00:00:00",
+      "amount": 2.88,
+      "candidate_name": "John C Zody",
+      "contributor_name": "IU Credit Union",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47402",
+      "source": "indiana"
+    }
+  ]
+}

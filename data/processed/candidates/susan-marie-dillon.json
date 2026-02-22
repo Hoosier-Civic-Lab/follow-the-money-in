@@ -1,0 +1,77 @@
+{
+  "id": "susan-marie-dillon",
+  "name": "Susan Marie Dillon",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "300.00",
+    "total_contributions": 3,
+    "total_itemized": 2,
+    "total_unitemized": 1
+  },
+  "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "individual": {
+      "count": 2,
+      "total": "200.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 3,
+      "total": "300.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500903-83463",
+      "date": "2025-03-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Susan Marie Dillon",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500903-83464",
+      "date": "2025-09-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Susan Marie Dillon",
+      "contributor_name": "Susan Dillon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500903-83465",
+      "date": "2025-09-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Susan Marie Dillon",
+      "contributor_name": "Susan Dillon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "source": "indiana"
+    }
+  ]
+}

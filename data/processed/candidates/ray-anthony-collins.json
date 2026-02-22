@@ -1,0 +1,119 @@
+{
+  "id": "ray-anthony-collins",
+  "name": "Ray Anthony Collins",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "1400.00",
+    "total_contributions": 5,
+    "total_itemized": 3,
+    "total_unitemized": 2
+  },
+  "by_contributor_type": {
+    "unitemized": {
+      "count": 2,
+      "total": "100.00"
+    },
+    "corporate": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "individual": {
+      "count": 2,
+      "total": "300.00"
+    }
+  },
+  "by_contribution_size": {
+    "small": {
+      "count": 2,
+      "total": "100.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "300.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500917-94334",
+      "date": "2025-11-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500917-94335",
+      "date": "2025-12-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500917-94336",
+      "date": "2025-11-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "The Englehart Group",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500917-94337",
+      "date": "2025-11-24 00:00:00",
+      "amount": 200,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "Michael Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500917-94338",
+      "date": "2025-11-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "Stephanie L Collins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "source": "indiana"
+    }
+  ]
+}

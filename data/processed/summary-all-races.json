@@ -1,0 +1,485 @@
+{
+  "last_updated": "2026-02-22T05:01:42.157Z",
+  "totals": {
+    "total_raised": "42676950.08",
+    "total_contributions": 95181,
+    "total_itemized": 92501,
+    "total_unitemized": 2680
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 6329,
+      "total": "7909985.81"
+    },
+    "individual": {
+      "count": 82021,
+      "total": "22514256.07"
+    },
+    "committee": {
+      "count": 4074,
+      "total": "8858054.20"
+    },
+    "unitemized": {
+      "count": 2680,
+      "total": "2769292.80"
+    },
+    "self": {
+      "count": 77,
+      "total": "625361.20"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 21804,
+      "total": "6094784.43"
+    },
+    "large": {
+      "count": 6864,
+      "total": "14199134.77"
+    },
+    "small": {
+      "count": 65749,
+      "total": "1412549.15"
+    },
+    "mega": {
+      "count": 764,
+      "total": "20970481.73"
+    }
+  },
+  "by_occupation_category": {
+    "other": {
+      "count": 48461,
+      "total": "11580863.76"
+    },
+    "retired": {
+      "count": 743,
+      "total": "997455.54"
+    },
+    "unknown": {
+      "count": 42391,
+      "total": "27390697.27"
+    },
+    "education": {
+      "count": 125,
+      "total": "62162.97"
+    },
+    "finance": {
+      "count": 460,
+      "total": "604819.79"
+    },
+    "government": {
+      "count": 200,
+      "total": "570414.60"
+    },
+    "legal": {
+      "count": 1009,
+      "total": "713315.59"
+    },
+    "medical": {
+      "count": 1529,
+      "total": "511068.67"
+    },
+    "agriculture": {
+      "count": 102,
+      "total": "101309.15"
+    },
+    "real_estate": {
+      "count": 88,
+      "total": "124605.20"
+    },
+    "homemaker": {
+      "count": 56,
+      "total": "19841.54"
+    },
+    "student": {
+      "count": 17,
+      "total": "396.00"
+    }
+  },
+  "by_state": {
+    "46": {
+      "count": 5,
+      "total": "438.00"
+    },
+    "95010": {
+      "count": 1,
+      "total": "2025.00"
+    },
+    "IN": {
+      "count": 69642,
+      "total": "29166482.85"
+    },
+    "DC": {
+      "count": 479,
+      "total": "905184.95"
+    },
+    "NC": {
+      "count": 589,
+      "total": "243022.80"
+    },
+    "MA": {
+      "count": 1310,
+      "total": "644712.86"
+    },
+    "VA": {
+      "count": 632,
+      "total": "459277.50"
+    },
+    "IL": {
+      "count": 5379,
+      "total": "3245554.03"
+    },
+    "MO": {
+      "count": 378,
+      "total": "234753.38"
+    },
+    "PA": {
+      "count": 387,
+      "total": "132312.79"
+    },
+    "TX": {
+      "count": 985,
+      "total": "404924.45"
+    },
+    "FL": {
+      "count": 1112,
+      "total": "346412.46"
+    },
+    "unknown": {
+      "count": 2766,
+      "total": "2785015.49"
+    },
+    "TN": {
+      "count": 366,
+      "total": "183078.51"
+    },
+    "IA": {
+      "count": 87,
+      "total": "26202.15"
+    },
+    "MI": {
+      "count": 483,
+      "total": "693694.34"
+    },
+    "OH": {
+      "count": 698,
+      "total": "255256.39"
+    },
+    "NY": {
+      "count": 561,
+      "total": "836378.32"
+    },
+    "GA": {
+      "count": 276,
+      "total": "52081.20"
+    },
+    "KY": {
+      "count": 1127,
+      "total": "173475.99"
+    },
+    "AR": {
+      "count": 165,
+      "total": "27180.41"
+    },
+    "CO": {
+      "count": 239,
+      "total": "92769.08"
+    },
+    "AZ": {
+      "count": 249,
+      "total": "93395.15"
+    },
+    "LA": {
+      "count": 350,
+      "total": "17163.82"
+    },
+    "Oh": {
+      "count": 10,
+      "total": "5333.62"
+    },
+    "WA": {
+      "count": 322,
+      "total": "37137.85"
+    },
+    "CA": {
+      "count": 2422,
+      "total": "380121.84"
+    },
+    "NJ": {
+      "count": 266,
+      "total": "101561.37"
+    },
+    "UT": {
+      "count": 102,
+      "total": "63186.30"
+    },
+    "MN": {
+      "count": 218,
+      "total": "57322.00"
+    },
+    "MD": {
+      "count": 291,
+      "total": "160970.46"
+    },
+    "CT": {
+      "count": 155,
+      "total": "341975.50"
+    },
+    "WI": {
+      "count": 159,
+      "total": "67566.85"
+    },
+    "DE": {
+      "count": 46,
+      "total": "9997.15"
+    },
+    "OR": {
+      "count": 199,
+      "total": "6918.90"
+    },
+    "KS": {
+      "count": 65,
+      "total": "28847.35"
+    },
+    "AL": {
+      "count": 1386,
+      "total": "45626.05"
+    },
+    "RI": {
+      "count": 31,
+      "total": "3994.15"
+    },
+    "NE": {
+      "count": 20,
+      "total": "6383.11"
+    },
+    "In": {
+      "count": 115,
+      "total": "138377.21"
+    },
+    "NV": {
+      "count": 64,
+      "total": "3022.57"
+    },
+    "WV": {
+      "count": 61,
+      "total": "2823.04"
+    },
+    "SD": {
+      "count": 16,
+      "total": "1558.17"
+    },
+    "Mo": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "N.": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "A.": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "ky": {
+      "count": 7,
+      "total": "91.78"
+    },
+    "Ky": {
+      "count": 3,
+      "total": "1231.00"
+    },
+    "Un": {
+      "count": 1,
+      "total": "23.00"
+    },
+    "Mi": {
+      "count": 4,
+      "total": "1300.00"
+    },
+    "MS": {
+      "count": 196,
+      "total": "6074.49"
+    },
+    "in": {
+      "count": 49,
+      "total": "26141.56"
+    },
+    "OK": {
+      "count": 76,
+      "total": "12091.63"
+    },
+    "al": {
+      "count": 1,
+      "total": "3.93"
+    },
+    "AK": {
+      "count": 29,
+      "total": "1503.14"
+    },
+    "mi": {
+      "count": 26,
+      "total": "736.08"
+    },
+    "il": {
+      "count": 5,
+      "total": "885.35"
+    },
+    "oh": {
+      "count": 2,
+      "total": "100.00"
+    },
+    " I": {
+      "count": 3,
+      "total": "2600.00"
+    },
+    "US": {
+      "count": 4,
+      "total": "2000.00"
+    },
+    "KE": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "SC": {
+      "count": 105,
+      "total": "8808.48"
+    },
+    "Te": {
+      "count": 3,
+      "total": "1550.00"
+    },
+    "PR": {
+      "count": 20,
+      "total": "508.00"
+    },
+    "Ma": {
+      "count": 6,
+      "total": "1526.31"
+    },
+    "Nc": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "Md": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "Il": {
+      "count": 42,
+      "total": "9231.74"
+    },
+    "Tx": {
+      "count": 1,
+      "total": "750.00"
+    },
+    "Ia": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "NH": {
+      "count": 46,
+      "total": "2208.30"
+    },
+    "ME": {
+      "count": 47,
+      "total": "7335.00"
+    },
+    "VT": {
+      "count": 43,
+      "total": "1572.00"
+    },
+    "ID": {
+      "count": 53,
+      "total": "53251.45"
+    },
+    "NM": {
+      "count": 76,
+      "total": "1905.32"
+    },
+    "MT": {
+      "count": 26,
+      "total": "1794.73"
+    },
+    "HI": {
+      "count": 40,
+      "total": "2115.30"
+    },
+    "WY": {
+      "count": 7,
+      "total": "16519.15"
+    },
+    "AP": {
+      "count": 2,
+      "total": "135.00"
+    },
+    "ND": {
+      "count": 9,
+      "total": "346.00"
+    },
+    "AE": {
+      "count": 1,
+      "total": "20.00"
+    },
+    "L": {
+      "count": 1,
+      "total": "100.72"
+    },
+    "D.": {
+      "count": 8,
+      "total": "6250.00"
+    },
+    "dc": {
+      "count": 3,
+      "total": "5850.00"
+    },
+    "tn": {
+      "count": 2,
+      "total": "300.00"
+    },
+    "Ar": {
+      "count": 1,
+      "total": "400.00"
+    },
+    "Tn": {
+      "count": 1,
+      "total": "150.00"
+    },
+    "Az": {
+      "count": 3,
+      "total": "850.00"
+    },
+    " K": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "iN": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "wi": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "RE": {
+      "count": 1,
+      "total": "150.00"
+    },
+    "Wi": {
+      "count": 1,
+      "total": "75.00"
+    },
+    "Ne": {
+      "count": 1,
+      "total": "5.21"
+    },
+    "iL": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "IT": {
+      "count": 1,
+      "total": "4095.00"
+    }
+  }
+}

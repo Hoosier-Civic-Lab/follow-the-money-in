@@ -1,0 +1,81 @@
+{
+  "id": "maria-magdalena-yuquilima",
+  "name": "Maria Magdalena Yuquilima",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "2247.00",
+    "total_contributions": 3,
+    "total_itemized": 2,
+    "total_unitemized": 1
+  },
+  "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "1497.00"
+    },
+    "individual": {
+      "count": 2,
+      "total": "750.00"
+    }
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1497.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "750.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1771736500915-92686",
+      "date": "2025-12-31 00:00:00",
+      "amount": 1497,
+      "candidate_name": "Maria Magdalena Yuquilima",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500915-92687",
+      "date": "2025-09-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Maria Magdalena Yuquilima",
+      "contributor_name": "Cynthia Cardona",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771736500915-92688",
+      "date": "2025-11-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Maria Magdalena Yuquilima",
+      "contributor_name": "Kyle Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "source": "indiana"
+    }
+  ]
+}
