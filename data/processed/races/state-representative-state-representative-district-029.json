@@ -3,32 +3,107 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 029",
   "totals": {
-    "total_raised": "1060.00",
-    "total_contributions": 14
+    "total_raised": "34484.31",
+    "total_contributions": 77
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 10,
+      "total": "6150.00"
+    },
     "individual": {
-      "count": 14,
-      "total": "1060.00"
+      "count": 47,
+      "total": "14234.31"
+    },
+    "committee": {
+      "count": 20,
+      "total": "14100.00"
     }
   },
   "by_contribution_size": {
-    "small": {
-      "count": 6,
-      "total": "160.00"
-    },
     "medium": {
-      "count": 8,
-      "total": "900.00"
+      "count": 58,
+      "total": "17217.27"
+    },
+    "large": {
+      "count": 12,
+      "total": "17082.04"
+    },
+    "small": {
+      "count": 7,
+      "total": "185.00"
     }
   },
   "by_month": {
+    "2025-06": {
+      "count": 1,
+      "total": "750.00"
+    },
+    "2025-11": {
+      "count": 10,
+      "total": "4157.42"
+    },
+    "2025-10": {
+      "count": 28,
+      "total": "15863.18"
+    },
     "2025-12": {
-      "count": 14,
-      "total": "1060.00"
+      "count": 18,
+      "total": "2763.71"
+    },
+    "2025-08": {
+      "count": 6,
+      "total": "4600.00"
+    },
+    "2025-09": {
+      "count": 12,
+      "total": "5600.00"
+    },
+    "2025-07": {
+      "count": 2,
+      "total": "750.00"
     }
   },
   "candidates": [
+    {
+      "id": "alaina-kelly-shonkwiler",
+      "name": "Alaina Kelly Shonkwiler",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "33424.31",
+        "total_contributions": 63
+      },
+      "by_month": {
+        "2025-06": {
+          "count": 1,
+          "total": "750.00"
+        },
+        "2025-11": {
+          "count": 10,
+          "total": "4157.42"
+        },
+        "2025-10": {
+          "count": 28,
+          "total": "15863.18"
+        },
+        "2025-12": {
+          "count": 4,
+          "total": "1703.71"
+        },
+        "2025-08": {
+          "count": 6,
+          "total": "4600.00"
+        },
+        "2025-09": {
+          "count": 12,
+          "total": "5600.00"
+        },
+        "2025-07": {
+          "count": 2,
+          "total": "750.00"
+        }
+      }
+    },
     {
       "id": "coumba-kebe",
       "name": "Coumba Kebe",

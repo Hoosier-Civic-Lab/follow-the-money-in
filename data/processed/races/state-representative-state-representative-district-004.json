@@ -1,0 +1,103 @@
+{
+  "id": "state-representative-state-representative-district-004",
+  "office": "STATE REPRESENTATIVE",
+  "district": "State Representative, District 004",
+  "totals": {
+    "total_raised": "156895.00",
+    "total_contributions": 148
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 17,
+      "total": "31250.00"
+    },
+    "individual": {
+      "count": 85,
+      "total": "31235.00"
+    },
+    "committee": {
+      "count": 44,
+      "total": "94300.00"
+    },
+    "self": {
+      "count": 2,
+      "total": "110.00"
+    }
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 45,
+      "total": "81500.00"
+    },
+    "medium": {
+      "count": 64,
+      "total": "19100.00"
+    },
+    "mega": {
+      "count": 4,
+      "total": "55000.00"
+    },
+    "small": {
+      "count": 35,
+      "total": "1295.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 51,
+      "total": "47320.00"
+    },
+    "2025-12": {
+      "count": 67,
+      "total": "102945.00"
+    },
+    "2025-11": {
+      "count": 30,
+      "total": "6630.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "edmond-lewis-soliday",
+      "name": "Edmond Lewis Soliday",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "143050.00",
+        "total_contributions": 76
+      },
+      "by_month": {
+        "2025-10": {
+          "count": 41,
+          "total": "46750.00"
+        },
+        "2025-12": {
+          "count": 35,
+          "total": "96300.00"
+        }
+      }
+    },
+    {
+      "id": "ryan-michael-kominakis",
+      "name": "Ryan Michael Kominakis",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "13845.00",
+        "total_contributions": 72
+      },
+      "by_month": {
+        "2025-11": {
+          "count": 30,
+          "total": "6630.00"
+        },
+        "2025-12": {
+          "count": 32,
+          "total": "6645.00"
+        },
+        "2025-10": {
+          "count": 10,
+          "total": "570.00"
+        }
+      }
+    }
+  ]
+}

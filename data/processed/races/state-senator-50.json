@@ -1,0 +1,80 @@
+{
+  "id": "state-senator-50",
+  "office": "State Senator",
+  "district": "50",
+  "totals": {
+    "total_raised": "15000.00",
+    "total_contributions": 26
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 6,
+      "total": "1700.00"
+    },
+    "committee": {
+      "count": 17,
+      "total": "11250.00"
+    },
+    "individual": {
+      "count": 3,
+      "total": "2050.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 19,
+      "total": "7000.00"
+    },
+    "large": {
+      "count": 7,
+      "total": "8000.00"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 10,
+      "total": "4050.00"
+    },
+    "2025-08": {
+      "count": 2,
+      "total": "1250.00"
+    },
+    "2025-11": {
+      "count": 9,
+      "total": "6800.00"
+    },
+    "2025-10": {
+      "count": 5,
+      "total": "2900.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "vaneta-g-becker",
+      "name": "VANETA G. BECKER",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "15000.00",
+        "total_contributions": 26
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 10,
+          "total": "4050.00"
+        },
+        "2025-08": {
+          "count": 2,
+          "total": "1250.00"
+        },
+        "2025-11": {
+          "count": 9,
+          "total": "6800.00"
+        },
+        "2025-10": {
+          "count": 5,
+          "total": "2900.00"
+        }
+      }
+    }
+  ]
+}

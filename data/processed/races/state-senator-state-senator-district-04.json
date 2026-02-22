@@ -3,17 +3,17 @@
   "office": "STATE SENATOR",
   "district": "State Senator, District 04",
   "totals": {
-    "total_raised": "69805.55",
-    "total_contributions": 59
+    "total_raised": "86264.38",
+    "total_contributions": 122
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 6,
-      "total": "2200.00"
+      "count": 9,
+      "total": "3550.00"
     },
     "individual": {
-      "count": 27,
-      "total": "43855.55"
+      "count": 86,
+      "total": "58864.38"
     },
     "self": {
       "count": 1,
@@ -22,20 +22,24 @@
     "committee": {
       "count": 25,
       "total": "21750.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 31,
-      "total": "12407.84"
+      "count": 61,
+      "total": "18938.60"
     },
     "small": {
-      "count": 9,
-      "total": "397.71"
+      "count": 35,
+      "total": "1284.76"
     },
     "large": {
-      "count": 17,
-      "total": "27000.00"
+      "count": 24,
+      "total": "36041.02"
     },
     "mega": {
       "count": 2,
@@ -56,8 +60,8 @@
       "total": "23698.05"
     },
     "2025-12": {
-      "count": 16,
-      "total": "8479.66"
+      "count": 67,
+      "total": "17788.49"
     },
     "2025-08": {
       "count": 5,
@@ -68,8 +72,8 @@
       "total": "14013.86"
     },
     "2025-11": {
-      "count": 1,
-      "total": "500.00"
+      "count": 13,
+      "total": "7650.00"
     },
     "2025-01": {
       "count": 1,
@@ -117,6 +121,25 @@
         "2025-01": {
           "count": 1,
           "total": "288.15"
+        }
+      }
+    },
+    {
+      "id": "nathan-richard-uldricks",
+      "name": "Nathan Richard Uldricks",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "16458.83",
+        "total_contributions": 63
+      },
+      "by_month": {
+        "2025-11": {
+          "count": 12,
+          "total": "7150.00"
+        },
+        "2025-12": {
+          "count": 51,
+          "total": "9308.83"
         }
       }
     }

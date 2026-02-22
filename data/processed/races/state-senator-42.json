@@ -1,0 +1,100 @@
+{
+  "id": "state-senator-42",
+  "office": "State Senator",
+  "district": "42",
+  "totals": {
+    "total_raised": "39422.39",
+    "total_contributions": 75
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 17,
+      "total": "5937.23"
+    },
+    "individual": {
+      "count": 22,
+      "total": "12135.16"
+    },
+    "committee": {
+      "count": 36,
+      "total": "21350.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 57,
+      "total": "21398.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "12.23"
+    },
+    "large": {
+      "count": 17,
+      "total": "18012.16"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 33,
+      "total": "16912.16"
+    },
+    "2025-11": {
+      "count": 22,
+      "total": "12100.00"
+    },
+    "2025-12": {
+      "count": 10,
+      "total": "6412.23"
+    },
+    "2025-08": {
+      "count": 3,
+      "total": "1050.00"
+    },
+    "2025-06": {
+      "count": 2,
+      "total": "575.00"
+    },
+    "2025-09": {
+      "count": 5,
+      "total": "2373.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "jean-leising",
+      "name": "Jean Leising",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "39422.39",
+        "total_contributions": 75
+      },
+      "by_month": {
+        "2025-10": {
+          "count": 33,
+          "total": "16912.16"
+        },
+        "2025-11": {
+          "count": 22,
+          "total": "12100.00"
+        },
+        "2025-12": {
+          "count": 10,
+          "total": "6412.23"
+        },
+        "2025-08": {
+          "count": 3,
+          "total": "1050.00"
+        },
+        "2025-06": {
+          "count": 2,
+          "total": "575.00"
+        },
+        "2025-09": {
+          "count": 5,
+          "total": "2373.00"
+        }
+      }
+    }
+  ]
+}
