@@ -117,7 +117,7 @@ describe('summary-all-races.json schema', () => {
     if (!dataAvailable) return;
     assert.ok(summary.totals, 'Missing summary.totals');
     assert.ok('total_raised' in summary.totals, 'Missing totals.total_raised');
-    assert.ok('total_contributors' in summary.totals, 'Missing totals.total_contributors');
+    assert.ok('total_contributions' in summary.totals, 'Missing totals.total_contributions');
     assert.ok('total_itemized' in summary.totals, 'Missing totals.total_itemized');
     assert.ok('total_unitemized' in summary.totals, 'Missing totals.total_unitemized');
   });
@@ -125,9 +125,9 @@ describe('summary-all-races.json schema', () => {
   it('total_contributors matches all-contributions.json length', () => {
     if (!dataAvailable) return;
     assert.equal(
-      summary.totals.total_contributors,
+      summary.totals.total_contributions,
       contributions.length,
-      'summary.totals.total_contributors does not match array length'
+      'summary.totals.total_contributions does not match array length'
     );
   });
 
@@ -135,8 +135,8 @@ describe('summary-all-races.json schema', () => {
     if (!dataAvailable) return;
     assert.equal(
       summary.totals.total_itemized + summary.totals.total_unitemized,
-      summary.totals.total_contributors,
-      'itemized + unitemized should equal total_contributors'
+      summary.totals.total_contributions,
+      'itemized + unitemized should equal total_contributions'
     );
   });
 
