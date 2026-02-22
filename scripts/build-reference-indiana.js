@@ -44,7 +44,7 @@ async function run() {
 
     const lookup = {};
 
-    for (const { filename, type, year } of matchedFiles) {
+    for (const { filename } of matchedFiles) {
         const filepath = join(RAW_DIR, filename);
         const rows = await parseCSVFile(filepath);
         let count = 0;
