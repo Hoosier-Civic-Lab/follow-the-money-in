@@ -102,6 +102,31 @@ will distort `by_contributor_type` aggregation.
 
 ---
 
+## negative-amounts {#negative-amounts}
+
+**Symptom:** A small number of records have `amount < 0` after Amended=1 filtering.
+
+**Years affected:** 2025 observed. Likely all years.
+
+**Root cause:** Indiana uses two different negative-amount patterns:
+
+1. **Data correction triple** — original error (Amended=1) + reversal (Amended=1) + corrected amount (Amended=0).
+   Our Amended=1 filter removes both old records, leaving only the corrected positive amount. No negatives survive.
+
+2. **Genuine refund/rescission pair** — original contribution (Amended=1) + refund record (Amended=0).
+   The refund IS the current valid record; there is no replacement positive. The negative survives the filter correctly.
+   Examples: self-contributions later rescinded, ActBlue chargebacks.
+
+**Current handling:** Negative amounts on Amended=0 records are kept as-is. `validate-output.js`
+warns (not fails) when any are present. They correctly reduce `totals.total_raised`.
+
+**Test coverage:** None yet (low priority given small count — 7 records out of 95K in 2025).
+
+**Risk if ignored:** `contribution_size` classifies negative amounts as `"small"` (amount < 100),
+which is semantically wrong. Frontend display should guard against showing negative sizes.
+
+---
+
 ## newline-in-text-columns
 
 **Symptom:** CSV parsing produces records with unexpected newlines in string fields

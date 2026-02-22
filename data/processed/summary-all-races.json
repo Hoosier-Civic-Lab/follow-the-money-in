@@ -1,47 +1,63 @@
 {
-  "last_updated": "2026-02-21T23:52:20.122Z",
+  "last_updated": "2026-02-22T02:53:00.777Z",
   "totals": {
-    "total_raised": "42691560.51",
-    "total_contributions": 95361,
-    "total_itemized": 0,
-    "total_unitemized": 95361
+    "total_raised": "42676835.84",
+    "total_contributions": 95179,
+    "total_itemized": 92499,
+    "total_unitemized": 2680
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 6327,
+      "total": "7909871.57"
+    },
+    "individual": {
+      "count": 82021,
+      "total": "22514256.07"
+    },
+    "committee": {
+      "count": 4074,
+      "total": "8858054.20"
+    },
     "unitemized": {
-      "count": 95361,
-      "total": "42691560.51"
+      "count": 2680,
+      "total": "2769292.80"
+    },
+    "self": {
+      "count": 77,
+      "total": "625361.20"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 21868,
-      "total": "6122909.26"
+      "count": 21804,
+      "total": "6094784.43"
     },
     "large": {
-      "count": 6873,
-      "total": "14229260.67"
+      "count": 6864,
+      "total": "14199134.77"
     },
     "small": {
-      "count": 65853,
-      "total": "1204133.11"
+      "count": 65747,
+      "total": "1412434.91"
     },
     "mega": {
-      "count": 767,
-      "total": "21135257.47"
+      "count": 764,
+      "total": "20970481.73"
     }
   },
   "by_occupation_category": {
     "other": {
-      "count": 48468,
-      "total": "11581405.91"
+      "count": 48461,
+      "total": "11580863.76"
     },
     "retired": {
-      "count": 747,
+      "count": 743,
       "total": "997455.54"
     },
     "unknown": {
-      "count": 42560,
-      "total": "27404765.55"
+      "count": 42389,
+      "total": "27390583.03"
     },
     "education": {
       "count": 125,
@@ -82,7 +98,7 @@
   },
   "by_state": {
     "46": {
-      "count": 7,
+      "count": 5,
       "total": "438.00"
     },
     "95010": {
@@ -90,8 +106,8 @@
       "total": "2025.00"
     },
     "IN": {
-      "count": 69797,
-      "total": "29172076.90"
+      "count": 69640,
+      "total": "29166368.61"
     },
     "DC": {
       "count": 479,
@@ -102,8 +118,8 @@
       "total": "243022.80"
     },
     "MA": {
-      "count": 1318,
-      "total": "645173.87"
+      "count": 1310,
+      "total": "644712.86"
     },
     "VA": {
       "count": 632,
@@ -114,15 +130,15 @@
       "total": "3245554.03"
     },
     "MO": {
-      "count": 379,
-      "total": "234753.70"
+      "count": 378,
+      "total": "234753.38"
     },
     "PA": {
       "count": 387,
       "total": "132312.79"
     },
     "TX": {
-      "count": 987,
+      "count": 985,
       "total": "404924.45"
     },
     "FL": {
@@ -130,8 +146,8 @@
       "total": "346412.46"
     },
     "unknown": {
-      "count": 2778,
-      "total": "2793570.54"
+      "count": 2766,
+      "total": "2785015.49"
     },
     "TN": {
       "count": 366,

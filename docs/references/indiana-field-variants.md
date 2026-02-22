@@ -28,7 +28,7 @@ Current fallback logic lives in `scripts/process-data.js`.
 | `description` | `Description` | Free text; may contain newlines |
 | `received_by` | `Received_By` | Free text |
 | `file_number` | `FileNumber` | Numeric identifier |
-| `amended` | `Amended` | `"0"` = current/valid record; `"1"` = superseded by a later amendment. Amendment corrections appear as a triple: original entry (Amended=1) + reversal negative (Amended=1) + corrected entry (Amended=0). Filter out Amended=1 rows before processing. |
+| `amended` | `Amended` | `"0"` = current/valid record; `"1"` = superseded. Two patterns exist: (a) **data correction triple**: original (Amended=1) + reversal (Amended=1) + corrected (Amended=0) — all negatives are filtered; (b) **genuine refund pair**: original (Amended=1) + refund negative (Amended=0) — the negative survives as a legitimate current record. See `docs/design-docs/data-quirks.md#negative-amounts`. |
 
 ---
 
