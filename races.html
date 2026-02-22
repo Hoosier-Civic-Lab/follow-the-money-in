@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" class="bg-gray-900 text-gray-100">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Browse Races — Follow the Money IN</title>
+  <script type="module" crossorigin src="/follow-the-money-in/assets/races-DUzJf77T.js"></script>
+  <link rel="modulepreload" crossorigin href="/follow-the-money-in/assets/utils-BsX6Nj1N.js">
+  <link rel="stylesheet" crossorigin href="/follow-the-money-in/assets/utils-9cJJSzgm.css">
+</head>
+<body class="min-h-screen bg-gray-900 text-gray-100 font-sans">
+
+  <!-- Navigation -->
+  <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-14">
+        <a href="index.html" class="text-lg font-bold text-white tracking-tight">
+          Follow the Money IN
+        </a>
+        <div class="hidden md:flex items-center gap-6">
+          <a href="index.html" class="text-gray-300 hover:text-white text-sm transition-colors">Home</a>
+          <a href="candidates.html" class="text-gray-300 hover:text-white text-sm transition-colors">Browse Candidates</a>
+          <a href="races.html" class="text-blue-400 text-sm font-medium">Browse Races</a>
+        </div>
+        <label for="nav-toggle" class="md:hidden cursor-pointer p-2 rounded text-gray-300 hover:text-white">
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current"></span>
+        </label>
+      </div>
+    </div>
+    <input type="checkbox" id="nav-toggle" class="hidden peer" />
+    <div class="hidden peer-checked:block md:hidden bg-gray-800 border-t border-gray-700 px-4 py-3">
+      <a href="index.html" class="block py-2 text-gray-300 hover:text-white text-sm">Home</a>
+      <a href="candidates.html" class="block py-2 text-gray-300 hover:text-white text-sm">Browse Candidates</a>
+      <a href="races.html" class="block py-2 text-blue-400 text-sm">Browse Races</a>
+    </div>
+  </nav>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+    <!-- Error banner -->
+    <div id="error-banner" class="hidden mb-6 p-4 bg-red-900 border border-red-700 rounded-lg text-red-200 text-sm">
+      Failed to load race data. Please check your connection or try again later.
+    </div>
+
+    <div class="mb-6">
+      <h1 class="text-2xl md:text-3xl font-bold text-white mb-2">Browse Races</h1>
+      <p class="text-sm text-gray-400" id="coverage-note">Loading…</p>
+    </div>
+
+    <!-- Empty state (hidden by default) -->
+    <div id="empty-state" class="hidden bg-gray-800 rounded-xl border border-gray-700 p-10 text-center">
+      <p class="text-gray-400 mb-2">No race data available yet.</p>
+      <p class="text-gray-500 text-sm">
+        Race data requires candidate office enrichment. Run
+        <code class="bg-gray-700 px-1 rounded text-xs">npm run fetch:indiana:candidates</code>
+        then re-run the pipeline.
+      </p>
+    </div>
+
+    <!-- Table -->
+    <div id="races-table-container" class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden hidden">
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="border-b border-gray-700">
+              <th class="py-3 px-4 text-left text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="office">
+                Race<span class="sort-indicator text-blue-400"></span>
+              </th>
+              <th class="py-3 px-4 text-left text-gray-400 font-medium">District</th>
+              <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="total_raised">
+                Total Raised<span class="sort-indicator text-blue-400"> ↓</span>
+              </th>
+              <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="total_contributions">
+                Contributions<span class="sort-indicator text-blue-400"></span>
+              </th>
+              <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="candidate_count">
+                Candidates<span class="sort-indicator text-blue-400"></span>
+              </th>
+            </tr>
+          </thead>
+          <tbody id="races-body">
+            <tr><td colspan="5" class="py-10 text-center text-gray-500">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Data note -->
+    <aside class="mt-6 text-xs text-gray-500 max-w-2xl">
+      <strong class="text-gray-400">Data note:</strong>
+      Only candidates enriched with office data from the Indiana Secretary of State appear here.
+      Enrichment covers the current election cycle only.
+    </aside>
+
+  </main>
+
+  <footer class="mt-16 border-t border-gray-800 py-8 text-center text-xs text-gray-600">
+    Data from Indiana Secretary of State &amp; FEC. Updated weekly.
+    <a href="https://github.com/Hoosier-Civic-Lab/follow-the-money-in" class="text-gray-500 hover:text-gray-400 ml-2">
+      Source on GitHub
+    </a>
+  </footer>
+
+</body>
+</html>

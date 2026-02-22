@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en" class="bg-gray-900 text-gray-100">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Race — Follow the Money IN</title>
+  <script type="module" crossorigin src="/follow-the-money-in/assets/race-BDXYUcVi.js"></script>
+  <link rel="modulepreload" crossorigin href="/follow-the-money-in/assets/utils-BsX6Nj1N.js">
+  <link rel="modulepreload" crossorigin href="/follow-the-money-in/assets/chart-helpers-CJo_XXEh.js">
+  <link rel="modulepreload" crossorigin href="/follow-the-money-in/assets/election-calendar-B4ts9Xaq.js">
+  <link rel="stylesheet" crossorigin href="/follow-the-money-in/assets/utils-9cJJSzgm.css">
+</head>
+<body class="min-h-screen bg-gray-900 text-gray-100 font-sans">
+
+  <!-- Navigation -->
+  <nav class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-14">
+        <a href="index.html" class="text-lg font-bold text-white tracking-tight">
+          Follow the Money IN
+        </a>
+        <div class="hidden md:flex items-center gap-6">
+          <a href="index.html" class="text-gray-300 hover:text-white text-sm transition-colors">Home</a>
+          <a href="candidates.html" class="text-gray-300 hover:text-white text-sm transition-colors">Browse Candidates</a>
+          <a href="races.html" class="text-gray-300 hover:text-white text-sm transition-colors">Browse Races</a>
+        </div>
+        <label for="nav-toggle" class="md:hidden cursor-pointer p-2 rounded text-gray-300 hover:text-white">
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current mb-1"></span>
+          <span class="block w-5 h-0.5 bg-current"></span>
+        </label>
+      </div>
+    </div>
+    <input type="checkbox" id="nav-toggle" class="hidden peer" />
+    <div class="hidden peer-checked:block md:hidden bg-gray-800 border-t border-gray-700 px-4 py-3">
+      <a href="index.html" class="block py-2 text-gray-300 hover:text-white text-sm">Home</a>
+      <a href="candidates.html" class="block py-2 text-gray-300 hover:text-white text-sm">Browse Candidates</a>
+      <a href="races.html" class="block py-2 text-gray-300 hover:text-white text-sm">Browse Races</a>
+    </div>
+  </nav>
+
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+    <!-- Error banner -->
+    <div id="error-banner" class="hidden mb-6 p-4 bg-red-900 border border-red-700 rounded-lg text-red-200 text-sm">
+      Failed to load race data. The race may not exist or data may not be available.
+    </div>
+
+    <!-- Back link -->
+    <div class="mb-4">
+      <a href="races.html" class="text-sm text-gray-400 hover:text-gray-300 transition-colors">
+        ← Back to races
+      </a>
+    </div>
+
+    <!-- Race header -->
+    <div class="mb-6 flex flex-wrap items-start justify-between gap-4">
+      <div>
+        <h1 id="race-title" class="text-2xl md:text-3xl font-bold text-white mb-1">Loading…</h1>
+        <div id="race-badges" class="flex flex-wrap gap-2 mt-2"></div>
+      </div>
+
+      <!-- Phase toggle -->
+      <div class="flex rounded-lg overflow-hidden border border-gray-600 text-xs self-start mt-1">
+        <button data-phase="all"     class="phase-btn px-3 py-1.5 bg-blue-600 text-white">Full Cycle</button>
+        <button data-phase="primary" class="phase-btn px-3 py-1.5 bg-gray-700 text-gray-300 hover:bg-gray-600">Primary</button>
+        <button data-phase="general" class="phase-btn px-3 py-1.5 bg-gray-700 text-gray-300 hover:bg-gray-600">General</button>
+      </div>
+    </div>
+
+    <!-- Race totals for selected phase -->
+    <section class="grid grid-cols-2 gap-4 mb-8" aria-label="Race totals">
+      <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+        <p class="text-xs text-gray-400 uppercase tracking-wide mb-1">Total Raised</p>
+        <p class="text-2xl font-bold text-green-400" id="stat-total-raised">—</p>
+      </div>
+      <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+        <p class="text-xs text-gray-400 uppercase tracking-wide mb-1">Contributions</p>
+        <p class="text-2xl font-bold text-blue-400" id="stat-total-contributions">—</p>
+      </div>
+    </section>
+
+    <!-- Candidate comparison cards -->
+    <section class="mb-10">
+      <h2 class="text-sm font-semibold text-gray-300 uppercase tracking-wide mb-4">Candidates</h2>
+      <div id="candidate-cards" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </section>
+
+    <!-- Timeline chart -->
+    <section class="bg-gray-800 rounded-xl p-5 border border-gray-700 mb-10">
+      <h2 class="text-sm font-semibold text-gray-300 uppercase tracking-wide mb-4">Monthly Fundraising by Candidate</h2>
+      <div class="h-64 md:h-80">
+        <canvas id="chart-timeline"></canvas>
+      </div>
+    </section>
+
+    <!-- Race-level charts -->
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
+      <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+        <h2 class="text-sm font-semibold text-gray-300 uppercase tracking-wide mb-4">By Donor Type (Race Total)</h2>
+        <div class="h-48 md:h-64">
+          <canvas id="chart-contributor-type"></canvas>
+        </div>
+      </div>
+      <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+        <h2 class="text-sm font-semibold text-gray-300 uppercase tracking-wide mb-4">By Contribution Size (Race Total)</h2>
+        <div class="h-48 md:h-64">
+          <canvas id="chart-contribution-size"></canvas>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="mt-16 border-t border-gray-800 py-8 text-center text-xs text-gray-600">
+    Data from Indiana Secretary of State &amp; FEC. Updated weekly.
+    <a href="https://github.com/Hoosier-Civic-Lab/follow-the-money-in" class="text-gray-500 hover:text-gray-400 ml-2">
+      Source on GitHub
+    </a>
+  </footer>
+
+</body>
+</html>
