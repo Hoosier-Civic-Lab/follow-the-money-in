@@ -32,6 +32,7 @@ npm run aggregate                 # Generate summary statistics (enriches office
 npm run metadata                  # Update timestamps and metadata
 npm run update:all                # Full pipeline: fetch → fetch:indiana:candidates → fetch:fec → process → aggregate → metadata
 npm run build:reference:indiana   # Parse historical election CSVs → data/reference/indiana-candidates-historical.json
+npm run suggest:aliases           # Suggest name-aliases.json entries from last-name matching; review ambiguous cases manually
 npm run validate:output    # Validate data/processed/ structure and quality
 npm run lint               # ESLint on scripts/
 npm run lint:conventions   # Custom structural checks (require(), float arithmetic, file size)

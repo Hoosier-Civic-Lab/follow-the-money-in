@@ -3,53 +3,69 @@
   "office": "STATE SENATOR",
   "district": "State Senator, District 39",
   "totals": {
-    "total_raised": "11981.13",
-    "total_contributions": 32
+    "total_raised": "244213.67",
+    "total_contributions": 75
   },
   "by_contributor_type": {
     "individual": {
-      "count": 32,
-      "total": "11981.13"
+      "count": 71,
+      "total": "239839.67"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "1374.00"
+    },
+    "corporate": {
+      "count": 2,
+      "total": "2500.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_contribution_size": {
+    "mega": {
+      "count": 5,
+      "total": "200000.00"
+    },
     "medium": {
-      "count": 19,
-      "total": "4382.08"
+      "count": 41,
+      "total": "12029.06"
     },
     "large": {
-      "count": 5,
-      "total": "7182.41"
+      "count": 15,
+      "total": "31556.41"
     },
     "small": {
-      "count": 8,
-      "total": "416.64"
+      "count": 14,
+      "total": "628.20"
     }
   },
   "by_month": {
+    "2025-12": {
+      "count": 17,
+      "total": "137471.97"
+    },
+    "2025-11": {
+      "count": 29,
+      "total": "95013.94"
+    },
+    "2025-10": {
+      "count": 5,
+      "total": "1220.83"
+    },
     "2025-09": {
-      "count": 4,
-      "total": "1654.10"
+      "count": 7,
+      "total": "4902.10"
     },
     "2025-08": {
       "count": 7,
       "total": "1359.14"
     },
-    "2025-12": {
-      "count": 6,
-      "total": "3834.50"
-    },
     "2025-07": {
       "count": 4,
       "total": "1416.67"
-    },
-    "2025-10": {
-      "count": 2,
-      "total": "252.05"
-    },
-    "2025-11": {
-      "count": 3,
-      "total": "635.65"
     },
     "2025-06": {
       "count": 6,
@@ -57,6 +73,48 @@
     }
   },
   "candidates": [
+    {
+      "id": "jeffrey-roger-ellington",
+      "name": "Jeffrey Roger Ellington",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "123193.73",
+        "total_contributions": 4
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 4,
+          "total": "123193.73"
+        }
+      }
+    },
+    {
+      "id": "kristi-marie-risk",
+      "name": "Kristi Marie Risk",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "109038.81",
+        "total_contributions": 39
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 7,
+          "total": "10443.74"
+        },
+        "2025-11": {
+          "count": 26,
+          "total": "94378.29"
+        },
+        "2025-10": {
+          "count": 3,
+          "total": "968.78"
+        },
+        "2025-09": {
+          "count": 3,
+          "total": "3248.00"
+        }
+      }
+    },
     {
       "id": "tanner-bouchie",
       "name": "Tanner Bouchie",

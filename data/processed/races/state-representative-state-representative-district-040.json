@@ -3,28 +3,150 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 040",
   "totals": {
-    "total_raised": "250.00",
-    "total_contributions": 1
+    "total_raised": "603265.64",
+    "total_contributions": 294
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 65,
+      "total": "31290.82"
+    },
+    "individual": {
+      "count": 195,
+      "total": "28027.40"
+    },
     "self": {
-      "count": 1,
-      "total": "250.00"
+      "count": 3,
+      "total": "500250.00"
+    },
+    "unitemized": {
+      "count": 3,
+      "total": "2361.34"
+    },
+    "committee": {
+      "count": 28,
+      "total": "41336.08"
     }
   },
   "by_contribution_size": {
+    "small": {
+      "count": 165,
+      "total": "3020.34"
+    },
+    "large": {
+      "count": 41,
+      "total": "71997.82"
+    },
     "medium": {
-      "count": 1,
-      "total": "250.00"
+      "count": 86,
+      "total": "28247.48"
+    },
+    "mega": {
+      "count": 2,
+      "total": "500000.00"
     }
   },
   "by_month": {
+    "2025-12": {
+      "count": 172,
+      "total": "418624.58"
+    },
+    "2025-09": {
+      "count": 57,
+      "total": "39534.83"
+    },
+    "2025-10": {
+      "count": 13,
+      "total": "22113.66"
+    },
     "2025-11": {
-      "count": 1,
-      "total": "250.00"
+      "count": 26,
+      "total": "1158.17"
+    },
+    "2025-08": {
+      "count": 6,
+      "total": "101234.40"
+    },
+    "2025-05": {
+      "count": 12,
+      "total": "9600.00"
+    },
+    "2025-01": {
+      "count": 3,
+      "total": "2500.00"
+    },
+    "2025-07": {
+      "count": 5,
+      "total": "8500.00"
     }
   },
   "candidates": [
+    {
+      "id": "siddharth-mahant",
+      "name": "Siddharth Mahant",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "517815.40",
+        "total_contributions": 206
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 157,
+          "total": "407938.50"
+        },
+        "2025-09": {
+          "count": 16,
+          "total": "5370.67"
+        },
+        "2025-10": {
+          "count": 2,
+          "total": "2363.66"
+        },
+        "2025-11": {
+          "count": 25,
+          "total": "908.17"
+        },
+        "2025-08": {
+          "count": 6,
+          "total": "101234.40"
+        }
+      }
+    },
+    {
+      "id": "gregory-earl-steuerwald",
+      "name": "Gregory Earl Steuerwald",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "85200.24",
+        "total_contributions": 87
+      },
+      "by_month": {
+        "2025-09": {
+          "count": 41,
+          "total": "34164.16"
+        },
+        "2025-10": {
+          "count": 11,
+          "total": "19750.00"
+        },
+        "2025-05": {
+          "count": 12,
+          "total": "9600.00"
+        },
+        "2025-01": {
+          "count": 3,
+          "total": "2500.00"
+        },
+        "2025-12": {
+          "count": 15,
+          "total": "10686.08"
+        },
+        "2025-07": {
+          "count": 5,
+          "total": "8500.00"
+        }
+      }
+    },
     {
       "id": "william-colteryahn",
       "name": "William Colteryahn",

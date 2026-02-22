@@ -18,6 +18,7 @@
     "lint": "eslint scripts/",
     "lint:conventions": "node scripts/lint/check-conventions.js",
     "build:reference:indiana": "node scripts/build-reference-indiana.js",
+    "suggest:aliases": "node scripts/suggest-aliases.js",
     "validate:output": "node scripts/validate-output.js",
     "dev": "vite",
     "build": "vite build",

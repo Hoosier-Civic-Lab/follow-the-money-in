@@ -139,12 +139,24 @@ async function generateCandidateSummaries(allContributions) {
     }
     console.log(`  Candidate lookup: ${Object.keys(candidateLookup).length} entries total`);
 
+    // Load name aliases — maps contribution name → historical name, independently optional.
+    // Run "npm run suggest:aliases" to auto-populate from last-name matching.
+    let nameAliases = {};
+    try {
+        nameAliases = JSON.parse(await readFile('data/manual/name-aliases.json', 'utf-8'));
+        console.log(`  Loaded name aliases: ${Object.keys(nameAliases).length} entries`);
+    } catch {
+        console.log(`  Skipped name aliases (not available)`);
+    }
+
     function lookupCandidate(name) {
         const normalized = name.toUpperCase().trim().replace(/\s+/g, ' ');
-        if (candidateLookup[normalized]) return candidateLookup[normalized];
-        // Try "Last, First" → "First Last" rearrangement
-        if (normalized.includes(',')) {
-            const [last, ...rest] = normalized.split(',');
+        // Resolve alias first — maps contribution name variant to historical lookup key
+        const lookupKey = nameAliases[normalized] || normalized;
+        if (candidateLookup[lookupKey]) return candidateLookup[lookupKey];
+        // Try "Last, First" → "First Last" rearrangement on the (possibly aliased) key
+        if (lookupKey.includes(',')) {
+            const [last, ...rest] = lookupKey.split(',');
             const rearranged = `${rest.join(',').trim()} ${last.trim()}`;
             return candidateLookup[rearranged] || null;
         }
