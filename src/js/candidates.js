@@ -95,7 +95,7 @@ function renderTable(items) {
     if (!tbody) return;
 
     if (items.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="6" class="py-10 text-center text-gray-500">No candidates match your search.</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="7" class="py-10 text-center text-gray-500">No candidates match your search.</td></tr>`;
         return;
     }
 
@@ -111,6 +111,7 @@ function renderTable(items) {
             <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(c.total_raised)}</td>
             <td class="py-3 px-4 text-left text-gray-300">${c.office ? escapeHtml(c.office) : '<span class="text-gray-600">—</span>'}</td>
             <td class="py-3 px-4 text-left text-gray-300">${c.district ? escapeHtml(c.district) : '<span class="text-gray-600">—</span>'}</td>
+            <td class="py-3 px-4 text-left">${partyBadge(c.party)}</td>
             <td class="py-3 px-4 text-right text-gray-300">${c.total_contributions.toLocaleString()}</td>
             <td class="py-3 px-4 text-center">
                 <span class="inline-block px-2 py-0.5 rounded text-xs uppercase tracking-wide
@@ -163,6 +164,16 @@ function escapeHtml(str) {
 
 function titleCase(str) {
     return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+}
+
+function partyBadge(party) {
+    if (!party) return '<span class="text-gray-600">—</span>';
+    const cls = party.toLowerCase().startsWith('rep')
+        ? 'bg-red-900 text-red-300'
+        : party.toLowerCase().startsWith('dem')
+            ? 'bg-blue-900 text-blue-300'
+            : 'bg-gray-700 text-gray-300';
+    return `<span class="inline-block px-2 py-0.5 rounded text-xs ${cls}">${escapeHtml(party)}</span>`;
 }
 
 init();
