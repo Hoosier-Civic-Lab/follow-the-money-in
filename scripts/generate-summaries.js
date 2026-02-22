@@ -20,7 +20,7 @@ async function generateSummaries() {
             total_raised: allContributions
                 .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
                 .toFixed(2),
-            total_contributors: allContributions.length,
+            total_contributions: allContributions.length,
             total_itemized: allContributions.filter(c => c.contributor_type !== 'unitemized').length,
             total_unitemized: allContributions.filter(c => c.contributor_type === 'unitemized').length
         },
@@ -88,7 +88,7 @@ async function generateSummaries() {
     console.log(`✅ Saved summary to ${summaryPath}`);
     console.log(`\nSummary Stats:`);
     console.log(`  Total Raised: $${summary.totals.total_raised.toLocaleString()}`);
-    console.log(`  Total Contributors: ${summary.totals.total_contributors.toLocaleString()}`);
+    console.log(`  Total Contributions: ${summary.totals.total_contributions.toLocaleString()}`);
     console.log(`  Itemized: ${summary.totals.total_itemized.toLocaleString()}`);
     console.log(`  Unitemized: ${summary.totals.total_unitemized.toLocaleString()}`);
     

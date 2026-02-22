@@ -81,7 +81,9 @@ async function validateContributions(contributions) {
   for (const record of contributions) {
     if (!VALID_CONTRIBUTOR_TYPES.has(record.contributor_type)) invalidType++;
     if (!VALID_CONTRIBUTION_SIZES.has(record.contribution_size)) invalidSize++;
-    if (typeof record.amount !== 'number' || record.amount < 0) negativeAmount++;
+    if (typeof record.amount !== 'number' || record.amount < 0) {
+      negativeAmount++;
+    }
     if (!record.date) nullDate++;
     if (record.address_state) stateValues.add(record.address_state);
     if (record.contributor_type === 'unitemized') unitemizedCount++;
@@ -133,12 +135,12 @@ async function validateSummary(summary, contributions) {
 
   // totals.total_contributors matches contributions length
   if (contributions && Array.isArray(contributions)) {
-    const declared = summary?.totals?.total_contributors;
+    const declared = summary?.totals?.total_contributions;
     const actual = contributions.length;
     if (declared === actual) {
       pass(`summary.totals.total_contributors (${declared}) matches all-contributions.json length`);
     } else {
-      fail(`summary.totals.total_contributors (${declared}) !== all-contributions.json length (${actual})`, 'docs/design-docs/data-quirks.md');
+      fail(`summary.totals.total_contributions (${declared}) !== all-contributions.json length (${actual})`, 'docs/design-docs/data-quirks.md');
     }
   }
 

@@ -27,7 +27,7 @@ function extractCandidateName(row) {
 }
 
 function extractContributorName(row) {
-  return row.ContributorName || row.Contributor || null;
+  return row.ContributorName || row.Contributor || row.Name || null;
 }
 
 describe('field-variants: contribution date', () => {
@@ -93,6 +93,11 @@ describe('field-variants: contributor name', () => {
 
   it('falls back to Contributor', () => {
     assert.equal(extractContributorName({ Contributor: 'Bob Jones' }), 'Bob Jones');
+  });
+
+  // 2025 Indiana CSV uses "Name" as the column header
+  it('falls back to Name (2025 CSV format)', () => {
+    assert.equal(extractContributorName({ Name: 'Allied Automation Inc.' }), 'Allied Automation Inc.');
   });
 
   it('returns null when neither is present (triggers unitemized classification)', () => {

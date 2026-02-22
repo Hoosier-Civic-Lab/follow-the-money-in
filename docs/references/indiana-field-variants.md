@@ -28,7 +28,7 @@ Current fallback logic lives in `scripts/process-data.js`.
 | `description` | `Description` | Free text; may contain newlines |
 | `received_by` | `Received_By` | Free text |
 | `file_number` | `FileNumber` | Numeric identifier |
-| `amended` | `Amended` | Mostly `"0"`; meaning unclear |
+| `amended` | `Amended` | `"0"` = current/valid record; `"1"` = superseded by a later amendment. Amendment corrections appear as a triple: original entry (Amended=1) + reversal negative (Amended=1) + corrected entry (Amended=0). Filter out Amended=1 rows before processing. |
 
 ---
 

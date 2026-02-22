@@ -14,15 +14,19 @@ async function processIndianaContributions(filepath) {
     
     const rows = await parseCSVFile(filepath);
     console.log(`  Loaded ${rows.length} rows`);
-    
-    const processed = rows.map((row, index) => {
+
+    // Exclude amended/superseded records (Amended=1 marks the old entry in a correction pair)
+    const currentRows = rows.filter(row => row.Amended !== '1');
+    console.log(`  ${rows.length - currentRows.length} amended records excluded, ${currentRows.length} current records retained`);
+
+    const processed = currentRows.map((row, index) => {
     // TODO: Adjust field names based on actual CSV structure from Day 2
     const contribution = {
         id: `contrib-${Date.now()}-${index}`,
         date: row.Date || row.ContributionDate,
         amount: parseFloat(row.Amount || row.ContributionAmount || 0),
         candidate_name: row.CandidateName || row.Candidate,
-        contributor_name: row.ContributorName || row.Contributor,
+        contributor_name: row.ContributorName || row.Contributor || row.Name,
         contributor_type: classifyContributor(row),
         contribution_size: classifyContributionSize(parseFloat(row.Amount || 0)),
         occupation: row.Occupation || null,
@@ -36,7 +40,7 @@ async function processIndianaContributions(filepath) {
     return contribution;
     });
     
-    console.log(`  Processed ${processed.length} contributions`);
+    console.log(`  Processed ${processed.length} current contributions`);
     return processed;
 }
 

@@ -4,18 +4,22 @@
 * @returns {string} - individual|corporate|committee|self|unitemized
 */
 export function classifyContributor(row) {
+    // Normalize contributor name across header variants (Name, ContributorName, Contributor)
+    const contributorName = row.ContributorName || row.Contributor || row.Name;
+
     // Handle unitemized contributions
-    if (!row.ContributorName || row.ContributorName.toLowerCase().includes('unitemized')) {
+    if (!contributorName || contributorName.toLowerCase().includes('unitemized')) {
     return 'unitemized';
     }
-    
+
     // Check if self-contribution
-    if (row.ContributorName === row.CandidateName) {
+    const candidateName = row.CandidateName || row.Candidate;
+    if (contributorName === candidateName) {
     return 'self';
     }
-    
-    // Check entity type field (if available)
-    const entityType = (row.EntityType || '').toLowerCase();
+
+    // Check entity type field (ContributorType in 2025+, EntityType in older exports)
+    const entityType = (row.EntityType || row.ContributorType || '').toLowerCase();
     if (entityType === 'corporation' || entityType === 'company') {
     return 'corporate';
     }
@@ -27,7 +31,7 @@ export function classifyContributor(row) {
     }
     
     // Pattern matching on name
-    const name = row.ContributorName.toLowerCase();
+    const name = contributorName.toLowerCase();
     
     // Corporate indicators
     const corporatePatterns = [
