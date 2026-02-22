@@ -33,6 +33,10 @@ npm run validate:output    # Validate data/processed/ structure and quality
 npm run lint               # ESLint on scripts/
 npm run lint:conventions   # Custom structural checks (require(), float arithmetic, file size)
 npm test                   # Run all Node.js tests (unit + integration)
+npm run dev                # Start Vite dev server (serves src/ + proxies data/processed/)
+npm run build              # Build frontend to dist/
+npm run preview:local      # Build + copy data/processed/ into dist/ + preview locally
+npm run preview            # Preview an already-built dist/ (requires data already copied)
 ```
 
 ## Conventions (hard rules)
@@ -51,10 +55,13 @@ data/raw/        ← gitignored, not committed
        ↓  (scripts/process-data.js)
        ↓  (scripts/generate-summaries.js)
        ↓  (scripts/update-metadata.js)
-data/processed/  ← committed, served from GitHub Pages
+data/processed/  ← committed to Git
+src/             ← Vite frontend (HTML/JS/CSS)
+       ↓  (npm run build → vite build, then cp data/processed dist/data/processed)
+dist/            ← built frontend + data, deployed to GitHub Pages
 ```
 
-CI runs the full pipeline every Sunday at 2 AM UTC (`.github/workflows/update-data.yml`).
+CI (`.github/workflows/update-data.yml`) runs the full pipeline every Sunday at 2 AM UTC, then builds + deploys to GitHub Pages via `peaceiris/actions-gh-pages`. PR CI (`.github/workflows/ci.yml`) runs lint + tests + build on every push.
 
 ## Environment
 
