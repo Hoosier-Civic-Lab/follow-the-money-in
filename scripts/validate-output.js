@@ -84,11 +84,67 @@ async function validateCandidateFiles() {
     const jsonFiles = files.filter(f => f.endsWith('.json'));
     if (jsonFiles.length > 0) {
       pass(`data/processed/candidates/ has ${jsonFiles.length} per-candidate file(s)`);
+
+      // Check that at least one per-candidate file has by_month key
+      const sampleFile = jsonFiles[0];
+      try {
+        const sampleData = JSON.parse(await readFile(path.join(candidatesDir, sampleFile), 'utf-8'));
+        if (sampleData.by_month !== undefined) {
+          pass('Per-candidate files include by_month key');
+        } else {
+          fail('Per-candidate files missing by_month key — re-run npm run aggregate', 'scripts/generate-summaries.js');
+        }
+      } catch {
+        warn(`Could not read sample candidate file: ${sampleFile}`);
+      }
     } else {
       fail('data/processed/candidates/ exists but has no .json files');
     }
   } catch {
     fail('data/processed/candidates/ directory missing', 'scripts/generate-summaries.js');
+  }
+}
+
+async function validateRaceFiles() {
+  const listPath = path.join(PROCESSED_DIR, 'races-list.json');
+  if (await fileExists(listPath)) {
+    pass('races-list.json present');
+    try {
+      const list = JSON.parse(await readFile(listPath, 'utf-8'));
+      if (!Array.isArray(list)) {
+        fail('races-list.json must be an array');
+      } else if (list.length === 0) {
+        warn('races-list.json is empty (no enriched candidates — run fetch:indiana:candidates to populate)');
+      } else {
+        pass(`races-list.json has ${list.length} entries`);
+        const sample = list[0];
+        const requiredFields = ['id', 'office', 'total_raised', 'total_contributions', 'candidate_count'];
+        const missing = requiredFields.filter(f => sample[f] === undefined);
+        if (missing.length === 0) {
+          pass('races-list.json entries have required fields');
+        } else {
+          fail(`races-list.json entries missing fields: ${missing.join(', ')}`);
+        }
+      }
+    } catch {
+      fail('races-list.json is not valid JSON');
+    }
+  } else {
+    fail('Missing races-list.json', 'scripts/generate-summaries.js');
+  }
+
+  const racesDir = path.join(PROCESSED_DIR, 'races');
+  try {
+    const files = await readdir(racesDir);
+    const jsonFiles = files.filter(f => f.endsWith('.json'));
+    if (jsonFiles.length > 0) {
+      pass(`data/processed/races/ has ${jsonFiles.length} per-race file(s)`);
+    } else {
+      // Empty is OK if races-list is also empty; just warn
+      warn('data/processed/races/ exists but has no .json files (expected if no enriched candidates)');
+    }
+  } catch {
+    fail('data/processed/races/ directory missing', 'scripts/generate-summaries.js');
   }
 }
 
@@ -244,6 +300,9 @@ async function main() {
 
   console.log('\n--- candidates-list.json + candidates/ ---');
   await validateCandidateFiles();
+
+  console.log('\n--- races-list.json + races/ ---');
+  await validateRaceFiles();
 
   console.log(`\n${'─'.repeat(50)}`);
   if (failures === 0) {

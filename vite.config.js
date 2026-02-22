@@ -41,5 +41,14 @@ export default defineConfig({
     build: {
         outDir: '../dist',
         emptyOutDir: true,
+        rollupOptions: {
+            input: {
+                index: path.resolve(__dirname, 'src/index.html'),
+                candidates: path.resolve(__dirname, 'src/candidates.html'),
+                candidate: path.resolve(__dirname, 'src/candidate.html'),
+                races: path.resolve(__dirname, 'src/races.html'),
+                race: path.resolve(__dirname, 'src/race.html'),
+            },
+        },
     },
 });

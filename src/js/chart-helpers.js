@@ -85,6 +85,64 @@ export function createDonutChart(canvas, { labels, values }, title) {
 }
 
 /**
+ * Create a timeline (line) chart for monthly contribution totals.
+ * Supports multiple datasets (one per candidate for race pages).
+ *
+ * @param {HTMLCanvasElement} canvas
+ * @param {{ labels: string[], datasets: Array<{ label: string, data: number[], color?: string }> }} data
+ */
+export function createTimelineChart(canvas, { labels, datasets }) {
+    const chartDatasets = datasets.map((ds, i) => ({
+        label: ds.label,
+        data: ds.data,
+        borderColor: ds.color || PALETTE[i % PALETTE.length],
+        backgroundColor: (ds.color || PALETTE[i % PALETTE.length]) + '33',
+        fill: datasets.length === 1,
+        tension: 0.3,
+        pointRadius: 3,
+        pointHoverRadius: 5,
+    }));
+
+    return new Chart(canvas, {
+        type: 'line',
+        data: { labels, datasets: chartDatasets },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { mode: 'index', intersect: false },
+            plugins: {
+                legend: {
+                    display: datasets.length > 1,
+                    labels: { color: '#D1D5DB', font: { size: 12 } },
+                },
+                tooltip: {
+                    callbacks: {
+                        label(ctx) {
+                            const val = ctx.parsed.y;
+                            return ` ${ctx.dataset.label}: $${val.toLocaleString()}`;
+                        },
+                    },
+                },
+            },
+            scales: {
+                x: {
+                    ticks: { color: '#9CA3AF', maxRotation: 45 },
+                    grid: { color: '#374151' },
+                },
+                y: {
+                    ticks: {
+                        color: '#9CA3AF',
+                        callback(val) { return `$${(val / 1000).toFixed(0)}K`; },
+                    },
+                    grid: { color: '#374151' },
+                    beginAtZero: true,
+                },
+            },
+        },
+    });
+}
+
+/**
  * Create a horizontal bar chart.
  * @param {HTMLCanvasElement} canvas
  * @param {{ labels: string[], values: number[], label: string }} data

@@ -1,0 +1,80 @@
+{
+  "id": "state-representative-state-representative-district-017",
+  "office": "STATE REPRESENTATIVE",
+  "district": "State Representative, District 017",
+  "totals": {
+    "total_raised": "12450.00",
+    "total_contributions": 23
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 7,
+      "total": "3000.00"
+    },
+    "individual": {
+      "count": 4,
+      "total": "1350.00"
+    },
+    "committee": {
+      "count": 12,
+      "total": "8100.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 18,
+      "total": "6950.00"
+    },
+    "large": {
+      "count": 5,
+      "total": "5500.00"
+    }
+  },
+  "by_month": {
+    "2025-06": {
+      "count": 17,
+      "total": "8400.00"
+    },
+    "2025-11": {
+      "count": 3,
+      "total": "1800.00"
+    },
+    "2025-08": {
+      "count": 2,
+      "total": "1250.00"
+    },
+    "2025-07": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "jack-jordan",
+      "name": "Jack Jordan",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "12450.00",
+        "total_contributions": 23
+      },
+      "by_month": {
+        "2025-06": {
+          "count": 17,
+          "total": "8400.00"
+        },
+        "2025-11": {
+          "count": 3,
+          "total": "1800.00"
+        },
+        "2025-08": {
+          "count": 2,
+          "total": "1250.00"
+        },
+        "2025-07": {
+          "count": 1,
+          "total": "1000.00"
+        }
+      }
+    }
+  ]
+}

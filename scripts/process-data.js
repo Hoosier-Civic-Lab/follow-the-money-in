@@ -4,6 +4,7 @@ import { parseOccupation } from './utils/occupation-parser.js';
 import { writeFile, mkdir } from 'fs/promises';
 import { readdir } from 'fs/promises';
 import path from 'path';
+import Decimal from 'decimal.js';
 
 const RAW_DIR = 'data/raw';
 const PROCESSED_DIR = 'data/processed';
@@ -83,7 +84,7 @@ async function processData() {
     // Generate basic stats
     const stats = {
     total_contributions: allContributions.length,
-    total_amount: allContributions.reduce((sum, c) => sum + c.amount, 0),
+    total_amount: allContributions.reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0)).toNumber(),
     by_type: {},
     by_size: {},
     by_occupation: {}

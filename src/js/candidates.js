@@ -99,10 +99,14 @@ function renderTable(items) {
         return;
     }
 
+    const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
     tbody.innerHTML = items.map(c => `
         <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
             <td class="py-3 px-4">
-                <span class="font-medium text-gray-100">${escapeHtml(titleCase(c.name))}</span>
+                <a href="${BASE}/candidate.html?id=${encodeURIComponent(c.id)}"
+                   class="font-medium text-blue-400 hover:text-blue-300 transition-colors">
+                    ${escapeHtml(titleCase(c.name))}
+                </a>
             </td>
             <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(c.total_raised)}</td>
             <td class="py-3 px-4 text-left text-gray-300">${c.office ? escapeHtml(c.office) : '<span class="text-gray-600">—</span>'}</td>

@@ -91,11 +91,12 @@ function renderTop10Table(candidatesList) {
     if (!tbody) return;
 
     const top10 = candidatesList.slice(0, 10);
+    const BASE = import.meta.env.BASE_URL.replace(/\/$/, '');
     tbody.innerHTML = top10.map((c, i) => `
         <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
             <td class="py-3 px-4 text-gray-400 text-sm">${i + 1}</td>
             <td class="py-3 px-4">
-                <a href="candidates.html#${c.id}" class="text-blue-400 hover:text-blue-300 font-medium">
+                <a href="${BASE}/candidate.html?id=${encodeURIComponent(c.id)}" class="text-blue-400 hover:text-blue-300 font-medium">
                     ${escapeHtml(titleCase(c.name))}
                 </a>
             </td>

@@ -105,7 +105,10 @@ async function generateSummaries() {
     console.log(`  Unitemized: ${summary.totals.total_unitemized.toLocaleString()}`);
 
     // Generate candidate-level summaries
-    await generateCandidateSummaries(allContributions);
+    const candidatesList = await generateCandidateSummaries(allContributions);
+
+    // Generate race-level summaries (enriched candidates only)
+    await generateRaceSummaries(allContributions, candidatesList);
 
     return summary;
 }
@@ -161,6 +164,7 @@ async function generateCandidateSummaries(allContributions) {
         // Build per-candidate aggregates matching summary-all-races.json shape
         const byType = {};
         const bySize = {};
+        const byMonth = {};
         for (const c of contribs) {
             const amount = new Decimal(c.amount);
 
@@ -173,11 +177,20 @@ async function generateCandidateSummaries(allContributions) {
             if (!bySize[size]) bySize[size] = { count: 0, total: new Decimal(0) };
             bySize[size].count++;
             bySize[size].total = bySize[size].total.plus(amount);
+
+            // Group by YYYY-MM for timeline chart
+            const ym = c.date ? c.date.slice(0, 7) : null;
+            if (ym) {
+                if (!byMonth[ym]) byMonth[ym] = { count: 0, total: new Decimal(0) };
+                byMonth[ym].count++;
+                byMonth[ym].total = byMonth[ym].total.plus(amount);
+            }
         }
 
         // Serialize Decimal totals
         Object.values(byType).forEach(obj => { obj.total = obj.total.toFixed(2); });
         Object.values(bySize).forEach(obj => { obj.total = obj.total.toFixed(2); });
+        Object.values(byMonth).forEach(obj => { obj.total = obj.total.toFixed(2); });
 
         const source = contribs[0]?.source || 'indiana';
         const info = lookupCandidate(name);
@@ -198,6 +211,7 @@ async function generateCandidateSummaries(allContributions) {
             },
             by_contributor_type: byType,
             by_contribution_size: bySize,
+            by_month: byMonth,
             contributions: contribs,
         };
 
@@ -230,6 +244,174 @@ async function generateCandidateSummaries(allContributions) {
 
     console.log(`✅ Saved candidates-list.json (${candidatesList.length} candidates)`);
     console.log(`✅ Saved ${candidatesList.length} per-candidate files to ${candidatesDir}`);
+
+    return candidatesList;
+}
+
+async function generateRaceSummaries(allContributions, candidatesList) {
+    console.log('\nGenerating race summaries...');
+
+    // Only process enriched candidates (those with office data)
+    const enrichedCandidates = candidatesList.filter(c => c.office !== null);
+    if (enrichedCandidates.length === 0) {
+        console.log('  No enriched candidates — skipping race summaries');
+        const racesDir = path.join(PROCESSED_DIR, 'races');
+        await mkdir(racesDir, { recursive: true });
+        await writeFile(path.join(PROCESSED_DIR, 'races-list.json'), JSON.stringify([], null, 2));
+        console.log('✅ Saved empty races-list.json (no enriched candidates)');
+        return;
+    }
+
+    // Build a set of candidate names for each race, keyed by race ID
+    // Race key = slugify(office) + (district ? '-' + slugify(district) : '')
+    const raceMap = new Map();
+
+    for (const candidate of enrichedCandidates) {
+        const officeSlug = slugify(candidate.office);
+        const raceId = candidate.district
+            ? `${officeSlug}-${slugify(candidate.district)}`
+            : officeSlug;
+
+        if (!raceMap.has(raceId)) {
+            raceMap.set(raceId, {
+                id: raceId,
+                office: candidate.office,
+                district: candidate.district || null,
+                candidateNames: new Set(),
+            });
+        }
+        raceMap.get(raceId).candidateNames.add(candidate.name);
+    }
+
+    // Index contributions by candidate name for fast lookup
+    const contribsByCandidate = new Map();
+    for (const contrib of allContributions) {
+        if (!contrib.candidate_name) continue;
+        if (!contribsByCandidate.has(contrib.candidate_name)) {
+            contribsByCandidate.set(contrib.candidate_name, []);
+        }
+        contribsByCandidate.get(contrib.candidate_name).push(contrib);
+    }
+
+    const racesDir = path.join(PROCESSED_DIR, 'races');
+    await mkdir(racesDir, { recursive: true });
+
+    const racesList = [];
+
+    for (const [raceId, raceInfo] of raceMap) {
+        // Aggregate all contributions across all candidates in this race
+        const allRaceContribs = [];
+        const candidateDetails = [];
+
+        for (const candidateName of raceInfo.candidateNames) {
+            const contribs = contribsByCandidate.get(candidateName) || [];
+            allRaceContribs.push(...contribs);
+
+            // Per-candidate summary within the race
+            const totalRaised = contribs
+                .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
+                .toFixed(2);
+
+            const byMonth = {};
+            for (const c of contribs) {
+                const ym = c.date ? c.date.slice(0, 7) : null;
+                if (ym) {
+                    if (!byMonth[ym]) byMonth[ym] = { count: 0, total: new Decimal(0) };
+                    byMonth[ym].count++;
+                    byMonth[ym].total = byMonth[ym].total.plus(new Decimal(c.amount));
+                }
+            }
+            Object.values(byMonth).forEach(obj => { obj.total = obj.total.toFixed(2); });
+
+            // Look up enrichment info
+            const enriched = enrichedCandidates.find(c => c.name === candidateName);
+            candidateDetails.push({
+                id: slugify(candidateName),
+                name: candidateName,
+                party: enriched?.party ?? null,
+                totals: {
+                    total_raised: totalRaised,
+                    total_contributions: contribs.length,
+                },
+                by_month: byMonth,
+            });
+        }
+
+        // Race-level aggregates
+        const raceTotalRaised = allRaceContribs
+            .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
+            .toFixed(2);
+
+        const byType = {};
+        const bySize = {};
+        const byMonth = {};
+
+        for (const c of allRaceContribs) {
+            const amount = new Decimal(c.amount);
+
+            const type = c.contributor_type;
+            if (!byType[type]) byType[type] = { count: 0, total: new Decimal(0) };
+            byType[type].count++;
+            byType[type].total = byType[type].total.plus(amount);
+
+            const size = c.contribution_size;
+            if (!bySize[size]) bySize[size] = { count: 0, total: new Decimal(0) };
+            bySize[size].count++;
+            bySize[size].total = bySize[size].total.plus(amount);
+
+            const ym = c.date ? c.date.slice(0, 7) : null;
+            if (ym) {
+                if (!byMonth[ym]) byMonth[ym] = { count: 0, total: new Decimal(0) };
+                byMonth[ym].count++;
+                byMonth[ym].total = byMonth[ym].total.plus(amount);
+            }
+        }
+
+        Object.values(byType).forEach(obj => { obj.total = obj.total.toFixed(2); });
+        Object.values(bySize).forEach(obj => { obj.total = obj.total.toFixed(2); });
+        Object.values(byMonth).forEach(obj => { obj.total = obj.total.toFixed(2); });
+
+        // Sort candidates by total_raised desc
+        candidateDetails.sort((a, b) =>
+            new Decimal(b.totals.total_raised).minus(new Decimal(a.totals.total_raised)).toNumber()
+        );
+
+        const raceData = {
+            id: raceId,
+            office: raceInfo.office,
+            district: raceInfo.district,
+            totals: {
+                total_raised: raceTotalRaised,
+                total_contributions: allRaceContribs.length,
+            },
+            by_contributor_type: byType,
+            by_contribution_size: bySize,
+            by_month: byMonth,
+            candidates: candidateDetails,
+        };
+
+        const racePath = path.join(racesDir, `${raceId}.json`);
+        await writeFile(racePath, JSON.stringify(raceData, null, 2));
+
+        racesList.push({
+            id: raceId,
+            office: raceInfo.office,
+            district: raceInfo.district,
+            total_raised: raceTotalRaised,
+            total_contributions: allRaceContribs.length,
+            candidate_count: candidateDetails.length,
+        });
+    }
+
+    // Sort races by total_raised desc
+    racesList.sort((a, b) =>
+        new Decimal(b.total_raised).minus(new Decimal(a.total_raised)).toNumber()
+    );
+
+    await writeFile(path.join(PROCESSED_DIR, 'races-list.json'), JSON.stringify(racesList, null, 2));
+
+    console.log(`✅ Saved races-list.json (${racesList.length} races)`);
+    console.log(`✅ Saved ${racesList.length} per-race files to ${racesDir}`);
 }
 
 // Run if called directly
