@@ -47,6 +47,7 @@ npm run preview            # Preview an already-built dist/ (requires data alrea
 2. **Decimal.js for all financial arithmetic** — no native `+`/`-` on amounts.
 3. **Raw data → `data/raw/`** (gitignored). Only `data/processed/` is committed.
 4. **Contribution size thresholds:** small < $100, medium < $1,000, large < $10,000, mega ≥ $10,000.
+5. **Pipeline step parity** — Adding or removing a pipeline step requires updating **both** `package.json` scripts **and** `.github/workflows/update-data.yml`. They must stay in sync.
 
 ## Architecture
 
