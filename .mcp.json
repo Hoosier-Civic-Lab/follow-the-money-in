@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "type": "stdio",
+      "command": "cmd",
+      "args": [
+        "/c", "npx", "-y", "@playwright/mcp@latest",
+        "--allowed-origins", "http://localhost:*;https://localhost:*"
+      ]
+    }
+  }
+}

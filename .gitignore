@@ -26,3 +26,6 @@ coverage/
 
 # Vite build output (deployed via CI, not committed)
 dist/
+
+# local claude settings
+.claude/*.local.json
