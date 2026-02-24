@@ -270,6 +270,46 @@ async function validateMetadata(metadata) {
   }
 }
 
+async function validateCommitteeFiles() {
+  const listPath = path.join(PROCESSED_DIR, 'committees-list.json');
+  if (await fileExists(listPath)) {
+    pass('committees-list.json present');
+    try {
+      const list = JSON.parse(await readFile(listPath, 'utf-8'));
+      if (!Array.isArray(list) || list.length === 0) {
+        fail('committees-list.json must be a non-empty array');
+      } else {
+        pass(`committees-list.json has ${list.length} entries`);
+        const sample = list[0];
+        const requiredFields = ['id', 'name', 'total_given', 'candidates_supported'];
+        const missing = requiredFields.filter(f => sample[f] === undefined);
+        if (missing.length === 0) {
+          pass('committees-list.json entries have required fields (id, name, total_given, candidates_supported)');
+        } else {
+          fail(`committees-list.json entries missing fields: ${missing.join(', ')}`);
+        }
+      }
+    } catch {
+      fail('committees-list.json is not valid JSON');
+    }
+  } else {
+    fail('Missing committees-list.json', 'scripts/generate-summaries.js');
+  }
+
+  const committeesDir = path.join(PROCESSED_DIR, 'committees');
+  try {
+    const files = await readdir(committeesDir);
+    const jsonFiles = files.filter(f => f.endsWith('.json'));
+    if (jsonFiles.length > 0) {
+      pass(`data/processed/committees/ has ${jsonFiles.length} per-committee file(s)`);
+    } else {
+      fail('data/processed/committees/ exists but has no .json files');
+    }
+  } catch {
+    fail('data/processed/committees/ directory missing', 'scripts/generate-summaries.js');
+  }
+}
+
 async function main() {
   console.log('Validating pipeline output in data/processed/\n');
 
@@ -303,6 +343,9 @@ async function main() {
 
   console.log('\n--- races-list.json + races/ ---');
   await validateRaceFiles();
+
+  console.log('\n--- committees-list.json + committees/ ---');
+  await validateCommitteeFiles();
 
   console.log(`\n${'─'.repeat(50)}`);
   if (failures === 0) {

@@ -1,0 +1,71 @@
+{
+  "id": "teamsters-educational-political-action-committee",
+  "name": "Teamsters Educational Political Action Committee",
+  "totals": {
+    "total_given": "16500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "15000.00"
+    }
+  },
+  "by_month": {
+    "2025-11": {
+      "count": 2,
+      "total": "16500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "15000.00",
+      "count": 1
+    },
+    {
+      "id": "james-david-ford",
+      "name": "James David Ford",
+      "total": "1500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490226-72740",
+      "date": "2025-11-11 00:00:00",
+      "amount": 1500,
+      "candidate_name": "James David Ford",
+      "contributor_name": "Teamsters Educational Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46225",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490252-94003",
+      "date": "2025-11-05 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Teamsters Educational Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46225",
+      "source": "indiana"
+    }
+  ]
+}

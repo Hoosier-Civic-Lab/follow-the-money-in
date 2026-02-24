@@ -1,0 +1,100 @@
+{
+  "id": "lincoln-national-corporation-state-and-federal-pac",
+  "name": "Lincoln National Corporation State and Federal PAC",
+  "totals": {
+    "total_given": "2000.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2025-09": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-11": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2025-10": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "martin-j-carbaugh",
+      "name": "Martin J Carbaugh",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "michael-r-gaskill",
+      "name": "Michael R Gaskill",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "fady-a-qaddoura",
+      "name": "Fady A. Qaddoura",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490217-61977",
+      "date": "2025-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Lincoln National Corporation State and Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490229-76245",
+      "date": "2025-11-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Lincoln National Corporation State and Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490230-77030",
+      "date": "2025-10-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Fady A. Qaddoura",
+      "contributor_name": "Lincoln National Corporation State and Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "source": "indiana"
+    }
+  ]
+}

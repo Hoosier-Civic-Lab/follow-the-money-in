@@ -1,0 +1,97 @@
+{
+  "id": "meijer-political-action-committee-of-indiana",
+  "name": "Meijer Political Action Committee of Indiana",
+  "totals": {
+    "total_given": "13000.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "2500.00"
+    }
+  },
+  "by_month": {
+    "2025-09": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "2025-01": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2025-11": {
+      "count": 1,
+      "total": "2500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "julie-anne-mcguire",
+      "name": "Julie Anne McGuire",
+      "total": "2500.00",
+      "count": 1
+    },
+    {
+      "id": "matthew-douglas-hostettler",
+      "name": "Matthew Douglas Hostettler",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490132-9766",
+      "date": "2025-09-05 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Meijer Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "49544",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490229-76137",
+      "date": "2025-01-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Matthew Douglas Hostettler",
+      "contributor_name": "Meijer Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Grand Rapids ",
+      "address_state": "MI",
+      "address_zip": "49544-1305",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490244-84449",
+      "date": "2025-11-03 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Meijer Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "49544",
+      "source": "indiana"
+    }
+  ]
+}

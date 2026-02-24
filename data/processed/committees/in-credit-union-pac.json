@@ -1,0 +1,71 @@
+{
+  "id": "in-credit-union-pac",
+  "name": "IN Credit Union PAC",
+  "totals": {
+    "total_given": "600.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2025-05": {
+      "count": 1,
+      "total": "300.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "douglas-l-miller",
+      "name": "Douglas L Miller",
+      "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "mitchell-alan-gore",
+      "name": "Mitchell Alan Gore",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490226-73037",
+      "date": "2025-10-30 00:00:00",
+      "amount": 300,
+      "candidate_name": "Douglas L Miller",
+      "contributor_name": "IN Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490230-76952",
+      "date": "2025-05-28 00:00:00",
+      "amount": 300,
+      "candidate_name": "Mitchell Alan Gore",
+      "contributor_name": "IN Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "source": "indiana"
+    }
+  ]
+}

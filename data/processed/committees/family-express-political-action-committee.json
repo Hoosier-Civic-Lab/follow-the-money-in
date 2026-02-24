@@ -1,0 +1,68 @@
+{
+  "id": "family-express-political-action-committee",
+  "name": "Family Express Political Action Committee",
+  "totals": {
+    "total_given": "15000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "5000.00"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "2025-10": {
+      "count": 1,
+      "total": "5000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "theodore-edward-rokita",
+      "name": "THEODORE EDWARD ROKITA",
+      "total": "5000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490128-5182",
+      "date": "2025-12-17 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Family Express Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490163-26969",
+      "date": "2025-10-03 00:00:00",
+      "amount": 5000,
+      "candidate_name": "THEODORE EDWARD ROKITA",
+      "contributor_name": "Family Express Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "source": "indiana"
+    }
+  ]
+}

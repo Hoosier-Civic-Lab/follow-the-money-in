@@ -1,0 +1,71 @@
+{
+  "id": "eli-lilly-pac",
+  "name": "Eli Lilly Pac",
+  "totals": {
+    "total_given": "1000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2025-09": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2025-07": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "robert-behning",
+      "name": "ROBERT BEHNING",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "mitchell-alan-gore",
+      "name": "Mitchell Alan Gore",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490161-23959",
+      "date": "2025-09-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "ROBERT BEHNING",
+      "contributor_name": "Eli Lilly Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490230-76946",
+      "date": "2025-07-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Mitchell Alan Gore",
+      "contributor_name": "Eli Lilly PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "IN",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "source": "indiana"
+    }
+  ]
+}

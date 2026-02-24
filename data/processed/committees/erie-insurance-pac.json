@@ -1,0 +1,96 @@
+{
+  "id": "erie-insurance-pac",
+  "name": "Erie Insurance PAC",
+  "totals": {
+    "total_given": "2000.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "1000.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2025-08": {
+      "count": 2,
+      "total": "1000.00"
+    },
+    "2025-07": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "martin-j-carbaugh",
+      "name": "Martin J Carbaugh",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "robert-allen-heaton",
+      "name": "Robert Allen Heaton",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "robin-cheri-shackleford",
+      "name": "Robin Cheri Shackleford",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490212-59485",
+      "date": "2025-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Erie Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Erie",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490216-61800",
+      "date": "2025-08-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robin Cheri Shackleford",
+      "contributor_name": "Erie Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Erie",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490217-61983",
+      "date": "2025-07-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Erie Insurance Pac",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "source": "indiana"
+    }
+  ]
+}

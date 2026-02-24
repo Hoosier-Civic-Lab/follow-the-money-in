@@ -110,6 +110,9 @@ async function generateSummaries() {
     // Generate race-level summaries (enriched candidates only)
     await generateRaceSummaries(allContributions, candidatesList);
 
+    // Generate committee-level summaries
+    await generateCommitteeSummaries(allContributions);
+
     return summary;
 }
 
@@ -438,6 +441,125 @@ async function generateRaceSummaries(allContributions, candidatesList) {
 
     console.log(`✅ Saved races-list.json (${racesList.length} races)`);
     console.log(`✅ Saved ${racesList.length} per-race files to ${racesDir}`);
+}
+
+async function generateCommitteeSummaries(allContributions) {
+    console.log('\nGenerating committee summaries...');
+
+    // Only committee-type contributions have outgoing committee data
+    const committeeContribs = allContributions.filter(c => c.contributor_type === 'committee');
+    console.log(`  Found ${committeeContribs.length} committee contributions`);
+
+    // Group by normalized contributor_name to avoid slug collisions from capitalization variants.
+    // Key: uppercase-trimmed name (stable grouping); value: { displayName, contribs[] }
+    // Display name is the first-seen variant (preserves original casing for readability).
+    const byCommittee = new Map();
+    for (const contrib of committeeContribs) {
+        const name = contrib.contributor_name;
+        if (!name) continue;
+        const key = name.toUpperCase().trim().replace(/\s+/g, ' ');
+        if (!byCommittee.has(key)) {
+            byCommittee.set(key, { displayName: name, contribs: [] });
+        }
+        byCommittee.get(key).contribs.push(contrib);
+    }
+
+    console.log(`  Found ${byCommittee.size} unique committees`);
+
+    const committeesDir = path.join(PROCESSED_DIR, 'committees');
+    await mkdir(committeesDir, { recursive: true });
+
+    const committeesList = [];
+
+    for (const [, { displayName: name, contribs }] of byCommittee) {
+        const id = slugify(name);
+        const totalGiven = contribs
+            .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
+            .toFixed(2);
+
+        const candidatesSupported = new Set(contribs.map(c => c.candidate_name).filter(Boolean));
+
+        // Build per-committee aggregates
+        const bySize = {};
+        const byMonth = {};
+        for (const c of contribs) {
+            const amount = new Decimal(c.amount);
+
+            const size = c.contribution_size;
+            if (!bySize[size]) bySize[size] = { count: 0, total: new Decimal(0) };
+            bySize[size].count++;
+            bySize[size].total = bySize[size].total.plus(amount);
+
+            const ym = c.date ? c.date.slice(0, 7) : null;
+            if (ym) {
+                if (!byMonth[ym]) byMonth[ym] = { count: 0, total: new Decimal(0) };
+                byMonth[ym].count++;
+                byMonth[ym].total = byMonth[ym].total.plus(amount);
+            }
+        }
+
+        // Serialize Decimal totals
+        Object.values(bySize).forEach(obj => { obj.total = obj.total.toFixed(2); });
+        Object.values(byMonth).forEach(obj => { obj.total = obj.total.toFixed(2); });
+
+        // Build top recipients (by candidate_name)
+        const recipientMap = new Map();
+        for (const c of contribs) {
+            if (!c.candidate_name) continue;
+            if (!recipientMap.has(c.candidate_name)) {
+                recipientMap.set(c.candidate_name, { count: 0, total: new Decimal(0) });
+            }
+            const entry = recipientMap.get(c.candidate_name);
+            entry.count++;
+            entry.total = entry.total.plus(new Decimal(c.amount));
+        }
+        const topRecipients = [...recipientMap.entries()]
+            .map(([recipientName, data]) => ({
+                id: slugify(recipientName),
+                name: recipientName,
+                total: data.total.toFixed(2),
+                count: data.count,
+            }))
+            .sort((a, b) => new Decimal(b.total).minus(new Decimal(a.total)).toNumber())
+            .slice(0, 20);
+
+        // Write per-committee file
+        const committeeData = {
+            id,
+            name,
+            totals: {
+                total_given: totalGiven,
+                total_contributions: contribs.length,
+                candidates_supported: candidatesSupported.size,
+            },
+            by_contribution_size: bySize,
+            by_month: byMonth,
+            top_recipients: topRecipients,
+            contributions: contribs,
+        };
+
+        const committeePath = path.join(committeesDir, `${id}.json`);
+        await writeFile(committeePath, JSON.stringify(committeeData, null, 2));
+
+        committeesList.push({
+            id,
+            name,
+            total_given: totalGiven,
+            total_contributions: contribs.length,
+            candidates_supported: candidatesSupported.size,
+        });
+    }
+
+    // Sort by total_given descending
+    committeesList.sort((a, b) =>
+        new Decimal(b.total_given).minus(new Decimal(a.total_given)).toNumber()
+    );
+
+    const listPath = path.join(PROCESSED_DIR, 'committees-list.json');
+    await writeFile(listPath, JSON.stringify(committeesList, null, 2));
+
+    console.log(`✅ Saved committees-list.json (${committeesList.length} committees)`);
+    console.log(`✅ Saved ${committeesList.length} per-committee files to ${committeesDir}`);
 }
 
 // Run if called directly

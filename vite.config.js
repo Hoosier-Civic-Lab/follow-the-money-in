@@ -48,6 +48,8 @@ export default defineConfig({
                 candidate: path.resolve(__dirname, 'src/candidate.html'),
                 races: path.resolve(__dirname, 'src/races.html'),
                 race: path.resolve(__dirname, 'src/race.html'),
+                committees: path.resolve(__dirname, 'src/committees.html'),
+                committee: path.resolve(__dirname, 'src/committee.html'),
             },
         },
     },

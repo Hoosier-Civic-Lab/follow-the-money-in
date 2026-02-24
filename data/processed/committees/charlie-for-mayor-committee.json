@@ -1,0 +1,83 @@
+{
+  "id": "charlie-for-mayor-committee",
+  "name": "Charlie for Mayor Committee",
+  "totals": {
+    "total_given": "2600.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "600.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "2000.00"
+    }
+  },
+  "by_month": {
+    "2025-06": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2025-08": {
+      "count": 2,
+      "total": "2500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "alexander-richard-burton",
+      "name": "Alexander Richard Burton",
+      "total": "2500.00",
+      "count": 2
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771804490212-59280",
+      "date": "2025-06-03 00:00:00",
+      "amount": 100,
+      "contributor_name": "Charlie for Mayor Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boonville",
+      "address_state": "IN",
+      "address_zip": "47601",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490248-88715",
+      "date": "2025-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Charlie for Mayor Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771804490248-88716",
+      "date": "2025-08-14 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Charlie for Mayor Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "source": "indiana"
+    }
+  ]
+}
