@@ -12,6 +12,7 @@ Agent navigation map for follow-the-money-in. All details are one hop away via t
 | FEC API endpoints, auth, rate limits | `docs/references/fec-api.md` |
 | Active in-flight plans | `docs/exec-plans/active/` |
 | All docs (master index) | `docs/index.md` |
+| Frontend browser verification workflow | `docs/references/frontend-verification.md` |
 
 ## Known Footguns
 
@@ -20,6 +21,11 @@ Agent navigation map for follow-the-money-in. All details are one hop away via t
 - Date column name **varies by year** (`Date` vs `ContributionDate`). ([details](docs/design-docs/data-quirks.md#date-field-name-varies))
 - Amounts are float strings with 4 decimal places — always wrap in `new Decimal()`. ([details](docs/design-docs/data-quirks.md#amount-float-string))
 - Most candidates have `office: null` — expected; SoS Excel covers current cycle only. ([details](docs/design-docs/data-quirks.md#candidate-office-enrichment-gap))
+
+## Frontend Verification
+
+For meaningful frontend changes, start `npm run dev` then use Playwright MCP tools to verify.
+See [frontend-verification.md](docs/references/frontend-verification.md) for the full workflow.
 
 ## Commands
 

@@ -23,6 +23,7 @@ All documentation for follow-the-money-in. ≤2 hops from any question about dat
 
 - `docs/data-sources.md` — source overview (Indiana SoS + FEC)
 - `docs/references/fec-api.md` — FEC API endpoints, auth, rate limits
+- `docs/references/frontend-verification.md` — when + how to verify frontend changes in a browser (Playwright MCP tools)
 - `docs/references/indiana-field-variants.md` — logical field → CSV header mapping
 - `docs/references/state-codes.md` — canonical state codes + dirty variant table
 
