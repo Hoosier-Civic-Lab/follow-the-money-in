@@ -33,7 +33,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1771804490213-60138",
+      "id": "contrib-1771903926606-60138",
       "date": "2025-07-17 00:00:00",
       "amount": 204,
       "contributor_name": "New Castle Firefighters Local 1722 PAC",
@@ -44,10 +44,11 @@
       "address_city": "NEW CASTLE",
       "address_state": "IN",
       "address_zip": "47362",
+      "recipient_committee": "New Castle Firefighters Local 1722 PAC",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490213-60139",
+      "id": "contrib-1771903926606-60139",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "contributor_name": "New Castle Firefighters Local 1722 PAC",
@@ -58,10 +59,11 @@
       "address_city": "NEW CASTLE",
       "address_state": "IN",
       "address_zip": "47362",
+      "recipient_committee": "New Castle Firefighters Local 1722 PAC",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490213-60140",
+      "id": "contrib-1771903926606-60140",
       "date": "2025-06-02 00:00:00",
       "amount": 416,
       "contributor_name": "New Castle Firefighters Local 1722 PAC",
@@ -72,10 +74,11 @@
       "address_city": "NEW CASTLE",
       "address_state": "IN",
       "address_zip": "47362",
+      "recipient_committee": "New Castle Firefighters Local 1722 PAC",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490213-60141",
+      "id": "contrib-1771903926606-60141",
       "date": "2025-04-11 00:00:00",
       "amount": 768,
       "contributor_name": "New Castle Firefighters Local 1722 PAC",
@@ -86,7 +89,114 @@
       "address_city": "NEW CASTLE",
       "address_state": "IN",
       "address_zip": "47362",
+      "recipient_committee": "New Castle Firefighters Local 1722 PAC",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "2000.00",
+    "total_contributions": 5,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 1,
+        "total": "312.00"
+      },
+      "committee": {
+        "count": 4,
+        "total": "1688.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "New Castle Firefighters Local 1722 PAC",
+        "type": "committee",
+        "total": "1688.00",
+        "count": 4
+      },
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "312.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926606-60137",
+        "date": "2025-12-01 00:00:00",
+        "amount": 312,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "New Castle Firefighters Local 1722 PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60138",
+        "date": "2025-07-17 00:00:00",
+        "amount": 204,
+        "contributor_name": "New Castle Firefighters Local 1722 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "NEW CASTLE",
+        "address_state": "IN",
+        "address_zip": "47362",
+        "recipient_committee": "New Castle Firefighters Local 1722 PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60139",
+        "date": "2025-09-17 00:00:00",
+        "amount": 300,
+        "contributor_name": "New Castle Firefighters Local 1722 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "NEW CASTLE",
+        "address_state": "IN",
+        "address_zip": "47362",
+        "recipient_committee": "New Castle Firefighters Local 1722 PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60140",
+        "date": "2025-06-02 00:00:00",
+        "amount": 416,
+        "contributor_name": "New Castle Firefighters Local 1722 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "NEW CASTLE",
+        "address_state": "IN",
+        "address_zip": "47362",
+        "recipient_committee": "New Castle Firefighters Local 1722 PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60141",
+        "date": "2025-04-11 00:00:00",
+        "amount": 768,
+        "contributor_name": "New Castle Firefighters Local 1722 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "NEW CASTLE",
+        "address_state": "IN",
+        "address_zip": "47362",
+        "recipient_committee": "New Castle Firefighters Local 1722 PAC",
+        "source": "indiana"
+      }
+    ]
+  }
 }

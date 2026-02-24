@@ -58,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771804490212-59555",
+      "id": "contrib-1771903926606-59555",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Jean Leising",
@@ -70,10 +70,11 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Jean Leising for State Senate",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490215-61248",
+      "id": "contrib-1771903926607-61248",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "C. Susan Glick",
@@ -85,10 +86,11 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Sue Glick for Senate",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490229-75470",
+      "id": "contrib-1771903926618-75470",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Garten",
@@ -100,10 +102,11 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Garten",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490229-75881",
+      "id": "contrib-1771903926618-75881",
       "date": "2025-12-29 00:00:00",
       "amount": 300,
       "candidate_name": "Shane Michael Lindauer",
@@ -115,10 +118,11 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "shanelindauer.com",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490247-88023",
+      "id": "contrib-1771903926630-88023",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "contributor_name": "IOMA PAC",
@@ -129,7 +133,59 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "6000.00",
+    "total_contributions": 2,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 2,
+        "total": "6000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "IOMA",
+        "type": "individual",
+        "total": "6000.00",
+        "count": 2
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926602-58467",
+        "date": "2025-07-24 00:00:00",
+        "amount": 1000,
+        "contributor_name": "IOMA",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "IOMA PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926602-58468",
+        "date": "2025-07-02 00:00:00",
+        "amount": 5000,
+        "contributor_name": "IOMA",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "IOMA PAC",
+        "source": "indiana"
+      }
+    ]
+  }
 }

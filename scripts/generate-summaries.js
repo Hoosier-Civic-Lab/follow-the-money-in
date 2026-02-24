@@ -450,6 +450,19 @@ async function generateCommitteeSummaries(allContributions) {
     const committeeContribs = allContributions.filter(c => c.contributor_type === 'committee');
     console.log(`  Found ${committeeContribs.length} committee contributions`);
 
+    // Build a map of incoming contributions grouped by recipient_committee (normalized).
+    // This captures individual/corporate/etc. donors flowing INTO a PAC or committee.
+    const receiptsByNormalizedName = new Map();
+    for (const contrib of allContributions) {
+        const rcpt = contrib.recipient_committee;
+        if (!rcpt) continue;
+        const key = rcpt.toUpperCase().trim().replace(/\s+/g, ' ');
+        if (!receiptsByNormalizedName.has(key)) {
+            receiptsByNormalizedName.set(key, []);
+        }
+        receiptsByNormalizedName.get(key).push(contrib);
+    }
+
     // Group by normalized contributor_name to avoid slug collisions from capitalization variants.
     // Key: uppercase-trimmed name (stable grouping); value: { displayName, contribs[] }
     // Display name is the first-seen variant (preserves original casing for readability).
@@ -523,6 +536,60 @@ async function generateCommitteeSummaries(allContributions) {
             .sort((a, b) => new Decimal(b.total).minus(new Decimal(a.total)).toNumber())
             .slice(0, 20);
 
+        // Build "Who Funds This Committee" receipts aggregate using the normalized key
+        const normalizedKey = name.toUpperCase().trim().replace(/\s+/g, ' ');
+        const incomingContribs = receiptsByNormalizedName.get(normalizedKey) || [];
+        let receipts = null;
+        if (incomingContribs.length > 0) {
+            const totalRaised = incomingContribs
+                .reduce((sum, c) => sum.plus(new Decimal(c.amount)), new Decimal(0))
+                .toFixed(2);
+
+            const uniqueDonors = new Set(
+                incomingContribs.map(c => c.contributor_name).filter(Boolean)
+            ).size;
+
+            // Aggregate by contributor type
+            const byContributorType = {};
+            for (const c of incomingContribs) {
+                const t = c.contributor_type || 'unknown';
+                if (!byContributorType[t]) byContributorType[t] = { count: 0, total: new Decimal(0) };
+                byContributorType[t].count++;
+                byContributorType[t].total = byContributorType[t].total.plus(new Decimal(c.amount));
+            }
+            Object.values(byContributorType).forEach(obj => { obj.total = obj.total.toFixed(2); });
+
+            // Top 10 donors by total amount
+            const donorMap = new Map();
+            for (const c of incomingContribs) {
+                const donorName = c.contributor_name || '(Unknown)';
+                if (!donorMap.has(donorName)) {
+                    donorMap.set(donorName, { type: c.contributor_type, count: 0, total: new Decimal(0) });
+                }
+                const entry = donorMap.get(donorName);
+                entry.count++;
+                entry.total = entry.total.plus(new Decimal(c.amount));
+            }
+            const topDonors = [...donorMap.entries()]
+                .map(([donorName, data]) => ({
+                    name: donorName,
+                    type: data.type,
+                    total: data.total.toFixed(2),
+                    count: data.count,
+                }))
+                .sort((a, b) => new Decimal(b.total).minus(new Decimal(a.total)).toNumber())
+                .slice(0, 10);
+
+            receipts = {
+                total_raised: totalRaised,
+                total_contributions: incomingContribs.length,
+                unique_donors: uniqueDonors,
+                by_contributor_type: byContributorType,
+                top_donors: topDonors,
+                contributions: incomingContribs,
+            };
+        }
+
         // Write per-committee file
         const committeeData = {
             id,
@@ -536,6 +603,7 @@ async function generateCommitteeSummaries(allContributions) {
             by_month: byMonth,
             top_recipients: topRecipients,
             contributions: contribs,
+            receipts,
         };
 
         const committeePath = path.join(committeesDir, `${id}.json`);

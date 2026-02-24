@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1771804490239-83442",
+      "id": "contrib-1771903926624-83442",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "contributor_name": "Bassler Campaign Committee",
@@ -32,7 +32,67 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46206",
+      "recipient_committee": "Indiana Campaign Engagement Political Action Committee",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "600.00",
+    "total_contributions": 2,
+    "unique_donors": 2,
+    "by_contributor_type": {
+      "committee": {
+        "count": 2,
+        "total": "600.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Indiana Credit Union PAC",
+        "type": "committee",
+        "total": "300.00",
+        "count": 1
+      },
+      {
+        "name": "Optometry's PAC",
+        "type": "committee",
+        "total": "300.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926616-72781",
+        "date": "2025-12-26 00:00:00",
+        "amount": 300,
+        "candidate_name": "Eric Bassler",
+        "contributor_name": "Indiana Credit Union PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Bassler Campaign Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926616-72782",
+        "date": "2025-12-30 00:00:00",
+        "amount": 300,
+        "candidate_name": "Eric Bassler",
+        "contributor_name": "Optometry's PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46082",
+        "recipient_committee": "Bassler Campaign Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }

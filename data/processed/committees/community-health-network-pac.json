@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1771804490128-5638",
+      "id": "contrib-1771903926555-5638",
       "date": "2025-07-16 00:00:00",
       "amount": 12700,
       "contributor_name": "Community Health Network PAC",
@@ -32,7 +32,86 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "FRIENDS OF INDIANA HOSPITALS",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "22000.00",
+    "total_contributions": 3,
+    "unique_donors": 3,
+    "by_contributor_type": {
+      "individual": {
+        "count": 3,
+        "total": "22000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "VEI",
+        "type": "individual",
+        "total": "15000.00",
+        "count": 1
+      },
+      {
+        "name": "Bryan A Mills",
+        "type": "individual",
+        "total": "5000.00",
+        "count": 1
+      },
+      {
+        "name": "Karen Ann P  Lloyd",
+        "type": "individual",
+        "total": "2000.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926606-60130",
+        "date": "2025-04-15 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Bryan A Mills",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "Community Health Network PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60131",
+        "date": "2025-06-03 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Karen Ann P  Lloyd",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46208",
+        "recipient_committee": "Community Health Network PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926606-60132",
+        "date": "2025-04-15 00:00:00",
+        "amount": 15000,
+        "contributor_name": "VEI",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Community Health Network PAC",
+        "source": "indiana"
+      }
+    ]
+  }
 }

@@ -46,7 +46,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771804490128-5154",
+      "id": "contrib-1771903926555-5154",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "contributor_name": "Northwest Indiana Contractors Political Action Committee",
@@ -57,10 +57,11 @@
       "address_city": "PORTAGE",
       "address_state": "IN",
       "address_zip": "46368",
+      "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490128-5155",
+      "id": "contrib-1771903926555-5155",
       "date": "2025-12-17 00:00:00",
       "amount": 500,
       "contributor_name": "Northwest Indiana Contractors Political Action Committee",
@@ -71,10 +72,11 @@
       "address_city": "PORTAGE",
       "address_state": "IN",
       "address_zip": "46368",
+      "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490129-5996",
+      "id": "contrib-1771903926556-5996",
       "date": "2025-12-03 00:00:00",
       "amount": 500,
       "contributor_name": "Northwest Indiana Contractors Political Action Committee",
@@ -85,10 +87,11 @@
       "address_city": "PORTAGE",
       "address_state": "IN",
       "address_zip": "46368",
+      "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490216-61762",
+      "id": "contrib-1771903926608-61762",
       "date": "2025-09-26 00:00:00",
       "amount": 450,
       "candidate_name": "Harold M. Slager",
@@ -100,10 +103,11 @@
       "address_city": "PORTAGE",
       "address_state": "IN",
       "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Hal Slager",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490244-84386",
+      "id": "contrib-1771903926624-84386",
       "date": "2025-12-01 00:00:00",
       "amount": 2500,
       "candidate_name": "DANIEL EDWARD DERNULC",
@@ -115,7 +119,149 @@
       "address_city": "PORTAGE",
       "address_state": "IN",
       "address_zip": "46368",
+      "recipient_committee": "COMMITTEE TO ELECT DAN DERNULC",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "12000.00",
+    "total_contributions": 6,
+    "unique_donors": 6,
+    "by_contributor_type": {
+      "corporate": {
+        "count": 6,
+        "total": "12000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Gariup Construction Company, Inc.",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "Grimmer Construction, Inc.",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "Hasse Construction Co., Inc.",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "JenStar Asphalt LLC",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "Larson-Danielson Construction Company, Inc.",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "The Pangere Corporation",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926617-73314",
+        "date": "2025-04-29 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Gariup Construction Company, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Gary",
+        "address_state": "IN",
+        "address_zip": "46401",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926617-73315",
+        "date": "2025-03-04 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Grimmer Construction, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Highland",
+        "address_state": "IN",
+        "address_zip": "46322",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926617-73316",
+        "date": "2025-03-04 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Hasse Construction Co., Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Munster",
+        "address_state": "IN",
+        "address_zip": "46321",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926617-73317",
+        "date": "2025-07-18 00:00:00",
+        "amount": 2000,
+        "contributor_name": "JenStar Asphalt LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lake Station",
+        "address_state": "IN",
+        "address_zip": "46405",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926617-73318",
+        "date": "2025-03-04 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Larson-Danielson Construction Company, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LaPorte",
+        "address_state": "IN",
+        "address_zip": "46350",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926617-73319",
+        "date": "2025-03-04 00:00:00",
+        "amount": 2000,
+        "contributor_name": "The Pangere Corporation",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Gary",
+        "address_state": "IN",
+        "address_zip": "46406",
+        "recipient_committee": "Northwest Indiana Contractors Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }

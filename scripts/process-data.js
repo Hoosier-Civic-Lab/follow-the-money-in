@@ -35,6 +35,7 @@ async function processIndianaContributions(filepath) {
         address_city: row.City || null,
         address_state: row.State || null,
         address_zip: row.Zip || null,
+        recipient_committee: row.Committee || null,
         source: 'indiana'
     };
     

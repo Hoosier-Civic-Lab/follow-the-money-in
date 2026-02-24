@@ -148,6 +148,84 @@
       </div>
     </section>
 
+    <!-- Who Funds This Committee -->
+    <section id="receipts-section" class="hidden mt-10">
+      <h2 class="text-xl font-bold text-white mb-6">Who Funds This Committee</h2>
+
+      <!-- Receipt stat cards -->
+      <div class="grid grid-cols-2 lg:grid-cols-3 gap-4 mb-8" aria-label="Receipts statistics">
+        <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+          <p class="text-xs text-gray-400 uppercase tracking-wide mb-1">Total Raised</p>
+          <p class="text-2xl font-bold text-green-400" id="receipt-stat-total-raised">—</p>
+        </div>
+        <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+          <p class="text-xs text-gray-400 uppercase tracking-wide mb-1"># Donations</p>
+          <p class="text-2xl font-bold text-blue-400" id="receipt-stat-total-contributions">—</p>
+        </div>
+        <div class="bg-gray-800 rounded-xl p-5 border border-gray-700">
+          <p class="text-xs text-gray-400 uppercase tracking-wide mb-1">Unique Donors</p>
+          <p class="text-2xl font-bold text-purple-400" id="receipt-stat-unique-donors">—</p>
+        </div>
+      </div>
+
+      <!-- Top Donors table -->
+      <div class="bg-gray-800 rounded-xl border border-gray-700 mb-8">
+        <div class="px-5 py-4 border-b border-gray-700">
+          <h3 class="text-base font-semibold text-white">Top Donors</h3>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-gray-700">
+                <th class="py-3 px-4 text-left text-gray-400 font-medium">Name</th>
+                <th class="py-3 px-4 text-left text-gray-400 font-medium">Type</th>
+                <th class="py-3 px-4 text-right text-gray-400 font-medium">Total</th>
+                <th class="py-3 px-4 text-right text-gray-400 font-medium"># Donations</th>
+              </tr>
+            </thead>
+            <tbody id="top-donors-body">
+              <tr><td colspan="4" class="py-10 text-center text-gray-500">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Full receipts table -->
+      <div class="bg-gray-800 rounded-xl border border-gray-700">
+        <div class="flex items-center justify-between px-5 py-4 border-b border-gray-700">
+          <h3 class="text-base font-semibold text-white">All Incoming Donations</h3>
+          <span id="receipt-count" class="text-sm text-gray-400"></span>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-gray-700">
+                <th class="py-3 px-4 text-left text-gray-400 font-medium cursor-pointer select-none hover:text-white" data-receipt-sort="date">
+                  Date<span class="receipt-sort-indicator text-blue-400"> ↓</span>
+                </th>
+                <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white" data-receipt-sort="amount">
+                  Amount<span class="receipt-sort-indicator text-blue-400"></span>
+                </th>
+                <th class="py-3 px-4 text-left text-gray-400 font-medium">Donor</th>
+                <th class="py-3 px-4 text-left text-gray-400 font-medium">Type</th>
+              </tr>
+            </thead>
+            <tbody id="receipts-body">
+              <tr><td colspan="4" class="py-10 text-center text-gray-500">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <!-- Pagination -->
+        <div class="flex items-center justify-between px-5 py-3 border-t border-gray-700">
+          <span class="text-xs text-gray-400" id="receipt-pagination-info"></span>
+          <div class="flex gap-2">
+            <button id="receipt-prev-btn" class="px-3 py-1.5 rounded text-xs bg-gray-700 text-gray-300 hover:bg-gray-600 disabled:opacity-40 disabled:cursor-not-allowed transition-colors" disabled>← Prev</button>
+            <button id="receipt-next-btn" class="px-3 py-1.5 rounded text-xs bg-gray-700 text-gray-300 hover:bg-gray-600 disabled:opacity-40 disabled:cursor-not-allowed transition-colors">Next →</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </main>
 
   <footer class="mt-16 border-t border-gray-800 py-8 text-center text-xs text-gray-600">

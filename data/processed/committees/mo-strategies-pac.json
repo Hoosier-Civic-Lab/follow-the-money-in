@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1771804490247-88025",
+      "id": "contrib-1771903926630-88025",
       "date": "2025-11-24 00:00:00",
       "amount": 5000,
       "contributor_name": "MO Strategies PAC",
@@ -32,7 +32,99 @@
       "address_city": "Carmel",
       "address_state": "IN",
       "address_zip": "46280",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "19000.99",
+    "total_contributions": 4,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 1,
+        "total": "0.99"
+      },
+      "corporate": {
+        "count": 3,
+        "total": "19000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "MO Strategies INC",
+        "type": "corporate",
+        "total": "19000.00",
+        "count": 3
+      },
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "0.99",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926632-93116",
+        "date": "2025-10-08 00:00:00",
+        "amount": 0.99,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "MO Strategies PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926632-93117",
+        "date": "2025-10-06 00:00:00",
+        "amount": 1000,
+        "contributor_name": "MO Strategies INC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46280",
+        "recipient_committee": "MO Strategies PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926632-93118",
+        "date": "2025-10-06 00:00:00",
+        "amount": 5000,
+        "contributor_name": "MO Strategies INC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46280",
+        "recipient_committee": "MO Strategies PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926632-93119",
+        "date": "2025-11-17 00:00:00",
+        "amount": 13000,
+        "contributor_name": "MO Strategies INC",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46280",
+        "recipient_committee": "MO Strategies PAC",
+        "source": "indiana"
+      }
+    ]
+  }
 }

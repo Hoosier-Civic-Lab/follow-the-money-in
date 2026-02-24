@@ -54,7 +54,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771804490128-5144",
+      "id": "contrib-1771903926555-5144",
       "date": "2025-11-20 00:00:00",
       "amount": 2500,
       "contributor_name": "INDIANA RETAILERS POLITICAL ACTION COMMITTEE",
@@ -65,10 +65,11 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46217",
+      "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490211-59110",
+      "id": "contrib-1771903926603-59110",
       "date": "2025-11-19 00:00:00",
       "amount": 500,
       "candidate_name": "Edward E Charbonneau",
@@ -80,10 +81,11 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46217",
+      "recipient_committee": "Charbonneau for Senate",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490213-59772",
+      "id": "contrib-1771903926606-59772",
       "date": "2025-12-01 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Lehman",
@@ -95,10 +97,11 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Matt Lehman for State Representative",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490213-60040",
+      "id": "contrib-1771903926606-60040",
       "date": "2025-11-19 00:00:00",
       "amount": 500,
       "candidate_name": "Travis Linn Holdman",
@@ -110,10 +113,11 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46217",
+      "recipient_committee": "Hoosiers for Holdman",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490230-77479",
+      "id": "contrib-1771903926619-77479",
       "date": "2025-11-11 00:00:00",
       "amount": 500,
       "candidate_name": "Shelli Renee Yoder",
@@ -125,7 +129,90 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46217",
+      "recipient_committee": "Friends of Shelli Yoder",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "30500.00",
+    "total_contributions": 3,
+    "unique_donors": 3,
+    "by_contributor_type": {
+      "corporate": {
+        "count": 2,
+        "total": "28000.00"
+      },
+      "individual": {
+        "count": 1,
+        "total": "2500.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Indiana Retail Council",
+        "type": "corporate",
+        "total": "22000.00",
+        "count": 1
+      },
+      {
+        "name": "National Association of Chain Drug Stores",
+        "type": "corporate",
+        "total": "6000.00",
+        "count": 1
+      },
+      {
+        "name": "Walpac",
+        "type": "individual",
+        "total": "2500.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926551-902",
+        "date": "2025-12-16 00:00:00",
+        "amount": 22000,
+        "contributor_name": "Indiana Retail Council",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA RETAILERS POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926551-903",
+        "date": "2025-12-03 00:00:00",
+        "amount": 6000,
+        "contributor_name": "National Association of Chain Drug Stores",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Arlington",
+        "address_state": "VA",
+        "address_zip": "22209",
+        "recipient_committee": "INDIANA RETAILERS POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926551-904",
+        "date": "2025-12-16 00:00:00",
+        "amount": 2500,
+        "contributor_name": "Walpac",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Bentonville",
+        "address_state": "AR",
+        "address_zip": "72716",
+        "recipient_committee": "INDIANA RETAILERS POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      }
+    ]
+  }
 }

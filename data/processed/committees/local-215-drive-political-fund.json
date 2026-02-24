@@ -38,7 +38,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771804490231-77781",
+      "id": "contrib-1771903926619-77781",
       "date": "2025-05-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Cindy Lynn Ledbetter",
@@ -50,10 +50,11 @@
       "address_city": "EVANSVILLE",
       "address_state": "IN",
       "address_zip": "47706",
+      "recipient_committee": "Ledbetter For State Representative",
       "source": "indiana"
     },
     {
-      "id": "contrib-1771804490250-90785",
+      "id": "contrib-1771903926631-90785",
       "date": "2025-06-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Sarah Monroe Busby",
@@ -65,7 +66,44 @@
       "address_city": "EVANSVILLE",
       "address_state": "IN",
       "address_zip": "47706",
+      "recipient_committee": "Sally for Indiana",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "94792.40",
+    "total_contributions": 1,
+    "unique_donors": 0,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 1,
+        "total": "94792.40"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "94792.40",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926576-23816",
+        "date": "2025-12-31 00:00:00",
+        "amount": 94792.4,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 215 DRIVE POLITICAL FUND",
+        "source": "indiana"
+      }
+    ]
+  }
 }

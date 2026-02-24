@@ -28,7 +28,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771804490244-84555",
+      "id": "contrib-1771903926624-84555",
       "date": "2025-12-13 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Richard Greene III",
@@ -40,7 +40,65 @@
       "address_city": "Shelbyville",
       "address_state": "IN",
       "address_zip": "46176",
+      "recipient_committee": "RobbGreene.com",
       "source": "indiana"
     }
-  ]
+  ],
+  "receipts": {
+    "total_raised": "10050.00",
+    "total_contributions": 2,
+    "unique_donors": 2,
+    "by_contributor_type": {
+      "individual": {
+        "count": 2,
+        "total": "10050.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "J. Lee McNeely",
+        "type": "individual",
+        "total": "10000.00",
+        "count": 1
+      },
+      {
+        "name": "Jason Clark",
+        "type": "individual",
+        "total": "50.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771903926630-88812",
+        "date": "2025-10-24 00:00:00",
+        "amount": 10000,
+        "contributor_name": "J. Lee McNeely",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "46176",
+        "recipient_committee": "McNeelyLaw LLP Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771903926630-88813",
+        "date": "2025-04-16 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jason Clark",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "46176",
+        "recipient_committee": "McNeelyLaw LLP Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }

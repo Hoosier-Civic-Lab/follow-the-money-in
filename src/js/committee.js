@@ -15,6 +15,9 @@ let timelineChart = null;
 let contribSortField = 'date';
 let contribSortDir = 'desc';
 let contribPage = 1;
+let receiptSortField = 'date';
+let receiptSortDir = 'desc';
+let receiptPage = 1;
 
 async function init() {
     const id = new URLSearchParams(window.location.search).get('id');
@@ -33,6 +36,7 @@ async function init() {
         renderTimeline();
         renderTopRecipients();
         renderContributions();
+        renderReceipts();
         attachListeners();
     } catch (err) {
         console.error('Failed to load committee:', err);
@@ -186,6 +190,110 @@ function sortContributions(contribs) {
     });
 }
 
+function renderReceipts() {
+    const receipts = committee.receipts;
+    const section = document.getElementById('receipts-section');
+    if (!section) return;
+
+    if (!receipts || receipts.total_contributions === 0) {
+        // No incoming data — keep section hidden
+        return;
+    }
+
+    section.classList.remove('hidden');
+
+    // Stat cards
+    setText('receipt-stat-total-raised', formatCurrency(receipts.total_raised));
+    setText('receipt-stat-total-contributions', receipts.total_contributions.toLocaleString());
+    setText('receipt-stat-unique-donors', receipts.unique_donors.toLocaleString());
+
+    // Top donors table
+    const topDonorsTbody = document.getElementById('top-donors-body');
+    if (topDonorsTbody) {
+        const donors = receipts.top_donors || [];
+        if (donors.length === 0) {
+            topDonorsTbody.innerHTML = `<tr><td colspan="4" class="py-10 text-center text-gray-500">No donor data.</td></tr>`;
+        } else {
+            topDonorsTbody.innerHTML = donors.map(d => `
+                <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
+                    <td class="py-3 px-4 text-gray-200">${escapeHtml(titleCase(d.name))}</td>
+                    <td class="py-3 px-4">${typeBadge(d.type)}</td>
+                    <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(d.total)}</td>
+                    <td class="py-3 px-4 text-right text-gray-300">${d.count.toLocaleString()}</td>
+                </tr>
+            `).join('');
+        }
+    }
+
+    renderReceiptRows();
+}
+
+function renderReceiptRows() {
+    const receipts = committee.receipts;
+    if (!receipts) return;
+
+    const all = receipts.contributions || [];
+    const sorted = [...all].sort((a, b) => {
+        let av, bv;
+        if (receiptSortField === 'amount') {
+            av = parseFloat(a.amount) || 0;
+            bv = parseFloat(b.amount) || 0;
+        } else {
+            av = a.date || '';
+            bv = b.date || '';
+        }
+        if (av < bv) return receiptSortDir === 'asc' ? -1 : 1;
+        if (av > bv) return receiptSortDir === 'asc' ? 1 : -1;
+        return 0;
+    });
+
+    const { items, totalPages, totalItems, page } = paginate(sorted, { page: receiptPage, perPage: PER_PAGE });
+
+    const tbody = document.getElementById('receipts-body');
+    if (tbody) {
+        if (items.length === 0) {
+            tbody.innerHTML = `<tr><td colspan="4" class="py-10 text-center text-gray-500">No donations found.</td></tr>`;
+        } else {
+            tbody.innerHTML = items.map(c => `
+                <tr class="border-b border-gray-700 hover:bg-gray-750 transition-colors">
+                    <td class="py-3 px-4 text-gray-300 whitespace-nowrap">${c.date ? escapeHtml(c.date.slice(0, 10)) : '—'}</td>
+                    <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(c.amount)}</td>
+                    <td class="py-3 px-4 text-gray-200">${escapeHtml(titleCase(c.contributor_name || '—'))}</td>
+                    <td class="py-3 px-4 text-xs">${typeBadge(c.contributor_type)}</td>
+                </tr>
+            `).join('');
+        }
+    }
+
+    const countEl = document.getElementById('receipt-count');
+    if (countEl) countEl.textContent = `${all.length.toLocaleString()} total`;
+
+    const info = document.getElementById('receipt-pagination-info');
+    if (info) {
+        const start = (page - 1) * PER_PAGE + 1;
+        const end = Math.min(page * PER_PAGE, totalItems);
+        info.textContent = totalItems > 0 ? `Showing ${start}–${end} of ${totalItems.toLocaleString()}` : '';
+    }
+
+    const prevBtn = document.getElementById('receipt-prev-btn');
+    const nextBtn = document.getElementById('receipt-next-btn');
+    if (prevBtn) prevBtn.disabled = page <= 1;
+    if (nextBtn) nextBtn.disabled = page >= totalPages;
+
+    updateReceiptSortIndicators();
+}
+
+function updateReceiptSortIndicators() {
+    document.querySelectorAll('[data-receipt-sort]').forEach(th => {
+        const field = th.dataset.receiptSort;
+        const indicator = th.querySelector('.receipt-sort-indicator');
+        if (!indicator) return;
+        indicator.textContent = field === receiptSortField
+            ? (receiptSortDir === 'desc' ? ' ↓' : ' ↑')
+            : '';
+    });
+}
+
 function attachListeners() {
     document.querySelectorAll('[data-sort]').forEach(th => {
         th.addEventListener('click', () => {
@@ -208,6 +316,30 @@ function attachListeners() {
         const sorted = sortContributions(committee.contributions || []);
         const { totalPages } = paginate(sorted, { page: contribPage, perPage: PER_PAGE });
         if (contribPage < totalPages) { contribPage++; renderContributions(); }
+    });
+
+    // Receipt table sort headers
+    document.querySelectorAll('[data-receipt-sort]').forEach(th => {
+        th.addEventListener('click', () => {
+            const field = th.dataset.receiptSort;
+            if (receiptSortField === field) {
+                receiptSortDir = receiptSortDir === 'desc' ? 'asc' : 'desc';
+            } else {
+                receiptSortField = field;
+                receiptSortDir = 'desc';
+            }
+            receiptPage = 1;
+            renderReceiptRows();
+        });
+    });
+
+    document.getElementById('receipt-prev-btn')?.addEventListener('click', () => {
+        if (receiptPage > 1) { receiptPage--; renderReceiptRows(); }
+    });
+    document.getElementById('receipt-next-btn')?.addEventListener('click', () => {
+        const all = committee.receipts?.contributions || [];
+        const { totalPages } = paginate(all, { page: receiptPage, perPage: PER_PAGE });
+        if (receiptPage < totalPages) { receiptPage++; renderReceiptRows(); }
     });
 }
 
@@ -258,6 +390,18 @@ function formatYearMonth(ym) {
     const [year, month] = ym.split('-');
     const d = new Date(Number(year), Number(month) - 1, 1);
     return d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+}
+
+function typeBadge(type) {
+    if (!type) return '—';
+    const colorMap = {
+        individual: 'bg-blue-900 text-blue-300',
+        corporate: 'bg-amber-900 text-amber-300',
+        committee: 'bg-purple-900 text-purple-300',
+        unitemized: 'bg-gray-700 text-gray-400',
+    };
+    const cls = colorMap[type] || 'bg-gray-700 text-gray-300';
+    return `<span class="inline-block px-2 py-0.5 rounded text-xs ${cls}">${escapeHtml(type)}</span>`;
 }
 
 function sizeBadge(size) {
