@@ -65,7 +65,7 @@ function attachListeners() {
     });
 }
 
-const NUMERIC_FIELDS = new Set(['total_given', 'total_contributions', 'candidates_supported']);
+const NUMERIC_FIELDS = new Set(['total_given', 'total_contributions', 'receipts_contributions', 'candidates_supported']);
 
 function sortCommittees(list) {
     return [...list].sort((a, b) => {
@@ -104,7 +104,7 @@ function renderTable(items) {
     if (!tbody) return;
 
     if (items.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="4" class="py-10 text-center text-gray-500">No committees match your search.</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="5" class="py-10 text-center text-gray-500">No committees match your search.</td></tr>`;
         return;
     }
 
@@ -119,6 +119,7 @@ function renderTable(items) {
             </td>
             <td class="py-3 px-4 text-right font-mono text-green-400">${formatCurrency(c.total_given)}</td>
             <td class="py-3 px-4 text-right text-gray-300">${c.total_contributions.toLocaleString()}</td>
+            <td class="py-3 px-4 text-right text-gray-300">${(c.receipts_contributions ?? 0).toLocaleString()}</td>
             <td class="py-3 px-4 text-right text-gray-300">${c.candidates_supported.toLocaleString()}</td>
         </tr>
     `).join('');

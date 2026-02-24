@@ -615,6 +615,7 @@ async function generateCommitteeSummaries(allContributions) {
             total_given: totalGiven,
             total_contributions: contribs.length,
             candidates_supported: candidatesSupported.size,
+            receipts_contributions: receipts ? receipts.total_contributions : 0,
         });
     }
 

@@ -73,7 +73,10 @@
                 Total Donated<span class="sort-indicator text-blue-400"> ↓</span>
               </th>
               <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="total_contributions">
-                # Contributions<span class="sort-indicator text-blue-400"></span>
+                # Contributions Given<span class="sort-indicator text-blue-400"></span>
+              </th>
+              <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="receipts_contributions">
+                # Contributions Received<span class="sort-indicator text-blue-400"></span>
               </th>
               <th class="py-3 px-4 text-right text-gray-400 font-medium cursor-pointer select-none hover:text-white transition-colors" data-sort="candidates_supported">
                 # Candidates Supported<span class="sort-indicator text-blue-400"></span>
@@ -81,7 +84,7 @@
             </tr>
           </thead>
           <tbody id="committees-body">
-            <tr><td colspan="4" class="py-10 text-center text-gray-500">Loading…</td></tr>
+            <tr><td colspan="5" class="py-10 text-center text-gray-500">Loading…</td></tr>
           </tbody>
         </table>
       </div>
@@ -107,8 +110,8 @@
     <aside class="mt-6 text-xs text-gray-500 max-w-2xl">
       <strong class="text-gray-400">Data note:</strong>
       Shows PACs, party funds, and caucus committees that made contributions to Indiana candidates.
-      This view reflects outgoing donations only — what each committee gave to candidates.
-      Incoming committee receipts (donors to the committee) are not yet tracked.
+      "# Contributions Given" counts outgoing donations to candidates;
+      "# Contributions Received" counts itemized receipts from donors to the committee.
     </aside>
 
   </main>
