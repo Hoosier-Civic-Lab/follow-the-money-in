@@ -1,0 +1,92 @@
+{
+  "id": "the-cigna-group-employees-pac",
+  "name": "The Cigna Group Employees PAC",
+  "totals": {
+    "total_given": "4000.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 3,
+      "total": "4000.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 3,
+      "total": "4000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "matthew-scott-lehman",
+      "name": "Matthew Scott Lehman",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "heath-randall-van-natter",
+      "name": "Heath Randall Van Natter",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "peggy-mayfield",
+      "name": "Peggy Mayfield",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816502-59787",
+      "date": "2025-10-27 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "The Cigna Group Employees PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Philadelphia",
+      "address_state": "PA",
+      "address_zip": "19192",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816503-60129",
+      "date": "2025-10-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Heath Randall Van Natter",
+      "contributor_name": "The Cigna Group Employees PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Philadelphia",
+      "address_state": "IN",
+      "address_zip": "19192",
+      "recipient_committee": "Committee to Elect Heath VanNatter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816509-62288",
+      "date": "2025-10-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Peggy Mayfield",
+      "contributor_name": "The Cigna Group Employees Pac",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Philadelphia",
+      "address_state": "PA",
+      "address_zip": "19192",
+      "recipient_committee": "The Mayfield Campaign",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

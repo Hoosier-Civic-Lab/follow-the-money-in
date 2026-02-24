@@ -1,0 +1,96 @@
+{
+  "id": "ideas-pac",
+  "name": "IDEAS PAC",
+  "totals": {
+    "total_given": "1300.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 3,
+      "total": "1300.00"
+    }
+  },
+  "by_month": {
+    "2025-09": {
+      "count": 2,
+      "total": "800.00"
+    },
+    "2025-10": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "james-r-buck",
+      "name": "JAMES R BUCK",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "jeffrey-s-raatz",
+      "name": "Jeffrey S Raatz",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "r-michael-young",
+      "name": "R Michael Young",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816426-10665",
+      "date": "2025-09-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "R Michael Young",
+      "contributor_name": "IDEAS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Richard Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816452-24367",
+      "date": "2025-10-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "JAMES R BUCK",
+      "contributor_name": "IDEAS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Citizens for Buck",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816518-73086",
+      "date": "2025-09-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jeffrey S Raatz",
+      "contributor_name": "IDEAS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Raatz for Indiana State Senate Committee",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

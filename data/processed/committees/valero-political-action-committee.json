@@ -1,0 +1,112 @@
+{
+  "id": "valero-political-action-committee",
+  "name": "Valero Political Action Committee",
+  "totals": {
+    "total_given": "2600.00",
+    "total_contributions": 4,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 2,
+      "total": "1300.00"
+    },
+    "2025-08": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-09": {
+      "count": 1,
+      "total": "300.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "matthew-scott-lehman",
+      "name": "Matthew Scott Lehman",
+      "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "wendy-marie-mcnamara",
+      "name": "Wendy Marie McNamara",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816422-5243",
+      "date": "2025-10-15 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Valero Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78269",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816425-9793",
+      "date": "2025-08-22 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Valero Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78269",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816502-59791",
+      "date": "2025-10-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "Valero Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78269",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816503-60232",
+      "date": "2025-09-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy Marie McNamara",
+      "contributor_name": "Valero Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78269",
+      "recipient_committee": "Wendy McNamara for State Representative",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

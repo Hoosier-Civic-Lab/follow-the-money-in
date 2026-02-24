@@ -1,0 +1,96 @@
+{
+  "id": "ifca-pac",
+  "name": "IFCA PAC",
+  "totals": {
+    "total_given": "1550.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 3,
+      "total": "1550.00"
+    }
+  },
+  "by_month": {
+    "2025-07": {
+      "count": 2,
+      "total": "1050.00"
+    },
+    "2025-08": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "stephen-russel-bartels",
+      "name": "Stephen Russel Bartels",
+      "total": "750.00",
+      "count": 1
+    },
+    {
+      "id": "kyle-walker",
+      "name": "KYLE WALKER",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "james-a-zimmerman",
+      "name": "James A Zimmerman",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816520-76201",
+      "date": "2025-07-24 00:00:00",
+      "amount": 750,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IFCA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816528-82639",
+      "date": "2025-08-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "KYLE WALKER",
+      "contributor_name": "IFCA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "WALKER FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816537-87468",
+      "date": "2025-07-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "James A Zimmerman",
+      "contributor_name": "IFCA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Alex Zimmerman for Indiana",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

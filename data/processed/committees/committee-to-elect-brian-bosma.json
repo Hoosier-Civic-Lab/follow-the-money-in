@@ -1,0 +1,93 @@
+{
+  "id": "committee-to-elect-brian-bosma",
+  "name": "Committee to Elect Brian Bosma",
+  "totals": {
+    "total_given": "13500.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "3500.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
+    }
+  },
+  "by_month": {
+    "2025-07": {
+      "count": 1,
+      "total": "2500.00"
+    },
+    "2025-09": {
+      "count": 2,
+      "total": "11000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "kyle-walker",
+      "name": "KYLE WALKER",
+      "total": "2500.00",
+      "count": 1
+    },
+    {
+      "id": "elise-nieshalla",
+      "name": "Elise Nieshalla",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816528-82585",
+      "date": "2025-07-17 00:00:00",
+      "amount": 2500,
+      "candidate_name": "KYLE WALKER",
+      "contributor_name": "Committee to Elect Brian Bosma",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "WALKER FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816530-83912",
+      "date": "2025-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Committee to Elect Brian Bosma",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816537-88029",
+      "date": "2025-09-09 00:00:00",
+      "amount": 10000,
+      "contributor_name": "COMMITTEE TO ELECT BRIAN BOSMA",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

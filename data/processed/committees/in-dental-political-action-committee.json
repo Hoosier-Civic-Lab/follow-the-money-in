@@ -1,0 +1,70 @@
+{
+  "id": "in-dental-political-action-committee",
+  "name": "IN Dental Political Action Committee",
+  "totals": {
+    "total_given": "3000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "3000.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 2,
+      "total": "3000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "ryan-douglas-mishler",
+      "name": "Ryan Douglas Mishler",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "robert-allen-heaton",
+      "name": "Robert Allen Heaton",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816459-28679",
+      "date": "2025-10-30 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Ryan Douglas Mishler",
+      "contributor_name": "IN Dental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Mishler for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816501-59489",
+      "date": "2025-10-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "IN Dental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

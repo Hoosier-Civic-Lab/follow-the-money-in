@@ -1,0 +1,67 @@
+{
+  "id": "nfib-indiana-political-action-committee",
+  "name": "NFIB Indiana Political Action Committee",
+  "totals": {
+    "total_given": "850.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "850.00"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 1,
+      "total": "350.00"
+    },
+    "2025-07": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816422-6005",
+      "date": "2025-12-16 00:00:00",
+      "amount": 350,
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816520-75472",
+      "date": "2025-07-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

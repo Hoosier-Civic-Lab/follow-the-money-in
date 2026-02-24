@@ -1,0 +1,104 @@
+{
+  "id": "indiana-firefighter-pac",
+  "name": "Indiana Firefighter PAC",
+  "totals": {
+    "total_given": "2500.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-07": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-06": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "charles-alva-moseley",
+      "name": "Charles Alva Moseley",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-nathan-judy",
+      "name": "Christopher Nathan Judy",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "jack-jordan",
+      "name": "Jack Jordan",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816500-59407",
+      "date": "2025-10-31 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "Indiana Firefighter PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46885-5735",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816518-73164",
+      "date": "2025-07-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher Nathan Judy",
+      "contributor_name": "Indiana Firefighter PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46885",
+      "recipient_committee": "Christopher Judy for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816518-73689",
+      "date": "2025-06-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jack Jordan",
+      "contributor_name": "indiana firefighter PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Jack Jordan",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

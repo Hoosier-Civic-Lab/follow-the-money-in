@@ -1,0 +1,180 @@
+{
+  "id": "arcwood-environmental-political-action-committee",
+  "name": "Arcwood Environmental Political Action Committee",
+  "totals": {
+    "total_given": "9000.00",
+    "total_contributions": 5,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 4,
+      "total": "8500.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2025-10": {
+      "count": 3,
+      "total": "3500.00"
+    },
+    "2025-09": {
+      "count": 2,
+      "total": "5500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "jason-beau-baird",
+      "name": "Jason Beau Baird",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "shelli-renee-yoder",
+      "name": "Shelli Renee Yoder",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816421-5089",
+      "date": "2025-10-02 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Arcwood Environmental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816506-61515",
+      "date": "2025-10-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Arcwood Environmental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816521-76571",
+      "date": "2025-10-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jason Beau Baird",
+      "contributor_name": "Arcwood Environmental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Beau Baird",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816521-77460",
+      "date": "2025-09-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Shelli Renee Yoder",
+      "contributor_name": "Arcwood Environmental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Shelli Yoder",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816537-88016",
+      "date": "2025-09-03 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Arcwood Environmental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
+      "source": "indiana"
+    }
+  ],
+  "receipts": {
+    "total_raised": "20000.00",
+    "total_contributions": 2,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "corporate": {
+        "count": 2,
+        "total": "20000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Heritage Environmental Services LLC n/k/a Arcwood Environmental, LLC",
+        "type": "corporate",
+        "total": "20000.00",
+        "count": 2
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771904816535-85827",
+        "date": "2025-06-03 00:00:00",
+        "amount": 10000,
+        "contributor_name": "Heritage Environmental Services LLC n/k/a Arcwood Environmental, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46278",
+        "recipient_committee": "Arcwood Environmental Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1771904816535-85828",
+        "date": "2025-09-29 00:00:00",
+        "amount": 10000,
+        "contributor_name": "Heritage Environmental Services LLC n/k/a Arcwood Environmental, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46278",
+        "recipient_committee": "Arcwood Environmental Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
+}

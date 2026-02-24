@@ -1,0 +1,131 @@
+{
+  "id": "aci-pac",
+  "name": "ACI PAC",
+  "totals": {
+    "total_given": "1000.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 3,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2025-08": {
+      "count": 2,
+      "total": "500.00"
+    },
+    "2025-11": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "jacob-louis-teshka",
+      "name": "Jacob Louis Teshka",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "david-lee-niezgodski",
+      "name": "David Lee Niezgodski",
+      "total": "250.00",
+      "count": 1
+    },
+    {
+      "id": "maureen-anne-bauer",
+      "name": "Maureen Anne Bauer",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816519-74177",
+      "date": "2025-08-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "David Lee Niezgodski",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "David Niezgodski for Senate District 10",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816521-77273",
+      "date": "2025-11-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816522-77869",
+      "date": "2025-08-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Maureen Anne Bauer",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Maureen Bauer for State Representative",
+      "source": "indiana"
+    }
+  ],
+  "receipts": {
+    "total_raised": "5000.00",
+    "total_contributions": 1,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 1,
+        "total": "5000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Daryl S Knip",
+        "type": "individual",
+        "total": "5000.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1771904816522-78061",
+        "date": "2025-10-28 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Daryl S Knip",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46601",
+        "recipient_committee": "ACI PAC",
+        "source": "indiana"
+      }
+    ]
+  }
+}

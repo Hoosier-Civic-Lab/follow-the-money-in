@@ -1,0 +1,123 @@
+{
+  "id": "optometry-pac",
+  "name": "Optometry PAC",
+  "totals": {
+    "total_given": "2300.00",
+    "total_contributions": 4,
+    "candidates_supported": 3
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "medium": {
+      "count": 3,
+      "total": "1300.00"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-09": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2025-11": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2025-10": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "matthew-douglas-hostettler",
+      "name": "Matthew Douglas Hostettler",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "tyler-guthrie-johnson",
+      "name": "Tyler Guthrie Johnson",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "lonnie-m-randolph",
+      "name": "Lonnie M. Randolph",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816422-5541",
+      "date": "2025-12-09 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Optometry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816502-59806",
+      "date": "2025-09-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lonnie M. Randolph",
+      "contributor_name": "Optometry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Committee to Elect Attorney Lonnie M. Randolph",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816520-76138",
+      "date": "2025-11-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Matthew Douglas Hostettler",
+      "contributor_name": "Optometry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Friends of Matt Hostettler",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816529-83302",
+      "date": "2025-10-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tyler Guthrie Johnson",
+      "contributor_name": "Optometry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

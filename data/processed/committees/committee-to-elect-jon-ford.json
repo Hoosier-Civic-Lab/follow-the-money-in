@@ -1,0 +1,71 @@
+{
+  "id": "committee-to-elect-jon-ford",
+  "name": "Committee to Elect Jon Ford",
+  "totals": {
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2025-03": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "2025-10": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "robert-allen-heaton",
+      "name": "Robert Allen Heaton",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816411-34",
+      "date": "2025-03-11 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Committee to Elect Jon Ford",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Indiana Republican State Committee, Inc",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816501-59463",
+      "date": "2025-10-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Committee to Elect Jon Ford",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

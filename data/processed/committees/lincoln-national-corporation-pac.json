@@ -1,0 +1,93 @@
+{
+  "id": "lincoln-national-corporation-pac",
+  "name": "Lincoln National Corporation PAC",
+  "totals": {
+    "total_given": "2500.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2025-12": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2025-10": {
+      "count": 2,
+      "total": "1500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "scott-a-baldwin",
+      "name": "Scott A. Baldwin",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "matthew-scott-lehman",
+      "name": "Matthew Scott Lehman",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1771904816422-5537",
+      "date": "2025-12-09 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Lincoln National Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46801",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816502-59777",
+      "date": "2025-10-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "Lincoln National Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft. Wayne",
+      "address_state": "IN",
+      "address_zip": "46801",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1771904816521-77414",
+      "date": "2025-10-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott A. Baldwin",
+      "contributor_name": "Lincoln National Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46801",
+      "recipient_committee": "Vote Baldwin",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}
