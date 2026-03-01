@@ -2,17 +2,21 @@
   "id": "committee-to-elect-gahan",
   "name": "Committee to Elect Gahan",
   "totals": {
-    "total_given": "100.00",
-    "total_contributions": 1,
+    "total_given": "750.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "100.00"
+      "count": 2,
+      "total": "750.00"
     }
   },
   "by_month": {
+    "2025-08": {
+      "count": 1,
+      "total": "650.00"
+    },
     "2025-03": {
       "count": 1,
       "total": "100.00"
@@ -21,7 +25,22 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1771904816459-29369",
+      "id": "contrib-1772339239432-6372",
+      "date": "2025-08-18 00:00:00",
+      "amount": 650,
+      "contributor_name": "Committee to Elect Gahan",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Indiana Ninth Congressional District Democrat Central Com.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239474-32851",
       "date": "2025-03-01 00:00:00",
       "amount": 100,
       "contributor_name": "Committee to Elect Gahan",
