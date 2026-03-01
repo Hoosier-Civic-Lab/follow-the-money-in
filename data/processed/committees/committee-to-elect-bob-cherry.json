@@ -1,0 +1,76 @@
+{
+  "id": "committee-to-elect-bob-cherry",
+  "name": "Committee to Elect Bob Cherry",
+  "totals": {
+    "total_given": "1500.00",
+    "total_contributions": 1,
+    "candidates_supported": 0
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1500.00"
+    }
+  },
+  "by_month": {
+    "2025-08": {
+      "count": 1,
+      "total": "1500.00"
+    }
+  },
+  "top_recipients": [],
+  "contributions": [
+    {
+      "id": "contrib-1772339239551-88130",
+      "date": "2025-08-11 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Committee to Elect Bob Cherry",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Palestine",
+      "address_state": "IN",
+      "address_zip": "46163",
+      "recipient_committee": "Hancock County Republican Party",
+      "source": "indiana"
+    }
+  ],
+  "receipts": {
+    "total_raised": "0.97",
+    "total_contributions": 1,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 1,
+        "total": "0.97"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Greenfield Banking",
+        "type": "individual",
+        "total": "0.97",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1772339239470-27721",
+        "date": "2025-12-31 00:00:00",
+        "amount": 0.97,
+        "candidate_name": "ROBERT W. CHERRY",
+        "contributor_name": "Greenfield Banking",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenfield",
+        "address_state": "IN",
+        "address_zip": "46140",
+        "recipient_committee": "COMMITTEE TO ELECT BOB CHERRY",
+        "source": "indiana"
+      }
+    ]
+  }
+}

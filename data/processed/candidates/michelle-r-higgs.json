@@ -6,12 +6,16 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "6543.71",
-    "total_contributions": 52,
+    "total_raised": "6684.88",
+    "total_contributions": 53,
     "total_itemized": 52,
-    "total_unitemized": 0
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "141.17"
+    },
     "individual": {
       "count": 51,
       "total": "6293.71"
@@ -23,8 +27,8 @@
   },
   "by_contribution_size": {
     "medium": {
-      "count": 22,
-      "total": "5078.85"
+      "count": 23,
+      "total": "5220.02"
     },
     "small": {
       "count": 30,
@@ -32,6 +36,10 @@
     }
   },
   "by_month": {
+    "2025-12": {
+      "count": 7,
+      "total": "938.88"
+    },
     "2025-10": {
       "count": 11,
       "total": "1453.79"
@@ -39,10 +47,6 @@
     "2025-11": {
       "count": 12,
       "total": "2124.23"
-    },
-    "2025-12": {
-      "count": 6,
-      "total": "797.71"
     },
     "2025-06": {
       "count": 5,
@@ -71,7 +75,23 @@
   },
   "contributions": [
     {
-      "id": "contrib-1771904816538-88618",
+      "id": "contrib-1772339239557-94114",
+      "date": "2025-12-31 00:00:00",
+      "amount": 141.17,
+      "candidate_name": "Michelle R Higgs",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Michelle Higgs",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239557-94115",
       "date": "2025-10-15 00:00:00",
       "amount": 200,
       "candidate_name": "Michelle R Higgs",
@@ -87,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88619",
+      "id": "contrib-1772339239557-94116",
       "date": "2025-11-17 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -103,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88620",
+      "id": "contrib-1772339239557-94117",
       "date": "2025-11-17 00:00:00",
       "amount": 50,
       "candidate_name": "Michelle R Higgs",
@@ -119,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88621",
+      "id": "contrib-1772339239557-94118",
       "date": "2025-11-17 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -135,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88622",
+      "id": "contrib-1772339239557-94119",
       "date": "2025-11-15 00:00:00",
       "amount": 50,
       "candidate_name": "Michelle R Higgs",
@@ -151,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88623",
+      "id": "contrib-1772339239557-94120",
       "date": "2025-10-15 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -167,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88624",
+      "id": "contrib-1772339239557-94121",
       "date": "2025-10-15 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -183,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88625",
+      "id": "contrib-1772339239557-94122",
       "date": "2025-10-15 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -199,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88626",
+      "id": "contrib-1772339239557-94123",
       "date": "2025-11-17 00:00:00",
       "amount": 40,
       "candidate_name": "Michelle R Higgs",
@@ -215,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88627",
+      "id": "contrib-1772339239557-94124",
       "date": "2025-12-30 00:00:00",
       "amount": 500,
       "candidate_name": "Michelle R Higgs",
@@ -231,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88628",
+      "id": "contrib-1772339239557-94125",
       "date": "2025-11-30 00:00:00",
       "amount": 500,
       "candidate_name": "Michelle R Higgs",
@@ -247,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88629",
+      "id": "contrib-1772339239557-94126",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Michelle R Higgs",
@@ -263,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88630",
+      "id": "contrib-1772339239557-94127",
       "date": "2025-11-17 00:00:00",
       "amount": 100,
       "candidate_name": "Michelle R Higgs",
@@ -279,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88631",
+      "id": "contrib-1772339239557-94128",
       "date": "2025-11-15 00:00:00",
       "amount": 180,
       "candidate_name": "Michelle R Higgs",
@@ -295,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88632",
+      "id": "contrib-1772339239557-94129",
       "date": "2025-06-04 00:00:00",
       "amount": 50,
       "candidate_name": "Michelle R Higgs",
@@ -311,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88633",
+      "id": "contrib-1772339239557-94130",
       "date": "2025-11-17 00:00:00",
       "amount": 500,
       "candidate_name": "Michelle R Higgs",
@@ -327,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88634",
+      "id": "contrib-1772339239557-94131",
       "date": "2025-03-20 00:00:00",
       "amount": 250,
       "candidate_name": "Michelle R Higgs",
@@ -343,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88635",
+      "id": "contrib-1772339239557-94132",
       "date": "2025-10-03 00:00:00",
       "amount": 4.8,
       "candidate_name": "Michelle R Higgs",
@@ -359,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88636",
+      "id": "contrib-1772339239557-94133",
       "date": "2025-08-13 00:00:00",
       "amount": 9.6,
       "candidate_name": "Michelle R Higgs",
@@ -375,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88637",
+      "id": "contrib-1772339239557-94134",
       "date": "2025-05-29 00:00:00",
       "amount": 14.4,
       "candidate_name": "Michelle R Higgs",
@@ -391,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88638",
+      "id": "contrib-1772339239557-94135",
       "date": "2025-07-30 00:00:00",
       "amount": 19.21,
       "candidate_name": "Michelle R Higgs",
@@ -407,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88639",
+      "id": "contrib-1772339239557-94136",
       "date": "2025-07-16 00:00:00",
       "amount": 24.01,
       "candidate_name": "Michelle R Higgs",
@@ -423,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88640",
+      "id": "contrib-1772339239557-94137",
       "date": "2025-08-20 00:00:00",
       "amount": 24.01,
       "candidate_name": "Michelle R Higgs",
@@ -439,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88641",
+      "id": "contrib-1772339239557-94138",
       "date": "2025-09-17 00:00:00",
       "amount": 24.01,
       "candidate_name": "Michelle R Higgs",
@@ -455,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88642",
+      "id": "contrib-1772339239557-94139",
       "date": "2025-12-17 00:00:00",
       "amount": 24.01,
       "candidate_name": "Michelle R Higgs",
@@ -471,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88643",
+      "id": "contrib-1772339239557-94140",
       "date": "2025-10-08 00:00:00",
       "amount": 26.4,
       "candidate_name": "Michelle R Higgs",
@@ -487,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88644",
+      "id": "contrib-1772339239557-94141",
       "date": "2025-07-09 00:00:00",
       "amount": 33.6,
       "candidate_name": "Michelle R Higgs",
@@ -503,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88645",
+      "id": "contrib-1772339239557-94142",
       "date": "2025-12-10 00:00:00",
       "amount": 33.6,
       "candidate_name": "Michelle R Higgs",
@@ -519,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88646",
+      "id": "contrib-1772339239557-94143",
       "date": "2025-09-24 00:00:00",
       "amount": 48.01,
       "candidate_name": "Michelle R Higgs",
@@ -535,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88647",
+      "id": "contrib-1772339239557-94144",
       "date": "2025-06-18 00:00:00",
       "amount": 48.02,
       "candidate_name": "Michelle R Higgs",
@@ -551,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88648",
+      "id": "contrib-1772339239557-94145",
       "date": "2025-07-02 00:00:00",
       "amount": 48.02,
       "candidate_name": "Michelle R Higgs",
@@ -567,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88649",
+      "id": "contrib-1772339239557-94146",
       "date": "2025-09-04 00:00:00",
       "amount": 48.02,
       "candidate_name": "Michelle R Higgs",
@@ -583,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88650",
+      "id": "contrib-1772339239557-94147",
       "date": "2025-08-27 00:00:00",
       "amount": 57.62,
       "candidate_name": "Michelle R Higgs",
@@ -599,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88651",
+      "id": "contrib-1772339239557-94148",
       "date": "2025-12-24 00:00:00",
       "amount": 57.62,
       "candidate_name": "Michelle R Higgs",
@@ -615,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88652",
+      "id": "contrib-1772339239557-94149",
       "date": "2025-07-23 00:00:00",
       "amount": 62.42,
       "candidate_name": "Michelle R Higgs",
@@ -631,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88653",
+      "id": "contrib-1772339239557-94150",
       "date": "2025-10-29 00:00:00",
       "amount": 67.23,
       "candidate_name": "Michelle R Higgs",
@@ -647,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88654",
+      "id": "contrib-1772339239557-94151",
       "date": "2025-09-10 00:00:00",
       "amount": 72.02,
       "candidate_name": "Michelle R Higgs",
@@ -663,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88655",
+      "id": "contrib-1772339239557-94152",
       "date": "2025-06-04 00:00:00",
       "amount": 72.03,
       "candidate_name": "Michelle R Higgs",
@@ -679,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88656",
+      "id": "contrib-1772339239557-94153",
       "date": "2025-06-25 00:00:00",
       "amount": 86.43,
       "candidate_name": "Michelle R Higgs",
@@ -695,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88657",
+      "id": "contrib-1772339239557-94154",
       "date": "2025-10-01 00:00:00",
       "amount": 91.24,
       "candidate_name": "Michelle R Higgs",
@@ -711,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88658",
+      "id": "contrib-1772339239557-94155",
       "date": "2025-12-03 00:00:00",
       "amount": 91.24,
       "candidate_name": "Michelle R Higgs",
@@ -727,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88659",
+      "id": "contrib-1772339239557-94156",
       "date": "2025-12-31 00:00:00",
       "amount": 91.24,
       "candidate_name": "Michelle R Higgs",
@@ -743,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88660",
+      "id": "contrib-1772339239557-94157",
       "date": "2025-05-07 00:00:00",
       "amount": 96.05,
       "candidate_name": "Michelle R Higgs",
@@ -759,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88661",
+      "id": "contrib-1772339239557-94158",
       "date": "2025-10-16 00:00:00",
       "amount": 105.65,
       "candidate_name": "Michelle R Higgs",
@@ -775,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88662",
+      "id": "contrib-1772339239557-94159",
       "date": "2025-11-13 00:00:00",
       "amount": 105.65,
       "candidate_name": "Michelle R Higgs",
@@ -791,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88663",
+      "id": "contrib-1772339239557-94160",
       "date": "2025-11-05 00:00:00",
       "amount": 110.44,
       "candidate_name": "Michelle R Higgs",
@@ -807,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88664",
+      "id": "contrib-1772339239557-94161",
       "date": "2025-06-11 00:00:00",
       "amount": 120.04,
       "candidate_name": "Michelle R Higgs",
@@ -823,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88665",
+      "id": "contrib-1772339239557-94162",
       "date": "2025-10-22 00:00:00",
       "amount": 158.47,
       "candidate_name": "Michelle R Higgs",
@@ -839,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88666",
+      "id": "contrib-1772339239557-94163",
       "date": "2025-08-06 00:00:00",
       "amount": 216.09,
       "candidate_name": "Michelle R Higgs",
@@ -855,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88667",
+      "id": "contrib-1772339239557-94164",
       "date": "2025-05-21 00:00:00",
       "amount": 288.14,
       "candidate_name": "Michelle R Higgs",
@@ -871,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88668",
+      "id": "contrib-1772339239557-94165",
       "date": "2025-11-19 00:00:00",
       "amount": 288.14,
       "candidate_name": "Michelle R Higgs",
@@ -887,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816538-88669",
+      "id": "contrib-1772339239557-94166",
       "date": "2025-05-14 00:00:00",
       "amount": 456.23,
       "candidate_name": "Michelle R Higgs",

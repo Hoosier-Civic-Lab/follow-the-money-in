@@ -2,20 +2,24 @@
   "id": "family-express-pac",
   "name": "Family Express PAC",
   "totals": {
-    "total_given": "1200.00",
-    "total_contributions": 1,
+    "total_given": "6200.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1200.00"
+      "count": 2,
+      "total": "6200.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "1200.00"
+    },
+    "2025-04": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
@@ -28,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771904816453-25402",
+      "id": "contrib-1772339239470-27828",
       "date": "2025-07-18 00:00:00",
       "amount": 1200,
       "candidate_name": "Ronnie J. Alting",
@@ -41,6 +45,21 @@
       "address_state": "IN",
       "address_zip": "46383",
       "recipient_committee": "Ron Alting For State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239472-30328",
+      "date": "2025-04-04 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Family Express PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valpraraiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Porter County Republican Central Committee",
       "source": "indiana"
     }
   ],

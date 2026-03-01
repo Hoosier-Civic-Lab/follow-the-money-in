@@ -2,14 +2,18 @@
   "id": "todd-rokita-election-committee",
   "name": "Todd Rokita Election Committee",
   "totals": {
-    "total_given": "50600.00",
-    "total_contributions": 3,
+    "total_given": "51900.00",
+    "total_contributions": 5,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "600.00"
+      "count": 3,
+      "total": "900.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     },
     "mega": {
       "count": 1,
@@ -17,13 +21,17 @@
     }
   },
   "by_month": {
+    "2025-04": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2025-09": {
+      "count": 2,
+      "total": "1500.00"
+    },
     "2025-05": {
       "count": 1,
       "total": "100.00"
-    },
-    "2025-09": {
-      "count": 1,
-      "total": "500.00"
     },
     "2025-12": {
       "count": 1,
@@ -32,15 +40,45 @@
   },
   "top_recipients": [
     {
-      "id": "vogt-edward-darren",
-      "name": "Vogt Edward Darren",
+      "id": "darren-edward-vogt",
+      "name": "Darren Edward Vogt",
       "total": "50000.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1771904816504-60691",
+      "id": "contrib-1772339239472-30320",
+      "date": "2025-04-18 00:00:00",
+      "amount": 300,
+      "contributor_name": "Todd Rokita Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Porter County Republican Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239474-32767",
+      "date": "2025-09-25 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Todd Rokita Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hendricks County Republican Party",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239524-64733",
       "date": "2025-05-12 00:00:00",
       "amount": 100,
       "contributor_name": "Todd Rokita Election Committee",
@@ -55,7 +93,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816536-87040",
+      "id": "contrib-1772339239555-92090",
       "date": "2025-09-12 00:00:00",
       "amount": 500,
       "contributor_name": "Todd Rokita Election Committee",
@@ -70,10 +108,10 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816541-92371",
+      "id": "contrib-1772339239564-97998",
       "date": "2025-12-05 00:00:00",
       "amount": 50000,
-      "candidate_name": "Vogt Edward Darren",
+      "candidate_name": "Darren Edward Vogt",
       "contributor_name": "Todd Rokita Election Committee",
       "contributor_type": "committee",
       "contribution_size": "mega",
@@ -172,7 +210,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1771904816454-26808",
+        "id": "contrib-1772339239471-29930",
         "date": "2025-05-09 00:00:00",
         "amount": 0.01,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -188,7 +226,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26809",
+        "id": "contrib-1772339239471-29931",
         "date": "2025-05-19 00:00:00",
         "amount": 1,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -204,7 +242,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26810",
+        "id": "contrib-1772339239471-29932",
         "date": "2025-01-06 00:00:00",
         "amount": 5,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -220,7 +258,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26811",
+        "id": "contrib-1772339239471-29933",
         "date": "2025-01-06 00:00:00",
         "amount": 25,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -236,7 +274,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26812",
+        "id": "contrib-1772339239471-29934",
         "date": "2025-12-31 00:00:00",
         "amount": 4286.35,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -252,7 +290,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26813",
+        "id": "contrib-1772339239471-29935",
         "date": "2025-12-31 00:00:00",
         "amount": 25,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -268,7 +306,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26814",
+        "id": "contrib-1772339239471-29936",
         "date": "2025-12-31 00:00:00",
         "amount": 100,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -284,7 +322,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26815",
+        "id": "contrib-1772339239471-29937",
         "date": "2025-12-31 00:00:00",
         "amount": 80,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -300,7 +338,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26816",
+        "id": "contrib-1772339239471-29938",
         "date": "2025-05-19 00:00:00",
         "amount": 78.27,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -316,7 +354,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26817",
+        "id": "contrib-1772339239471-29939",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -332,7 +370,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26818",
+        "id": "contrib-1772339239471-29940",
         "date": "2025-06-09 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -348,7 +386,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26819",
+        "id": "contrib-1772339239471-29941",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -364,7 +402,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26820",
+        "id": "contrib-1772339239471-29942",
         "date": "2025-10-14 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -380,7 +418,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26821",
+        "id": "contrib-1772339239471-29943",
         "date": "2025-12-31 00:00:00",
         "amount": 409.88,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -396,7 +434,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26822",
+        "id": "contrib-1772339239471-29944",
         "date": "2025-06-10 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -412,7 +450,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26823",
+        "id": "contrib-1772339239471-29945",
         "date": "2025-08-01 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -428,7 +466,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26824",
+        "id": "contrib-1772339239471-29946",
         "date": "2025-09-19 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -444,7 +482,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26825",
+        "id": "contrib-1772339239471-29947",
         "date": "2025-05-13 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -460,7 +498,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26826",
+        "id": "contrib-1772339239471-29948",
         "date": "2025-09-19 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -476,7 +514,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26827",
+        "id": "contrib-1772339239471-29949",
         "date": "2025-10-03 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -492,7 +530,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26828",
+        "id": "contrib-1772339239471-29950",
         "date": "2025-05-01 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -508,7 +546,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26829",
+        "id": "contrib-1772339239471-29951",
         "date": "2025-10-29 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -524,7 +562,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26830",
+        "id": "contrib-1772339239471-29952",
         "date": "2025-12-19 00:00:00",
         "amount": 125,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -540,7 +578,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26831",
+        "id": "contrib-1772339239471-29953",
         "date": "2025-10-06 00:00:00",
         "amount": 150,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -556,7 +594,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26832",
+        "id": "contrib-1772339239471-29954",
         "date": "2025-11-25 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -572,7 +610,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26833",
+        "id": "contrib-1772339239471-29955",
         "date": "2025-09-04 00:00:00",
         "amount": 200,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -588,7 +626,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26834",
+        "id": "contrib-1772339239471-29956",
         "date": "2025-10-03 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -604,7 +642,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26835",
+        "id": "contrib-1772339239471-29957",
         "date": "2025-05-20 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -620,7 +658,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26836",
+        "id": "contrib-1772339239471-29958",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -636,7 +674,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26837",
+        "id": "contrib-1772339239471-29959",
         "date": "2025-11-26 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -652,7 +690,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26838",
+        "id": "contrib-1772339239471-29960",
         "date": "2025-05-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -668,7 +706,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26839",
+        "id": "contrib-1772339239471-29961",
         "date": "2025-05-13 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -684,7 +722,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26840",
+        "id": "contrib-1772339239471-29962",
         "date": "2025-11-03 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -700,7 +738,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26841",
+        "id": "contrib-1772339239471-29963",
         "date": "2025-08-20 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -716,7 +754,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26842",
+        "id": "contrib-1772339239471-29964",
         "date": "2025-04-26 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -732,7 +770,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26843",
+        "id": "contrib-1772339239471-29965",
         "date": "2025-05-19 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -748,7 +786,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26844",
+        "id": "contrib-1772339239471-29966",
         "date": "2025-10-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -764,7 +802,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26845",
+        "id": "contrib-1772339239471-29967",
         "date": "2025-10-03 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -780,7 +818,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26846",
+        "id": "contrib-1772339239471-29968",
         "date": "2025-10-28 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -796,7 +834,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26847",
+        "id": "contrib-1772339239471-29969",
         "date": "2025-10-29 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -812,7 +850,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26848",
+        "id": "contrib-1772339239471-29970",
         "date": "2025-09-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -828,7 +866,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26849",
+        "id": "contrib-1772339239471-29971",
         "date": "2025-10-29 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -844,7 +882,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26850",
+        "id": "contrib-1772339239471-29972",
         "date": "2025-10-01 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -860,7 +898,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26851",
+        "id": "contrib-1772339239471-29973",
         "date": "2025-10-13 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -876,7 +914,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26852",
+        "id": "contrib-1772339239471-29974",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -892,7 +930,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26853",
+        "id": "contrib-1772339239471-29975",
         "date": "2025-10-03 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -908,7 +946,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26854",
+        "id": "contrib-1772339239471-29976",
         "date": "2025-11-26 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -924,7 +962,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26855",
+        "id": "contrib-1772339239471-29977",
         "date": "2025-05-09 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -940,7 +978,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26856",
+        "id": "contrib-1772339239471-29978",
         "date": "2025-11-26 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -956,7 +994,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26857",
+        "id": "contrib-1772339239471-29979",
         "date": "2025-09-20 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -972,7 +1010,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26858",
+        "id": "contrib-1772339239471-29980",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -988,7 +1026,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26859",
+        "id": "contrib-1772339239471-29981",
         "date": "2025-10-29 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1004,7 +1042,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26860",
+        "id": "contrib-1772339239471-29982",
         "date": "2025-05-13 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1020,7 +1058,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26861",
+        "id": "contrib-1772339239471-29983",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1036,7 +1074,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26862",
+        "id": "contrib-1772339239471-29984",
         "date": "2025-08-20 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1052,7 +1090,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26863",
+        "id": "contrib-1772339239471-29985",
         "date": "2025-10-03 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1068,7 +1106,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26864",
+        "id": "contrib-1772339239471-29986",
         "date": "2025-10-01 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1084,7 +1122,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26865",
+        "id": "contrib-1772339239471-29987",
         "date": "2025-10-29 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1100,7 +1138,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26866",
+        "id": "contrib-1772339239471-29988",
         "date": "2025-10-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1116,7 +1154,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26867",
+        "id": "contrib-1772339239471-29989",
         "date": "2025-07-01 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1132,7 +1170,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26868",
+        "id": "contrib-1772339239471-29990",
         "date": "2025-10-01 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1148,7 +1186,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26869",
+        "id": "contrib-1772339239471-29991",
         "date": "2025-06-05 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1164,7 +1202,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26870",
+        "id": "contrib-1772339239471-29992",
         "date": "2025-09-08 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1180,7 +1218,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26871",
+        "id": "contrib-1772339239471-29993",
         "date": "2025-12-22 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1196,7 +1234,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26872",
+        "id": "contrib-1772339239471-29994",
         "date": "2025-10-29 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1212,7 +1250,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26873",
+        "id": "contrib-1772339239471-29995",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1228,7 +1266,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26874",
+        "id": "contrib-1772339239471-29996",
         "date": "2025-10-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1244,7 +1282,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26875",
+        "id": "contrib-1772339239471-29997",
         "date": "2025-10-02 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1260,7 +1298,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26876",
+        "id": "contrib-1772339239471-29998",
         "date": "2025-10-08 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1276,7 +1314,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26877",
+        "id": "contrib-1772339239471-29999",
         "date": "2025-05-06 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1292,7 +1330,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26878",
+        "id": "contrib-1772339239471-30000",
         "date": "2025-09-22 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1308,7 +1346,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26879",
+        "id": "contrib-1772339239471-30001",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1324,7 +1362,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26880",
+        "id": "contrib-1772339239471-30002",
         "date": "2025-06-10 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1340,7 +1378,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26881",
+        "id": "contrib-1772339239471-30003",
         "date": "2025-05-13 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1356,7 +1394,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26882",
+        "id": "contrib-1772339239471-30004",
         "date": "2025-10-29 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1372,7 +1410,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26883",
+        "id": "contrib-1772339239471-30005",
         "date": "2025-05-07 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1388,7 +1426,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26884",
+        "id": "contrib-1772339239471-30006",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1404,7 +1442,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26885",
+        "id": "contrib-1772339239471-30007",
         "date": "2025-10-28 00:00:00",
         "amount": 150,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1420,7 +1458,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26886",
+        "id": "contrib-1772339239471-30008",
         "date": "2025-10-11 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1436,7 +1474,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26887",
+        "id": "contrib-1772339239471-30009",
         "date": "2025-06-03 00:00:00",
         "amount": 5100,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1452,7 +1490,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26888",
+        "id": "contrib-1772339239471-30010",
         "date": "2025-10-01 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1468,7 +1506,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26889",
+        "id": "contrib-1772339239471-30011",
         "date": "2025-04-25 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1484,7 +1522,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26890",
+        "id": "contrib-1772339239471-30012",
         "date": "2025-10-01 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1500,7 +1538,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26891",
+        "id": "contrib-1772339239471-30013",
         "date": "2025-11-26 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1516,7 +1554,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26892",
+        "id": "contrib-1772339239471-30014",
         "date": "2025-08-22 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1532,7 +1570,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26893",
+        "id": "contrib-1772339239471-30015",
         "date": "2025-10-29 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1548,7 +1586,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26894",
+        "id": "contrib-1772339239471-30016",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1564,7 +1602,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26895",
+        "id": "contrib-1772339239471-30017",
         "date": "2025-09-19 00:00:00",
         "amount": 2502,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1580,7 +1618,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26896",
+        "id": "contrib-1772339239471-30018",
         "date": "2025-05-13 00:00:00",
         "amount": 10001.86,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1596,7 +1634,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26897",
+        "id": "contrib-1772339239471-30019",
         "date": "2025-05-07 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1612,7 +1650,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26898",
+        "id": "contrib-1772339239471-30020",
         "date": "2025-11-21 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1628,7 +1666,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26899",
+        "id": "contrib-1772339239471-30021",
         "date": "2025-11-21 00:00:00",
         "amount": 12500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1644,7 +1682,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26900",
+        "id": "contrib-1772339239471-30022",
         "date": "2025-10-01 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1660,7 +1698,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26901",
+        "id": "contrib-1772339239471-30023",
         "date": "2025-10-02 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1676,7 +1714,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26902",
+        "id": "contrib-1772339239471-30024",
         "date": "2025-09-21 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1692,7 +1730,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26903",
+        "id": "contrib-1772339239471-30025",
         "date": "2025-12-30 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1708,7 +1746,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26904",
+        "id": "contrib-1772339239471-30026",
         "date": "2025-11-26 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1724,7 +1762,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26905",
+        "id": "contrib-1772339239471-30027",
         "date": "2025-12-30 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1740,7 +1778,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26906",
+        "id": "contrib-1772339239471-30028",
         "date": "2025-09-04 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1756,7 +1794,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26907",
+        "id": "contrib-1772339239471-30029",
         "date": "2025-08-24 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1772,7 +1810,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26908",
+        "id": "contrib-1772339239471-30030",
         "date": "2025-04-26 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1788,7 +1826,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26909",
+        "id": "contrib-1772339239471-30031",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1804,7 +1842,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26910",
+        "id": "contrib-1772339239471-30032",
         "date": "2025-10-29 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1820,7 +1858,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26911",
+        "id": "contrib-1772339239471-30033",
         "date": "2025-10-29 00:00:00",
         "amount": 200,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1836,7 +1874,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26912",
+        "id": "contrib-1772339239471-30034",
         "date": "2025-05-16 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1852,7 +1890,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26913",
+        "id": "contrib-1772339239471-30035",
         "date": "2025-09-21 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1868,7 +1906,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26914",
+        "id": "contrib-1772339239471-30036",
         "date": "2025-06-10 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1884,7 +1922,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26915",
+        "id": "contrib-1772339239471-30037",
         "date": "2025-05-20 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1900,7 +1938,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26916",
+        "id": "contrib-1772339239471-30038",
         "date": "2025-05-06 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1916,7 +1954,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26917",
+        "id": "contrib-1772339239471-30039",
         "date": "2025-10-29 00:00:00",
         "amount": 200,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1932,7 +1970,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26918",
+        "id": "contrib-1772339239471-30040",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1948,7 +1986,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26919",
+        "id": "contrib-1772339239471-30041",
         "date": "2025-05-06 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1964,7 +2002,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26920",
+        "id": "contrib-1772339239471-30042",
         "date": "2025-05-14 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1980,7 +2018,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26921",
+        "id": "contrib-1772339239471-30043",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -1996,7 +2034,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26922",
+        "id": "contrib-1772339239471-30044",
         "date": "2025-10-03 00:00:00",
         "amount": 4000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2012,7 +2050,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26923",
+        "id": "contrib-1772339239471-30045",
         "date": "2025-05-06 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2028,7 +2066,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26924",
+        "id": "contrib-1772339239471-30046",
         "date": "2025-05-13 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2044,7 +2082,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26925",
+        "id": "contrib-1772339239471-30047",
         "date": "2025-12-31 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2060,7 +2098,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26926",
+        "id": "contrib-1772339239471-30048",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2076,7 +2114,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26927",
+        "id": "contrib-1772339239471-30049",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2092,7 +2130,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26928",
+        "id": "contrib-1772339239471-30050",
         "date": "2025-12-31 00:00:00",
         "amount": 250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2108,7 +2146,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26929",
+        "id": "contrib-1772339239471-30051",
         "date": "2025-10-03 00:00:00",
         "amount": 2000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2124,7 +2162,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26930",
+        "id": "contrib-1772339239471-30052",
         "date": "2025-08-01 00:00:00",
         "amount": 245.29,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2140,7 +2178,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26931",
+        "id": "contrib-1772339239471-30053",
         "date": "2025-09-19 00:00:00",
         "amount": 333.75,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2156,7 +2194,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26932",
+        "id": "contrib-1772339239471-30054",
         "date": "2025-06-10 00:00:00",
         "amount": 500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2172,7 +2210,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26933",
+        "id": "contrib-1772339239471-30055",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2188,7 +2226,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26934",
+        "id": "contrib-1772339239471-30056",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2204,7 +2242,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26935",
+        "id": "contrib-1772339239471-30057",
         "date": "2025-08-01 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2220,7 +2258,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26936",
+        "id": "contrib-1772339239471-30058",
         "date": "2025-10-03 00:00:00",
         "amount": 2000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2236,7 +2274,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26937",
+        "id": "contrib-1772339239471-30059",
         "date": "2025-05-09 00:00:00",
         "amount": 3,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2252,7 +2290,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26938",
+        "id": "contrib-1772339239471-30060",
         "date": "2025-02-14 00:00:00",
         "amount": 553.44,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2268,7 +2306,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26939",
+        "id": "contrib-1772339239471-30061",
         "date": "2025-04-30 00:00:00",
         "amount": 1184.83,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2284,7 +2322,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26940",
+        "id": "contrib-1772339239471-30062",
         "date": "2025-02-18 00:00:00",
         "amount": 3874.06,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2300,7 +2338,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26941",
+        "id": "contrib-1772339239471-30063",
         "date": "2025-05-28 00:00:00",
         "amount": 4254.66,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2316,7 +2354,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26942",
+        "id": "contrib-1772339239471-30064",
         "date": "2025-07-28 00:00:00",
         "amount": 4283.58,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2332,7 +2370,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26943",
+        "id": "contrib-1772339239471-30065",
         "date": "2025-03-19 00:00:00",
         "amount": 4387.01,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2348,7 +2386,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26944",
+        "id": "contrib-1772339239471-30066",
         "date": "2025-04-18 00:00:00",
         "amount": 4408.91,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2364,7 +2402,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26945",
+        "id": "contrib-1772339239471-30067",
         "date": "2025-06-27 00:00:00",
         "amount": 4411.15,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2380,7 +2418,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26946",
+        "id": "contrib-1772339239471-30068",
         "date": "2025-08-28 00:00:00",
         "amount": 4441.13,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2396,7 +2434,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26947",
+        "id": "contrib-1772339239471-30069",
         "date": "2025-01-16 00:00:00",
         "amount": 4577.39,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2412,7 +2450,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26948",
+        "id": "contrib-1772339239471-30070",
         "date": "2025-10-28 00:00:00",
         "amount": 4664.02,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2428,7 +2466,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26949",
+        "id": "contrib-1772339239471-30071",
         "date": "2025-12-26 00:00:00",
         "amount": 4695.17,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2444,7 +2482,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26950",
+        "id": "contrib-1772339239471-30072",
         "date": "2025-09-26 00:00:00",
         "amount": 4803.21,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2460,7 +2498,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26951",
+        "id": "contrib-1772339239471-30073",
         "date": "2025-11-28 00:00:00",
         "amount": 4835.29,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2476,7 +2514,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26952",
+        "id": "contrib-1772339239471-30074",
         "date": "2025-11-21 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2492,7 +2530,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26953",
+        "id": "contrib-1772339239471-30075",
         "date": "2025-05-20 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2508,7 +2546,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26954",
+        "id": "contrib-1772339239471-30076",
         "date": "2025-12-31 00:00:00",
         "amount": 1250,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2524,7 +2562,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26955",
+        "id": "contrib-1772339239471-30077",
         "date": "2025-08-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2540,7 +2578,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26956",
+        "id": "contrib-1772339239471-30078",
         "date": "2025-07-18 00:00:00",
         "amount": 4283.37,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2556,7 +2594,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26957",
+        "id": "contrib-1772339239471-30079",
         "date": "2025-08-01 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2572,7 +2610,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26958",
+        "id": "contrib-1772339239471-30080",
         "date": "2025-05-15 00:00:00",
         "amount": 313.61,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2588,7 +2626,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26959",
+        "id": "contrib-1772339239471-30081",
         "date": "2025-09-19 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2604,7 +2642,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26960",
+        "id": "contrib-1772339239471-30082",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2620,7 +2658,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26961",
+        "id": "contrib-1772339239471-30083",
         "date": "2025-05-01 00:00:00",
         "amount": 15000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2636,7 +2674,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26962",
+        "id": "contrib-1772339239471-30084",
         "date": "2025-11-21 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2652,7 +2690,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26963",
+        "id": "contrib-1772339239471-30085",
         "date": "2025-09-19 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2668,7 +2706,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26964",
+        "id": "contrib-1772339239471-30086",
         "date": "2025-12-10 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2684,7 +2722,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26965",
+        "id": "contrib-1772339239471-30087",
         "date": "2025-01-07 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2700,7 +2738,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26966",
+        "id": "contrib-1772339239471-30088",
         "date": "2025-05-20 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2716,7 +2754,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26967",
+        "id": "contrib-1772339239471-30089",
         "date": "2025-08-01 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2732,7 +2770,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26968",
+        "id": "contrib-1772339239471-30090",
         "date": "2025-11-25 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2748,7 +2786,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26969",
+        "id": "contrib-1772339239471-30091",
         "date": "2025-10-03 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2764,7 +2802,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26970",
+        "id": "contrib-1772339239471-30092",
         "date": "2025-05-13 00:00:00",
         "amount": 10000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2780,7 +2818,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26971",
+        "id": "contrib-1772339239471-30093",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2796,7 +2834,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26972",
+        "id": "contrib-1772339239471-30094",
         "date": "2025-06-10 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2812,7 +2850,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26973",
+        "id": "contrib-1772339239471-30095",
         "date": "2025-10-03 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2828,7 +2866,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26974",
+        "id": "contrib-1772339239471-30096",
         "date": "2025-06-10 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2844,7 +2882,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26975",
+        "id": "contrib-1772339239471-30097",
         "date": "2025-09-19 00:00:00",
         "amount": 5000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2860,7 +2898,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26976",
+        "id": "contrib-1772339239471-30098",
         "date": "2025-01-07 00:00:00",
         "amount": 3000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2876,7 +2914,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26977",
+        "id": "contrib-1772339239471-30099",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2892,7 +2930,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26978",
+        "id": "contrib-1772339239471-30100",
         "date": "2025-06-10 00:00:00",
         "amount": 2500,
         "candidate_name": "THEODORE EDWARD ROKITA",
@@ -2908,7 +2946,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1771904816454-26979",
+        "id": "contrib-1772339239471-30101",
         "date": "2025-08-01 00:00:00",
         "amount": 1000,
         "candidate_name": "THEODORE EDWARD ROKITA",

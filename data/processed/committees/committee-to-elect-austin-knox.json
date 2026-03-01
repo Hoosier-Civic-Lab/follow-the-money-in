@@ -2,20 +2,24 @@
   "id": "committee-to-elect-austin-knox",
   "name": "Committee To Elect Austin Knox",
   "totals": {
-    "total_given": "200.00",
-    "total_contributions": 2,
+    "total_given": "450.00",
+    "total_contributions": 3,
     "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "200.00"
+      "count": 3,
+      "total": "450.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 2,
       "total": "200.00"
+    },
+    "2025-03": {
+      "count": 1,
+      "total": "250.00"
     }
   },
   "top_recipients": [
@@ -34,7 +38,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1771904816460-29597",
+      "id": "contrib-1772339239474-33084",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -50,7 +54,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1771904816520-76086",
+      "id": "contrib-1772339239538-76199",
+      "date": "2025-03-31 00:00:00",
+      "amount": 250,
+      "contributor_name": "Committee To Elect Austin Knox",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46803",
+      "recipient_committee": "Allen County Democratic Party",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772339239542-80852",
       "date": "2025-08-18 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Robert Miller",
