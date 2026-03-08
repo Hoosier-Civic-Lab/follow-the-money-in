@@ -2,17 +2,29 @@
   "id": "international-brotherhood-of-electrical-workers-political-action-committee",
   "name": "International Brotherhood of Electrical Workers Political Action Committee",
   "totals": {
-    "total_given": "10000.00",
-    "total_contributions": 2,
+    "total_given": "15250.00",
+    "total_contributions": 4,
     "candidates_supported": 0
   },
   "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "250.00"
+    },
     "large": {
-      "count": 2,
-      "total": "10000.00"
+      "count": 3,
+      "total": "15000.00"
     }
   },
   "by_month": {
+    "2025-10": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2025-09": {
+      "count": 1,
+      "total": "5000.00"
+    },
     "2025-01": {
       "count": 1,
       "total": "5000.00"
@@ -25,7 +37,37 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1772339239432-6723",
+      "id": "contrib-1772943416703-520",
+      "date": "2025-10-22 00:00:00",
+      "amount": 250,
+      "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416703-521",
+      "date": "2025-09-10 00:00:00",
+      "amount": 5000,
+      "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416713-7288",
       "date": "2025-01-07 00:00:00",
       "amount": 5000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -40,7 +82,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1772339239432-6724",
+      "id": "contrib-1772943416713-7289",
       "date": "2025-12-29 00:00:00",
       "amount": 5000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
