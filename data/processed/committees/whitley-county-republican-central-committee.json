@@ -2,26 +2,30 @@
   "id": "whitley-county-republican-central-committee",
   "name": "WHITLEY COUNTY REPUBLICAN CENTRAL COMMITTEE",
   "totals": {
-    "total_given": "100.00",
-    "total_contributions": 1,
+    "total_given": "400.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "100.00"
+      "count": 2,
+      "total": "400.00"
     }
   },
   "by_month": {
     "2025-05": {
       "count": 1,
       "total": "100.00"
+    },
+    "2025-03": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1772339239539-77038",
+      "id": "contrib-1772943416813-78356",
       "date": "2025-05-02 00:00:00",
       "amount": 100,
       "contributor_name": "WHITLEY COUNTY REPUBLICAN CENTRAL COMMITTEE",
@@ -33,6 +37,21 @@
       "address_state": "IN",
       "address_zip": "46725",
       "recipient_committee": "Huntington County Republican Party",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416814-79419",
+      "date": "2025-03-13 00:00:00",
+      "amount": 300,
+      "contributor_name": "Whitley County Republican Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbia City",
+      "address_state": "IN",
+      "address_zip": "46725",
+      "recipient_committee": "Allen County Republican Central Committee",
       "source": "indiana"
     }
   ],

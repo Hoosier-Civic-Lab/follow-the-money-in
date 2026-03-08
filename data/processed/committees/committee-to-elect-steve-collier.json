@@ -2,17 +2,21 @@
   "id": "committee-to-elect-steve-collier",
   "name": "Committee to Elect Steve Collier",
   "totals": {
-    "total_given": "6000.00",
-    "total_contributions": 2,
+    "total_given": "7000.00",
+    "total_contributions": 3,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "6000.00"
+      "count": 3,
+      "total": "7000.00"
     }
   },
   "by_month": {
+    "2025-10": {
+      "count": 1,
+      "total": "1000.00"
+    },
     "2025-02": {
       "count": 1,
       "total": "1000.00"
@@ -32,7 +36,22 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1772339239521-63664",
+      "id": "contrib-1772943416713-6921",
+      "date": "2025-10-30 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Steve Collier",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrence",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "MARION COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416798-64852",
       "date": "2025-02-11 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Steve Collier",
@@ -47,7 +66,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1772339239550-87442",
+      "id": "contrib-1772943416829-89220",
       "date": "2025-07-24 00:00:00",
       "amount": 5000,
       "candidate_name": "KYLE WALKER",

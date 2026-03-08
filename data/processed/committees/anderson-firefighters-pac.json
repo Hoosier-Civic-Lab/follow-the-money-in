@@ -2,17 +2,25 @@
   "id": "anderson-firefighters-pac",
   "name": "Anderson Firefighters PAC",
   "totals": {
-    "total_given": "250.00",
-    "total_contributions": 1,
+    "total_given": "700.00",
+    "total_contributions": 3,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "250.00"
+      "count": 3,
+      "total": "700.00"
     }
   },
   "by_month": {
+    "2025-06": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2025-04": {
+      "count": 1,
+      "total": "250.00"
+    },
     "2025-11": {
       "count": 1,
       "total": "250.00"
@@ -28,7 +36,37 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1772339239544-82851",
+      "id": "contrib-1772943416716-10122",
+      "date": "2025-06-27 00:00:00",
+      "amount": 200,
+      "contributor_name": "Anderson Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46015",
+      "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416716-10123",
+      "date": "2025-04-07 00:00:00",
+      "amount": 250,
+      "contributor_name": "Anderson Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46015",
+      "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1772943416819-84629",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
