@@ -3,13 +3,13 @@
   "office": "STATE SENATOR",
   "district": "State Senator, District 31",
   "totals": {
-    "total_raised": "60550.69",
-    "total_contributions": 21
+    "total_raised": "60762.68",
+    "total_contributions": 22
   },
   "by_contributor_type": {
     "self": {
-      "count": 2,
-      "total": "50000.00"
+      "count": 3,
+      "total": "50211.99"
     },
     "individual": {
       "count": 19,
@@ -30,14 +30,14 @@
       "total": "9328.14"
     },
     "medium": {
-      "count": 6,
-      "total": "808.20"
+      "count": 7,
+      "total": "1020.19"
     }
   },
   "by_month": {
     "2025-12": {
-      "count": 21,
-      "total": "60550.69"
+      "count": 22,
+      "total": "60762.68"
     }
   },
   "candidates": [
@@ -53,6 +53,21 @@
         "2025-12": {
           "count": 19,
           "total": "60350.69"
+        }
+      }
+    },
+    {
+      "id": "travis-hankins",
+      "name": "Travis Hankins",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "211.99",
+        "total_contributions": 1
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 1,
+          "total": "211.99"
         }
       }
     },
