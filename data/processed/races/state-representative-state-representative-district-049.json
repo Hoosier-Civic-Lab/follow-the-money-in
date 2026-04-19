@@ -3,31 +3,35 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 049",
   "totals": {
-    "total_raised": "54112.76",
-    "total_contributions": 83
+    "total_raised": "63907.19",
+    "total_contributions": 106
   },
   "by_contributor_type": {
     "individual": {
-      "count": 56,
-      "total": "36812.76"
+      "count": 77,
+      "total": "45156.19"
     },
     "corporate": {
       "count": 8,
       "total": "8250.00"
     },
     "committee": {
-      "count": 19,
-      "total": "9050.00"
+      "count": 20,
+      "total": "9800.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "701.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 17,
-      "total": "30500.00"
+      "count": 20,
+      "total": "34960.00"
     },
     "medium": {
-      "count": 61,
-      "total": "23250.00"
+      "count": 81,
+      "total": "28584.43"
     },
     "small": {
       "count": 5,
@@ -62,6 +66,18 @@
     "2025-10": {
       "count": 6,
       "total": "3100.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "750.00"
+    },
+    "2026-04": {
+      "count": 7,
+      "total": "2101.00"
+    },
+    "2026-03": {
+      "count": 15,
+      "total": "6943.43"
     }
   },
   "candidates": [
@@ -70,8 +86,8 @@
       "name": "Joanna King",
       "party": "Republican",
       "totals": {
-        "total_raised": "54112.76",
-        "total_contributions": 83
+        "total_raised": "54862.76",
+        "total_contributions": 84
       },
       "by_month": {
         "2025-11": {
@@ -101,6 +117,29 @@
         "2025-10": {
           "count": 6,
           "total": "3100.00"
+        },
+        "2026-01": {
+          "count": 1,
+          "total": "750.00"
+        }
+      }
+    },
+    {
+      "id": "michelle-milne",
+      "name": "Michelle Milne",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "9044.43",
+        "total_contributions": 22
+      },
+      "by_month": {
+        "2026-04": {
+          "count": 7,
+          "total": "2101.00"
+        },
+        "2026-03": {
+          "count": 15,
+          "total": "6943.43"
         }
       }
     }

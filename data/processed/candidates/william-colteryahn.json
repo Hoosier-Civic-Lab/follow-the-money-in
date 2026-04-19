@@ -6,32 +6,64 @@
   "district": "State Representative, District 040",
   "party": "Democratic",
   "totals": {
-    "total_raised": "250.00",
-    "total_contributions": 1,
-    "total_itemized": 1,
-    "total_unitemized": 0
+    "total_raised": "10007.66",
+    "total_contributions": 18,
+    "total_itemized": 17,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "self": {
+      "count": 2,
+      "total": "270.26"
+    },
+    "unitemized": {
       "count": 1,
-      "total": "250.00"
+      "total": "2562.40"
+    },
+    "individual": {
+      "count": 15,
+      "total": "7175.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "250.00"
+      "count": 10,
+      "total": "2300.00"
+    },
+    "large": {
+      "count": 4,
+      "total": "7562.40"
+    },
+    "small": {
+      "count": 4,
+      "total": "145.26"
     }
   },
   "by_month": {
     "2025-11": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "2637.40"
+    },
+    "2026-02": {
+      "count": 6,
+      "total": "2020.26"
+    },
+    "2026-01": {
+      "count": 7,
+      "total": "5050.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "50.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492094-101724",
+      "id": "contrib-1776574521604-101724",
       "date": "2025-11-18 00:00:00",
       "amount": 250,
       "candidate_name": "William Colteryahn",
@@ -43,6 +75,278 @@
       "address_city": "Avon",
       "address_state": "IN",
       "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27223",
+      "date": "2026-04-10 00:00:00",
+      "amount": 2562.4,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27224",
+      "date": "2026-02-17 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "William Colteryahn",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27225",
+      "date": "2026-01-15 00:00:00",
+      "amount": 2000,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Charles Calhoun",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27226",
+      "date": "2026-01-12 00:00:00",
+      "amount": 200,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Chuck Calhoun",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pleasant Prairie",
+      "address_state": "WI",
+      "address_zip": "53158",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27227",
+      "date": "2026-01-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Deborah A Burcham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mooresville",
+      "address_state": "IN",
+      "address_zip": "46158",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27228",
+      "date": "2026-02-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Deborah A Burcham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mooresville",
+      "address_state": "IN",
+      "address_zip": "46158",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27229",
+      "date": "2026-01-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Emma Hollingsworth",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27230",
+      "date": "2026-02-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "James McDevitt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27231",
+      "date": "2026-02-14 00:00:00",
+      "amount": 150,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Joy M Philip",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27232",
+      "date": "2026-03-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Kathleen DaVia",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27233",
+      "date": "2026-04-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Kathleen DaVia",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27234",
+      "date": "2026-01-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Kathleen DaVia",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27235",
+      "date": "2026-02-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Laura Davies",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27236",
+      "date": "2026-01-12 00:00:00",
+      "amount": 150,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Patrick Calhoun",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brentwood",
+      "address_state": "TN",
+      "address_zip": "37027",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27237",
+      "date": "2026-02-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Sarah M Morr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27238",
+      "date": "2026-01-15 00:00:00",
+      "amount": 2000,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Shara J Calhoun",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27239",
+      "date": "2026-04-10 00:00:00",
+      "amount": 25,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Tabitha Spacht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46237",
       "recipient_committee": "Colteryahn4Indiana",
       "source": "indiana"
     }

@@ -2,33 +2,37 @@
   "id": "humane-world-action-fund-of-indiana-political-action-committee",
   "name": "Humane World Action Fund of Indiana Political Action Committee",
   "totals": {
-    "total_given": "1350.00",
-    "total_contributions": 4,
+    "total_given": "1650.00",
+    "total_contributions": 5,
     "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "1350.00"
+      "count": 5,
+      "total": "1650.00"
     }
   },
   "by_month": {
     "2025-09": {
       "count": 4,
       "total": "1350.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "top_recipients": [
     {
+      "id": "daniel-edward-dernulc",
+      "name": "DANIEL EDWARD DERNULC",
+      "total": "600.00",
+      "count": 2
+    },
+    {
       "id": "kyle-robert-miller",
       "name": "Kyle Robert Miller",
       "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "daniel-edward-dernulc",
-      "name": "DANIEL EDWARD DERNULC",
-      "total": "300.00",
       "count": 1
     },
     {
@@ -46,7 +50,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492056-67344",
+      "id": "contrib-1776574521576-67344",
       "date": "2025-09-14 00:00:00",
       "amount": 250,
       "candidate_name": "Justin Moed",
@@ -62,7 +66,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82646",
+      "id": "contrib-1776574521585-82646",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -78,7 +82,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-91182",
+      "id": "contrib-1776574521596-91182",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "DANIEL EDWARD DERNULC",
@@ -94,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492089-96002",
+      "id": "contrib-1776574521600-96002",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -108,23 +112,45 @@
       "address_zip": "20037",
       "recipient_committee": "Alex Burton for Indiana",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20405",
+      "date": "2026-03-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "DANIEL EDWARD DERNULC",
+      "contributor_name": "Humane World Action Fund of Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20037",
+      "recipient_committee": "COMMITTEE TO ELECT DAN DERNULC",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "4466.00",
-    "total_contributions": 8,
-    "unique_donors": 7,
+    "total_raised": "7436.00",
+    "total_contributions": 23,
+    "unique_donors": 10,
     "by_contributor_type": {
       "unitemized": {
         "count": 1,
         "total": "436.00"
       },
       "individual": {
-        "count": 7,
-        "total": "4030.00"
+        "count": 22,
+        "total": "7000.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Michael McCartin",
+        "type": "individual",
+        "total": "2500.00",
+        "count": 1
+      },
       {
         "name": "Christina Dickerson",
         "type": "individual",
@@ -158,25 +184,31 @@
       {
         "name": "Rachel Burkholder",
         "type": "individual",
-        "total": "300.00",
-        "count": 1
+        "total": "375.00",
+        "count": 4
       },
       {
         "name": "Brian Sherer",
         "type": "individual",
-        "total": "200.00",
-        "count": 1
+        "total": "350.00",
+        "count": 4
       },
       {
         "name": "Julie Gray",
         "type": "individual",
-        "total": "180.00",
+        "total": "225.00",
+        "count": 4
+      },
+      {
+        "name": "Dawn Ritchie",
+        "type": "individual",
+        "total": "100.00",
         "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492087-93871",
+        "id": "contrib-1776574521599-93871",
         "date": "2025-12-31 00:00:00",
         "amount": 436,
         "contributor_name": "",
@@ -191,7 +223,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93872",
+        "id": "contrib-1776574521599-93872",
         "date": "2025-12-02 00:00:00",
         "amount": 600,
         "contributor_name": "Anne Sterling",
@@ -206,7 +238,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93873",
+        "id": "contrib-1776574521599-93873",
         "date": "2025-12-08 00:00:00",
         "amount": 200,
         "contributor_name": "Brian Sherer",
@@ -221,7 +253,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93874",
+        "id": "contrib-1776574521599-93874",
         "date": "2025-12-19 00:00:00",
         "amount": 1000,
         "contributor_name": "Christina Dickerson",
@@ -236,7 +268,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93875",
+        "id": "contrib-1776574521599-93875",
         "date": "2025-12-13 00:00:00",
         "amount": 180,
         "contributor_name": "Julie Gray",
@@ -251,7 +283,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93876",
+        "id": "contrib-1776574521599-93876",
         "date": "2025-12-03 00:00:00",
         "amount": 750,
         "contributor_name": "Kathryn Roudebush",
@@ -266,7 +298,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93877",
+        "id": "contrib-1776574521599-93877",
         "date": "2025-12-19 00:00:00",
         "amount": 1000,
         "contributor_name": "Kristina Thompson",
@@ -281,7 +313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93878",
+        "id": "contrib-1776574521599-93878",
         "date": "2025-12-19 00:00:00",
         "amount": 300,
         "contributor_name": "Rachel Burkholder",
@@ -292,6 +324,231 @@
         "address_city": "South Whitley",
         "address_state": "IN",
         "address_zip": "46787",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20825",
+        "date": "2026-01-08 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brian Sherer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037 ",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20826",
+        "date": "2026-02-08 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brian Sherer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037 ",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20827",
+        "date": "2026-03-08 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brian Sherer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037 ",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20828",
+        "date": "2026-02-05 00:00:00",
+        "amount": 100,
+        "contributor_name": "Dawn Ritchie",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Government/Civil",
+        "occupation_category": "government",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46835",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20829",
+        "date": "2026-01-13 00:00:00",
+        "amount": 15,
+        "contributor_name": "Julie Gray",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Bloomington",
+        "address_state": "IN",
+        "address_zip": "47401",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20830",
+        "date": "2026-02-13 00:00:00",
+        "amount": 15,
+        "contributor_name": "Julie Gray",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Bloomington",
+        "address_state": "IN",
+        "address_zip": "47401",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20831",
+        "date": "2026-03-13 00:00:00",
+        "amount": 15,
+        "contributor_name": "Julie Gray",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Bloomington",
+        "address_state": "IN",
+        "address_zip": "47401",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20832",
+        "date": "2026-01-28 00:00:00",
+        "amount": 2500,
+        "contributor_name": "Michael McCartin",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46804",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20833",
+        "date": "2026-01-19 00:00:00",
+        "amount": 25,
+        "contributor_name": "Rachel Burkholder",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "South Whitley",
+        "address_state": "IN",
+        "address_zip": "46787",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20834",
+        "date": "2026-02-19 00:00:00",
+        "amount": 25,
+        "contributor_name": "Rachel Burkholder",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "South Whitley",
+        "address_state": "IN",
+        "address_zip": "46787",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20835",
+        "date": "2026-03-19 00:00:00",
+        "amount": 25,
+        "contributor_name": "Rachel Burkholder",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "South Whitley",
+        "address_state": "IN",
+        "address_zip": "46787",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20836",
+        "date": "2026-01-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Sabrina Haake",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60618",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20837",
+        "date": "2026-02-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Sabrina Haake",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60618",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20838",
+        "date": "2026-03-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Sabrina Haake",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60618",
+        "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20839",
+        "date": "2026-04-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Sabrina Haake",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60618",
         "recipient_committee": "Humane World Action Fund of Indiana Political Action Committee",
         "source": "indiana"
       }

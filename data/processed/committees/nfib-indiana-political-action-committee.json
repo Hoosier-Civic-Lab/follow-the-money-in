@@ -2,14 +2,14 @@
   "id": "nfib-indiana-political-action-committee",
   "name": "NFIB Indiana Political Action Committee",
   "totals": {
-    "total_given": "850.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "1250.00",
+    "total_contributions": 4,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "850.00"
+      "count": 4,
+      "total": "1250.00"
     }
   },
   "by_month": {
@@ -20,6 +20,14 @@
     "2025-07": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "top_recipients": [
@@ -28,11 +36,23 @@
       "name": "Christopher Paul Garten",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "craig-thomas-snow",
+      "name": "Craig Thomas Snow",
+      "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "julie-anne-mcguire",
+      "name": "Julie Anne McGuire",
+      "total": "100.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491962-7306",
+      "id": "contrib-1776574521502-7306",
       "date": "2025-12-16 00:00:00",
       "amount": 350,
       "contributor_name": "NFIB Indiana Political Action Committee",
@@ -47,7 +67,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492069-81830",
+      "id": "contrib-1776574521585-81830",
       "date": "2025-07-28 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Garten",
@@ -60,6 +80,38 @@
       "address_state": "TN",
       "address_zip": "37214",
       "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16832",
+      "date": "2026-04-03 00:00:00",
+      "amount": 300,
+      "candidate_name": "Craig Thomas Snow",
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Snow Indiana State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20427",
+      "date": "2026-01-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Julie McGuire for State Representative",
       "source": "indiana"
     }
   ],

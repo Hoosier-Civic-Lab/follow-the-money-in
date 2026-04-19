@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "40903.78",
-    "total_contributions": 110,
-    "total_itemized": 64,
-    "total_unitemized": 46
+    "total_raised": "84546.17",
+    "total_contributions": 209,
+    "total_itemized": 130,
+    "total_unitemized": 79
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 46,
-      "total": "1767.51"
+      "count": 79,
+      "total": "2934.62"
     },
     "individual": {
-      "count": 61,
-      "total": "36886.27"
+      "count": 123,
+      "total": "60936.55"
     },
     "corporate": {
-      "count": 3,
-      "total": "2250.00"
+      "count": 7,
+      "total": "20675.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 52,
-      "total": "2113.21"
+      "count": 95,
+      "total": "3849.02"
     },
     "medium": {
-      "count": 41,
-      "total": "11225.57"
+      "count": 86,
+      "total": "21707.15"
     },
     "large": {
-      "count": 17,
-      "total": "27565.00"
+      "count": 27,
+      "total": "43990.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "by_month": {
@@ -83,11 +87,27 @@
     "2025-12": {
       "count": 4,
       "total": "3315.00"
+    },
+    "2026-01": {
+      "count": 16,
+      "total": "1849.36"
+    },
+    "2026-02": {
+      "count": 36,
+      "total": "10125.41"
+    },
+    "2026-03": {
+      "count": 30,
+      "total": "13679.22"
+    },
+    "2026-04": {
+      "count": 17,
+      "total": "17988.40"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492090-97791",
+      "id": "contrib-1776574521601-97791",
       "date": "2025-10-27 00:00:00",
       "amount": 13.99,
       "candidate_name": "Richard  Roy Bagsby",
@@ -103,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97792",
+      "id": "contrib-1776574521601-97792",
       "date": "2025-11-05 00:00:00",
       "amount": 13.99,
       "candidate_name": "Richard  Roy Bagsby",
@@ -119,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97793",
+      "id": "contrib-1776574521601-97793",
       "date": "2025-07-12 00:00:00",
       "amount": 14.1,
       "candidate_name": "Richard  Roy Bagsby",
@@ -135,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97794",
+      "id": "contrib-1776574521601-97794",
       "date": "2025-09-29 00:00:00",
       "amount": 14.26,
       "candidate_name": "Richard  Roy Bagsby",
@@ -151,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97795",
+      "id": "contrib-1776574521601-97795",
       "date": "2025-10-28 00:00:00",
       "amount": 15,
       "candidate_name": "Richard  Roy Bagsby",
@@ -167,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97796",
+      "id": "contrib-1776574521601-97796",
       "date": "2025-05-10 00:00:00",
       "amount": 20,
       "candidate_name": "Richard  Roy Bagsby",
@@ -183,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97797",
+      "id": "contrib-1776574521601-97797",
       "date": "2025-08-14 00:00:00",
       "amount": 20.2,
       "candidate_name": "Richard  Roy Bagsby",
@@ -199,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97798",
+      "id": "contrib-1776574521601-97798",
       "date": "2025-08-28 00:00:00",
       "amount": 20.52,
       "candidate_name": "Richard  Roy Bagsby",
@@ -215,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97799",
+      "id": "contrib-1776574521601-97799",
       "date": "2025-08-29 00:00:00",
       "amount": 20.52,
       "candidate_name": "Richard  Roy Bagsby",
@@ -231,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97800",
+      "id": "contrib-1776574521601-97800",
       "date": "2025-09-02 00:00:00",
       "amount": 20.52,
       "candidate_name": "Richard  Roy Bagsby",
@@ -247,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97801",
+      "id": "contrib-1776574521601-97801",
       "date": "2025-07-24 00:00:00",
       "amount": 25,
       "candidate_name": "Richard  Roy Bagsby",
@@ -263,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97802",
+      "id": "contrib-1776574521601-97802",
       "date": "2025-10-28 00:00:00",
       "amount": 25,
       "candidate_name": "Richard  Roy Bagsby",
@@ -279,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97803",
+      "id": "contrib-1776574521601-97803",
       "date": "2025-11-05 00:00:00",
       "amount": 25,
       "candidate_name": "Richard  Roy Bagsby",
@@ -295,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97804",
+      "id": "contrib-1776574521601-97804",
       "date": "2025-09-22 00:00:00",
       "amount": 28.59,
       "candidate_name": "Richard  Roy Bagsby",
@@ -311,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97805",
+      "id": "contrib-1776574521601-97805",
       "date": "2025-09-23 00:00:00",
       "amount": 28.83,
       "candidate_name": "Richard  Roy Bagsby",
@@ -327,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97806",
+      "id": "contrib-1776574521601-97806",
       "date": "2025-10-01 00:00:00",
       "amount": 28.83,
       "candidate_name": "Richard  Roy Bagsby",
@@ -343,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97807",
+      "id": "contrib-1776574521601-97807",
       "date": "2025-11-05 00:00:00",
       "amount": 28.83,
       "candidate_name": "Richard  Roy Bagsby",
@@ -359,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97808",
+      "id": "contrib-1776574521601-97808",
       "date": "2025-05-12 00:00:00",
       "amount": 35,
       "candidate_name": "Richard  Roy Bagsby",
@@ -375,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97809",
+      "id": "contrib-1776574521601-97809",
       "date": "2025-06-13 00:00:00",
       "amount": 35,
       "candidate_name": "Richard  Roy Bagsby",
@@ -391,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97810",
+      "id": "contrib-1776574521601-97810",
       "date": "2025-09-30 00:00:00",
       "amount": 35,
       "candidate_name": "Richard  Roy Bagsby",
@@ -407,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97811",
+      "id": "contrib-1776574521601-97811",
       "date": "2025-11-04 00:00:00",
       "amount": 38.54,
       "candidate_name": "Richard  Roy Bagsby",
@@ -423,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97812",
+      "id": "contrib-1776574521601-97812",
       "date": "2025-08-15 00:00:00",
       "amount": 40.87,
       "candidate_name": "Richard  Roy Bagsby",
@@ -439,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97813",
+      "id": "contrib-1776574521601-97813",
       "date": "2025-09-02 00:00:00",
       "amount": 41.04,
       "candidate_name": "Richard  Roy Bagsby",
@@ -455,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97814",
+      "id": "contrib-1776574521601-97814",
       "date": "2025-09-27 00:00:00",
       "amount": 44,
       "candidate_name": "Richard  Roy Bagsby",
@@ -471,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97815",
+      "id": "contrib-1776574521601-97815",
       "date": "2025-10-27 00:00:00",
       "amount": 47.4,
       "candidate_name": "Richard  Roy Bagsby",
@@ -487,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97816",
+      "id": "contrib-1776574521601-97816",
       "date": "2025-08-17 00:00:00",
       "amount": 47.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -503,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97817",
+      "id": "contrib-1776574521601-97817",
       "date": "2025-10-20 00:00:00",
       "amount": 47.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -519,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97818",
+      "id": "contrib-1776574521601-97818",
       "date": "2025-11-25 00:00:00",
       "amount": 47.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -535,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97819",
+      "id": "contrib-1776574521601-97819",
       "date": "2025-05-09 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -551,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97820",
+      "id": "contrib-1776574521601-97820",
       "date": "2025-05-10 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -567,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97821",
+      "id": "contrib-1776574521601-97821",
       "date": "2025-05-12 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -583,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97822",
+      "id": "contrib-1776574521601-97822",
       "date": "2025-05-16 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -599,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97823",
+      "id": "contrib-1776574521601-97823",
       "date": "2025-06-27 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -615,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97824",
+      "id": "contrib-1776574521601-97824",
       "date": "2025-08-29 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -631,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97825",
+      "id": "contrib-1776574521601-97825",
       "date": "2025-10-02 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -647,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97826",
+      "id": "contrib-1776574521601-97826",
       "date": "2025-11-01 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -663,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97827",
+      "id": "contrib-1776574521601-97827",
       "date": "2025-09-02 00:00:00",
       "amount": 51.15,
       "candidate_name": "Richard  Roy Bagsby",
@@ -679,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97828",
+      "id": "contrib-1776574521601-97828",
       "date": "2025-06-16 00:00:00",
       "amount": 65,
       "candidate_name": "Richard  Roy Bagsby",
@@ -695,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97829",
+      "id": "contrib-1776574521601-97829",
       "date": "2025-09-24 00:00:00",
       "amount": 67.37,
       "candidate_name": "Richard  Roy Bagsby",
@@ -711,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97830",
+      "id": "contrib-1776574521601-97830",
       "date": "2025-09-27 00:00:00",
       "amount": 75,
       "candidate_name": "Richard  Roy Bagsby",
@@ -727,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97831",
+      "id": "contrib-1776574521601-97831",
       "date": "2025-10-24 00:00:00",
       "amount": 95.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -743,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97832",
+      "id": "contrib-1776574521601-97832",
       "date": "2025-04-18 00:00:00",
       "amount": 26,
       "candidate_name": "Richard  Roy Bagsby",
@@ -759,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97833",
+      "id": "contrib-1776574521601-97833",
       "date": "2025-10-28 00:00:00",
       "amount": 25,
       "candidate_name": "Richard  Roy Bagsby",
@@ -775,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97834",
+      "id": "contrib-1776574521601-97834",
       "date": "2025-10-28 00:00:00",
       "amount": 38.54,
       "candidate_name": "Richard  Roy Bagsby",
@@ -791,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97835",
+      "id": "contrib-1776574521601-97835",
       "date": "2025-10-30 00:00:00",
       "amount": 48.25,
       "candidate_name": "Richard  Roy Bagsby",
@@ -807,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97836",
+      "id": "contrib-1776574521601-97836",
       "date": "2025-10-29 00:00:00",
       "amount": 52.37,
       "candidate_name": "Richard  Roy Bagsby",
@@ -823,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97837",
+      "id": "contrib-1776574521601-97837",
       "date": "2025-07-05 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -839,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97838",
+      "id": "contrib-1776574521601-97838",
       "date": "2025-06-27 00:00:00",
       "amount": 300,
       "candidate_name": "Richard  Roy Bagsby",
@@ -855,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97839",
+      "id": "contrib-1776574521601-97839",
       "date": "2025-05-12 00:00:00",
       "amount": 300,
       "candidate_name": "Richard  Roy Bagsby",
@@ -871,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97840",
+      "id": "contrib-1776574521601-97840",
       "date": "2025-10-01 00:00:00",
       "amount": 175,
       "candidate_name": "Richard  Roy Bagsby",
@@ -887,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97841",
+      "id": "contrib-1776574521601-97841",
       "date": "2025-07-01 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -903,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97842",
+      "id": "contrib-1776574521601-97842",
       "date": "2025-09-14 00:00:00",
       "amount": 95.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -919,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97843",
+      "id": "contrib-1776574521601-97843",
       "date": "2025-08-19 00:00:00",
       "amount": 479.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -935,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97844",
+      "id": "contrib-1776574521601-97844",
       "date": "2025-10-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -951,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97845",
+      "id": "contrib-1776574521601-97845",
       "date": "2025-05-12 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -967,7 +987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97846",
+      "id": "contrib-1776574521601-97846",
       "date": "2025-05-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -983,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97847",
+      "id": "contrib-1776574521601-97847",
       "date": "2025-06-16 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -999,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97848",
+      "id": "contrib-1776574521601-97848",
       "date": "2025-04-08 00:00:00",
       "amount": 2000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1015,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97849",
+      "id": "contrib-1776574521601-97849",
       "date": "2025-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1031,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97850",
+      "id": "contrib-1776574521601-97850",
       "date": "2025-07-30 00:00:00",
       "amount": 479.7,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1047,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97851",
+      "id": "contrib-1776574521601-97851",
       "date": "2025-08-21 00:00:00",
       "amount": 250,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1063,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97852",
+      "id": "contrib-1776574521601-97852",
       "date": "2025-05-09 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1079,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97853",
+      "id": "contrib-1776574521601-97853",
       "date": "2025-08-09 00:00:00",
       "amount": 180,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1095,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97854",
+      "id": "contrib-1776574521601-97854",
       "date": "2025-07-31 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1111,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97855",
+      "id": "contrib-1776574521601-97855",
       "date": "2025-10-30 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1127,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97856",
+      "id": "contrib-1776574521601-97856",
       "date": "2025-11-01 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1143,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97857",
+      "id": "contrib-1776574521601-97857",
       "date": "2025-05-09 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1159,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97858",
+      "id": "contrib-1776574521601-97858",
       "date": "2025-08-27 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1175,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97859",
+      "id": "contrib-1776574521601-97859",
       "date": "2025-10-01 00:00:00",
       "amount": 400,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1191,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97860",
+      "id": "contrib-1776574521601-97860",
       "date": "2025-05-12 00:00:00",
       "amount": 150,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1207,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97861",
+      "id": "contrib-1776574521601-97861",
       "date": "2025-08-18 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1223,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97862",
+      "id": "contrib-1776574521601-97862",
       "date": "2025-04-18 00:00:00",
       "amount": 300,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1239,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97863",
+      "id": "contrib-1776574521601-97863",
       "date": "2025-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1255,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97864",
+      "id": "contrib-1776574521601-97864",
       "date": "2025-05-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1271,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97865",
+      "id": "contrib-1776574521601-97865",
       "date": "2025-02-26 00:00:00",
       "amount": 3000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1287,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97866",
+      "id": "contrib-1776574521601-97866",
       "date": "2025-03-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1303,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97867",
+      "id": "contrib-1776574521601-97867",
       "date": "2025-08-25 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1319,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97868",
+      "id": "contrib-1776574521601-97868",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1335,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97869",
+      "id": "contrib-1776574521601-97869",
       "date": "2025-05-12 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1351,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97870",
+      "id": "contrib-1776574521601-97870",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1367,7 +1387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97871",
+      "id": "contrib-1776574521601-97871",
       "date": "2025-11-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1383,7 +1403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97872",
+      "id": "contrib-1776574521601-97872",
       "date": "2025-05-09 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1399,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97873",
+      "id": "contrib-1776574521601-97873",
       "date": "2025-09-27 00:00:00",
       "amount": 250,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1415,7 +1435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97874",
+      "id": "contrib-1776574521601-97874",
       "date": "2025-04-08 00:00:00",
       "amount": 5000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1431,7 +1451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97875",
+      "id": "contrib-1776574521601-97875",
       "date": "2025-05-16 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1447,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97876",
+      "id": "contrib-1776574521601-97876",
       "date": "2025-09-27 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1463,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97877",
+      "id": "contrib-1776574521601-97877",
       "date": "2025-08-26 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1479,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97878",
+      "id": "contrib-1776574521601-97878",
       "date": "2025-09-27 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1495,7 +1515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97879",
+      "id": "contrib-1776574521601-97879",
       "date": "2025-10-27 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1511,7 +1531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97880",
+      "id": "contrib-1776574521601-97880",
       "date": "2025-11-27 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1527,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97881",
+      "id": "contrib-1776574521601-97881",
       "date": "2025-12-27 00:00:00",
       "amount": 50,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1543,7 +1563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97882",
+      "id": "contrib-1776574521601-97882",
       "date": "2025-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1559,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97883",
+      "id": "contrib-1776574521601-97883",
       "date": "2025-07-07 00:00:00",
       "amount": 186.17,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1575,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97884",
+      "id": "contrib-1776574521601-97884",
       "date": "2025-09-21 00:00:00",
       "amount": 600,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1591,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97885",
+      "id": "contrib-1776574521601-97885",
       "date": "2025-09-04 00:00:00",
       "amount": 2500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1607,7 +1627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97886",
+      "id": "contrib-1776574521601-97886",
       "date": "2025-09-17 00:00:00",
       "amount": 500,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1623,7 +1643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97887",
+      "id": "contrib-1776574521601-97887",
       "date": "2025-05-12 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1639,7 +1659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97888",
+      "id": "contrib-1776574521601-97888",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1655,7 +1675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97889",
+      "id": "contrib-1776574521601-97889",
       "date": "2025-12-23 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1671,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97890",
+      "id": "contrib-1776574521601-97890",
       "date": "2025-12-23 00:00:00",
       "amount": 1065,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1687,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97891",
+      "id": "contrib-1776574521601-97891",
       "date": "2025-05-12 00:00:00",
       "amount": 200,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1703,7 +1723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97892",
+      "id": "contrib-1776574521601-97892",
       "date": "2025-10-31 00:00:00",
       "amount": 250,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1719,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97893",
+      "id": "contrib-1776574521601-97893",
       "date": "2025-11-01 00:00:00",
       "amount": 375,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1735,7 +1755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97894",
+      "id": "contrib-1776574521601-97894",
       "date": "2025-03-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1751,7 +1771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97895",
+      "id": "contrib-1776574521601-97895",
       "date": "2025-04-09 00:00:00",
       "amount": 2000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1767,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97896",
+      "id": "contrib-1776574521601-97896",
       "date": "2025-05-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1783,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97897",
+      "id": "contrib-1776574521601-97897",
       "date": "2025-12-18 00:00:00",
       "amount": 2000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1799,7 +1819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97898",
+      "id": "contrib-1776574521601-97898",
       "date": "2025-05-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1815,7 +1835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97899",
+      "id": "contrib-1776574521601-97899",
       "date": "2025-06-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1831,7 +1851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97900",
+      "id": "contrib-1776574521601-97900",
       "date": "2025-07-31 00:00:00",
       "amount": 250,
       "candidate_name": "Richard  Roy Bagsby",
@@ -1843,6 +1863,1590 @@
       "address_city": "Lafayette ",
       "address_state": "IN",
       "address_zip": "47901",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22651",
+      "date": "2026-01-20 00:00:00",
+      "amount": 4.13,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22652",
+      "date": "2026-02-10 00:00:00",
+      "amount": 6,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22653",
+      "date": "2026-03-16 00:00:00",
+      "amount": 20.82,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22654",
+      "date": "2026-03-17 00:00:00",
+      "amount": 22,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22655",
+      "date": "2026-03-19 00:00:00",
+      "amount": 22,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22656",
+      "date": "2026-03-26 00:00:00",
+      "amount": 22,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22657",
+      "date": "2026-04-02 00:00:00",
+      "amount": 22,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22658",
+      "date": "2026-02-19 00:00:00",
+      "amount": 23.7,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22659",
+      "date": "2026-02-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22660",
+      "date": "2026-02-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22661",
+      "date": "2026-02-09 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22662",
+      "date": "2026-02-10 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22663",
+      "date": "2026-03-27 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22664",
+      "date": "2026-04-06 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22665",
+      "date": "2026-01-05 00:00:00",
+      "amount": 28.46,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22666",
+      "date": "2026-01-06 00:00:00",
+      "amount": 28.83,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22667",
+      "date": "2026-01-29 00:00:00",
+      "amount": 28.83,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22668",
+      "date": "2026-02-02 00:00:00",
+      "amount": 28.83,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22669",
+      "date": "2026-02-10 00:00:00",
+      "amount": 30,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22670",
+      "date": "2026-04-06 00:00:00",
+      "amount": 30,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22671",
+      "date": "2026-03-04 00:00:00",
+      "amount": 33,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22672",
+      "date": "2026-03-16 00:00:00",
+      "amount": 47.4,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22673",
+      "date": "2026-01-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22674",
+      "date": "2026-02-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22675",
+      "date": "2026-02-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22676",
+      "date": "2026-03-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22677",
+      "date": "2026-03-21 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22678",
+      "date": "2026-04-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22679",
+      "date": "2026-01-12 00:00:00",
+      "amount": 57.42,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22680",
+      "date": "2026-01-15 00:00:00",
+      "amount": 57.42,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22681",
+      "date": "2026-01-05 00:00:00",
+      "amount": 57.48,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22682",
+      "date": "2026-02-10 00:00:00",
+      "amount": 60,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22683",
+      "date": "2026-01-20 00:00:00",
+      "amount": 86.79,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22684",
+      "date": "2026-03-04 00:00:00",
+      "amount": 1250,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Fox Hauling & Construction, INC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22685",
+      "date": "2026-03-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "JB Drywall Services INC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22686",
+      "date": "2026-04-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Adam Harvey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22687",
+      "date": "2026-02-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Albert Heber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Delphi",
+      "address_state": "IN",
+      "address_zip": "46923",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22688",
+      "date": "2026-02-09 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Alicia  Schmutzler",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22689",
+      "date": "2026-01-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Barbara Fox",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Dayton",
+      "address_state": "IN",
+      "address_zip": "47941",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22690",
+      "date": "2026-03-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Barbara Neilhouser",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22691",
+      "date": "2026-04-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Barbara Neilhouser",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22692",
+      "date": "2026-03-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Billy O'Brien",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22693",
+      "date": "2026-03-27 00:00:00",
+      "amount": 90,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Bryan  Olson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22694",
+      "date": "2026-04-10 00:00:00",
+      "amount": 200,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Chris Melton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22695",
+      "date": "2026-02-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Connie Sorensen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22696",
+      "date": "2026-03-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Craig Blamdford",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46259",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22697",
+      "date": "2026-04-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Dolores Pyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22698",
+      "date": "2026-03-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Elizabeth Francis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22699",
+      "date": "2026-03-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Francis Hannan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22700",
+      "date": "2026-02-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Gerald  Senesac",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22701",
+      "date": "2026-03-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Gerald  Senesac",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22702",
+      "date": "2026-04-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Gregory Loomis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22703",
+      "date": "2026-01-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "James Fleener",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46421",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22704",
+      "date": "2026-04-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "James Pratt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22705",
+      "date": "2026-02-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "John Piper",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Camby",
+      "address_state": "In",
+      "address_zip": "46113",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22706",
+      "date": "2026-04-09 00:00:00",
+      "amount": 47.7,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Joseph  Daubenmier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22707",
+      "date": "2026-02-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Kathryn Vernon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22708",
+      "date": "2026-04-07 00:00:00",
+      "amount": 222,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Kathryn Vernon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22709",
+      "date": "2026-03-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Krista  Watson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Delphi",
+      "address_state": "IN",
+      "address_zip": "46923",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22710",
+      "date": "2026-01-27 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Michael  Morris",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22711",
+      "date": "2026-02-27 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Michael  Morris",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22712",
+      "date": "2026-03-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Michael  Morris",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22713",
+      "date": "2026-03-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Michael  Morris",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22714",
+      "date": "2026-04-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Michael  Morris",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22715",
+      "date": "2026-02-10 00:00:00",
+      "amount": 800,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Monica  Hufford",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Cutler",
+      "address_state": "IN",
+      "address_zip": "46920",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22716",
+      "date": "2026-01-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Richard Cabello",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22717",
+      "date": "2026-03-12 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Samuel Goode",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Waterford",
+      "address_state": "MI",
+      "address_zip": "48329",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22718",
+      "date": "2026-03-11 00:00:00",
+      "amount": 400,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Sara Bagsby",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22719",
+      "date": "2026-01-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22720",
+      "date": "2026-01-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22721",
+      "date": "2026-03-07 00:00:00",
+      "amount": 400,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22722",
+      "date": "2026-02-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22723",
+      "date": "2026-03-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22724",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22725",
+      "date": "2026-04-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Shannon VanHoosier",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22726",
+      "date": "2026-02-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Sue Lile",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22727",
+      "date": "2026-02-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Sue Obrien",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22728",
+      "date": "2026-02-01 00:00:00",
+      "amount": 191.7,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Susan  Blake",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22729",
+      "date": "2026-04-01 00:00:00",
+      "amount": 191.7,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Susan  Blake",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22730",
+      "date": "2026-04-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Susan  Shaw",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "West Point",
+      "address_state": "IN",
+      "address_zip": "47992",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22731",
+      "date": "2026-03-19 00:00:00",
+      "amount": 222,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Tammy  Murray",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22732",
+      "date": "2026-01-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Theresa Sowinski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22733",
+      "date": "2026-02-25 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Timothy  Radice",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "In",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22734",
+      "date": "2026-02-27 00:00:00",
+      "amount": 25,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Timothy  Radice",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "In",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22735",
+      "date": "2026-02-07 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Timothy  Vickerman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22736",
+      "date": "2026-03-11 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Vicki Burch",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22737",
+      "date": "2026-02-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Curt Nisly For State Representative",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Milford",
+      "address_state": "IN",
+      "address_zip": "46542",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22738",
+      "date": "2026-03-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Findlay Enterprises Jeff's Helicopter Service",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette ",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22739",
+      "date": "2026-04-08 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Macadam Trucking, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22740",
+      "date": "2026-03-04 00:00:00",
+      "amount": 1175,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "Revival Barber And Beauty Academy, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette ",
+      "address_state": "IN",
+      "address_zip": "47901",
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22741",
+      "date": "2026-02-09 00:00:00",
+      "amount": 86.79,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22742",
+      "date": "2026-02-09 00:00:00",
+      "amount": 101.35,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22743",
+      "date": "2026-02-06 00:00:00",
+      "amount": 130.18,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22744",
+      "date": "2026-02-05 00:00:00",
+      "amount": 159.31,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22745",
+      "date": "2026-02-11 00:00:00",
+      "amount": 187.84,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22746",
+      "date": "2026-02-04 00:00:00",
+      "amount": 57.42,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22747",
+      "date": "2026-02-03 00:00:00",
+      "amount": 86.79,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22748",
+      "date": "2026-02-02 00:00:00",
+      "amount": 114.83,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Richard Bagsby for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-22749",
+      "date": "2026-02-02 00:00:00",
+      "amount": 260.67,
+      "candidate_name": "Richard  Roy Bagsby",
+      "contributor_name": "wix.com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
       "recipient_committee": "Richard Bagsby for Indiana",
       "source": "indiana"
     }

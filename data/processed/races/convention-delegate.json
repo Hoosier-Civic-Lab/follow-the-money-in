@@ -3,35 +3,35 @@
   "office": "Convention Delegate",
   "district": null,
   "totals": {
-    "total_raised": "201059.28",
-    "total_contributions": 168
+    "total_raised": "206388.83",
+    "total_contributions": 180
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 39,
-      "total": "57050.00"
+      "count": 40,
+      "total": "58050.00"
     },
     "individual": {
-      "count": 71,
-      "total": "75968.84"
+      "count": 78,
+      "total": "78466.65"
     },
     "committee": {
-      "count": 58,
-      "total": "68040.44"
+      "count": 62,
+      "total": "69872.18"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 87,
-      "total": "35418.45"
+      "count": 94,
+      "total": "37806.93"
     },
     "large": {
-      "count": 78,
-      "total": "165573.66"
+      "count": 80,
+      "total": "168418.66"
     },
     "small": {
-      "count": 3,
-      "total": "67.17"
+      "count": 6,
+      "total": "163.24"
     }
   },
   "by_month": {
@@ -70,6 +70,18 @@
     "2025-05": {
       "count": 2,
       "total": "250.00"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "1143.26"
+    },
+    "2026-01": {
+      "count": 4,
+      "total": "959.60"
+    },
+    "2026-03": {
+      "count": 5,
+      "total": "3226.69"
     }
   },
   "candidates": [
@@ -125,8 +137,8 @@
       "name": "Edward O DeLaney",
       "party": "Democratic",
       "totals": {
-        "total_raised": "19576.00",
-        "total_contributions": 42
+        "total_raised": "21678.81",
+        "total_contributions": 49
       },
       "by_month": {
         "2025-09": {
@@ -156,6 +168,37 @@
         "2025-08": {
           "count": 1,
           "total": "500.00"
+        },
+        "2026-04": {
+          "count": 2,
+          "total": "1100.00"
+        },
+        "2026-01": {
+          "count": 4,
+          "total": "959.60"
+        },
+        "2026-03": {
+          "count": 1,
+          "total": "43.21"
+        }
+      }
+    },
+    {
+      "id": "tracy-allen-brown",
+      "name": "Tracy Allen Brown",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "3226.74",
+        "total_contributions": 5
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 4,
+          "total": "3183.48"
+        },
+        "2026-04": {
+          "count": 1,
+          "total": "43.26"
         }
       }
     }

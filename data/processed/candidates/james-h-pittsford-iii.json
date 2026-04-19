@@ -1,0 +1,70 @@
+{
+  "id": "james-h-pittsford-iii",
+  "name": "James H Pittsford III",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "4896.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "self": {
+      "count": 2,
+      "total": "4896.00"
+    }
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "4626.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "270.00"
+    }
+  },
+  "by_month": {
+    "2026-03": {
+      "count": 2,
+      "total": "4896.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1776574521796-30282",
+      "date": "2026-03-02 00:00:00",
+      "amount": 4626,
+      "candidate_name": "James H Pittsford III",
+      "contributor_name": "James H Pittsford III",
+      "contributor_type": "self",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ellettsville",
+      "address_state": "IN",
+      "address_zip": "47429",
+      "recipient_committee": "Pittsford for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521796-30283",
+      "date": "2026-03-10 00:00:00",
+      "amount": 270,
+      "candidate_name": "James H Pittsford III",
+      "contributor_name": "James H Pittsford III",
+      "contributor_type": "self",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ellettsville",
+      "address_state": "IN",
+      "address_zip": "47429",
+      "recipient_committee": "Pittsford for Indiana",
+      "source": "indiana"
+    }
+  ]
+}

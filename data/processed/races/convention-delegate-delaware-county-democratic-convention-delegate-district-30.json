@@ -3,25 +3,57 @@
   "office": "CONVENTION DELEGATE",
   "district": "Delaware County Democratic Convention Delegate, District 30",
   "totals": {
-    "total_raised": "10.00",
-    "total_contributions": 1
+    "total_raised": "2827.04",
+    "total_contributions": 32
   },
   "by_contributor_type": {
     "individual": {
+      "count": 26,
+      "total": "1700.00"
+    },
+    "unitemized": {
       "count": 1,
-      "total": "10.00"
+      "total": "747.77"
+    },
+    "self": {
+      "count": 3,
+      "total": "309.27"
+    },
+    "committee": {
+      "count": 2,
+      "total": "70.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 1,
-      "total": "10.00"
+      "count": 21,
+      "total": "737.67"
+    },
+    "medium": {
+      "count": 11,
+      "total": "2089.37"
     }
   },
   "by_month": {
     "2025-01": {
       "count": 1,
       "total": "10.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "747.77"
+    },
+    "2026-02": {
+      "count": 2,
+      "total": "200.00"
+    },
+    "2026-03": {
+      "count": 26,
+      "total": "1569.27"
+    },
+    "2026-01": {
+      "count": 2,
+      "total": "300.00"
     }
   },
   "candidates": [
@@ -30,13 +62,29 @@
       "name": "Philip G Gift",
       "party": "Democratic",
       "totals": {
-        "total_raised": "10.00",
-        "total_contributions": 1
+        "total_raised": "2827.04",
+        "total_contributions": 32
       },
       "by_month": {
         "2025-01": {
           "count": 1,
           "total": "10.00"
+        },
+        "2026-04": {
+          "count": 1,
+          "total": "747.77"
+        },
+        "2026-02": {
+          "count": 2,
+          "total": "200.00"
+        },
+        "2026-03": {
+          "count": 26,
+          "total": "1569.27"
+        },
+        "2026-01": {
+          "count": 2,
+          "total": "300.00"
         }
       }
     }

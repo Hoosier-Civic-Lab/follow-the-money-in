@@ -3,118 +3,99 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 062",
   "totals": {
-    "total_raised": "114071.69",
-    "total_contributions": 292
+    "total_raised": "239648.79",
+    "total_contributions": 567
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 2,
-      "total": "105.40"
-    },
-    "corporate": {
-      "count": 8,
-      "total": "7481.49"
+      "count": 85,
+      "total": "2358.10"
     },
     "individual": {
-      "count": 257,
-      "total": "68516.30"
+      "count": 446,
+      "total": "156590.70"
     },
     "committee": {
-      "count": 25,
-      "total": "37968.50"
+      "count": 27,
+      "total": "72968.50"
+    },
+    "corporate": {
+      "count": 9,
+      "total": "7731.49"
     }
   },
   "by_contribution_size": {
+    "small": {
+      "count": 209,
+      "total": "6988.19"
+    },
     "medium": {
-      "count": 178,
-      "total": "46277.14"
+      "count": 312,
+      "total": "72418.54"
     },
     "large": {
-      "count": 33,
-      "total": "49992.06"
-    },
-    "small": {
-      "count": 80,
-      "total": "3052.49"
+      "count": 42,
+      "total": "61492.06"
     },
     "mega": {
-      "count": 1,
-      "total": "14750.00"
+      "count": 4,
+      "total": "98750.00"
     }
   },
   "by_month": {
-    "2025-12": {
-      "count": 45,
-      "total": "18905.75"
-    },
     "2025-09": {
       "count": 108,
       "total": "51395.06"
-    },
-    "2025-11": {
-      "count": 70,
-      "total": "15560.49"
     },
     "2025-08": {
       "count": 19,
       "total": "8844.31"
     },
+    "2025-12": {
+      "count": 45,
+      "total": "18905.75"
+    },
     "2025-10": {
       "count": 42,
       "total": "17473.99"
     },
-    "2025-06": {
-      "count": 1,
-      "total": "500.00"
+    "2025-11": {
+      "count": 70,
+      "total": "15560.49"
     },
     "2025-07": {
       "count": 7,
       "total": "1392.09"
+    },
+    "2026-04": {
+      "count": 74,
+      "total": "40797.40"
+    },
+    "2026-02": {
+      "count": 47,
+      "total": "5790.70"
+    },
+    "2026-01": {
+      "count": 32,
+      "total": "2521.00"
+    },
+    "2026-03": {
+      "count": 122,
+      "total": "76468.00"
+    },
+    "2025-06": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "candidates": [
-    {
-      "id": "david-allen-hall",
-      "name": "DAVID ALLEN HALL",
-      "party": "Republican",
-      "totals": {
-        "total_raised": "58874.99",
-        "total_contributions": 69
-      },
-      "by_month": {
-        "2025-12": {
-          "count": 22,
-          "total": "8685.12"
-        },
-        "2025-09": {
-          "count": 30,
-          "total": "33739.87"
-        },
-        "2025-11": {
-          "count": 6,
-          "total": "1150.00"
-        },
-        "2025-08": {
-          "count": 6,
-          "total": "4300.00"
-        },
-        "2025-10": {
-          "count": 4,
-          "total": "10500.00"
-        },
-        "2025-06": {
-          "count": 1,
-          "total": "500.00"
-        }
-      }
-    },
     {
       "id": "amy-huffman-oliver",
       "name": "Amy Huffman Oliver",
       "party": "Democratic",
       "totals": {
-        "total_raised": "55196.70",
-        "total_contributions": 223
+        "total_raised": "144973.80",
+        "total_contributions": 492
       },
       "by_month": {
         "2025-09": {
@@ -140,6 +121,69 @@
         "2025-07": {
           "count": 7,
           "total": "1392.09"
+        },
+        "2026-04": {
+          "count": 71,
+          "total": "15047.40"
+        },
+        "2026-02": {
+          "count": 47,
+          "total": "5790.70"
+        },
+        "2026-01": {
+          "count": 31,
+          "total": "2496.00"
+        },
+        "2026-03": {
+          "count": 120,
+          "total": "66443.00"
+        }
+      }
+    },
+    {
+      "id": "david-allen-hall",
+      "name": "DAVID ALLEN HALL",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "94674.99",
+        "total_contributions": 75
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 22,
+          "total": "8685.12"
+        },
+        "2025-09": {
+          "count": 30,
+          "total": "33739.87"
+        },
+        "2025-11": {
+          "count": 6,
+          "total": "1150.00"
+        },
+        "2025-08": {
+          "count": 6,
+          "total": "4300.00"
+        },
+        "2025-10": {
+          "count": 4,
+          "total": "10500.00"
+        },
+        "2025-06": {
+          "count": 1,
+          "total": "500.00"
+        },
+        "2026-04": {
+          "count": 3,
+          "total": "25750.00"
+        },
+        "2026-01": {
+          "count": 1,
+          "total": "25.00"
+        },
+        "2026-03": {
+          "count": 2,
+          "total": "10025.00"
         }
       }
     }

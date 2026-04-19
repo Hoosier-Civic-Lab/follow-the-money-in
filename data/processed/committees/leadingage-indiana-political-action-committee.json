@@ -2,14 +2,14 @@
   "id": "leadingage-indiana-political-action-committee",
   "name": "LeadingAge Indiana Political Action Committee",
   "totals": {
-    "total_given": "3700.00",
-    "total_contributions": 6,
+    "total_given": "4700.00",
+    "total_contributions": 8,
     "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "1700.00"
+      "count": 6,
+      "total": "2700.00"
     },
     "large": {
       "count": 2,
@@ -36,20 +36,28 @@
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
     {
       "id": "travis-linn-holdman",
       "name": "Travis Linn Holdman",
-      "total": "1000.00",
-      "count": 1
+      "total": "1500.00",
+      "count": 2
     },
     {
       "id": "craig-thomas-snow",
       "name": "Craig Thomas Snow",
-      "total": "1000.00",
-      "count": 1
+      "total": "1500.00",
+      "count": 2
     },
     {
       "id": "shelli-renee-yoder",
@@ -66,7 +74,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6249",
+      "id": "contrib-1776574521501-6249",
       "date": "2025-10-15 00:00:00",
       "amount": 750,
       "contributor_name": "LeadingAge Indiana Political Action Committee",
@@ -81,7 +89,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7295",
+      "id": "contrib-1776574521502-7295",
       "date": "2025-11-05 00:00:00",
       "amount": 250,
       "contributor_name": "LeadingAge Indiana Political Action Committee",
@@ -96,7 +104,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492052-64761",
+      "id": "contrib-1776574521571-64761",
       "date": "2025-06-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Travis Linn Holdman",
@@ -112,7 +120,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-78913",
+      "id": "contrib-1776574521583-78913",
       "date": "2025-07-02 00:00:00",
       "amount": 300,
       "candidate_name": "Christopher Nathan Judy",
@@ -128,7 +136,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84104",
+      "id": "contrib-1776574521586-84104",
       "date": "2025-10-02 00:00:00",
       "amount": 400,
       "candidate_name": "Shelli Renee Yoder",
@@ -144,7 +152,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492072-84351",
+      "id": "contrib-1776574521587-84351",
       "date": "2025-09-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Craig Thomas Snow",
@@ -158,7 +166,74 @@
       "address_zip": "46278",
       "recipient_committee": "Snow Indiana State Representative",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10684",
+      "date": "2026-03-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Travis Linn Holdman",
+      "contributor_name": "LeadingAge Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Holdman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16817",
+      "date": "2026-04-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Craig Thomas Snow",
+      "contributor_name": "LeadingAge Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Snow Indiana State Representative",
+      "source": "indiana"
     }
   ],
-  "receipts": null
+  "receipts": {
+    "total_raised": "250.00",
+    "total_contributions": 1,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 1,
+        "total": "250.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Alex Kiefer",
+        "type": "individual",
+        "total": "250.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1776574521775-8369",
+        "date": "2026-03-09 00:00:00",
+        "amount": 250,
+        "contributor_name": "Alex Kiefer",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "New Haven",
+        "address_state": "IN",
+        "address_zip": "46774",
+        "recipient_committee": "LeadingAge Indiana Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }

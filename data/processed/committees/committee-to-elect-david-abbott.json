@@ -2,18 +2,22 @@
   "id": "committee-to-elect-david-abbott",
   "name": "Committee to Elect David Abbott",
   "totals": {
-    "total_given": "6093.92",
-    "total_contributions": 5,
-    "candidates_supported": 1
+    "total_given": "6393.92",
+    "total_contributions": 7,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "593.92"
+      "count": 4,
+      "total": "843.92"
     },
     "large": {
       "count": 2,
       "total": "5500.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "50.00"
     }
   },
   "by_month": {
@@ -32,9 +36,23 @@
     "2025-10": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "50.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "250.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "travis-linn-holdman",
+      "name": "Travis Linn Holdman",
+      "total": "250.00",
+      "count": 1
+    },
     {
       "id": "anthony-clyde-isa",
       "name": "Anthony Clyde Isa",
@@ -44,7 +62,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-5989",
+      "id": "contrib-1776574521501-5989",
       "date": "2025-09-03 00:00:00",
       "amount": 193.92,
       "contributor_name": "Committee to Elect David Abbott",
@@ -59,7 +77,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-5990",
+      "id": "contrib-1776574521501-5990",
       "date": "2025-12-17 00:00:00",
       "amount": 2500,
       "contributor_name": "Committee to Elect David Abbott",
@@ -74,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-5991",
+      "id": "contrib-1776574521501-5991",
       "date": "2025-07-24 00:00:00",
       "amount": 3000,
       "contributor_name": "Committee to Elect David Abbott",
@@ -89,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-79368",
+      "id": "contrib-1776574521583-79368",
       "date": "2025-10-23 00:00:00",
       "amount": 250,
       "contributor_name": "Committee to Elect David Abbott",
@@ -104,7 +122,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492088-95350",
+      "id": "contrib-1776574521600-95350",
       "date": "2025-12-11 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Clyde Isa",
@@ -117,6 +135,37 @@
       "address_state": "IN",
       "address_zip": "46784",
       "recipient_committee": "Friends of Tony Isa",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521761-46",
+      "date": "2026-02-26 00:00:00",
+      "amount": 50,
+      "contributor_name": "Committee to Elect David Abbott",
+      "contributor_type": "committee",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Rome City",
+      "address_state": "IN",
+      "address_zip": "46784",
+      "recipient_committee": "Indiana Republican State Committee, Inc",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10635",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Travis Linn Holdman",
+      "contributor_name": "Committee to Elect David Abbott",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rome City",
+      "address_state": "IN",
+      "address_zip": "46784",
+      "recipient_committee": "Hoosiers for Holdman",
       "source": "indiana"
     }
   ],

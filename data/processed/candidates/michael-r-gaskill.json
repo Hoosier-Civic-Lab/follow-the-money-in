@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "31000.00",
-    "total_contributions": 44,
-    "total_itemized": 44,
+    "total_raised": "68240.82",
+    "total_contributions": 73,
+    "total_itemized": 73,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 10,
-      "total": "6100.00"
+      "count": 14,
+      "total": "8490.82"
     },
     "self": {
       "count": 1,
       "total": "800.00"
     },
     "individual": {
-      "count": 7,
-      "total": "4900.00"
+      "count": 15,
+      "total": "12250.00"
     },
     "committee": {
-      "count": 26,
-      "total": "19200.00"
+      "count": 43,
+      "total": "46700.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 33,
-      "total": "15000.00"
+      "count": 51,
+      "total": "22740.82"
     },
     "large": {
-      "count": 11,
-      "total": "16000.00"
+      "count": 21,
+      "total": "35500.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -63,11 +67,23 @@
     "2025-11": {
       "count": 3,
       "total": "1800.00"
+    },
+    "2026-03": {
+      "count": 14,
+      "total": "14190.82"
+    },
+    "2026-04": {
+      "count": 14,
+      "total": "21050.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "2000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492070-82781",
+      "id": "contrib-1776574521585-82781",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Michael R Gaskill",
@@ -83,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82782",
+      "id": "contrib-1776574521585-82782",
       "date": "2025-09-20 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -99,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82783",
+      "id": "contrib-1776574521585-82783",
       "date": "2025-07-02 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -115,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82784",
+      "id": "contrib-1776574521585-82784",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -131,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82785",
+      "id": "contrib-1776574521585-82785",
       "date": "2025-09-20 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -147,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82786",
+      "id": "contrib-1776574521585-82786",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -163,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82787",
+      "id": "contrib-1776574521585-82787",
       "date": "2025-09-20 00:00:00",
       "amount": 250,
       "candidate_name": "Michael R Gaskill",
@@ -179,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82788",
+      "id": "contrib-1776574521585-82788",
       "date": "2025-09-03 00:00:00",
       "amount": 800,
       "candidate_name": "Michael R Gaskill",
@@ -195,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82789",
+      "id": "contrib-1776574521585-82789",
       "date": "2025-09-03 00:00:00",
       "amount": 800,
       "candidate_name": "Michael R Gaskill",
@@ -211,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82790",
+      "id": "contrib-1776574521585-82790",
       "date": "2025-12-29 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -227,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82791",
+      "id": "contrib-1776574521585-82791",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -243,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82792",
+      "id": "contrib-1776574521585-82792",
       "date": "2025-10-04 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -259,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82793",
+      "id": "contrib-1776574521585-82793",
       "date": "2025-10-04 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -275,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82794",
+      "id": "contrib-1776574521585-82794",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -291,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82795",
+      "id": "contrib-1776574521585-82795",
       "date": "2025-09-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -307,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82796",
+      "id": "contrib-1776574521585-82796",
       "date": "2025-10-04 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -323,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82797",
+      "id": "contrib-1776574521585-82797",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -339,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82798",
+      "id": "contrib-1776574521585-82798",
       "date": "2025-09-20 00:00:00",
       "amount": 2000,
       "candidate_name": "Michael R Gaskill",
@@ -355,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82799",
+      "id": "contrib-1776574521585-82799",
       "date": "2025-09-20 00:00:00",
       "amount": 2000,
       "candidate_name": "Michael R Gaskill",
@@ -371,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82800",
+      "id": "contrib-1776574521585-82800",
       "date": "2025-10-04 00:00:00",
       "amount": 400,
       "candidate_name": "Michael R Gaskill",
@@ -387,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82801",
+      "id": "contrib-1776574521585-82801",
       "date": "2025-10-25 00:00:00",
       "amount": 750,
       "candidate_name": "Michael R Gaskill",
@@ -403,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82802",
+      "id": "contrib-1776574521585-82802",
       "date": "2025-12-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -419,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82803",
+      "id": "contrib-1776574521585-82803",
       "date": "2025-09-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -435,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82804",
+      "id": "contrib-1776574521585-82804",
       "date": "2025-10-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -451,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82805",
+      "id": "contrib-1776574521585-82805",
       "date": "2025-12-20 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -467,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82806",
+      "id": "contrib-1776574521585-82806",
       "date": "2025-08-20 00:00:00",
       "amount": 2000,
       "candidate_name": "Michael R Gaskill",
@@ -483,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82807",
+      "id": "contrib-1776574521585-82807",
       "date": "2025-11-04 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -499,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82808",
+      "id": "contrib-1776574521585-82808",
       "date": "2025-10-25 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -515,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82809",
+      "id": "contrib-1776574521585-82809",
       "date": "2025-09-20 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -531,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82810",
+      "id": "contrib-1776574521585-82810",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -547,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82811",
+      "id": "contrib-1776574521585-82811",
       "date": "2025-09-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -563,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82812",
+      "id": "contrib-1776574521585-82812",
       "date": "2025-12-20 00:00:00",
       "amount": 1500,
       "candidate_name": "Michael R Gaskill",
@@ -579,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82813",
+      "id": "contrib-1776574521585-82813",
       "date": "2025-09-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -595,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82814",
+      "id": "contrib-1776574521585-82814",
       "date": "2025-07-02 00:00:00",
       "amount": 750,
       "candidate_name": "Michael R Gaskill",
@@ -611,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82815",
+      "id": "contrib-1776574521585-82815",
       "date": "2025-11-15 00:00:00",
       "amount": 300,
       "candidate_name": "Michael R Gaskill",
@@ -627,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82816",
+      "id": "contrib-1776574521585-82816",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -643,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82817",
+      "id": "contrib-1776574521585-82817",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -659,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82818",
+      "id": "contrib-1776574521585-82818",
       "date": "2025-09-20 00:00:00",
       "amount": 400,
       "candidate_name": "Michael R Gaskill",
@@ -675,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82819",
+      "id": "contrib-1776574521585-82819",
       "date": "2025-08-20 00:00:00",
       "amount": 200,
       "candidate_name": "Michael R Gaskill",
@@ -691,7 +707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82820",
+      "id": "contrib-1776574521585-82820",
       "date": "2025-09-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -707,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82821",
+      "id": "contrib-1776574521585-82821",
       "date": "2025-09-20 00:00:00",
       "amount": 2500,
       "candidate_name": "Michael R Gaskill",
@@ -723,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82822",
+      "id": "contrib-1776574521585-82822",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -739,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82823",
+      "id": "contrib-1776574521585-82823",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
@@ -755,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82824",
+      "id": "contrib-1776574521585-82824",
       "date": "2025-11-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -767,6 +783,470 @@
       "address_city": "Philadelphia",
       "address_state": "PA",
       "address_zip": "19192",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16442",
+      "date": "2026-03-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16443",
+      "date": "2026-03-12 00:00:00",
+      "amount": 590.82,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16444",
+      "date": "2026-04-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "USAA",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78288",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16445",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Anthony Samuel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16446",
+      "date": "2026-04-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Tyson Priest",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Lapel",
+      "address_state": "IN",
+      "address_zip": "46051",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16447",
+      "date": "2026-03-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16448",
+      "date": "2026-04-09 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "American Property Casualty Insurance Association Political Account I",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CHICAGO",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16449",
+      "date": "2026-04-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Duke Energy Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16450",
+      "date": "2026-01-03 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Hoosiers for Great Public Schools PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16451",
+      "date": "2026-03-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana American Water Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GREENWOOD",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16452",
+      "date": "2026-04-02 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16453",
+      "date": "2026-04-02 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16454",
+      "date": "2026-03-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana Builders Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16455",
+      "date": "2026-04-06 00:00:00",
+      "amount": 600,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "INDIANA CREDIT UNION POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16456",
+      "date": "2026-03-30 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana Merit Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16457",
+      "date": "2026-04-09 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "INSURANCE POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16458",
+      "date": "2026-04-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Selective Insurance Company of America Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BRANCHVILLE",
+      "address_state": "NJ",
+      "address_zip": "07890",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16459",
+      "date": "2026-03-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16460",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "TRUCKING INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16461",
+      "date": "2026-04-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "elevance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16462",
+      "date": "2026-04-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Erie Insurance Political Action Committee-Federal",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Erie",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16463",
+      "date": "2026-03-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Ice PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16464",
+      "date": "2026-03-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "IMHA/RVIC Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16465",
+      "date": "2026-04-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "IMPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16466",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16467",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana manufacturer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16468",
+      "date": "2026-03-17 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Indiana Multi-Family Housing",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16469",
+      "date": "2026-04-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "ISAHU-PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46235",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16470",
+      "date": "2026-04-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "State Farm Federal Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IL",
+      "address_zip": "61710",
       "recipient_committee": "Mike Gaskill for Indiana",
       "source": "indiana"
     }

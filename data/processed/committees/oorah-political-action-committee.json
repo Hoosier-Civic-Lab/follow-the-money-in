@@ -2,20 +2,24 @@
   "id": "oorah-political-action-committee",
   "name": "OORAH! POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "7500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 2,
+      "total": "7500.00"
     }
   },
   "by_month": {
     "2025-11": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -24,11 +28,17 @@
       "name": "Rebecca Anne Cash",
       "total": "5000.00",
       "count": 1
+    },
+    {
+      "id": "amy-l-kippenbrock",
+      "name": "Amy L Kippenbrock",
+      "total": "2500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492083-90042",
+      "id": "contrib-1776574521596-90042",
       "date": "2025-11-20 00:00:00",
       "amount": 5000,
       "candidate_name": "Rebecca Anne Cash",
@@ -41,6 +51,22 @@
       "address_state": "IN",
       "address_zip": "46082",
       "recipient_committee": "Friends of Becky Cash",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-26939",
+      "date": "2026-04-10 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Amy L Kippenbrock",
+      "contributor_name": "OORAH!  Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Amy for Indiana",
       "source": "indiana"
     }
   ],

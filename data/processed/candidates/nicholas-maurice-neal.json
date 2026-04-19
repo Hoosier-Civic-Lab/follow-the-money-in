@@ -6,41 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "12959.34",
-    "total_contributions": 48,
-    "total_itemized": 45,
-    "total_unitemized": 3
+    "total_raised": "37925.04",
+    "total_contributions": 97,
+    "total_itemized": 92,
+    "total_unitemized": 5
   },
   "by_contributor_type": {
     "unitemized": {
+      "count": 5,
+      "total": "6715.70"
+    },
+    "individual": {
+      "count": 79,
+      "total": "27659.34"
+    },
+    "committee": {
       "count": 3,
       "total": "700.00"
     },
-    "individual": {
-      "count": 38,
-      "total": "11109.34"
-    },
-    "committee": {
-      "count": 2,
-      "total": "200.00"
-    },
     "corporate": {
-      "count": 5,
-      "total": "950.00"
+      "count": 10,
+      "total": "2850.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 43,
-      "total": "7722.99"
+      "count": 83,
+      "total": "20122.99"
     },
     "large": {
-      "count": 2,
-      "total": "5101.25"
+      "count": 10,
+      "total": "17616.95"
     },
     "small": {
-      "count": 3,
-      "total": "135.10"
+      "count": 4,
+      "total": "185.10"
     }
   },
   "by_month": {
@@ -55,11 +55,27 @@
     "2025-12": {
       "count": 4,
       "total": "379.85"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "6015.70"
+    },
+    "2026-02": {
+      "count": 12,
+      "total": "5900.00"
+    },
+    "2026-03": {
+      "count": 27,
+      "total": "9350.00"
+    },
+    "2026-01": {
+      "count": 8,
+      "total": "3700.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492093-100414",
+      "id": "contrib-1776574521603-100414",
       "date": "2025-11-07 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -75,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100415",
+      "id": "contrib-1776574521603-100415",
       "date": "2025-10-24 00:00:00",
       "amount": 300,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -91,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100416",
+      "id": "contrib-1776574521603-100416",
       "date": "2025-11-13 00:00:00",
       "amount": 300,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -107,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100417",
+      "id": "contrib-1776574521603-100417",
       "date": "2025-10-23 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -123,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100418",
+      "id": "contrib-1776574521603-100418",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -139,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100419",
+      "id": "contrib-1776574521603-100419",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -155,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100420",
+      "id": "contrib-1776574521603-100420",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -171,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100421",
+      "id": "contrib-1776574521603-100421",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -187,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100422",
+      "id": "contrib-1776574521603-100422",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -203,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100423",
+      "id": "contrib-1776574521603-100423",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -219,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100424",
+      "id": "contrib-1776574521603-100424",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -235,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100425",
+      "id": "contrib-1776574521603-100425",
       "date": "2025-11-25 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -251,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100426",
+      "id": "contrib-1776574521603-100426",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -267,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100427",
+      "id": "contrib-1776574521603-100427",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -283,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100428",
+      "id": "contrib-1776574521603-100428",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -299,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100429",
+      "id": "contrib-1776574521603-100429",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -315,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100430",
+      "id": "contrib-1776574521603-100430",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -331,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100431",
+      "id": "contrib-1776574521603-100431",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -347,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100432",
+      "id": "contrib-1776574521603-100432",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -363,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100433",
+      "id": "contrib-1776574521603-100433",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -379,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100434",
+      "id": "contrib-1776574521603-100434",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -395,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100435",
+      "id": "contrib-1776574521603-100435",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -411,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100436",
+      "id": "contrib-1776574521603-100436",
       "date": "2025-10-23 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -427,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100437",
+      "id": "contrib-1776574521603-100437",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -443,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100438",
+      "id": "contrib-1776574521603-100438",
       "date": "2025-11-07 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -459,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100439",
+      "id": "contrib-1776574521603-100439",
       "date": "2025-11-13 00:00:00",
       "amount": 250,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -475,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100440",
+      "id": "contrib-1776574521603-100440",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -491,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100441",
+      "id": "contrib-1776574521603-100441",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -507,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100442",
+      "id": "contrib-1776574521603-100442",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -523,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100443",
+      "id": "contrib-1776574521603-100443",
       "date": "2025-10-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -539,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100444",
+      "id": "contrib-1776574521603-100444",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -555,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100445",
+      "id": "contrib-1776574521603-100445",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -571,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100446",
+      "id": "contrib-1776574521603-100446",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -587,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100447",
+      "id": "contrib-1776574521603-100447",
       "date": "2025-11-13 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -603,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100448",
+      "id": "contrib-1776574521603-100448",
       "date": "2025-11-10 00:00:00",
       "amount": 250,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -619,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100449",
+      "id": "contrib-1776574521603-100449",
       "date": "2025-12-23 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -635,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100450",
+      "id": "contrib-1776574521603-100450",
       "date": "2025-11-07 00:00:00",
       "amount": 200,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -651,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100451",
+      "id": "contrib-1776574521603-100451",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -667,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100452",
+      "id": "contrib-1776574521603-100452",
       "date": "2025-12-16 00:00:00",
       "amount": 38.6,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -683,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100453",
+      "id": "contrib-1776574521603-100453",
       "date": "2025-10-23 00:00:00",
       "amount": 48.25,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -699,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100454",
+      "id": "contrib-1776574521603-100454",
       "date": "2025-12-30 00:00:00",
       "amount": 48.25,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -715,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100455",
+      "id": "contrib-1776574521603-100455",
       "date": "2025-10-23 00:00:00",
       "amount": 168.87,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -731,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100456",
+      "id": "contrib-1776574521603-100456",
       "date": "2025-11-10 00:00:00",
       "amount": 193,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -747,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100457",
+      "id": "contrib-1776574521603-100457",
       "date": "2025-12-15 00:00:00",
       "amount": 193,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -763,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100458",
+      "id": "contrib-1776574521603-100458",
       "date": "2025-11-07 00:00:00",
       "amount": 265.37,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -779,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100459",
+      "id": "contrib-1776574521603-100459",
       "date": "2025-10-29 00:00:00",
       "amount": 337.75,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -795,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100460",
+      "id": "contrib-1776574521603-100460",
       "date": "2025-11-25 00:00:00",
       "amount": 965,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -811,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492093-100461",
+      "id": "contrib-1776574521603-100461",
       "date": "2025-11-26 00:00:00",
       "amount": 4101.25,
       "candidate_name": "Nicholas  Maurice Neal",
@@ -823,6 +839,790 @@
       "address_city": "BOSTON",
       "address_state": "MA",
       "address_zip": "02196",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25838",
+      "date": "2026-04-10 00:00:00",
+      "amount": 2260,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25839",
+      "date": "2026-04-10 00:00:00",
+      "amount": 3755.7,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25840",
+      "date": "2026-02-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CHATEAU BANQUETS",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MERRILLVILLE",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25841",
+      "date": "2026-03-25 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "NICKS BUILDING SUPPLY INC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25842",
+      "date": "2026-02-23 00:00:00",
+      "amount": 700,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "NICHOLAS MAURICE NEAL",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25843",
+      "date": "2026-01-28 00:00:00",
+      "amount": 150,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "AMANDA SATTERFIELD",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "KNOX",
+      "address_state": "IN",
+      "address_zip": "46534",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25844",
+      "date": "2026-01-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "AMY HAN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "DYER",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25845",
+      "date": "2026-02-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "BILL TROWBRIDGE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "VALPARAISO",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25846",
+      "date": "2026-01-20 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CANDACE LILLIE",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46408",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25847",
+      "date": "2026-03-03 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CHELSIE FAYSON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "HOBART",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25848",
+      "date": "2026-03-10 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CHRIS PELLEGRINO",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "HOBART",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25849",
+      "date": "2026-03-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "DAVID STOVALL",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "VALPARAISO",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25850",
+      "date": "2026-03-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "DENNIS WALTON",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MUNSTER",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25851",
+      "date": "2026-02-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "ELIZABETH A MIRR WYSOCKI",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HOBART",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25852",
+      "date": "2026-02-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "ERIN WRIGHT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MUNSTER",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25853",
+      "date": "2026-02-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "FLORZELL HAWKINS JR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25854",
+      "date": "2026-03-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "GERRI BROWNING",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46404",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25855",
+      "date": "2026-03-24 00:00:00",
+      "amount": 400,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JAMES E METRO",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CEDAR LAKE",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25856",
+      "date": "2026-03-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JAMES HARRIS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46408",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25857",
+      "date": "2026-03-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JAMES HARRIS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25858",
+      "date": "2026-03-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JARRETT CRUSOR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25859",
+      "date": "2026-03-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JEFFERY JOHNSON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "SILVER SPRING",
+      "address_state": "MD",
+      "address_zip": "20905",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25860",
+      "date": "2026-03-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JEFFERY JOHNSON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "SILVER SPRING",
+      "address_state": "MD",
+      "address_zip": "20905",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25861",
+      "date": "2026-02-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JEFFREY SWEARINGEN",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25862",
+      "date": "2026-01-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JEFFREY SWEARINGEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25863",
+      "date": "2026-03-24 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JESSICA CRUSOR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25864",
+      "date": "2026-03-25 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JOHN CANTRELL",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HAMMOND",
+      "address_state": "IN",
+      "address_zip": "46323",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25865",
+      "date": "2026-01-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "JUDY KATZ",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25866",
+      "date": "2026-02-17 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "KAREN CARRADINE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "SOUTH HOLLAND",
+      "address_state": "IL",
+      "address_zip": "60473",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25867",
+      "date": "2026-03-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "KAREN FREEMAN-WILSON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46404",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25868",
+      "date": "2026-01-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "KASHEENA WILBUR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "LAFAYETTE",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25869",
+      "date": "2026-03-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "KRISTIN SMITH",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MICHIGAN CITY",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25870",
+      "date": "2026-03-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "LAKIA HASENJAEGER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MERRILLVILLE",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25871",
+      "date": "2026-02-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "LINDA JOHNSEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25872",
+      "date": "2026-02-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "LINDA JOHNSEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25873",
+      "date": "2026-01-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "MATTHEW FECH",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25874",
+      "date": "2026-02-23 00:00:00",
+      "amount": 700,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "NICHOLAS MAURICE NEAL",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25875",
+      "date": "2026-03-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "RIA M TRUFANT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HIGHLAND",
+      "address_state": "IN",
+      "address_zip": "46322",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25876",
+      "date": "2026-03-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "SCOTT CHEMMA",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "CHESTERTON",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25877",
+      "date": "2026-03-28 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "SHAREE SMITH",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MERRILLVILLE",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25878",
+      "date": "2026-03-27 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "VIKKI WALTON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "MERRILLVILLE",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25879",
+      "date": "2026-02-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "USW DISTRICT 7 LU 13976",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WANATAH",
+      "address_state": "IN",
+      "address_zip": "46390",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25880",
+      "date": "2026-03-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CITIZENS FOR BERNARD A CARTER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25881",
+      "date": "2026-03-25 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "CITIZENS FOR MIKE BROWN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46401",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25882",
+      "date": "2026-03-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "COMMITTEE TO ELECT KYLE ALLEN SR",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25883",
+      "date": "2026-03-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "Karma Cigar Bar LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25884",
+      "date": "2026-03-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "LAW OFFICE OF MATTHEW N FECH PC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CROWN POINT",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25885",
+      "date": "2026-03-24 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "SOCIAL WERX LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MERRILLVILLE",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25886",
+      "date": "2026-01-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "TOLBERT & TOLBERT LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GARY",
+      "address_state": "IN",
+      "address_zip": "46402",
       "recipient_committee": "The Campaign to Elect Nick Neal",
       "source": "indiana"
     }

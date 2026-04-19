@@ -3,31 +3,43 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 060",
   "totals": {
-    "total_raised": "31450.00",
-    "total_contributions": 57
+    "total_raised": "102934.47",
+    "total_contributions": 155
   },
   "by_contributor_type": {
     "individual": {
-      "count": 14,
-      "total": "6050.00"
+      "count": 80,
+      "total": "23964.05"
     },
     "corporate": {
-      "count": 8,
-      "total": "4150.00"
+      "count": 15,
+      "total": "7150.00"
     },
     "committee": {
-      "count": 35,
-      "total": "21250.00"
+      "count": 58,
+      "total": "71740.42"
+    },
+    "unitemized": {
+      "count": 2,
+      "total": "80.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 44,
-      "total": "16950.00"
+      "count": 96,
+      "total": "33271.58"
     },
     "large": {
-      "count": 13,
-      "total": "14500.00"
+      "count": 24,
+      "total": "34500.00"
+    },
+    "small": {
+      "count": 33,
+      "total": "912.89"
+    },
+    "mega": {
+      "count": 2,
+      "total": "34250.00"
     }
   },
   "by_month": {
@@ -54,6 +66,22 @@
     "2025-10": {
       "count": 2,
       "total": "2000.00"
+    },
+    "2026-04": {
+      "count": 58,
+      "total": "48260.56"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "25.00"
+    },
+    "2026-03": {
+      "count": 38,
+      "total": "22948.91"
     }
   },
   "candidates": [
@@ -62,8 +90,8 @@
       "name": "Peggy Mayfield",
       "party": "Republican",
       "totals": {
-        "total_raised": "31450.00",
-        "total_contributions": 57
+        "total_raised": "99790.42",
+        "total_contributions": 111
       },
       "by_month": {
         "2025-07": {
@@ -89,6 +117,41 @@
         "2025-10": {
           "count": 2,
           "total": "2000.00"
+        },
+        "2026-04": {
+          "count": 49,
+          "total": "47925.00"
+        },
+        "2026-01": {
+          "count": 1,
+          "total": "250.00"
+        },
+        "2026-02": {
+          "count": 1,
+          "total": "25.00"
+        },
+        "2026-03": {
+          "count": 3,
+          "total": "20140.42"
+        }
+      }
+    },
+    {
+      "id": "carrie-l-syczylo",
+      "name": "Carrie L. Syczylo",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "3144.05",
+        "total_contributions": 44
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 35,
+          "total": "2808.49"
+        },
+        "2026-04": {
+          "count": 9,
+          "total": "335.56"
         }
       }
     }

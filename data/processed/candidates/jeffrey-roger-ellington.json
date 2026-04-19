@@ -6,15 +6,23 @@
   "district": "State Senator, District 39",
   "party": "Republican",
   "totals": {
-    "total_raised": "123193.73",
-    "total_contributions": 4,
-    "total_itemized": 4,
+    "total_raised": "144936.90",
+    "total_contributions": 25,
+    "total_itemized": 25,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 4,
-      "total": "123193.73"
+      "count": 23,
+      "total": "136940.90"
+    },
+    "corporate": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "7896.00"
     }
   },
   "by_contribution_size": {
@@ -23,23 +31,39 @@
       "total": "120000.00"
     },
     "medium": {
-      "count": 1,
-      "total": "193.73"
+      "count": 15,
+      "total": "2949.88"
     },
     "large": {
+      "count": 7,
+      "total": "21937.02"
+    },
+    "small": {
       "count": 1,
-      "total": "3000.00"
+      "total": "50.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 4,
       "total": "123193.73"
+    },
+    "2026-03": {
+      "count": 13,
+      "total": "10847.17"
+    },
+    "2026-04": {
+      "count": 5,
+      "total": "10496.00"
+    },
+    "2026-02": {
+      "count": 3,
+      "total": "400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492068-80021",
+      "id": "contrib-1776574521584-80021",
       "date": "2025-12-30 00:00:00",
       "amount": 60000,
       "candidate_name": "Jeffrey Roger Ellington",
@@ -55,7 +79,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80022",
+      "id": "contrib-1776574521584-80022",
       "date": "2025-12-01 00:00:00",
       "amount": 193.73,
       "candidate_name": "Jeffrey Roger Ellington",
@@ -71,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80023",
+      "id": "contrib-1776574521584-80023",
       "date": "2025-12-14 00:00:00",
       "amount": 3000,
       "candidate_name": "Jeffrey Roger Ellington",
@@ -87,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80024",
+      "id": "contrib-1776574521584-80024",
       "date": "2025-12-30 00:00:00",
       "amount": 60000,
       "candidate_name": "Jeffrey Roger Ellington",
@@ -99,6 +123,342 @@
       "address_city": "Bloomfield",
       "address_state": "In",
       "address_zip": "47424",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15210",
+      "date": "2026-03-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Andry Medical Services",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15211",
+      "date": "2026-03-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Aronold Asphalt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47403",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15212",
+      "date": "2026-04-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Chris Gibson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15213",
+      "date": "2026-03-16 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Doug Rose",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15214",
+      "date": "2026-03-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Eric Powell",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15215",
+      "date": "2026-03-27 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Frances Cady",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomfield",
+      "address_state": "IN",
+      "address_zip": "47424",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15216",
+      "date": "2026-03-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "James Banahan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "85020",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15217",
+      "date": "2026-04-08 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "James Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15218",
+      "date": "2026-02-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "john Guittard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Dallas",
+      "address_state": "TX",
+      "address_zip": "75225",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15219",
+      "date": "2026-04-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Joshua Martin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15220",
+      "date": "2026-03-30 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "K S Rolloff",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47403",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15221",
+      "date": "2026-04-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Louis Belch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15222",
+      "date": "2026-03-25 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Matt Parmenter",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47408",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15223",
+      "date": "2026-03-16 00:00:00",
+      "amount": 156.15,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Matthew Parmenter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Vincennes",
+      "address_state": "IN",
+      "address_zip": "47591",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15224",
+      "date": "2026-03-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Niki Watermolen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Green Bay",
+      "address_state": "WI",
+      "address_zip": "54305",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15225",
+      "date": "2026-02-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Robert Gardner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Conroe",
+      "address_state": "TX",
+      "address_zip": "77384",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15226",
+      "date": "2026-03-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Ron Stanhouse",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Food Services",
+      "occupation_category": "other",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47408",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15227",
+      "date": "2026-03-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Steve Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15228",
+      "date": "2026-02-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Thomas Lucke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Wisconsin Dells",
+      "address_state": "WI",
+      "address_zip": "53965",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15229",
+      "date": "2026-03-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Thomas Lucke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Wisconsin Dells",
+      "address_state": "WI",
+      "address_zip": "53965",
+      "recipient_committee": "Friends of Jeff Ellington",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15230",
+      "date": "2026-04-09 00:00:00",
+      "amount": 7896,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "Win Red Fund Raiser Platform",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cheyenne",
+      "address_state": "WY",
+      "address_zip": "82001",
       "recipient_committee": "Friends of Jeff Ellington",
       "source": "indiana"
     }

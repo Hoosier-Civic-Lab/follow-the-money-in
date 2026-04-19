@@ -2,14 +2,18 @@
   "id": "central-indiana-constructors-pac",
   "name": "Central Indiana Constructors PAC",
   "totals": {
-    "total_given": "5500.00",
-    "total_contributions": 4,
-    "candidates_supported": 1
+    "total_given": "11000.00",
+    "total_contributions": 6,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "5500.00"
+      "count": 5,
+      "total": "10500.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_month": {
@@ -24,6 +28,10 @@
     "2025-10": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-03": {
+      "count": 2,
+      "total": "5500.00"
     }
   },
   "top_recipients": [
@@ -32,11 +40,17 @@
       "name": "KYLE WALKER",
       "total": "2500.00",
       "count": 1
+    },
+    {
+      "id": "scott-lawrence-fluhr",
+      "name": "Scott Lawrence Fluhr",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491967-12329",
+      "id": "contrib-1776574521506-12329",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "contributor_name": "Central Indiana Constructors PAC",
@@ -51,7 +65,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80636",
+      "id": "contrib-1776574521584-80636",
       "date": "2025-09-18 00:00:00",
       "amount": 1000,
       "contributor_name": "Central Indiana Constructors PAC",
@@ -66,7 +80,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492082-89241",
+      "id": "contrib-1776574521595-89241",
       "date": "2025-08-04 00:00:00",
       "amount": 2500,
       "candidate_name": "KYLE WALKER",
@@ -82,7 +96,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492083-89929",
+      "id": "contrib-1776574521595-89929",
       "date": "2025-10-16 00:00:00",
       "amount": 1000,
       "contributor_name": "Central Indiana Constructors PAC",
@@ -95,24 +109,59 @@
       "address_zip": "47803",
       "recipient_committee": "Hancock County Republican Party",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521762-1013",
+      "date": "2026-03-25 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Central Indiana Constructors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "TERRE HAUTE",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28656",
+      "date": "2026-03-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Scott Lawrence Fluhr",
+      "contributor_name": "Central Indiana Constructors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "TERRE HAUTE",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Hoosiers for Scott Fluhr",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "52000.00",
-    "total_contributions": 3,
-    "unique_donors": 3,
+    "total_raised": "81000.79",
+    "total_contributions": 6,
+    "unique_donors": 4,
     "by_contributor_type": {
       "corporate": {
-        "count": 3,
-        "total": "52000.00"
+        "count": 5,
+        "total": "81000.00"
+      },
+      "unitemized": {
+        "count": 1,
+        "total": "0.79"
       }
     },
     "top_donors": [
       {
         "name": "C.H. Garmong & Son Inc.",
         "type": "corporate",
-        "total": "22000.00",
-        "count": 1
+        "total": "33000.00",
+        "count": 2
       },
       {
         "name": "Garmong Development Company, LLC",
@@ -121,15 +170,27 @@
         "count": 1
       },
       {
+        "name": "Garmong BOT Development LLC",
+        "type": "corporate",
+        "total": "18000.00",
+        "count": 1
+      },
+      {
         "name": "Monon Development Company, LLC",
         "type": "corporate",
         "total": "10000.00",
+        "count": 1
+      },
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "0.79",
         "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492086-92668",
+        "id": "contrib-1776574521598-92668",
         "date": "2025-07-08 00:00:00",
         "amount": 22000,
         "contributor_name": "C.H. Garmong & Son Inc.",
@@ -144,7 +205,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492086-92669",
+        "id": "contrib-1776574521598-92669",
         "date": "2025-07-10 00:00:00",
         "amount": 20000,
         "contributor_name": "Garmong Development Company, LLC",
@@ -159,10 +220,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492086-92670",
+        "id": "contrib-1776574521598-92670",
         "date": "2025-12-12 00:00:00",
         "amount": 10000,
         "contributor_name": "Monon Development Company, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Terre Haute",
+        "address_state": "IN",
+        "address_zip": "47803",
+        "recipient_committee": "Central Indiana Constructors PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20581",
+        "date": "2026-02-04 00:00:00",
+        "amount": 0.79,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Central Indiana Constructors PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20582",
+        "date": "2026-02-12 00:00:00",
+        "amount": 11000,
+        "contributor_name": "C.H. Garmong & Son Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Terre Haute",
+        "address_state": "IN",
+        "address_zip": "47803",
+        "recipient_committee": "Central Indiana Constructors PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521784-20583",
+        "date": "2026-03-03 00:00:00",
+        "amount": 18000,
+        "contributor_name": "Garmong BOT Development LLC",
         "contributor_type": "corporate",
         "contribution_size": "mega",
         "occupation": null,

@@ -2,18 +2,22 @@
   "id": "state-farm-federal-political-action-committee",
   "name": "State Farm Federal Political Action Committee",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "1000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-08": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-04": {
       "count": 1,
       "total": "500.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "michael-r-gaskill",
       "name": "Michael R Gaskill",
-      "total": "500.00",
-      "count": 1
+      "total": "1000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492070-82823",
+      "id": "contrib-1776574521585-82823",
       "date": "2025-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "State Farm Federal Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IL",
+      "address_zip": "61710",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16470",
+      "date": "2026-04-06 00:00:00",
       "amount": 500,
       "candidate_name": "Michael R Gaskill",
       "contributor_name": "State Farm Federal Political Action Committee",

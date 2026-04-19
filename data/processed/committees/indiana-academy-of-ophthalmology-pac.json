@@ -2,14 +2,14 @@
   "id": "indiana-academy-of-ophthalmology-pac",
   "name": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
   "totals": {
-    "total_given": "2500.00",
-    "total_contributions": 3,
-    "candidates_supported": 1
+    "total_given": "3500.00",
+    "total_contributions": 4,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 3,
+      "total": "3000.00"
     },
     "medium": {
       "count": 1,
@@ -24,6 +24,10 @@
     "2025-12": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -32,11 +36,17 @@
       "name": "Edward E Charbonneau",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "john-christian-ruckelshaus",
+      "name": "John Christian Ruckelshaus",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6210",
+      "id": "contrib-1776574521501-6210",
       "date": "2025-11-25 00:00:00",
       "amount": 1000,
       "contributor_name": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
@@ -51,7 +61,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7260",
+      "id": "contrib-1776574521502-7260",
       "date": "2025-12-03 00:00:00",
       "amount": 500,
       "contributor_name": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
@@ -66,7 +76,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492048-63734",
+      "id": "contrib-1776574521568-63734",
       "date": "2025-11-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Edward E Charbonneau",
@@ -80,27 +90,55 @@
       "address_zip": "46204",
       "recipient_committee": "Charbonneau for Senate",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15368",
+      "date": "2026-03-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Academy of Ophthalmology PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "9525.85",
-    "total_contributions": 39,
-    "unique_donors": 16,
+    "total_raised": "11177.83",
+    "total_contributions": 47,
+    "unique_donors": 17,
     "by_contributor_type": {
       "unitemized": {
-        "count": 13,
-        "total": "30.88"
+        "count": 16,
+        "total": "32.86"
       },
       "corporate": {
         "count": 1,
         "total": "294.97"
       },
       "individual": {
-        "count": 25,
-        "total": "9200.00"
+        "count": 30,
+        "total": "10850.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Indiana Academy of Ophthalmology",
+        "type": "corporate",
+        "total": "1294.97",
+        "count": 2
+      },
+      {
+        "name": "Yara Catoira-Boyle M.D.",
+        "type": "individual",
+        "total": "1100.00",
+        "count": 13
+      },
       {
         "name": "Alexander Izad M.D.",
         "type": "individual",
@@ -126,12 +164,6 @@
         "count": 1
       },
       {
-        "name": "Yara Catoira-Boyle M.D.",
-        "type": "individual",
-        "total": "950.00",
-        "count": 10
-      },
-      {
         "name": "Sally Primus M.D.",
         "type": "individual",
         "total": "750.00",
@@ -154,17 +186,11 @@
         "type": "individual",
         "total": "500.00",
         "count": 1
-      },
-      {
-        "name": "Whitney Boling M.D.",
-        "type": "individual",
-        "total": "500.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969491967-12012",
+        "id": "contrib-1776574521505-12012",
         "date": "2025-09-12 00:00:00",
         "amount": 10,
         "contributor_name": "",
@@ -179,7 +205,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12013",
+        "id": "contrib-1776574521505-12013",
         "date": "2025-12-31 00:00:00",
         "amount": 0.6,
         "contributor_name": "",
@@ -194,7 +220,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12014",
+        "id": "contrib-1776574521505-12014",
         "date": "2025-02-28 00:00:00",
         "amount": 1.38,
         "contributor_name": "",
@@ -209,7 +235,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12015",
+        "id": "contrib-1776574521505-12015",
         "date": "2025-04-30 00:00:00",
         "amount": 1.49,
         "contributor_name": "",
@@ -224,7 +250,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12016",
+        "id": "contrib-1776574521505-12016",
         "date": "2025-01-31 00:00:00",
         "amount": 1.51,
         "contributor_name": "",
@@ -239,7 +265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12017",
+        "id": "contrib-1776574521505-12017",
         "date": "2025-06-30 00:00:00",
         "amount": 1.52,
         "contributor_name": "",
@@ -254,7 +280,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12018",
+        "id": "contrib-1776574521505-12018",
         "date": "2025-03-31 00:00:00",
         "amount": 1.54,
         "contributor_name": "",
@@ -269,7 +295,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12019",
+        "id": "contrib-1776574521505-12019",
         "date": "2025-05-31 00:00:00",
         "amount": 1.57,
         "contributor_name": "",
@@ -284,7 +310,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12020",
+        "id": "contrib-1776574521505-12020",
         "date": "2025-07-31 00:00:00",
         "amount": 1.59,
         "contributor_name": "",
@@ -299,7 +325,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12021",
+        "id": "contrib-1776574521505-12021",
         "date": "2025-08-31 00:00:00",
         "amount": 1.6,
         "contributor_name": "",
@@ -314,7 +340,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12022",
+        "id": "contrib-1776574521505-12022",
         "date": "2025-11-30 00:00:00",
         "amount": 2.84,
         "contributor_name": "",
@@ -329,7 +355,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12023",
+        "id": "contrib-1776574521505-12023",
         "date": "2025-10-31 00:00:00",
         "amount": 3.16,
         "contributor_name": "",
@@ -344,7 +370,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12024",
+        "id": "contrib-1776574521505-12024",
         "date": "2025-09-30 00:00:00",
         "amount": 2.08,
         "contributor_name": "",
@@ -359,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12025",
+        "id": "contrib-1776574521505-12025",
         "date": "2025-12-31 00:00:00",
         "amount": 294.97,
         "contributor_name": "Indiana Academy of Ophthalmology",
@@ -374,7 +400,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12026",
+        "id": "contrib-1776574521505-12026",
         "date": "2025-09-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Alexander Izad M.D.",
@@ -389,7 +415,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12027",
+        "id": "contrib-1776574521505-12027",
         "date": "2025-09-12 00:00:00",
         "amount": 200,
         "contributor_name": "Amelia Huang M.D.",
@@ -404,7 +430,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12028",
+        "id": "contrib-1776574521505-12028",
         "date": "2025-09-12 00:00:00",
         "amount": 500,
         "contributor_name": "Andrew Tharp M.D.",
@@ -419,7 +445,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12029",
+        "id": "contrib-1776574521505-12029",
         "date": "2025-09-12 00:00:00",
         "amount": 300,
         "contributor_name": "Chi Wah Yung, M.D.",
@@ -434,7 +460,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12030",
+        "id": "contrib-1776574521505-12030",
         "date": "2025-09-12 00:00:00",
         "amount": 500,
         "contributor_name": "Derek Sprunger M.D.",
@@ -449,7 +475,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12031",
+        "id": "contrib-1776574521505-12031",
         "date": "2025-09-11 00:00:00",
         "amount": 1000,
         "contributor_name": "Frank Hrisomalos MD",
@@ -464,7 +490,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12032",
+        "id": "contrib-1776574521505-12032",
         "date": "2025-09-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Jeffrey Hudson, M.D.",
@@ -479,7 +505,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12033",
+        "id": "contrib-1776574521505-12033",
         "date": "2025-11-03 00:00:00",
         "amount": 400,
         "contributor_name": "Jonathon Weyer M.D.",
@@ -494,7 +520,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12034",
+        "id": "contrib-1776574521505-12034",
         "date": "2025-09-12 00:00:00",
         "amount": 500,
         "contributor_name": "Michael Hopen M.D.",
@@ -509,7 +535,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12035",
+        "id": "contrib-1776574521505-12035",
         "date": "2025-09-11 00:00:00",
         "amount": 250,
         "contributor_name": "Michael Rothbaum M.D.",
@@ -524,7 +550,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12036",
+        "id": "contrib-1776574521505-12036",
         "date": "2025-09-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Nisha Kheradiya M.D.",
@@ -539,7 +565,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12037",
+        "id": "contrib-1776574521505-12037",
         "date": "2025-09-12 00:00:00",
         "amount": 200,
         "contributor_name": "Sally Primus M.D.",
@@ -554,7 +580,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12038",
+        "id": "contrib-1776574521505-12038",
         "date": "2025-10-16 00:00:00",
         "amount": 550,
         "contributor_name": "Sally Primus M.D.",
@@ -569,7 +595,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12039",
+        "id": "contrib-1776574521505-12039",
         "date": "2025-09-12 00:00:00",
         "amount": 350,
         "contributor_name": "Scott Wentz M.D.",
@@ -584,7 +610,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12040",
+        "id": "contrib-1776574521505-12040",
         "date": "2025-09-12 00:00:00",
         "amount": 500,
         "contributor_name": "Whitney Boling M.D.",
@@ -599,7 +625,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12041",
+        "id": "contrib-1776574521505-12041",
         "date": "2025-01-31 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -614,7 +640,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12042",
+        "id": "contrib-1776574521505-12042",
         "date": "2025-02-28 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -629,7 +655,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12043",
+        "id": "contrib-1776574521505-12043",
         "date": "2025-03-31 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -644,7 +670,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12044",
+        "id": "contrib-1776574521505-12044",
         "date": "2025-04-30 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -659,7 +685,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12045",
+        "id": "contrib-1776574521505-12045",
         "date": "2025-05-31 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -674,7 +700,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12046",
+        "id": "contrib-1776574521505-12046",
         "date": "2025-06-30 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -689,7 +715,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12047",
+        "id": "contrib-1776574521505-12047",
         "date": "2025-07-31 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -704,7 +730,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12048",
+        "id": "contrib-1776574521505-12048",
         "date": "2025-11-15 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -719,7 +745,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12049",
+        "id": "contrib-1776574521505-12049",
         "date": "2025-12-31 00:00:00",
         "amount": 50,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -734,7 +760,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491967-12050",
+        "id": "contrib-1776574521505-12050",
         "date": "2025-09-12 00:00:00",
         "amount": 500,
         "contributor_name": "Yara Catoira-Boyle M.D.",
@@ -745,6 +771,126 @@
         "address_city": "Indianapolis",
         "address_state": "IN",
         "address_zip": "46220",
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3152",
+        "date": "2026-01-31 00:00:00",
+        "amount": 0.6,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3153",
+        "date": "2026-02-28 00:00:00",
+        "amount": 0.63,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3154",
+        "date": "2026-03-31 00:00:00",
+        "amount": 0.75,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3155",
+        "date": "2026-01-15 00:00:00",
+        "amount": 500,
+        "contributor_name": "Robert Larew, M.D.",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47903",
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3156",
+        "date": "2026-01-31 00:00:00",
+        "amount": 50,
+        "contributor_name": "Yara Catoira-Boyle M.D.",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3157",
+        "date": "2026-02-28 00:00:00",
+        "amount": 50,
+        "contributor_name": "Yara Catoira-Boyle M.D.",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3158",
+        "date": "2026-03-31 00:00:00",
+        "amount": 50,
+        "contributor_name": "Yara Catoira-Boyle M.D.",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521764-3159",
+        "date": "2026-03-19 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Indiana Academy of Ophthalmology",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
         "recipient_committee": "INDIANA ACADEMY OF OPHTHALMOLOGY PAC",
         "source": "indiana"
       }

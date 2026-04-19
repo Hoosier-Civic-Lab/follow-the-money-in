@@ -2,9 +2,9 @@
   "id": "outdoor-advertising-political-action-committee",
   "name": "Outdoor Advertising Political Action Committee",
   "totals": {
-    "total_given": "4200.00",
-    "total_contributions": 5,
-    "candidates_supported": 3
+    "total_given": "5400.00",
+    "total_contributions": 7,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
@@ -12,14 +12,22 @@
       "total": "3000.00"
     },
     "medium": {
-      "count": 2,
-      "total": "1200.00"
+      "count": 4,
+      "total": "2400.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 5,
       "total": "4200.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "600.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "600.00"
     }
   },
   "top_recipients": [
@@ -40,11 +48,23 @@
       "name": "Shelli Renee Yoder",
       "total": "600.00",
       "count": 1
+    },
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "600.00",
+      "count": 1
+    },
+    {
+      "id": "craig-thomas-snow",
+      "name": "Craig Thomas Snow",
+      "total": "600.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6253",
+      "id": "contrib-1776574521501-6253",
       "date": "2025-12-22 00:00:00",
       "amount": 1000,
       "contributor_name": "Outdoor Advertising Political Action Committee",
@@ -59,7 +79,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12421",
+      "id": "contrib-1776574521506-12421",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "contributor_name": "Outdoor Advertising Political Action Committee",
@@ -74,7 +94,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-66870",
+      "id": "contrib-1776574521575-66870",
       "date": "2025-12-22 00:00:00",
       "amount": 600,
       "candidate_name": "Todd Michael Huston",
@@ -90,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-79931",
+      "id": "contrib-1776574521584-79931",
       "date": "2025-12-30 00:00:00",
       "amount": 1000,
       "candidate_name": "James Robert Pressel Jr.",
@@ -106,7 +126,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84106",
+      "id": "contrib-1776574521586-84106",
       "date": "2025-12-14 00:00:00",
       "amount": 600,
       "candidate_name": "Shelli Renee Yoder",
@@ -119,6 +139,38 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Friends of Shelli Yoder",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16199",
+      "date": "2026-01-30 00:00:00",
+      "amount": 600,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Outdoor Advertising Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16819",
+      "date": "2026-03-27 00:00:00",
+      "amount": 600,
+      "candidate_name": "Craig Thomas Snow",
+      "contributor_name": "Outdoor Advertising Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Snow Indiana State Representative",
       "source": "indiana"
     }
   ],
@@ -204,7 +256,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492070-83353",
+        "id": "contrib-1776574521586-83353",
         "date": "2025-12-15 00:00:00",
         "amount": 247.5,
         "contributor_name": "Outdoor One",
@@ -219,7 +271,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83354",
+        "id": "contrib-1776574521586-83354",
         "date": "2025-12-15 00:00:00",
         "amount": 1072.5,
         "contributor_name": "JR Promotions, LLC",
@@ -234,7 +286,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83355",
+        "id": "contrib-1776574521586-83355",
         "date": "2025-12-15 00:00:00",
         "amount": 2145,
         "contributor_name": "Outfront Media",
@@ -249,7 +301,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83356",
+        "id": "contrib-1776574521586-83356",
         "date": "2025-12-15 00:00:00",
         "amount": 577.5,
         "contributor_name": "Porter Advertising, LLC",
@@ -264,7 +316,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83357",
+        "id": "contrib-1776574521586-83357",
         "date": "2025-12-15 00:00:00",
         "amount": 4784,
         "contributor_name": "Reagan Outdoor LLC",
@@ -279,7 +331,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83358",
+        "id": "contrib-1776574521586-83358",
         "date": "2025-12-15 00:00:00",
         "amount": 495,
         "contributor_name": "Trailhead Media",
@@ -294,7 +346,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83359",
+        "id": "contrib-1776574521586-83359",
         "date": "2025-10-17 00:00:00",
         "amount": 1000,
         "contributor_name": "Citizens for Jeff Thompson",
@@ -309,7 +361,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83360",
+        "id": "contrib-1776574521586-83360",
         "date": "2025-12-17 00:00:00",
         "amount": 1000,
         "contributor_name": "Friends of Jim Pressel",
@@ -324,7 +376,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83361",
+        "id": "contrib-1776574521586-83361",
         "date": "2025-12-17 00:00:00",
         "amount": 600,
         "contributor_name": "Friends of Shelli Yoder",
@@ -339,7 +391,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83362",
+        "id": "contrib-1776574521586-83362",
         "date": "2025-12-17 00:00:00",
         "amount": 1000,
         "contributor_name": "Senate Majority Campaign Committee",
@@ -354,7 +406,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83363",
+        "id": "contrib-1776574521586-83363",
         "date": "2025-12-17 00:00:00",
         "amount": 600,
         "contributor_name": "Snow for Indiana State Representative",
@@ -369,7 +421,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83364",
+        "id": "contrib-1776574521586-83364",
         "date": "2025-12-17 00:00:00",
         "amount": 1000,
         "contributor_name": "Citizens for Crider",
@@ -384,7 +436,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83365",
+        "id": "contrib-1776574521586-83365",
         "date": "2025-12-17 00:00:00",
         "amount": 1000,
         "contributor_name": "Doriot for Senate",
@@ -399,7 +451,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83366",
+        "id": "contrib-1776574521586-83366",
         "date": "2025-12-17 00:00:00",
         "amount": 600,
         "contributor_name": "Friends of Chris Garten",
@@ -414,7 +466,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83367",
+        "id": "contrib-1776574521586-83367",
         "date": "2025-12-17 00:00:00",
         "amount": 600,
         "contributor_name": "Rodrick D. Bray for State Senate",
@@ -429,7 +481,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83368",
+        "id": "contrib-1776574521586-83368",
         "date": "2025-12-17 00:00:00",
         "amount": 600,
         "contributor_name": "Todd Huston for State Representative",

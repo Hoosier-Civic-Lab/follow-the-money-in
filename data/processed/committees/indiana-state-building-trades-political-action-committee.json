@@ -2,18 +2,18 @@
   "id": "indiana-state-building-trades-political-action-committee",
   "name": "Indiana State Building Trades Political Action Committee",
   "totals": {
-    "total_given": "11500.00",
-    "total_contributions": 10,
+    "total_given": "13500.00",
+    "total_contributions": 12,
     "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
-      "count": 7,
-      "total": "10000.00"
+      "count": 8,
+      "total": "11500.00"
     },
     "medium": {
-      "count": 3,
-      "total": "1500.00"
+      "count": 4,
+      "total": "2000.00"
     }
   },
   "by_month": {
@@ -36,6 +36,14 @@
     "2025-07": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -52,14 +60,14 @@
       "count": 1
     },
     {
-      "id": "harold-m-slager",
-      "name": "Harold M. Slager",
-      "total": "500.00",
-      "count": 1
-    },
-    {
       "id": "justin-moed",
       "name": "Justin Moed",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "harold-m-slager",
+      "name": "Harold M. Slager",
       "total": "500.00",
       "count": 1
     },
@@ -72,7 +80,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491952-516",
+      "id": "contrib-1776574521495-516",
       "date": "2025-12-05 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana State Building Trades Political Action Committee",
@@ -87,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-6242",
+      "id": "contrib-1776574521501-6242",
       "date": "2025-06-09 00:00:00",
       "amount": 1500,
       "contributor_name": "Indiana State Building Trades Political Action Committee",
@@ -102,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-6243",
+      "id": "contrib-1776574521501-6243",
       "date": "2025-10-15 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana State Building Trades Political Action Committee",
@@ -117,7 +125,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7285",
+      "id": "contrib-1776574521502-7285",
       "date": "2025-06-26 00:00:00",
       "amount": 1500,
       "contributor_name": "Indiana State Building Trades Political Action Committee",
@@ -132,7 +140,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7286",
+      "id": "contrib-1776574521502-7286",
       "date": "2025-12-05 00:00:00",
       "amount": 1500,
       "contributor_name": "Indiana State Building Trades Political Action Committee",
@@ -147,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64033",
+      "id": "contrib-1776574521569-64033",
       "date": "2025-12-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -163,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492052-65032",
+      "id": "contrib-1776574521572-65032",
       "date": "2025-06-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael Harry Karickhoff",
@@ -179,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67074",
+      "id": "contrib-1776574521576-67074",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Harold M. Slager",
@@ -195,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67353",
+      "id": "contrib-1776574521576-67353",
       "date": "2025-07-28 00:00:00",
       "amount": 500,
       "candidate_name": "Justin Moed",
@@ -211,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82651",
+      "id": "contrib-1776574521585-82651",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -225,16 +233,47 @@
       "address_zip": "46204",
       "recipient_committee": "Friends of Kyle Miller",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521762-1426",
+      "date": "2026-04-10 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Indiana State Building Trades Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-11241",
+      "date": "2026-03-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Justin Moed",
+      "contributor_name": "Indiana State Building Trades Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Neighbors for Justin Moed",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "48850.00",
-    "total_contributions": 3,
+    "total_raised": "70850.00",
+    "total_contributions": 4,
     "unique_donors": 3,
     "by_contributor_type": {
       "committee": {
-        "count": 2,
-        "total": "37500.00"
+        "count": 3,
+        "total": "59500.00"
       },
       "individual": {
         "count": 1,
@@ -245,8 +284,8 @@
       {
         "name": "Plumbers, Steamfitters & HVAC Techs Local 440 Political Education Fund",
         "type": "committee",
-        "total": "22000.00",
-        "count": 1
+        "total": "44000.00",
+        "count": 2
       },
       {
         "name": "IBEW Local 481 Campaign Fund",
@@ -263,7 +302,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492006-34091",
+        "id": "contrib-1776574521535-34091",
         "date": "2025-12-23 00:00:00",
         "amount": 15500,
         "contributor_name": "IBEW Local 481 Campaign Fund",
@@ -278,7 +317,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34092",
+        "id": "contrib-1776574521535-34092",
         "date": "2025-12-15 00:00:00",
         "amount": 11350,
         "contributor_name": "Indiana State Building & Construction Trades Council",
@@ -293,8 +332,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34093",
+        "id": "contrib-1776574521535-34093",
         "date": "2025-04-08 00:00:00",
+        "amount": 22000,
+        "contributor_name": "Plumbers, Steamfitters & HVAC Techs Local 440 Political Education Fund",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46239",
+        "recipient_committee": "Indiana State Building Trades Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9667",
+        "date": "2026-04-01 00:00:00",
         "amount": 22000,
         "contributor_name": "Plumbers, Steamfitters & HVAC Techs Local 440 Political Education Fund",
         "contributor_type": "committee",

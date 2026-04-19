@@ -2,28 +2,47 @@
   "id": "wayne-county-republican-party-central-committee",
   "name": "Wayne County Republican Party Central Committee",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 1,
+    "total_given": "3000.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 2,
+      "total": "3000.00"
     }
   },
   "by_month": {
     "2025-03": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1775969491951-303",
+      "id": "contrib-1776574521494-303",
       "date": "2025-03-31 00:00:00",
       "amount": 2000,
+      "contributor_name": "Wayne County Republican Party Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47346",
+      "recipient_committee": "Indiana Republican State Committee, Inc",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521761-106",
+      "date": "2026-03-24 00:00:00",
+      "amount": 1000,
       "contributor_name": "Wayne County Republican Party Central Committee",
       "contributor_type": "committee",
       "contribution_size": "large",

@@ -2,9 +2,9 @@
   "id": "ironworkers-local-22-pac",
   "name": "Ironworkers Local 22 PAC",
   "totals": {
-    "total_given": "4500.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "9500.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
@@ -12,8 +12,8 @@
       "total": "500.00"
     },
     "large": {
-      "count": 1,
-      "total": "4000.00"
+      "count": 2,
+      "total": "9000.00"
     }
   },
   "by_month": {
@@ -24,9 +24,19 @@
     "2025-08": {
       "count": 1,
       "total": "4000.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "ray-anthony-collins",
+      "name": "Ray Anthony Collins",
+      "total": "5000.00",
+      "count": 1
+    },
     {
       "id": "mitchell-alan-gore",
       "name": "Mitchell Alan Gore",
@@ -36,7 +46,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6617",
+      "id": "contrib-1776574521502-6617",
       "date": "2025-07-29 00:00:00",
       "amount": 500,
       "contributor_name": "Ironworkers Local 22 PAC",
@@ -51,7 +61,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83577",
+      "id": "contrib-1776574521586-83577",
       "date": "2025-08-18 00:00:00",
       "amount": 4000,
       "candidate_name": "Mitchell Alan Gore",
@@ -64,6 +74,22 @@
       "address_state": "IN",
       "address_zip": "46241",
       "recipient_committee": "Committee to Elect Mitch Gore",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27299",
+      "date": "2026-02-21 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Ray Anthony Collins",
+      "contributor_name": "Ironworkers Local 22 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Ray Collins for Indiana",
       "source": "indiana"
     }
   ],

@@ -2,14 +2,14 @@
   "id": "committee-to-elect-carey-hamilton",
   "name": "Committee to Elect Carey Hamilton",
   "totals": {
-    "total_given": "16000.00",
-    "total_contributions": 3,
-    "candidates_supported": 0
+    "total_given": "22000.00",
+    "total_contributions": 9,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "6000.00"
+      "count": 8,
+      "total": "12000.00"
     },
     "mega": {
       "count": 1,
@@ -28,12 +28,57 @@
     "2025-09": {
       "count": 1,
       "total": "10000.00"
+    },
+    "2026-04": {
+      "count": 4,
+      "total": "4000.00"
+    },
+    "2026-03": {
+      "count": 2,
+      "total": "2000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "tiffany-stoner",
+      "name": "Tiffany Stoner",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "racheal-bleicher",
+      "name": "Racheal Bleicher",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "ryan-michael-kominakis",
+      "name": "Ryan Michael Kominakis",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "lindsay-danielle-gramlich",
+      "name": "Lindsay Danielle Gramlich",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "randall-j-novak",
+      "name": "Randall  J Novak",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "sara-colleen-gullion",
+      "name": "Sara Colleen Gullion",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969491952-438",
+      "id": "contrib-1776574521494-438",
       "date": "2025-11-30 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Carey Hamilton",
@@ -48,7 +93,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7120",
+      "id": "contrib-1776574521502-7120",
       "date": "2025-12-18 00:00:00",
       "amount": 5000,
       "contributor_name": "Committee To Elect Carey Hamilton",
@@ -63,7 +108,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7121",
+      "id": "contrib-1776574521502-7121",
       "date": "2025-09-10 00:00:00",
       "amount": 10000,
       "contributor_name": "Committee To Elect Carey Hamilton",
@@ -76,24 +121,124 @@
       "address_zip": "46220",
       "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21734",
+      "date": "2026-04-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tiffany Stoner",
+      "contributor_name": "Committee to Elect Carey Hamilton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Tiffany Stoner",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25823",
+      "date": "2026-03-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Racheal Bleicher",
+      "contributor_name": "Committee to Elect Carey Hamilton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Racheal for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-26049",
+      "date": "2026-04-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Committee to Elect Carey Hamilton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220-5223",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27214",
+      "date": "2026-03-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lindsay Danielle Gramlich",
+      "contributor_name": "Committee to Elect Carey Hamilton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Our Community for Lindsay Gramlich",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-27253",
+      "date": "2026-04-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Randall  J Novak",
+      "contributor_name": "COMMITTEE TO ELECT CAREY HAMILTON",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Randy Novak",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521791-29231",
+      "date": "2026-04-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sara Colleen Gullion",
+      "contributor_name": "Committee to Elect Carey Hamilton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Sara Gullion",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "142150.29",
-    "total_contributions": 175,
-    "unique_donors": 118,
+    "total_raised": "167578.38",
+    "total_contributions": 328,
+    "unique_donors": 230,
     "by_contributor_type": {
       "corporate": {
-        "count": 36,
-        "total": "5749.70"
+        "count": 43,
+        "total": "6252.79"
       },
       "individual": {
-        "count": 116,
-        "total": "120650.59"
+        "count": 259,
+        "total": "142875.59"
       },
       "committee": {
-        "count": 23,
-        "total": "15750.00"
+        "count": 25,
+        "total": "18400.00"
+      },
+      "unitemized": {
+        "count": 1,
+        "total": "50.00"
       }
     },
     "top_donors": [
@@ -124,8 +269,26 @@
       {
         "name": "BMO Harris",
         "type": "corporate",
-        "total": "2749.70",
-        "count": 30
+        "total": "3252.79",
+        "count": 37
+      },
+      {
+        "name": "Indy Chamber Business Advocacy Committee",
+        "type": "committee",
+        "total": "3000.00",
+        "count": 2
+      },
+      {
+        "name": "Cynthia  Pyle",
+        "type": "individual",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "Marianne Glick",
+        "type": "individual",
+        "total": "2000.00",
+        "count": 2
       },
       {
         "name": "IN Firefighters PAC",
@@ -138,29 +301,11 @@
         "type": "committee",
         "total": "1300.00",
         "count": 2
-      },
-      {
-        "name": "Brent Auberry",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Bruce King",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Ian Banks",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492068-80394",
+        "id": "contrib-1776574521584-80394",
         "date": "2025-04-30 00:00:00",
         "amount": 0.06,
         "candidate_name": "Carey E Hamilton",
@@ -176,7 +321,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80395",
+        "id": "contrib-1776574521584-80395",
         "date": "2025-02-28 00:00:00",
         "amount": 0.07,
         "candidate_name": "Carey E Hamilton",
@@ -192,7 +337,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80396",
+        "id": "contrib-1776574521584-80396",
         "date": "2025-01-31 00:00:00",
         "amount": 0.08,
         "candidate_name": "Carey E Hamilton",
@@ -208,7 +353,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80397",
+        "id": "contrib-1776574521584-80397",
         "date": "2025-03-31 00:00:00",
         "amount": 0.08,
         "candidate_name": "Carey E Hamilton",
@@ -224,7 +369,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80398",
+        "id": "contrib-1776574521584-80398",
         "date": "2025-05-31 00:00:00",
         "amount": 0.11,
         "candidate_name": "Carey E Hamilton",
@@ -240,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80399",
+        "id": "contrib-1776574521584-80399",
         "date": "2025-10-31 00:00:00",
         "amount": 0.12,
         "candidate_name": "Carey E Hamilton",
@@ -256,7 +401,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80400",
+        "id": "contrib-1776574521584-80400",
         "date": "2025-09-30 00:00:00",
         "amount": 0.13,
         "candidate_name": "Carey E Hamilton",
@@ -272,7 +417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80401",
+        "id": "contrib-1776574521584-80401",
         "date": "2025-06-30 00:00:00",
         "amount": 0.19,
         "candidate_name": "Carey E Hamilton",
@@ -288,7 +433,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80402",
+        "id": "contrib-1776574521584-80402",
         "date": "2025-08-31 00:00:00",
         "amount": 0.19,
         "candidate_name": "Carey E Hamilton",
@@ -304,7 +449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80403",
+        "id": "contrib-1776574521584-80403",
         "date": "2025-07-31 00:00:00",
         "amount": 0.2,
         "candidate_name": "Carey E Hamilton",
@@ -320,7 +465,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80404",
+        "id": "contrib-1776574521584-80404",
         "date": "2025-11-30 00:00:00",
         "amount": 0.21,
         "candidate_name": "Carey E Hamilton",
@@ -336,7 +481,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80405",
+        "id": "contrib-1776574521584-80405",
         "date": "2025-12-31 00:00:00",
         "amount": 0.23,
         "candidate_name": "Carey E Hamilton",
@@ -352,7 +497,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80406",
+        "id": "contrib-1776574521584-80406",
         "date": "2025-05-31 00:00:00",
         "amount": 21.14,
         "candidate_name": "Carey E Hamilton",
@@ -368,7 +513,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80407",
+        "id": "contrib-1776574521584-80407",
         "date": "2025-04-30 00:00:00",
         "amount": 22.71,
         "candidate_name": "Carey E Hamilton",
@@ -384,7 +529,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80408",
+        "id": "contrib-1776574521584-80408",
         "date": "2025-06-30 00:00:00",
         "amount": 24.23,
         "candidate_name": "Carey E Hamilton",
@@ -400,7 +545,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80409",
+        "id": "contrib-1776574521584-80409",
         "date": "2025-02-28 00:00:00",
         "amount": 32.22,
         "candidate_name": "Carey E Hamilton",
@@ -416,7 +561,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80410",
+        "id": "contrib-1776574521584-80410",
         "date": "2025-03-31 00:00:00",
         "amount": 35.72,
         "candidate_name": "Carey E Hamilton",
@@ -432,7 +577,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80411",
+        "id": "contrib-1776574521584-80411",
         "date": "2025-01-31 00:00:00",
         "amount": 35.76,
         "candidate_name": "Carey E Hamilton",
@@ -448,7 +593,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80412",
+        "id": "contrib-1776574521584-80412",
         "date": "2025-07-31 00:00:00",
         "amount": 62.59,
         "candidate_name": "Carey E Hamilton",
@@ -464,7 +609,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80413",
+        "id": "contrib-1776574521584-80413",
         "date": "2025-09-30 00:00:00",
         "amount": 73.51,
         "candidate_name": "Carey E Hamilton",
@@ -480,7 +625,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80414",
+        "id": "contrib-1776574521584-80414",
         "date": "2025-08-31 00:00:00",
         "amount": 75.29,
         "candidate_name": "Carey E Hamilton",
@@ -496,7 +641,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80415",
+        "id": "contrib-1776574521584-80415",
         "date": "2025-10-31 00:00:00",
         "amount": 84.67,
         "candidate_name": "Carey E Hamilton",
@@ -512,7 +657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80416",
+        "id": "contrib-1776574521584-80416",
         "date": "2025-12-31 00:00:00",
         "amount": 87.94,
         "candidate_name": "Carey E Hamilton",
@@ -528,7 +673,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80417",
+        "id": "contrib-1776574521584-80417",
         "date": "2025-12-31 00:00:00",
         "amount": 107.5,
         "candidate_name": "Carey E Hamilton",
@@ -544,7 +689,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80418",
+        "id": "contrib-1776574521584-80418",
         "date": "2025-11-30 00:00:00",
         "amount": 109.22,
         "candidate_name": "Carey E Hamilton",
@@ -560,7 +705,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80419",
+        "id": "contrib-1776574521584-80419",
         "date": "2025-05-07 00:00:00",
         "amount": 254.14,
         "candidate_name": "Carey E Hamilton",
@@ -576,7 +721,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80420",
+        "id": "contrib-1776574521584-80420",
         "date": "2025-02-07 00:00:00",
         "amount": 260.16,
         "candidate_name": "Carey E Hamilton",
@@ -592,7 +737,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80421",
+        "id": "contrib-1776574521584-80421",
         "date": "2025-08-07 00:00:00",
         "amount": 265.27,
         "candidate_name": "Carey E Hamilton",
@@ -608,7 +753,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80422",
+        "id": "contrib-1776574521584-80422",
         "date": "2025-11-30 00:00:00",
         "amount": 267.91,
         "candidate_name": "Carey E Hamilton",
@@ -624,7 +769,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80423",
+        "id": "contrib-1776574521584-80423",
         "date": "2025-07-11 00:00:00",
         "amount": 928.05,
         "candidate_name": "Carey E Hamilton",
@@ -640,7 +785,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80424",
+        "id": "contrib-1776574521584-80424",
         "date": "2025-12-18 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -656,7 +801,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80425",
+        "id": "contrib-1776574521584-80425",
         "date": "2025-08-15 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -672,7 +817,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80426",
+        "id": "contrib-1776574521584-80426",
         "date": "2025-10-29 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -688,7 +833,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80427",
+        "id": "contrib-1776574521584-80427",
         "date": "2025-10-21 00:00:00",
         "amount": 12500,
         "candidate_name": "Carey E Hamilton",
@@ -704,7 +849,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80428",
+        "id": "contrib-1776574521584-80428",
         "date": "2025-10-30 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -720,7 +865,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80429",
+        "id": "contrib-1776574521584-80429",
         "date": "2025-10-31 00:00:00",
         "amount": 200,
         "candidate_name": "Carey E Hamilton",
@@ -736,7 +881,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80430",
+        "id": "contrib-1776574521584-80430",
         "date": "2025-05-09 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -752,7 +897,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80431",
+        "id": "contrib-1776574521584-80431",
         "date": "2025-12-05 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -768,7 +913,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80432",
+        "id": "contrib-1776574521584-80432",
         "date": "2025-05-09 00:00:00",
         "amount": 200,
         "candidate_name": "Carey E Hamilton",
@@ -784,7 +929,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80433",
+        "id": "contrib-1776574521584-80433",
         "date": "2025-05-30 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -800,7 +945,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80434",
+        "id": "contrib-1776574521584-80434",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -816,7 +961,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80435",
+        "id": "contrib-1776574521584-80435",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -832,7 +977,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80436",
+        "id": "contrib-1776574521584-80436",
         "date": "2025-10-30 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -848,7 +993,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80437",
+        "id": "contrib-1776574521584-80437",
         "date": "2025-10-30 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -864,7 +1009,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80438",
+        "id": "contrib-1776574521584-80438",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -880,7 +1025,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80439",
+        "id": "contrib-1776574521584-80439",
         "date": "2025-10-30 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -896,7 +1041,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80440",
+        "id": "contrib-1776574521584-80440",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -912,7 +1057,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80441",
+        "id": "contrib-1776574521584-80441",
         "date": "2025-12-05 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -928,7 +1073,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80442",
+        "id": "contrib-1776574521584-80442",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -944,7 +1089,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80443",
+        "id": "contrib-1776574521584-80443",
         "date": "2025-11-04 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -960,7 +1105,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80444",
+        "id": "contrib-1776574521584-80444",
         "date": "2025-05-23 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -976,7 +1121,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80445",
+        "id": "contrib-1776574521584-80445",
         "date": "2025-12-05 00:00:00",
         "amount": 750,
         "candidate_name": "Carey E Hamilton",
@@ -992,7 +1137,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80446",
+        "id": "contrib-1776574521584-80446",
         "date": "2025-10-17 00:00:00",
         "amount": 50000,
         "candidate_name": "Carey E Hamilton",
@@ -1008,7 +1153,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80447",
+        "id": "contrib-1776574521584-80447",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1024,7 +1169,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80448",
+        "id": "contrib-1776574521584-80448",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1040,7 +1185,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80449",
+        "id": "contrib-1776574521584-80449",
         "date": "2025-05-09 00:00:00",
         "amount": 400,
         "candidate_name": "Carey E Hamilton",
@@ -1056,7 +1201,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80450",
+        "id": "contrib-1776574521584-80450",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1072,7 +1217,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80451",
+        "id": "contrib-1776574521584-80451",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1088,7 +1233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80452",
+        "id": "contrib-1776574521584-80452",
         "date": "2025-12-05 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -1104,7 +1249,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80453",
+        "id": "contrib-1776574521584-80453",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1120,7 +1265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80454",
+        "id": "contrib-1776574521584-80454",
         "date": "2025-12-05 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -1136,7 +1281,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80455",
+        "id": "contrib-1776574521584-80455",
         "date": "2025-10-14 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -1152,7 +1297,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80456",
+        "id": "contrib-1776574521584-80456",
         "date": "2025-10-30 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1168,7 +1313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80457",
+        "id": "contrib-1776574521584-80457",
         "date": "2025-11-11 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -1184,7 +1329,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80458",
+        "id": "contrib-1776574521584-80458",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1200,7 +1345,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80459",
+        "id": "contrib-1776574521584-80459",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1216,7 +1361,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80460",
+        "id": "contrib-1776574521584-80460",
         "date": "2025-10-30 00:00:00",
         "amount": 750,
         "candidate_name": "Carey E Hamilton",
@@ -1232,7 +1377,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80461",
+        "id": "contrib-1776574521584-80461",
         "date": "2025-10-30 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1248,7 +1393,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80462",
+        "id": "contrib-1776574521584-80462",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1264,7 +1409,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80463",
+        "id": "contrib-1776574521584-80463",
         "date": "2025-12-10 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1280,7 +1425,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80464",
+        "id": "contrib-1776574521584-80464",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1296,7 +1441,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80465",
+        "id": "contrib-1776574521584-80465",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1312,7 +1457,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80466",
+        "id": "contrib-1776574521584-80466",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1328,7 +1473,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80467",
+        "id": "contrib-1776574521584-80467",
         "date": "2025-05-09 00:00:00",
         "amount": 75,
         "candidate_name": "Carey E Hamilton",
@@ -1344,7 +1489,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80468",
+        "id": "contrib-1776574521584-80468",
         "date": "2025-10-20 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1360,7 +1505,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80469",
+        "id": "contrib-1776574521584-80469",
         "date": "2025-10-30 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -1376,7 +1521,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80470",
+        "id": "contrib-1776574521584-80470",
         "date": "2025-10-30 00:00:00",
         "amount": 20,
         "candidate_name": "Carey E Hamilton",
@@ -1392,7 +1537,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80471",
+        "id": "contrib-1776574521584-80471",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1408,7 +1553,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80472",
+        "id": "contrib-1776574521584-80472",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1424,7 +1569,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80473",
+        "id": "contrib-1776574521584-80473",
         "date": "2025-05-09 00:00:00",
         "amount": 20,
         "candidate_name": "Carey E Hamilton",
@@ -1440,7 +1585,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80474",
+        "id": "contrib-1776574521584-80474",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1456,7 +1601,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80475",
+        "id": "contrib-1776574521584-80475",
         "date": "2025-10-30 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -1472,7 +1617,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80476",
+        "id": "contrib-1776574521584-80476",
         "date": "2025-10-30 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -1488,7 +1633,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80477",
+        "id": "contrib-1776574521584-80477",
         "date": "2025-12-05 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -1504,7 +1649,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80478",
+        "id": "contrib-1776574521584-80478",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1520,7 +1665,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80479",
+        "id": "contrib-1776574521584-80479",
         "date": "2025-05-09 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -1536,7 +1681,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80480",
+        "id": "contrib-1776574521584-80480",
         "date": "2025-12-10 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -1552,7 +1697,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80481",
+        "id": "contrib-1776574521584-80481",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1568,7 +1713,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80482",
+        "id": "contrib-1776574521584-80482",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1584,7 +1729,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80483",
+        "id": "contrib-1776574521584-80483",
         "date": "2025-05-09 00:00:00",
         "amount": 40,
         "candidate_name": "Carey E Hamilton",
@@ -1600,7 +1745,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80484",
+        "id": "contrib-1776574521584-80484",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1616,7 +1761,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80485",
+        "id": "contrib-1776574521584-80485",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1632,7 +1777,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80486",
+        "id": "contrib-1776574521584-80486",
         "date": "2025-12-05 00:00:00",
         "amount": 750,
         "candidate_name": "Carey E Hamilton",
@@ -1648,7 +1793,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80487",
+        "id": "contrib-1776574521584-80487",
         "date": "2025-05-09 00:00:00",
         "amount": 80,
         "candidate_name": "Carey E Hamilton",
@@ -1664,7 +1809,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80488",
+        "id": "contrib-1776574521584-80488",
         "date": "2025-05-09 00:00:00",
         "amount": 200,
         "candidate_name": "Carey E Hamilton",
@@ -1680,7 +1825,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80489",
+        "id": "contrib-1776574521584-80489",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1696,7 +1841,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80490",
+        "id": "contrib-1776574521584-80490",
         "date": "2025-05-09 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -1712,7 +1857,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80491",
+        "id": "contrib-1776574521584-80491",
         "date": "2025-05-10 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1728,7 +1873,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80492",
+        "id": "contrib-1776574521584-80492",
         "date": "2025-12-05 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -1744,7 +1889,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80493",
+        "id": "contrib-1776574521584-80493",
         "date": "2025-05-09 00:00:00",
         "amount": 20,
         "candidate_name": "Carey E Hamilton",
@@ -1760,7 +1905,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80494",
+        "id": "contrib-1776574521584-80494",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1776,7 +1921,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80495",
+        "id": "contrib-1776574521584-80495",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1792,7 +1937,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80496",
+        "id": "contrib-1776574521584-80496",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1808,7 +1953,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80497",
+        "id": "contrib-1776574521584-80497",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1824,7 +1969,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80498",
+        "id": "contrib-1776574521584-80498",
         "date": "2025-05-21 00:00:00",
         "amount": 200,
         "candidate_name": "Carey E Hamilton",
@@ -1840,7 +1985,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80499",
+        "id": "contrib-1776574521584-80499",
         "date": "2025-10-30 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1856,7 +2001,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80500",
+        "id": "contrib-1776574521584-80500",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1872,7 +2017,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80501",
+        "id": "contrib-1776574521584-80501",
         "date": "2025-05-09 00:00:00",
         "amount": 50,
         "candidate_name": "Carey E Hamilton",
@@ -1888,7 +2033,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80502",
+        "id": "contrib-1776574521584-80502",
         "date": "2025-10-30 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1904,7 +2049,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80503",
+        "id": "contrib-1776574521584-80503",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1920,7 +2065,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80504",
+        "id": "contrib-1776574521584-80504",
         "date": "2025-10-30 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1936,7 +2081,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80505",
+        "id": "contrib-1776574521584-80505",
         "date": "2025-12-05 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1952,7 +2097,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80506",
+        "id": "contrib-1776574521584-80506",
         "date": "2025-05-09 00:00:00",
         "amount": 150,
         "candidate_name": "Carey E Hamilton",
@@ -1968,7 +2113,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80507",
+        "id": "contrib-1776574521584-80507",
         "date": "2025-05-09 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -1984,7 +2129,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80508",
+        "id": "contrib-1776574521584-80508",
         "date": "2025-10-30 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -2000,7 +2145,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80509",
+        "id": "contrib-1776574521584-80509",
         "date": "2025-12-10 00:00:00",
         "amount": 100,
         "candidate_name": "Carey E Hamilton",
@@ -2016,7 +2161,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80510",
+        "id": "contrib-1776574521584-80510",
         "date": "2025-10-30 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -2032,7 +2177,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80511",
+        "id": "contrib-1776574521584-80511",
         "date": "2025-12-05 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -2048,7 +2193,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80512",
+        "id": "contrib-1776574521584-80512",
         "date": "2025-12-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2064,7 +2209,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80513",
+        "id": "contrib-1776574521584-80513",
         "date": "2025-05-23 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2080,7 +2225,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80514",
+        "id": "contrib-1776574521584-80514",
         "date": "2025-06-04 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2096,7 +2241,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80515",
+        "id": "contrib-1776574521584-80515",
         "date": "2025-04-27 00:00:00",
         "amount": 24.01,
         "candidate_name": "Carey E Hamilton",
@@ -2112,7 +2257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80516",
+        "id": "contrib-1776574521584-80516",
         "date": "2025-12-31 00:00:00",
         "amount": 24.01,
         "candidate_name": "Carey E Hamilton",
@@ -2128,7 +2273,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80517",
+        "id": "contrib-1776574521584-80517",
         "date": "2025-07-16 00:00:00",
         "amount": 96.05,
         "candidate_name": "Carey E Hamilton",
@@ -2144,7 +2289,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80518",
+        "id": "contrib-1776574521584-80518",
         "date": "2025-08-20 00:00:00",
         "amount": 96.05,
         "candidate_name": "Carey E Hamilton",
@@ -2160,7 +2305,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80519",
+        "id": "contrib-1776574521584-80519",
         "date": "2025-09-13 00:00:00",
         "amount": 96.05,
         "candidate_name": "Carey E Hamilton",
@@ -2176,7 +2321,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80520",
+        "id": "contrib-1776574521584-80520",
         "date": "2025-10-08 00:00:00",
         "amount": 96.05,
         "candidate_name": "Carey E Hamilton",
@@ -2192,7 +2337,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80521",
+        "id": "contrib-1776574521584-80521",
         "date": "2025-12-03 00:00:00",
         "amount": 168.08,
         "candidate_name": "Carey E Hamilton",
@@ -2208,7 +2353,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80522",
+        "id": "contrib-1776574521584-80522",
         "date": "2025-09-04 00:00:00",
         "amount": 249.72,
         "candidate_name": "Carey E Hamilton",
@@ -2224,7 +2369,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80523",
+        "id": "contrib-1776574521584-80523",
         "date": "2025-12-24 00:00:00",
         "amount": 360.18,
         "candidate_name": "Carey E Hamilton",
@@ -2240,7 +2385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80524",
+        "id": "contrib-1776574521584-80524",
         "date": "2025-11-04 00:00:00",
         "amount": 384.19,
         "candidate_name": "Carey E Hamilton",
@@ -2256,7 +2401,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80525",
+        "id": "contrib-1776574521584-80525",
         "date": "2025-09-16 00:00:00",
         "amount": 384.2,
         "candidate_name": "Carey E Hamilton",
@@ -2272,7 +2417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80526",
+        "id": "contrib-1776574521584-80526",
         "date": "2025-12-17 00:00:00",
         "amount": 408.21,
         "candidate_name": "Carey E Hamilton",
@@ -2288,7 +2433,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80527",
+        "id": "contrib-1776574521584-80527",
         "date": "2025-06-15 00:00:00",
         "amount": 576.3,
         "candidate_name": "Carey E Hamilton",
@@ -2304,7 +2449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80528",
+        "id": "contrib-1776574521584-80528",
         "date": "2025-11-19 00:00:00",
         "amount": 672.34,
         "candidate_name": "Carey E Hamilton",
@@ -2320,7 +2465,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80529",
+        "id": "contrib-1776574521584-80529",
         "date": "2025-05-04 00:00:00",
         "amount": 672.35,
         "candidate_name": "Carey E Hamilton",
@@ -2336,7 +2481,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80530",
+        "id": "contrib-1776574521584-80530",
         "date": "2025-10-22 00:00:00",
         "amount": 672.35,
         "candidate_name": "Carey E Hamilton",
@@ -2352,7 +2497,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80531",
+        "id": "contrib-1776574521584-80531",
         "date": "2025-05-25 00:00:00",
         "amount": 970.1,
         "candidate_name": "Carey E Hamilton",
@@ -2368,7 +2513,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80532",
+        "id": "contrib-1776574521584-80532",
         "date": "2025-11-26 00:00:00",
         "amount": 1248.64,
         "candidate_name": "Carey E Hamilton",
@@ -2384,7 +2529,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80533",
+        "id": "contrib-1776574521584-80533",
         "date": "2025-05-11 00:00:00",
         "amount": 2377.2,
         "candidate_name": "Carey E Hamilton",
@@ -2400,7 +2545,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80534",
+        "id": "contrib-1776574521584-80534",
         "date": "2025-10-29 00:00:00",
         "amount": 3121.59,
         "candidate_name": "Carey E Hamilton",
@@ -2416,7 +2561,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80535",
+        "id": "contrib-1776574521584-80535",
         "date": "2025-10-16 00:00:00",
         "amount": 3289.71,
         "candidate_name": "Carey E Hamilton",
@@ -2432,7 +2577,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80536",
+        "id": "contrib-1776574521584-80536",
         "date": "2025-12-10 00:00:00",
         "amount": 4178.15,
         "candidate_name": "Carey E Hamilton",
@@ -2448,7 +2593,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80537",
+        "id": "contrib-1776574521584-80537",
         "date": "2025-06-04 00:00:00",
         "amount": 4802.5,
         "candidate_name": "Carey E Hamilton",
@@ -2464,7 +2609,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80538",
+        "id": "contrib-1776574521584-80538",
         "date": "2025-05-18 00:00:00",
         "amount": 5186.7,
         "candidate_name": "Carey E Hamilton",
@@ -2480,7 +2625,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80539",
+        "id": "contrib-1776574521584-80539",
         "date": "2025-11-05 00:00:00",
         "amount": 7490.86,
         "candidate_name": "Carey E Hamilton",
@@ -2496,7 +2641,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80540",
+        "id": "contrib-1776574521584-80540",
         "date": "2025-05-17 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2512,7 +2657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80541",
+        "id": "contrib-1776574521584-80541",
         "date": "2025-07-18 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2528,7 +2673,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80542",
+        "id": "contrib-1776574521584-80542",
         "date": "2025-05-23 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2544,7 +2689,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80543",
+        "id": "contrib-1776574521584-80543",
         "date": "2025-11-12 00:00:00",
         "amount": 750,
         "candidate_name": "Carey E Hamilton",
@@ -2560,7 +2705,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80544",
+        "id": "contrib-1776574521584-80544",
         "date": "2025-11-20 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2576,7 +2721,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80545",
+        "id": "contrib-1776574521584-80545",
         "date": "2025-11-06 00:00:00",
         "amount": 350,
         "candidate_name": "Carey E Hamilton",
@@ -2592,7 +2737,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80546",
+        "id": "contrib-1776574521584-80546",
         "date": "2025-07-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2608,7 +2753,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80547",
+        "id": "contrib-1776574521584-80547",
         "date": "2025-05-23 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2624,7 +2769,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80548",
+        "id": "contrib-1776574521584-80548",
         "date": "2025-06-06 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2640,7 +2785,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80549",
+        "id": "contrib-1776574521584-80549",
         "date": "2025-11-29 00:00:00",
         "amount": 300,
         "candidate_name": "Carey E Hamilton",
@@ -2656,7 +2801,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80550",
+        "id": "contrib-1776574521584-80550",
         "date": "2025-10-29 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2672,7 +2817,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80551",
+        "id": "contrib-1776574521584-80551",
         "date": "2025-11-20 00:00:00",
         "amount": 350,
         "candidate_name": "Carey E Hamilton",
@@ -2688,7 +2833,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80552",
+        "id": "contrib-1776574521584-80552",
         "date": "2025-11-12 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -2704,7 +2849,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80553",
+        "id": "contrib-1776574521584-80553",
         "date": "2025-06-27 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2720,7 +2865,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80554",
+        "id": "contrib-1776574521584-80554",
         "date": "2025-09-02 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -2736,7 +2881,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80555",
+        "id": "contrib-1776574521584-80555",
         "date": "2025-08-15 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2752,7 +2897,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80556",
+        "id": "contrib-1776574521584-80556",
         "date": "2025-05-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2768,7 +2913,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80557",
+        "id": "contrib-1776574521584-80557",
         "date": "2025-10-30 00:00:00",
         "amount": 2500,
         "candidate_name": "Carey E Hamilton",
@@ -2784,7 +2929,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80558",
+        "id": "contrib-1776574521584-80558",
         "date": "2025-10-24 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2800,7 +2945,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80559",
+        "id": "contrib-1776574521584-80559",
         "date": "2025-05-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2816,7 +2961,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80560",
+        "id": "contrib-1776574521584-80560",
         "date": "2025-07-09 00:00:00",
         "amount": 750,
         "candidate_name": "Carey E Hamilton",
@@ -2832,7 +2977,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80561",
+        "id": "contrib-1776574521584-80561",
         "date": "2025-10-01 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2848,7 +2993,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80562",
+        "id": "contrib-1776574521584-80562",
         "date": "2025-12-30 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2864,7 +3009,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80563",
+        "id": "contrib-1776574521584-80563",
         "date": "2025-10-01 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2880,7 +3025,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80564",
+        "id": "contrib-1776574521584-80564",
         "date": "2025-11-09 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2896,7 +3041,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80565",
+        "id": "contrib-1776574521584-80565",
         "date": "2025-12-06 00:00:00",
         "amount": 250,
         "candidate_name": "Carey E Hamilton",
@@ -2912,7 +3057,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80566",
+        "id": "contrib-1776574521584-80566",
         "date": "2025-05-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Carey E Hamilton",
@@ -2928,7 +3073,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80567",
+        "id": "contrib-1776574521584-80567",
         "date": "2025-11-10 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2944,7 +3089,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492068-80568",
+        "id": "contrib-1776574521584-80568",
         "date": "2025-05-28 00:00:00",
         "amount": 500,
         "candidate_name": "Carey E Hamilton",
@@ -2956,6 +3101,2454 @@
         "address_city": "Independence",
         "address_state": "OH",
         "address_zip": "44131",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15373",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15374",
+        "date": "2026-01-31 00:00:00",
+        "amount": 0.24,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15375",
+        "date": "2026-02-28 00:00:00",
+        "amount": 0.24,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15376",
+        "date": "2026-03-31 00:00:00",
+        "amount": 0.32,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15377",
+        "date": "2026-02-28 00:00:00",
+        "amount": 73.89,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15378",
+        "date": "2026-03-31 00:00:00",
+        "amount": 81.85,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15379",
+        "date": "2026-01-31 00:00:00",
+        "amount": 82.57,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15380",
+        "date": "2026-03-06 00:00:00",
+        "amount": 263.98,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "BMO Harris",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15381",
+        "date": "2026-03-25 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Alyssa Bright",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15382",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Amanda Blystone",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15383",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Amelia  Barnes",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15384",
+        "date": "2026-03-06 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Angela  Mason",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15385",
+        "date": "2026-02-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Ann Frutkin",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15386",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Ann Frutkin",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15387",
+        "date": "2026-03-11 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Ann Mackey",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46033",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15388",
+        "date": "2026-03-04 00:00:00",
+        "amount": 500,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Anne  Doran",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46228",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15389",
+        "date": "2026-03-11 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Annmarie Robertson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15390",
+        "date": "2026-03-18 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Arlene Coleman",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15391",
+        "date": "2026-03-06 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Barbara Burke",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15392",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Barbara VanDevender",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15393",
+        "date": "2026-03-06 00:00:00",
+        "amount": 300,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Beth Fineberg",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15394",
+        "date": "2026-02-04 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Bowden Quinn",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46214",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15395",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Brian Shapiro",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46278",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15396",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "C. Elizabeth Garvey",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15397",
+        "date": "2026-01-21 00:00:00",
+        "amount": 800,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Carol Willhelm",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15398",
+        "date": "2026-02-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Casey Cronin",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15399",
+        "date": "2026-03-04 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Casey Cronin",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15400",
+        "date": "2026-04-10 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Casey Cronin",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15401",
+        "date": "2026-01-28 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Cate Hyatt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15402",
+        "date": "2026-04-10 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Charles Sibert",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46216",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15403",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Cheryl Prentice",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15404",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Colleen Cooper Russell",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15405",
+        "date": "2026-03-06 00:00:00",
+        "amount": 2000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Cynthia  Pyle",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15406",
+        "date": "2026-04-10 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Darrius Davis",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46239",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15407",
+        "date": "2026-04-10 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "David Falls",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15408",
+        "date": "2026-04-10 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "David Rogier",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15409",
+        "date": "2026-04-05 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "David Wildemann",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47203",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15410",
+        "date": "2026-04-10 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Devin Sangster",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15411",
+        "date": "2026-03-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Donna Stephenson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15412",
+        "date": "2026-01-21 00:00:00",
+        "amount": 40,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Dori Chandler",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Long Beach",
+        "address_state": "CA",
+        "address_zip": "90909",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15413",
+        "date": "2026-02-19 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Edwin Morris",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15414",
+        "date": "2026-04-10 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Emma Kotyuk",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46201",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15415",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Esther Fogle",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15416",
+        "date": "2026-01-06 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Gabriel Bosslet",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46278",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15417",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Gale Halperin",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15418",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Gary Houdek",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15419",
+        "date": "2026-04-10 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Geof  Benson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Beverly Shores",
+        "address_state": "IN",
+        "address_zip": "46301",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15420",
+        "date": "2026-03-26 00:00:00",
+        "amount": 500,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "George Hettinger",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "The Villages",
+        "address_state": "FL",
+        "address_zip": "32162",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15421",
+        "date": "2026-01-28 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "George Watson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15422",
+        "date": "2026-03-04 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "George Watson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15423",
+        "date": "2026-04-01 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "George Watson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15424",
+        "date": "2026-03-04 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Grace Worley",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15425",
+        "date": "2026-01-07 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Gregory  Hahn",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15426",
+        "date": "2026-03-06 00:00:00",
+        "amount": 150,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Gwynne Rardon",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15427",
+        "date": "2026-01-28 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Holly Hendrickson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46234",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15428",
+        "date": "2026-03-11 00:00:00",
+        "amount": 200,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Hsiao-Han Chiu",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Avon",
+        "address_state": "IN",
+        "address_zip": "46123",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15429",
+        "date": "2026-03-04 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Hudson  Reamer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15430",
+        "date": "2026-02-04 00:00:00",
+        "amount": 500,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Indra Frank",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Environmental Services",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46256",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15431",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "James Curry",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15432",
+        "date": "2026-01-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "James Thorne",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15433",
+        "date": "2026-03-04 00:00:00",
+        "amount": 505,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "James Thorne",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15434",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jane Franceschini",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15435",
+        "date": "2026-03-04 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Janet Pgadt",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15436",
+        "date": "2026-03-04 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Janey Schlegel",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46208",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15437",
+        "date": "2026-03-10 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jean Miller",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15438",
+        "date": "2026-04-05 00:00:00",
+        "amount": 10,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jen Jansen",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15439",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jen Jansen",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15440",
+        "date": "2026-02-04 00:00:00",
+        "amount": 500,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jennifer Richter",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15441",
+        "date": "2026-01-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jennifer Yumibe",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15442",
+        "date": "2026-03-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jessica Bischoff",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15443",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Jim Stone",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15444",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Joan Pederson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15445",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Joanne  Jones",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15446",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Joelynn Gifford",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15447",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "John Goss",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "McCordsville",
+        "address_state": "IN",
+        "address_zip": "46055",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15448",
+        "date": "2026-03-11 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Julie  Dilts",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Manufacturing",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15449",
+        "date": "2026-04-10 00:00:00",
+        "amount": 5,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Kali Howey",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15450",
+        "date": "2026-01-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Karyn O'Donnell",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Alexandria",
+        "address_state": "VA",
+        "address_zip": "22314",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15451",
+        "date": "2026-01-28 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Kathleen Hartman",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Westfield",
+        "address_state": "IN",
+        "address_zip": "46074",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15452",
+        "date": "2026-03-25 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Katie Meek",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46208",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15453",
+        "date": "2026-03-06 00:00:00",
+        "amount": 200,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Kelly Trimble",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15454",
+        "date": "2026-02-11 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Kyle Simmerman",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Brownsburg",
+        "address_state": "IN",
+        "address_zip": "46112",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15455",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Laurel Burns",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46268",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15456",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Leslie King",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15457",
+        "date": "2026-04-05 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lezlie Ceglio",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15458",
+        "date": "2026-03-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Linda Clarke",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46228",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15459",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Linda Pendleton",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46256",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15460",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Linda Toomer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15461",
+        "date": "2026-03-25 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lindsey Kehlenbrink",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15462",
+        "date": "2026-03-11 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lisa  Lanham",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15463",
+        "date": "2026-04-03 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lisa Sablosky",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60614",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15464",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lou Tabor",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15465",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Lynn Slivka",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15466",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Margo Kelly",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15467",
+        "date": "2026-02-19 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marianne Glick",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15468",
+        "date": "2026-04-10 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marianne Glick",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15469",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marilyn Brothers",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15470",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marilyn Kuhn",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15471",
+        "date": "2026-03-06 00:00:00",
+        "amount": 40,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marilyn Price",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15472",
+        "date": "2026-04-10 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Mark Thyen",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60618",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15473",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marlene Reich",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15474",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Marty  Rugh",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15475",
+        "date": "2026-03-06 00:00:00",
+        "amount": 60,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Mary Ann Nowlin",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15476",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Mary Greiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15477",
+        "date": "2026-02-25 00:00:00",
+        "amount": 20,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Mary Stewart",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15478",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Melody Ingle",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15479",
+        "date": "2026-02-25 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Michael Armstrong",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portland",
+        "address_state": "OR",
+        "address_zip": "97211",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15480",
+        "date": "2026-03-06 00:00:00",
+        "amount": 200,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Michelle Knibbs",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15481",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Mike  Marker",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15482",
+        "date": "2026-03-06 00:00:00",
+        "amount": 200,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Moira Cardlestedt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46228",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15483",
+        "date": "2026-04-10 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Monica Kennedy",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15484",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Nancy Swaim",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Rockville",
+        "address_state": "IN",
+        "address_zip": "47872",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15485",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Natalie Dempsey",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15486",
+        "date": "2026-01-14 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Pamela Francis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15487",
+        "date": "2026-02-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Pamela Francis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15488",
+        "date": "2026-03-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Pamela Francis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15489",
+        "date": "2026-04-05 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Pamela Francis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15490",
+        "date": "2026-03-11 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Patrice Kubacki",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15491",
+        "date": "2026-03-11 00:00:00",
+        "amount": 150,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Patricia Ertel",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15492",
+        "date": "2026-01-14 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Paula Shepley",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15493",
+        "date": "2026-01-28 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Paula Shepley",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15494",
+        "date": "2026-02-19 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Peggy Wild",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46228",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15495",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Phillip Glesing",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46268",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15496",
+        "date": "2026-01-14 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Ramon Dunkin",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46228",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15497",
+        "date": "2026-02-19 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Rebecca Henn",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15498",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Rita Kleinschmidt",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15499",
+        "date": "2026-03-04 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Robert Kobek",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46280",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15500",
+        "date": "2026-04-01 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Ronald Lannan",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15501",
+        "date": "2026-01-06 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Rosalie Bishop",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46227",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15502",
+        "date": "2026-02-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Sarah Gray",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15503",
+        "date": "2026-03-25 00:00:00",
+        "amount": 5,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Scott Drake",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15504",
+        "date": "2026-03-18 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Sherri  Campbell",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15505",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Stephanie Hays-Mussoni",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenwood",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15506",
+        "date": "2026-02-25 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Steven Kane",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15507",
+        "date": "2026-03-06 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Sue Ellen Arnold",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46248",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15508",
+        "date": "2026-03-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Sue Kalleres",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15509",
+        "date": "2026-01-21 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susan DeVoe",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15510",
+        "date": "2026-02-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susan DeVoe",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15511",
+        "date": "2026-03-18 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susan DeVoe",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15512",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susan McQuiston",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15513",
+        "date": "2026-02-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susan Schechter",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47901",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15514",
+        "date": "2026-03-04 00:00:00",
+        "amount": 250,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Susie Ross",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15515",
+        "date": "2026-03-11 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Suzanne Davis",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15516",
+        "date": "2026-03-11 00:00:00",
+        "amount": 25,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Suzanne Skooglund",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15517",
+        "date": "2026-03-04 00:00:00",
+        "amount": 200,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Thomas Jeffers",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15518",
+        "date": "2026-03-04 00:00:00",
+        "amount": 100,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Tom Hohman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Plainfield",
+        "address_state": "IN",
+        "address_zip": "46168",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15519",
+        "date": "2026-02-04 00:00:00",
+        "amount": 10,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Tricia Miller",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Spokane Valley",
+        "address_state": "WA",
+        "address_zip": "99206",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15520",
+        "date": "2026-03-04 00:00:00",
+        "amount": 150,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Vicki VanCleave",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15521",
+        "date": "2026-03-26 00:00:00",
+        "amount": 50,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Wallace Yakey",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15522",
+        "date": "2026-04-01 00:00:00",
+        "amount": 30,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Wes Brown",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15523",
+        "date": "2026-03-06 00:00:00",
+        "amount": 150,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Willis Bright",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15524",
+        "date": "2026-03-06 00:00:00",
+        "amount": 150,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "IEA PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46282",
+        "recipient_committee": "Committee to Elect Carey Hamilton",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521780-15525",
+        "date": "2026-04-10 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Carey E Hamilton",
+        "contributor_name": "Indy Chamber Business Advocacy Committee",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
         "recipient_committee": "Committee to Elect Carey Hamilton",
         "source": "indiana"
       }

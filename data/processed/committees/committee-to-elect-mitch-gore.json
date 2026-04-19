@@ -2,8 +2,8 @@
   "id": "committee-to-elect-mitch-gore",
   "name": "Committee to Elect Mitch Gore",
   "totals": {
-    "total_given": "11000.00",
-    "total_contributions": 3,
+    "total_given": "12000.00",
+    "total_contributions": 4,
     "candidates_supported": 0
   },
   "by_contribution_size": {
@@ -14,6 +14,10 @@
     "mega": {
       "count": 1,
       "total": "10000.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_month": {
@@ -28,12 +32,16 @@
     "2025-12": {
       "count": 1,
       "total": "10000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1775969491952-443",
+      "id": "contrib-1776574521494-443",
       "date": "2025-10-03 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Mitch Gore",
@@ -48,7 +56,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491954-2085",
+      "id": "contrib-1776574521496-2085",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Mitch Gore",
@@ -63,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7126",
+      "id": "contrib-1776574521502-7126",
       "date": "2025-12-19 00:00:00",
       "amount": 10000,
       "contributor_name": "Committee to Elect Mitch Gore",
@@ -76,24 +84,39 @@
       "address_zip": "46239",
       "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521761-142",
+      "date": "2026-04-02 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Mitch Gore",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46239",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "84133.00",
-    "total_contributions": 152,
-    "unique_donors": 133,
+    "total_raised": "88134.00",
+    "total_contributions": 175,
+    "unique_donors": 146,
     "by_contributor_type": {
       "corporate": {
         "count": 6,
         "total": "1400.00"
       },
       "individual": {
-        "count": 117,
-        "total": "23908.00"
+        "count": 139,
+        "total": "27409.00"
       },
       "committee": {
-        "count": 29,
-        "total": "58825.00"
+        "count": 30,
+        "total": "59325.00"
       }
     },
     "top_donors": [
@@ -140,6 +163,12 @@
         "count": 2
       },
       {
+        "name": "Gregory Hahn",
+        "type": "individual",
+        "total": "1750.00",
+        "count": 3
+      },
+      {
         "name": "LawPAC of Indiana",
         "type": "individual",
         "total": "1500.00",
@@ -150,17 +179,11 @@
         "type": "committee",
         "total": "1500.00",
         "count": 1
-      },
-      {
-        "name": "SMART TD PAC",
-        "type": "committee",
-        "total": "1500.00",
-        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492071-83441",
+        "id": "contrib-1776574521586-83441",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -176,7 +199,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83442",
+        "id": "contrib-1776574521586-83442",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -192,7 +215,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83443",
+        "id": "contrib-1776574521586-83443",
         "date": "2025-12-03 00:00:00",
         "amount": 150,
         "candidate_name": "Mitchell Alan Gore",
@@ -208,7 +231,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83444",
+        "id": "contrib-1776574521586-83444",
         "date": "2025-12-03 00:00:00",
         "amount": 150,
         "candidate_name": "Mitchell Alan Gore",
@@ -224,7 +247,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83445",
+        "id": "contrib-1776574521586-83445",
         "date": "2025-12-03 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -240,7 +263,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83446",
+        "id": "contrib-1776574521586-83446",
         "date": "2025-12-03 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -256,7 +279,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83447",
+        "id": "contrib-1776574521586-83447",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -272,7 +295,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83448",
+        "id": "contrib-1776574521586-83448",
         "date": "2025-10-20 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -288,7 +311,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83449",
+        "id": "contrib-1776574521586-83449",
         "date": "2025-10-16 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -304,7 +327,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83450",
+        "id": "contrib-1776574521586-83450",
         "date": "2025-06-13 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -320,7 +343,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83451",
+        "id": "contrib-1776574521586-83451",
         "date": "2025-12-03 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -336,7 +359,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83452",
+        "id": "contrib-1776574521586-83452",
         "date": "2025-12-03 00:00:00",
         "amount": 150,
         "candidate_name": "Mitchell Alan Gore",
@@ -352,7 +375,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83453",
+        "id": "contrib-1776574521586-83453",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -368,7 +391,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83454",
+        "id": "contrib-1776574521586-83454",
         "date": "2025-10-27 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -384,7 +407,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83455",
+        "id": "contrib-1776574521586-83455",
         "date": "2025-12-02 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -400,7 +423,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83456",
+        "id": "contrib-1776574521586-83456",
         "date": "2025-06-13 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -416,7 +439,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83457",
+        "id": "contrib-1776574521586-83457",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -432,7 +455,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83458",
+        "id": "contrib-1776574521586-83458",
         "date": "2025-07-24 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -448,7 +471,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83459",
+        "id": "contrib-1776574521586-83459",
         "date": "2025-11-03 00:00:00",
         "amount": 200,
         "candidate_name": "Mitchell Alan Gore",
@@ -464,7 +487,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83460",
+        "id": "contrib-1776574521586-83460",
         "date": "2025-12-03 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -480,7 +503,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83461",
+        "id": "contrib-1776574521586-83461",
         "date": "2025-12-03 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -496,7 +519,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83462",
+        "id": "contrib-1776574521586-83462",
         "date": "2025-12-02 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -512,7 +535,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83463",
+        "id": "contrib-1776574521586-83463",
         "date": "2025-10-27 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -528,7 +551,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83464",
+        "id": "contrib-1776574521586-83464",
         "date": "2025-12-03 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -544,7 +567,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83465",
+        "id": "contrib-1776574521586-83465",
         "date": "2025-05-23 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -560,7 +583,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83466",
+        "id": "contrib-1776574521586-83466",
         "date": "2025-07-01 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -576,7 +599,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83467",
+        "id": "contrib-1776574521586-83467",
         "date": "2025-12-03 00:00:00",
         "amount": 20,
         "candidate_name": "Mitchell Alan Gore",
@@ -592,7 +615,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83468",
+        "id": "contrib-1776574521586-83468",
         "date": "2025-10-27 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -608,7 +631,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83469",
+        "id": "contrib-1776574521586-83469",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -624,7 +647,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83470",
+        "id": "contrib-1776574521586-83470",
         "date": "2025-05-28 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -640,7 +663,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83471",
+        "id": "contrib-1776574521586-83471",
         "date": "2025-12-09 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -656,7 +679,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83472",
+        "id": "contrib-1776574521586-83472",
         "date": "2025-12-05 00:00:00",
         "amount": 10,
         "candidate_name": "Mitchell Alan Gore",
@@ -672,7 +695,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83473",
+        "id": "contrib-1776574521586-83473",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -688,7 +711,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83474",
+        "id": "contrib-1776574521586-83474",
         "date": "2025-08-18 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -704,7 +727,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83475",
+        "id": "contrib-1776574521586-83475",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -720,7 +743,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83476",
+        "id": "contrib-1776574521586-83476",
         "date": "2025-12-09 00:00:00",
         "amount": 10,
         "candidate_name": "Mitchell Alan Gore",
@@ -736,7 +759,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83477",
+        "id": "contrib-1776574521586-83477",
         "date": "2025-12-30 00:00:00",
         "amount": 10,
         "candidate_name": "Mitchell Alan Gore",
@@ -752,7 +775,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83478",
+        "id": "contrib-1776574521586-83478",
         "date": "2025-11-03 00:00:00",
         "amount": 10,
         "candidate_name": "Mitchell Alan Gore",
@@ -768,7 +791,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83479",
+        "id": "contrib-1776574521586-83479",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -784,7 +807,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83480",
+        "id": "contrib-1776574521586-83480",
         "date": "2025-10-17 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -800,7 +823,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83481",
+        "id": "contrib-1776574521586-83481",
         "date": "2025-08-18 00:00:00",
         "amount": 75,
         "candidate_name": "Mitchell Alan Gore",
@@ -816,7 +839,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83482",
+        "id": "contrib-1776574521586-83482",
         "date": "2025-06-13 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -832,7 +855,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83483",
+        "id": "contrib-1776574521586-83483",
         "date": "2025-05-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -848,7 +871,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83484",
+        "id": "contrib-1776574521586-83484",
         "date": "2025-06-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -864,7 +887,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83485",
+        "id": "contrib-1776574521586-83485",
         "date": "2025-07-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -880,7 +903,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83486",
+        "id": "contrib-1776574521586-83486",
         "date": "2025-08-21 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -896,7 +919,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83487",
+        "id": "contrib-1776574521586-83487",
         "date": "2025-10-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -912,7 +935,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83488",
+        "id": "contrib-1776574521586-83488",
         "date": "2025-11-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -928,7 +951,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83489",
+        "id": "contrib-1776574521586-83489",
         "date": "2025-12-24 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -944,7 +967,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83490",
+        "id": "contrib-1776574521586-83490",
         "date": "2025-05-29 00:00:00",
         "amount": 300,
         "candidate_name": "Mitchell Alan Gore",
@@ -960,7 +983,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83491",
+        "id": "contrib-1776574521586-83491",
         "date": "2025-11-05 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -976,7 +999,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83492",
+        "id": "contrib-1776574521586-83492",
         "date": "2025-04-30 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -992,7 +1015,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83493",
+        "id": "contrib-1776574521586-83493",
         "date": "2025-10-27 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -1008,7 +1031,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83494",
+        "id": "contrib-1776574521586-83494",
         "date": "2025-04-30 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -1024,7 +1047,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83495",
+        "id": "contrib-1776574521586-83495",
         "date": "2025-12-09 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -1040,7 +1063,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83496",
+        "id": "contrib-1776574521586-83496",
         "date": "2025-12-03 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -1056,7 +1079,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83497",
+        "id": "contrib-1776574521586-83497",
         "date": "2025-10-27 00:00:00",
         "amount": 5,
         "candidate_name": "Mitchell Alan Gore",
@@ -1072,7 +1095,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83498",
+        "id": "contrib-1776574521586-83498",
         "date": "2025-06-30 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1088,7 +1111,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83499",
+        "id": "contrib-1776574521586-83499",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1104,7 +1127,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83500",
+        "id": "contrib-1776574521586-83500",
         "date": "2025-12-03 00:00:00",
         "amount": 300,
         "candidate_name": "Mitchell Alan Gore",
@@ -1120,7 +1143,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83501",
+        "id": "contrib-1776574521586-83501",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1136,7 +1159,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83502",
+        "id": "contrib-1776574521586-83502",
         "date": "2025-11-22 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1152,7 +1175,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83503",
+        "id": "contrib-1776574521586-83503",
         "date": "2025-12-20 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -1168,7 +1191,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83504",
+        "id": "contrib-1776574521586-83504",
         "date": "2025-06-03 00:00:00",
         "amount": 350,
         "candidate_name": "Mitchell Alan Gore",
@@ -1184,7 +1207,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83505",
+        "id": "contrib-1776574521586-83505",
         "date": "2025-12-04 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1200,7 +1223,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83506",
+        "id": "contrib-1776574521586-83506",
         "date": "2025-12-30 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1216,7 +1239,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83507",
+        "id": "contrib-1776574521586-83507",
         "date": "2025-12-29 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1232,7 +1255,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83508",
+        "id": "contrib-1776574521586-83508",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1248,7 +1271,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83509",
+        "id": "contrib-1776574521586-83509",
         "date": "2025-12-02 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1264,7 +1287,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83510",
+        "id": "contrib-1776574521586-83510",
         "date": "2025-06-13 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1280,7 +1303,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83511",
+        "id": "contrib-1776574521586-83511",
         "date": "2025-12-03 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1296,7 +1319,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83512",
+        "id": "contrib-1776574521586-83512",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1312,7 +1335,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83513",
+        "id": "contrib-1776574521586-83513",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1328,7 +1351,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83514",
+        "id": "contrib-1776574521586-83514",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1344,7 +1367,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83515",
+        "id": "contrib-1776574521586-83515",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -1360,7 +1383,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83516",
+        "id": "contrib-1776574521586-83516",
         "date": "2025-10-27 00:00:00",
         "amount": 5,
         "candidate_name": "Mitchell Alan Gore",
@@ -1376,7 +1399,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83517",
+        "id": "contrib-1776574521586-83517",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1392,7 +1415,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83518",
+        "id": "contrib-1776574521586-83518",
         "date": "2025-11-04 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -1408,7 +1431,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83519",
+        "id": "contrib-1776574521586-83519",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1424,7 +1447,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83520",
+        "id": "contrib-1776574521586-83520",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1440,7 +1463,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83521",
+        "id": "contrib-1776574521586-83521",
         "date": "2025-11-10 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1456,7 +1479,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83522",
+        "id": "contrib-1776574521586-83522",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1472,7 +1495,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83523",
+        "id": "contrib-1776574521586-83523",
         "date": "2025-07-05 00:00:00",
         "amount": 8,
         "candidate_name": "Mitchell Alan Gore",
@@ -1488,7 +1511,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83524",
+        "id": "contrib-1776574521586-83524",
         "date": "2025-12-08 00:00:00",
         "amount": 75,
         "candidate_name": "Mitchell Alan Gore",
@@ -1504,7 +1527,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83525",
+        "id": "contrib-1776574521586-83525",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1520,7 +1543,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83526",
+        "id": "contrib-1776574521586-83526",
         "date": "2025-06-13 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1536,7 +1559,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83527",
+        "id": "contrib-1776574521586-83527",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1552,7 +1575,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83528",
+        "id": "contrib-1776574521586-83528",
         "date": "2025-05-20 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1568,7 +1591,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83529",
+        "id": "contrib-1776574521586-83529",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1584,7 +1607,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83530",
+        "id": "contrib-1776574521586-83530",
         "date": "2025-12-19 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1600,7 +1623,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83531",
+        "id": "contrib-1776574521586-83531",
         "date": "2025-11-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1616,7 +1639,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83532",
+        "id": "contrib-1776574521586-83532",
         "date": "2025-04-30 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -1632,7 +1655,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83533",
+        "id": "contrib-1776574521586-83533",
         "date": "2025-11-24 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1648,7 +1671,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83534",
+        "id": "contrib-1776574521586-83534",
         "date": "2025-12-03 00:00:00",
         "amount": 40,
         "candidate_name": "Mitchell Alan Gore",
@@ -1664,7 +1687,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83535",
+        "id": "contrib-1776574521586-83535",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1680,7 +1703,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83536",
+        "id": "contrib-1776574521586-83536",
         "date": "2025-11-03 00:00:00",
         "amount": 35,
         "candidate_name": "Mitchell Alan Gore",
@@ -1696,7 +1719,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83537",
+        "id": "contrib-1776574521586-83537",
         "date": "2025-12-08 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1712,7 +1735,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83538",
+        "id": "contrib-1776574521586-83538",
         "date": "2025-10-27 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1728,7 +1751,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83539",
+        "id": "contrib-1776574521586-83539",
         "date": "2025-10-27 00:00:00",
         "amount": 25,
         "candidate_name": "Mitchell Alan Gore",
@@ -1744,7 +1767,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83540",
+        "id": "contrib-1776574521586-83540",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1760,7 +1783,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83541",
+        "id": "contrib-1776574521586-83541",
         "date": "2025-12-03 00:00:00",
         "amount": 150,
         "candidate_name": "Mitchell Alan Gore",
@@ -1776,7 +1799,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83542",
+        "id": "contrib-1776574521586-83542",
         "date": "2025-12-03 00:00:00",
         "amount": 300,
         "candidate_name": "Mitchell Alan Gore",
@@ -1792,7 +1815,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83543",
+        "id": "contrib-1776574521586-83543",
         "date": "2025-04-30 00:00:00",
         "amount": 15,
         "candidate_name": "Mitchell Alan Gore",
@@ -1808,7 +1831,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83544",
+        "id": "contrib-1776574521586-83544",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1824,7 +1847,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83545",
+        "id": "contrib-1776574521586-83545",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1840,7 +1863,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83546",
+        "id": "contrib-1776574521586-83546",
         "date": "2025-08-29 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -1856,7 +1879,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83547",
+        "id": "contrib-1776574521586-83547",
         "date": "2025-12-02 00:00:00",
         "amount": 200,
         "candidate_name": "Mitchell Alan Gore",
@@ -1872,7 +1895,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83548",
+        "id": "contrib-1776574521586-83548",
         "date": "2025-11-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1888,7 +1911,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83549",
+        "id": "contrib-1776574521586-83549",
         "date": "2025-12-03 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1904,7 +1927,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83550",
+        "id": "contrib-1776574521586-83550",
         "date": "2025-12-05 00:00:00",
         "amount": 50,
         "candidate_name": "Mitchell Alan Gore",
@@ -1920,7 +1943,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83551",
+        "id": "contrib-1776574521586-83551",
         "date": "2025-07-17 00:00:00",
         "amount": 200,
         "candidate_name": "Mitchell Alan Gore",
@@ -1936,7 +1959,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83552",
+        "id": "contrib-1776574521586-83552",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -1952,7 +1975,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83553",
+        "id": "contrib-1776574521586-83553",
         "date": "2025-05-28 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -1968,7 +1991,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83554",
+        "id": "contrib-1776574521586-83554",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -1984,7 +2007,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83555",
+        "id": "contrib-1776574521586-83555",
         "date": "2025-12-03 00:00:00",
         "amount": 100,
         "candidate_name": "Mitchell Alan Gore",
@@ -2000,7 +2023,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83556",
+        "id": "contrib-1776574521586-83556",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2016,7 +2039,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83557",
+        "id": "contrib-1776574521586-83557",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2032,7 +2055,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83558",
+        "id": "contrib-1776574521586-83558",
         "date": "2025-05-28 00:00:00",
         "amount": 300,
         "candidate_name": "Mitchell Alan Gore",
@@ -2048,7 +2071,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83559",
+        "id": "contrib-1776574521586-83559",
         "date": "2025-12-03 00:00:00",
         "amount": 2000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2064,7 +2087,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83560",
+        "id": "contrib-1776574521586-83560",
         "date": "2025-12-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2080,7 +2103,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83561",
+        "id": "contrib-1776574521586-83561",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2096,7 +2119,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83562",
+        "id": "contrib-1776574521586-83562",
         "date": "2025-12-03 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -2112,7 +2135,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83563",
+        "id": "contrib-1776574521586-83563",
         "date": "2025-12-03 00:00:00",
         "amount": 250,
         "candidate_name": "Mitchell Alan Gore",
@@ -2128,7 +2151,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83564",
+        "id": "contrib-1776574521586-83564",
         "date": "2025-07-17 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2144,7 +2167,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83565",
+        "id": "contrib-1776574521586-83565",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2160,7 +2183,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83566",
+        "id": "contrib-1776574521586-83566",
         "date": "2025-12-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2176,7 +2199,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83567",
+        "id": "contrib-1776574521586-83567",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2192,7 +2215,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83568",
+        "id": "contrib-1776574521586-83568",
         "date": "2025-12-03 00:00:00",
         "amount": 10000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2208,7 +2231,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83569",
+        "id": "contrib-1776574521586-83569",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2224,7 +2247,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83570",
+        "id": "contrib-1776574521586-83570",
         "date": "2025-05-28 00:00:00",
         "amount": 300,
         "candidate_name": "Mitchell Alan Gore",
@@ -2240,7 +2263,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83571",
+        "id": "contrib-1776574521586-83571",
         "date": "2025-07-17 00:00:00",
         "amount": 200,
         "candidate_name": "Mitchell Alan Gore",
@@ -2256,7 +2279,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83572",
+        "id": "contrib-1776574521586-83572",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2272,7 +2295,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83573",
+        "id": "contrib-1776574521586-83573",
         "date": "2025-10-17 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2288,7 +2311,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83574",
+        "id": "contrib-1776574521586-83574",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2304,7 +2327,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83575",
+        "id": "contrib-1776574521586-83575",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2320,7 +2343,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83576",
+        "id": "contrib-1776574521586-83576",
         "date": "2025-10-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2336,7 +2359,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83577",
+        "id": "contrib-1776574521586-83577",
         "date": "2025-08-18 00:00:00",
         "amount": 4000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2352,7 +2375,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83578",
+        "id": "contrib-1776574521586-83578",
         "date": "2025-12-03 00:00:00",
         "amount": 5000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2368,7 +2391,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83579",
+        "id": "contrib-1776574521586-83579",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2384,7 +2407,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83580",
+        "id": "contrib-1776574521586-83580",
         "date": "2025-12-03 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2400,7 +2423,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83581",
+        "id": "contrib-1776574521586-83581",
         "date": "2025-05-28 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2416,7 +2439,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83582",
+        "id": "contrib-1776574521586-83582",
         "date": "2025-10-27 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2432,7 +2455,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83583",
+        "id": "contrib-1776574521586-83583",
         "date": "2025-08-18 00:00:00",
         "amount": 750,
         "candidate_name": "Mitchell Alan Gore",
@@ -2448,7 +2471,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83584",
+        "id": "contrib-1776574521586-83584",
         "date": "2025-08-18 00:00:00",
         "amount": 1500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2464,7 +2487,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83585",
+        "id": "contrib-1776574521586-83585",
         "date": "2025-12-03 00:00:00",
         "amount": 625,
         "candidate_name": "Mitchell Alan Gore",
@@ -2480,7 +2503,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83586",
+        "id": "contrib-1776574521586-83586",
         "date": "2025-07-17 00:00:00",
         "amount": 500,
         "candidate_name": "Mitchell Alan Gore",
@@ -2496,7 +2519,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83587",
+        "id": "contrib-1776574521586-83587",
         "date": "2025-12-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2512,7 +2535,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83588",
+        "id": "contrib-1776574521586-83588",
         "date": "2025-10-17 00:00:00",
         "amount": 400,
         "candidate_name": "Mitchell Alan Gore",
@@ -2528,7 +2551,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83589",
+        "id": "contrib-1776574521586-83589",
         "date": "2025-10-27 00:00:00",
         "amount": 10000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2544,7 +2567,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83590",
+        "id": "contrib-1776574521586-83590",
         "date": "2025-07-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2560,7 +2583,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83591",
+        "id": "contrib-1776574521586-83591",
         "date": "2025-08-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2576,7 +2599,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492071-83592",
+        "id": "contrib-1776574521586-83592",
         "date": "2025-10-29 00:00:00",
         "amount": 15000,
         "candidate_name": "Mitchell Alan Gore",
@@ -2588,6 +2611,374 @@
         "address_city": "Indianapolis",
         "address_state": "IN",
         "address_zip": "46239",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16562",
+        "date": "2026-02-08 00:00:00",
+        "amount": 500,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Alan Hogan",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16563",
+        "date": "2026-01-20 00:00:00",
+        "amount": 34,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Amanda Henley",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46236",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16564",
+        "date": "2026-01-20 00:00:00",
+        "amount": 50,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Barbara Lawrence",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46216",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16565",
+        "date": "2026-03-16 00:00:00",
+        "amount": 50,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "beth white",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16566",
+        "date": "2026-01-15 00:00:00",
+        "amount": 10,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "David Dawson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46208",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16567",
+        "date": "2026-01-24 00:00:00",
+        "amount": 45,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Donovan Embry",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46237",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16568",
+        "date": "2026-03-31 00:00:00",
+        "amount": 100,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Edwin Locke",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indpls",
+        "address_state": "IN",
+        "address_zip": "46254",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16569",
+        "date": "2026-03-27 00:00:00",
+        "amount": 500,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Frederick H Garver",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16570",
+        "date": "2026-03-23 00:00:00",
+        "amount": 500,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Gregory Hahn",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16571",
+        "date": "2026-01-15 00:00:00",
+        "amount": 35,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Jeff Meyer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16572",
+        "date": "2026-01-20 00:00:00",
+        "amount": 34,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Kristine wallace",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenwood",
+        "address_state": "IN",
+        "address_zip": "46143",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16573",
+        "date": "2026-02-05 00:00:00",
+        "amount": 250,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Laurie Layton",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Law Enforcement",
+        "occupation_category": "other",
+        "address_city": "New Palestine",
+        "address_state": "IN",
+        "address_zip": "46163",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16574",
+        "date": "2026-01-20 00:00:00",
+        "amount": 50,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Mary Okragly",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Beech Grove",
+        "address_state": "IN",
+        "address_zip": "46107",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16575",
+        "date": "2026-03-06 00:00:00",
+        "amount": 250,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Michael Griffin",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Government/Civil",
+        "occupation_category": "government",
+        "address_city": "Highland",
+        "address_state": "IN",
+        "address_zip": "46322",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16576",
+        "date": "2026-01-20 00:00:00",
+        "amount": 134,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Patricia Yount",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "North Vernon",
+        "address_state": "IN",
+        "address_zip": "47625",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16577",
+        "date": "2026-01-22 00:00:00",
+        "amount": 50,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Raio Krishnayya",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16578",
+        "date": "2026-01-20 00:00:00",
+        "amount": 34,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Rebecca McCracken",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46236",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16579",
+        "date": "2026-03-07 00:00:00",
+        "amount": 20,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "sarah bowers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46229",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16580",
+        "date": "2026-04-07 00:00:00",
+        "amount": 20,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "sarah bowers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46229",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16581",
+        "date": "2026-01-21 00:00:00",
+        "amount": 35,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Susan Arnston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Blue Mounds",
+        "address_state": "WI",
+        "address_zip": "53517",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16582",
+        "date": "2026-03-06 00:00:00",
+        "amount": 500,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "Brotherhood of Locomotive Engineers",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Independence",
+        "address_state": "OH",
+        "address_zip": "44131",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16583",
+        "date": "2026-03-06 00:00:00",
+        "amount": 500,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "duke energy PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Committee to Elect Mitch Gore",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16584",
+        "date": "2026-03-06 00:00:00",
+        "amount": 300,
+        "candidate_name": "Mitchell Alan Gore",
+        "contributor_name": "krieg devault",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
         "recipient_committee": "Committee to Elect Mitch Gore",
         "source": "indiana"
       }

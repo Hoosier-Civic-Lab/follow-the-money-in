@@ -2,18 +2,22 @@
   "id": "ice-miller-ice-pac",
   "name": "Ice Miller (Ice PAC)",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
+    "total_given": "2000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2025-07": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-04": {
       "count": 1,
       "total": "1000.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "cherrish-s-pryor",
       "name": "Cherrish S Pryor",
-      "total": "1000.00",
-      "count": 1
+      "total": "2000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492051-64522",
+      "id": "contrib-1776574521570-64522",
       "date": "2025-07-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Cherrish S Pryor",
+      "contributor_name": "Ice Miller (Ice PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Committee to Elect Cherrish Pryor",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10543",
+      "date": "2026-04-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Cherrish S Pryor",
       "contributor_name": "Ice Miller (Ice PAC)",

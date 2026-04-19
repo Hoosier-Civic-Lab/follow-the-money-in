@@ -6,37 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "53571.51",
-    "total_contributions": 112,
-    "total_itemized": 112,
-    "total_unitemized": 0
+    "total_raised": "113938.84",
+    "total_contributions": 171,
+    "total_itemized": 170,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 14,
-      "total": "8075.00"
+      "count": 18,
+      "total": "11525.00"
     },
     "individual": {
-      "count": 79,
-      "total": "32696.51"
+      "count": 128,
+      "total": "57300.02"
     },
     "committee": {
-      "count": 19,
-      "total": "12800.00"
+      "count": 24,
+      "total": "37800.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "7313.82"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 21,
-      "total": "28225.00"
+      "count": 36,
+      "total": "58582.88"
     },
     "medium": {
-      "count": 79,
-      "total": "24746.71"
+      "count": 120,
+      "total": "34706.16"
     },
     "small": {
-      "count": 12,
-      "total": "599.80"
+      "count": 13,
+      "total": "649.80"
+    },
+    "mega": {
+      "count": 2,
+      "total": "20000.00"
     }
   },
   "by_month": {
@@ -63,11 +71,23 @@
     "2025-05": {
       "count": 3,
       "total": "3000.00"
+    },
+    "2026-04": {
+      "count": 15,
+      "total": "23076.12"
+    },
+    "2026-02": {
+      "count": 14,
+      "total": "7139.45"
+    },
+    "2026-03": {
+      "count": 30,
+      "total": "30151.76"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492071-84142",
+      "id": "contrib-1776574521586-84142",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -83,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84143",
+      "id": "contrib-1776574521586-84143",
       "date": "2025-10-25 00:00:00",
       "amount": 2000,
       "candidate_name": "Laura Michelle Davis",
@@ -99,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84144",
+      "id": "contrib-1776574521586-84144",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -115,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84145",
+      "id": "contrib-1776574521586-84145",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -131,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84146",
+      "id": "contrib-1776574521586-84146",
       "date": "2025-08-20 00:00:00",
       "amount": 600,
       "candidate_name": "Laura Michelle Davis",
@@ -147,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84147",
+      "id": "contrib-1776574521586-84147",
       "date": "2025-11-04 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -163,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84148",
+      "id": "contrib-1776574521586-84148",
       "date": "2025-10-15 00:00:00",
       "amount": 275,
       "candidate_name": "Laura Michelle Davis",
@@ -179,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84149",
+      "id": "contrib-1776574521586-84149",
       "date": "2025-11-14 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -195,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84150",
+      "id": "contrib-1776574521586-84150",
       "date": "2025-12-10 00:00:00",
       "amount": 800,
       "candidate_name": "Laura Michelle Davis",
@@ -211,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84151",
+      "id": "contrib-1776574521586-84151",
       "date": "2025-12-10 00:00:00",
       "amount": 50,
       "candidate_name": "Laura Michelle Davis",
@@ -227,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84152",
+      "id": "contrib-1776574521586-84152",
       "date": "2025-10-07 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -243,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84153",
+      "id": "contrib-1776574521586-84153",
       "date": "2025-10-29 00:00:00",
       "amount": 240.15,
       "candidate_name": "Laura Michelle Davis",
@@ -259,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84154",
+      "id": "contrib-1776574521586-84154",
       "date": "2025-10-08 00:00:00",
       "amount": 1200,
       "candidate_name": "Laura Michelle Davis",
@@ -275,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84155",
+      "id": "contrib-1776574521586-84155",
       "date": "2025-10-15 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Michelle Davis",
@@ -291,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84156",
+      "id": "contrib-1776574521586-84156",
       "date": "2025-08-28 00:00:00",
       "amount": 50,
       "candidate_name": "Laura Michelle Davis",
@@ -307,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84157",
+      "id": "contrib-1776574521586-84157",
       "date": "2025-11-14 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -323,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84158",
+      "id": "contrib-1776574521586-84158",
       "date": "2025-09-25 00:00:00",
       "amount": 25,
       "candidate_name": "Laura Michelle Davis",
@@ -339,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84159",
+      "id": "contrib-1776574521586-84159",
       "date": "2025-10-06 00:00:00",
       "amount": 70.79,
       "candidate_name": "Laura Michelle Davis",
@@ -355,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84160",
+      "id": "contrib-1776574521586-84160",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -371,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84161",
+      "id": "contrib-1776574521586-84161",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -387,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84162",
+      "id": "contrib-1776574521586-84162",
       "date": "2025-08-25 00:00:00",
       "amount": 60,
       "candidate_name": "Laura Michelle Davis",
@@ -403,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84163",
+      "id": "contrib-1776574521586-84163",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -419,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84164",
+      "id": "contrib-1776574521586-84164",
       "date": "2025-08-21 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -435,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84165",
+      "id": "contrib-1776574521586-84165",
       "date": "2025-10-16 00:00:00",
       "amount": 240.15,
       "candidate_name": "Laura Michelle Davis",
@@ -451,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84166",
+      "id": "contrib-1776574521586-84166",
       "date": "2025-10-20 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -467,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84167",
+      "id": "contrib-1776574521586-84167",
       "date": "2025-10-15 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -483,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84168",
+      "id": "contrib-1776574521586-84168",
       "date": "2025-10-20 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -499,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84169",
+      "id": "contrib-1776574521586-84169",
       "date": "2025-08-21 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -515,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84170",
+      "id": "contrib-1776574521586-84170",
       "date": "2025-10-16 00:00:00",
       "amount": 240.15,
       "candidate_name": "Laura Michelle Davis",
@@ -531,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84171",
+      "id": "contrib-1776574521586-84171",
       "date": "2025-11-03 00:00:00",
       "amount": 50,
       "candidate_name": "Laura Michelle Davis",
@@ -547,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84172",
+      "id": "contrib-1776574521586-84172",
       "date": "2025-08-20 00:00:00",
       "amount": 2000,
       "candidate_name": "Laura Michelle Davis",
@@ -563,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84173",
+      "id": "contrib-1776574521586-84173",
       "date": "2025-08-25 00:00:00",
       "amount": 140,
       "candidate_name": "Laura Michelle Davis",
@@ -579,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84174",
+      "id": "contrib-1776574521586-84174",
       "date": "2025-08-20 00:00:00",
       "amount": 24.01,
       "candidate_name": "Laura Michelle Davis",
@@ -595,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84175",
+      "id": "contrib-1776574521586-84175",
       "date": "2025-10-20 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -611,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84176",
+      "id": "contrib-1776574521586-84176",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -627,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84177",
+      "id": "contrib-1776574521586-84177",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -643,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84178",
+      "id": "contrib-1776574521586-84178",
       "date": "2025-10-30 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -659,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84179",
+      "id": "contrib-1776574521586-84179",
       "date": "2025-11-12 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -675,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84180",
+      "id": "contrib-1776574521586-84180",
       "date": "2025-12-10 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Michelle Davis",
@@ -691,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84181",
+      "id": "contrib-1776574521586-84181",
       "date": "2025-10-16 00:00:00",
       "amount": 288,
       "candidate_name": "Laura Michelle Davis",
@@ -707,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84182",
+      "id": "contrib-1776574521586-84182",
       "date": "2025-10-20 00:00:00",
       "amount": 310,
       "candidate_name": "Laura Michelle Davis",
@@ -723,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84183",
+      "id": "contrib-1776574521586-84183",
       "date": "2025-10-16 00:00:00",
       "amount": 240.15,
       "candidate_name": "Laura Michelle Davis",
@@ -739,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84184",
+      "id": "contrib-1776574521586-84184",
       "date": "2025-10-07 00:00:00",
       "amount": 25,
       "candidate_name": "Laura Michelle Davis",
@@ -755,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84185",
+      "id": "contrib-1776574521586-84185",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -771,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84186",
+      "id": "contrib-1776574521586-84186",
       "date": "2025-12-10 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -787,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84187",
+      "id": "contrib-1776574521586-84187",
       "date": "2025-10-16 00:00:00",
       "amount": 182.96,
       "candidate_name": "Laura Michelle Davis",
@@ -803,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84188",
+      "id": "contrib-1776574521586-84188",
       "date": "2025-10-20 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -819,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84189",
+      "id": "contrib-1776574521586-84189",
       "date": "2025-10-16 00:00:00",
       "amount": 3025,
       "candidate_name": "Laura Michelle Davis",
@@ -835,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84190",
+      "id": "contrib-1776574521586-84190",
       "date": "2025-08-21 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -851,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84191",
+      "id": "contrib-1776574521586-84191",
       "date": "2025-10-20 00:00:00",
       "amount": 1500,
       "candidate_name": "Laura Michelle Davis",
@@ -867,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84192",
+      "id": "contrib-1776574521586-84192",
       "date": "2025-08-21 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -883,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84193",
+      "id": "contrib-1776574521586-84193",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -899,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84194",
+      "id": "contrib-1776574521586-84194",
       "date": "2025-11-20 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -915,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84195",
+      "id": "contrib-1776574521586-84195",
       "date": "2025-11-04 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -931,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84196",
+      "id": "contrib-1776574521586-84196",
       "date": "2025-08-25 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -947,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84197",
+      "id": "contrib-1776574521586-84197",
       "date": "2025-11-12 00:00:00",
       "amount": 600,
       "candidate_name": "Laura Michelle Davis",
@@ -963,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84198",
+      "id": "contrib-1776574521587-84198",
       "date": "2025-10-20 00:00:00",
       "amount": 60,
       "candidate_name": "Laura Michelle Davis",
@@ -979,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84199",
+      "id": "contrib-1776574521587-84199",
       "date": "2025-10-20 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -995,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84200",
+      "id": "contrib-1776574521587-84200",
       "date": "2025-08-26 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1011,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84201",
+      "id": "contrib-1776574521587-84201",
       "date": "2025-08-21 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Michelle Davis",
@@ -1027,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84202",
+      "id": "contrib-1776574521587-84202",
       "date": "2025-11-12 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -1043,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84203",
+      "id": "contrib-1776574521587-84203",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1059,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84204",
+      "id": "contrib-1776574521587-84204",
       "date": "2025-10-15 00:00:00",
       "amount": 150,
       "candidate_name": "Laura Michelle Davis",
@@ -1075,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84205",
+      "id": "contrib-1776574521587-84205",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1091,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84206",
+      "id": "contrib-1776574521587-84206",
       "date": "2025-11-14 00:00:00",
       "amount": 400,
       "candidate_name": "Laura Michelle Davis",
@@ -1107,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84207",
+      "id": "contrib-1776574521587-84207",
       "date": "2025-09-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1123,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84208",
+      "id": "contrib-1776574521587-84208",
       "date": "2025-12-10 00:00:00",
       "amount": 150,
       "candidate_name": "Laura Michelle Davis",
@@ -1139,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84209",
+      "id": "contrib-1776574521587-84209",
       "date": "2025-08-23 00:00:00",
       "amount": 75,
       "candidate_name": "Laura Michelle Davis",
@@ -1155,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84210",
+      "id": "contrib-1776574521587-84210",
       "date": "2025-08-20 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Michelle Davis",
@@ -1171,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84211",
+      "id": "contrib-1776574521587-84211",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1187,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84212",
+      "id": "contrib-1776574521587-84212",
       "date": "2025-10-06 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1203,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84213",
+      "id": "contrib-1776574521587-84213",
       "date": "2025-12-10 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Michelle Davis",
@@ -1219,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84214",
+      "id": "contrib-1776574521587-84214",
       "date": "2025-10-17 00:00:00",
       "amount": 240.15,
       "candidate_name": "Laura Michelle Davis",
@@ -1235,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84215",
+      "id": "contrib-1776574521587-84215",
       "date": "2025-12-10 00:00:00",
       "amount": 60,
       "candidate_name": "Laura Michelle Davis",
@@ -1251,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84216",
+      "id": "contrib-1776574521587-84216",
       "date": "2025-11-12 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -1267,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84217",
+      "id": "contrib-1776574521587-84217",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1283,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84218",
+      "id": "contrib-1776574521587-84218",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1299,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84219",
+      "id": "contrib-1776574521587-84219",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1315,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84220",
+      "id": "contrib-1776574521587-84220",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -1331,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84221",
+      "id": "contrib-1776574521587-84221",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -1347,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84222",
+      "id": "contrib-1776574521587-84222",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1363,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84223",
+      "id": "contrib-1776574521587-84223",
       "date": "2025-11-04 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -1379,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84224",
+      "id": "contrib-1776574521587-84224",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Michelle Davis",
@@ -1395,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84225",
+      "id": "contrib-1776574521587-84225",
       "date": "2025-12-01 00:00:00",
       "amount": 2000,
       "candidate_name": "Laura Michelle Davis",
@@ -1411,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84226",
+      "id": "contrib-1776574521587-84226",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1427,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84227",
+      "id": "contrib-1776574521587-84227",
       "date": "2025-12-10 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1443,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84228",
+      "id": "contrib-1776574521587-84228",
       "date": "2025-12-10 00:00:00",
       "amount": 50,
       "candidate_name": "Laura Michelle Davis",
@@ -1459,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84229",
+      "id": "contrib-1776574521587-84229",
       "date": "2025-10-15 00:00:00",
       "amount": 150,
       "candidate_name": "Laura Michelle Davis",
@@ -1475,7 +1495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84230",
+      "id": "contrib-1776574521587-84230",
       "date": "2025-11-04 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -1491,7 +1511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84231",
+      "id": "contrib-1776574521587-84231",
       "date": "2025-10-08 00:00:00",
       "amount": 250,
       "candidate_name": "Laura Michelle Davis",
@@ -1507,7 +1527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84232",
+      "id": "contrib-1776574521587-84232",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1523,7 +1543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84233",
+      "id": "contrib-1776574521587-84233",
       "date": "2025-05-05 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1539,7 +1559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84234",
+      "id": "contrib-1776574521587-84234",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1555,7 +1575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84235",
+      "id": "contrib-1776574521587-84235",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1571,7 +1591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84236",
+      "id": "contrib-1776574521587-84236",
       "date": "2025-08-26 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1587,7 +1607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84237",
+      "id": "contrib-1776574521587-84237",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1603,7 +1623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84238",
+      "id": "contrib-1776574521587-84238",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1619,7 +1639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84239",
+      "id": "contrib-1776574521587-84239",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1635,7 +1655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84240",
+      "id": "contrib-1776574521587-84240",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1651,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84241",
+      "id": "contrib-1776574521587-84241",
       "date": "2025-08-21 00:00:00",
       "amount": 800,
       "candidate_name": "Laura Michelle Davis",
@@ -1667,7 +1687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84242",
+      "id": "contrib-1776574521587-84242",
       "date": "2025-08-21 00:00:00",
       "amount": 350,
       "candidate_name": "Laura Michelle Davis",
@@ -1683,7 +1703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84243",
+      "id": "contrib-1776574521587-84243",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1699,7 +1719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84244",
+      "id": "contrib-1776574521587-84244",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1715,7 +1735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84245",
+      "id": "contrib-1776574521587-84245",
       "date": "2025-10-20 00:00:00",
       "amount": 1500,
       "candidate_name": "Laura Michelle Davis",
@@ -1731,7 +1751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84246",
+      "id": "contrib-1776574521587-84246",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1747,7 +1767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84247",
+      "id": "contrib-1776574521587-84247",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1763,7 +1783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84248",
+      "id": "contrib-1776574521587-84248",
       "date": "2025-08-21 00:00:00",
       "amount": 300,
       "candidate_name": "Laura Michelle Davis",
@@ -1779,7 +1799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84249",
+      "id": "contrib-1776574521587-84249",
       "date": "2025-12-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Laura Michelle Davis",
@@ -1795,7 +1815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84250",
+      "id": "contrib-1776574521587-84250",
       "date": "2025-05-05 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1811,7 +1831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84251",
+      "id": "contrib-1776574521587-84251",
       "date": "2025-05-05 00:00:00",
       "amount": 2000,
       "candidate_name": "Laura Michelle Davis",
@@ -1827,7 +1847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84252",
+      "id": "contrib-1776574521587-84252",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1843,7 +1863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84253",
+      "id": "contrib-1776574521587-84253",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -1855,6 +1875,950 @@
       "address_city": "Indianapolis ",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16712",
+      "date": "2026-04-10 00:00:00",
+      "amount": 7313.82,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16713",
+      "date": "2026-02-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Best Way of Indiana, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kalamazoo",
+      "address_state": "MI",
+      "address_zip": "49048",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16714",
+      "date": "2026-03-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Anthony Samuel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16715",
+      "date": "2026-02-02 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Charles Baker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kennesaw",
+      "address_state": "GA",
+      "address_zip": "30152",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16716",
+      "date": "2026-03-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Charles Trupe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Whitestown",
+      "address_state": "IN",
+      "address_zip": "46075",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16717",
+      "date": "2026-03-12 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Charlie Hiltunen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16718",
+      "date": "2026-03-12 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Damian Pondal",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16719",
+      "date": "2026-04-01 00:00:00",
+      "amount": 1600,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Dirk Rader",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16720",
+      "date": "2026-03-17 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Doug Rose",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16721",
+      "date": "2026-02-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Douglas L  Lemmons",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46148",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16722",
+      "date": "2026-03-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Gregory Sandlin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16723",
+      "date": "2026-03-10 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Jack Bedan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16724",
+      "date": "2026-02-10 00:00:00",
+      "amount": 4321,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Jack E Jordan",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Bremen",
+      "address_state": "IN",
+      "address_zip": "46506",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16725",
+      "date": "2026-03-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "James Banahan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Phenoix",
+      "address_state": "AZ",
+      "address_zip": "85020",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16726",
+      "date": "2026-03-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "James Bopp JR",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16727",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "James M Gutting",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapoilis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16728",
+      "date": "2026-04-03 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "James Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16729",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Jeffery  L Cardwell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianpolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16730",
+      "date": "2026-04-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Jerome D Leach",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16731",
+      "date": "2026-03-06 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Jim Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16732",
+      "date": "2026-04-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Joel Fawbush",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nasville",
+      "address_state": "IN",
+      "address_zip": "47448",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16733",
+      "date": "2026-04-08 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "John Bedan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16734",
+      "date": "2026-04-10 00:00:00",
+      "amount": 150,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "John Boner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Nineveh",
+      "address_state": "IN",
+      "address_zip": "46164",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16735",
+      "date": "2026-02-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "John Guittard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Dallas",
+      "address_state": "TX",
+      "address_zip": "75225",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16736",
+      "date": "2026-02-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "John L  Herron",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16737",
+      "date": "2026-03-25 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Judy Oday",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16738",
+      "date": "2026-02-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Kurt Strucker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16739",
+      "date": "2026-04-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Lydia Haak",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16740",
+      "date": "2026-04-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Mark Foster",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16741",
+      "date": "2026-02-22 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Matthew Parmenter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Vincennes",
+      "address_state": "IN",
+      "address_zip": "47591",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16742",
+      "date": "2026-02-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Michael Cross",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16743",
+      "date": "2026-02-06 00:00:00",
+      "amount": 200,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Michael E.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Gresham",
+      "address_state": "OR",
+      "address_zip": "97080",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16744",
+      "date": "2026-03-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Mike Mascari",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46237",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16745",
+      "date": "2026-02-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Niki Watermolen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Green Bay",
+      "address_state": "WI",
+      "address_zip": "54305",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16746",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Patricia K Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16747",
+      "date": "2026-04-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Paul Garland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16748",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Peter Thawnghmung",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Dublin",
+      "address_state": "OH",
+      "address_zip": "43016",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16749",
+      "date": "2026-03-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Robert A Cerbone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16750",
+      "date": "2026-02-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Robert Gardner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Conroe",
+      "address_state": "TX",
+      "address_zip": "77384",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16751",
+      "date": "2026-02-14 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Sarah Huff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16752",
+      "date": "2026-04-07 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Sarah Huff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16753",
+      "date": "2026-02-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Thomas Lucke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Wisconsin Dells",
+      "address_state": "WI",
+      "address_zip": "53965",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16754",
+      "date": "2026-04-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Tom Strack",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16755",
+      "date": "2026-03-27 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "WAA Charles D Goodrich",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16756",
+      "date": "2026-03-11 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "William Barrett",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16757",
+      "date": "2026-03-21 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "William Sutherland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16758",
+      "date": "2026-03-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Barkley Kirkendall 1 LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16759",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Chin Brothers LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapoils",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16760",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "DMB Marketing & MGMT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16761",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Gary Byrne For State Senate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16762",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Kroger, Gardis And Regas, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16763",
+      "date": "2026-03-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Lewis and Wilkins LLP",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16764",
+      "date": "2026-03-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Pinnick For Prosecutor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16765",
+      "date": "2026-03-17 00:00:00",
+      "amount": 700,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Thalop LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapoils",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16766",
+      "date": "2026-03-17 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Hoosiers for Quality Education Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16767",
+      "date": "2026-04-01 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Indiana Merit Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16768",
+      "date": "2026-03-10 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Indiana Multi Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16769",
+      "date": "2026-04-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Duke Energy Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16770",
+      "date": "2026-04-06 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Hoosiers for Great Public Schools PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
       "recipient_committee": "Friends of Michelle Davis",
       "source": "indiana"
     }

@@ -2,18 +2,18 @@
   "id": "hoosier-beverage-association-political-action-committee",
   "name": "Hoosier Beverage Association Political Action Committee",
   "totals": {
-    "total_given": "10000.00",
-    "total_contributions": 11,
-    "candidates_supported": 8
+    "total_given": "13000.00",
+    "total_contributions": 14,
+    "candidates_supported": 9
   },
   "by_contribution_size": {
     "large": {
-      "count": 5,
-      "total": "8000.00"
+      "count": 6,
+      "total": "10000.00"
     },
     "medium": {
-      "count": 6,
-      "total": "2000.00"
+      "count": 8,
+      "total": "3000.00"
     }
   },
   "by_month": {
@@ -32,9 +32,19 @@
     "2025-07": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "3000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "travis-linn-holdman",
+      "name": "Travis Linn Holdman",
+      "total": "1000.00",
+      "count": 2
+    },
     {
       "id": "todd-michael-huston",
       "name": "Todd Michael Huston",
@@ -48,14 +58,14 @@
       "count": 1
     },
     {
-      "id": "travis-linn-holdman",
-      "name": "Travis Linn Holdman",
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
       "total": "500.00",
       "count": 1
     },
     {
-      "id": "rodney-pol",
-      "name": "Rodney Pol",
+      "id": "craig-thomas-snow",
+      "name": "Craig Thomas Snow",
       "total": "500.00",
       "count": 1
     },
@@ -86,7 +96,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491952-504",
+      "id": "contrib-1776574521495-504",
       "date": "2025-09-04 00:00:00",
       "amount": 1000,
       "contributor_name": "Hoosier Beverage Association Political Action Committee",
@@ -101,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-6202",
+      "id": "contrib-1776574521501-6202",
       "date": "2025-09-03 00:00:00",
       "amount": 3000,
       "contributor_name": "Hoosier Beverage Association Political Action Committee",
@@ -116,7 +126,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491962-7259",
+      "id": "contrib-1776574521502-7259",
       "date": "2025-09-10 00:00:00",
       "amount": 2000,
       "contributor_name": "Hoosier Beverage Association Political Action Committee",
@@ -131,7 +141,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492051-64740",
+      "id": "contrib-1776574521571-64740",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Travis Linn Holdman",
@@ -147,7 +157,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-66844",
+      "id": "contrib-1776574521575-66844",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Todd Michael Huston",
@@ -163,7 +173,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67469",
+      "id": "contrib-1776574521576-67469",
       "date": "2025-08-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodric D Bray",
@@ -179,7 +189,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492066-78388",
+      "id": "contrib-1776574521582-78388",
       "date": "2025-11-11 00:00:00",
       "amount": 250,
       "candidate_name": "James David Ford",
@@ -195,7 +205,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-79784",
+      "id": "contrib-1776574521583-79784",
       "date": "2025-08-29 00:00:00",
       "amount": 250,
       "candidate_name": "Jack Jordan",
@@ -211,7 +221,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82914",
+      "id": "contrib-1776574521585-82914",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -227,7 +237,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83899",
+      "id": "contrib-1776574521586-83899",
       "date": "2025-09-05 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -243,7 +253,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90773",
+      "id": "contrib-1776574521596-90773",
       "date": "2025-11-13 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -257,16 +267,63 @@
       "address_zip": "46204",
       "recipient_committee": "Committee to Elect Rodney Pol Jr.",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521762-1421",
+      "date": "2026-04-10 00:00:00",
+      "amount": 2000,
+      "contributor_name": "Hoosier Beverage Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10667",
+      "date": "2026-04-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Travis Linn Holdman",
+      "contributor_name": "Hoosier Beverage Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Holdman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16801",
+      "date": "2026-04-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Craig Thomas Snow",
+      "contributor_name": "Hoosier Beverage Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Snow Indiana State Representative",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "32200.00",
-    "total_contributions": 5,
-    "unique_donors": 4,
+    "total_raised": "37600.00",
+    "total_contributions": 7,
+    "unique_donors": 6,
     "by_contributor_type": {
       "corporate": {
-        "count": 3,
-        "total": "6200.00"
+        "count": 5,
+        "total": "11600.00"
       },
       "individual": {
         "count": 2,
@@ -287,6 +344,12 @@
         "count": 1
       },
       {
+        "name": "Great Lakes Coca-Cola Bottling",
+        "type": "corporate",
+        "total": "5000.00",
+        "count": 1
+      },
+      {
         "name": "Coca-Cola Bottling Co., Kokomo, Ind., Inc.",
         "type": "corporate",
         "total": "800.00",
@@ -297,11 +360,17 @@
         "type": "corporate",
         "total": "400.00",
         "count": 1
+      },
+      {
+        "name": "Coca-Cola Bottling Company, Inc.",
+        "type": "corporate",
+        "total": "400.00",
+        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492006-34237",
+        "id": "contrib-1776574521535-34237",
         "date": "2025-03-18 00:00:00",
         "amount": 400,
         "contributor_name": "Coca Cola Bottling Company, Columbus, Indiana, INc.",
@@ -316,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34238",
+        "id": "contrib-1776574521535-34238",
         "date": "2025-03-18 00:00:00",
         "amount": 800,
         "contributor_name": "Coca-Cola Bottling Co., Kokomo, Ind., Inc.",
@@ -331,7 +400,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34239",
+        "id": "contrib-1776574521535-34239",
         "date": "2025-05-20 00:00:00",
         "amount": 5000,
         "contributor_name": "Reyes Coca-Cola Bottling, LLC",
@@ -346,7 +415,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34240",
+        "id": "contrib-1776574521535-34240",
         "date": "2025-07-16 00:00:00",
         "amount": 13000,
         "contributor_name": "Hoosier Beverage Association",
@@ -361,7 +430,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492006-34241",
+        "id": "contrib-1776574521535-34241",
         "date": "2025-05-05 00:00:00",
         "amount": 13000,
         "contributor_name": "Hoosier Beverage Association",
@@ -372,6 +441,36 @@
         "address_city": "Indianapolis",
         "address_state": "In",
         "address_zip": "46204",
+        "recipient_committee": "Hoosier Beverage Association Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9799",
+        "date": "2026-03-09 00:00:00",
+        "amount": 400,
+        "contributor_name": "Coca-Cola Bottling Company, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "Hoosier Beverage Association Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9800",
+        "date": "2026-03-31 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Great Lakes Coca-Cola Bottling",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
         "recipient_committee": "Hoosier Beverage Association Political Action Committee",
         "source": "indiana"
       }

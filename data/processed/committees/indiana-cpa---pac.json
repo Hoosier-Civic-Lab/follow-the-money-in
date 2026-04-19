@@ -2,18 +2,22 @@
   "id": "indiana-cpa---pac",
   "name": "Indiana CPA - PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "1000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-07": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-03": {
       "count": 1,
       "total": "500.00"
     }
@@ -24,11 +28,17 @@
       "name": "Stephen Russel Bartels",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "linda-lee-rogers",
+      "name": "Linda Lee Rogers",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492070-82753",
+      "id": "contrib-1776574521585-82753",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -41,6 +51,22 @@
       "address_state": "IN",
       "address_zip": "46240",
       "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16153",
+      "date": "2026-03-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Linda Lee Rogers",
+      "contributor_name": "Indiana CPA - PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Linda Rogers for State Senate",
       "source": "indiana"
     }
   ],

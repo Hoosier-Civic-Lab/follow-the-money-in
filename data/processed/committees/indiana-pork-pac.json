@@ -2,20 +2,24 @@
   "id": "indiana-pork-pac",
   "name": "Indiana Pork PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 3,
+    "total_given": "4000.00",
+    "total_contributions": 4,
     "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "3000.00"
+      "count": 4,
+      "total": "4000.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 3,
       "total": "3000.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -40,7 +44,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491997-28695",
+      "id": "contrib-1776574521529-28695",
       "date": "2025-12-16 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -56,7 +60,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-78991",
+      "id": "contrib-1776574521583-78991",
       "date": "2025-12-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael Jerome Aylesworth",
@@ -72,7 +76,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91384",
+      "id": "contrib-1776574521597-91384",
       "date": "2025-12-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Richard Greene III",
@@ -85,6 +89,21 @@
       "address_state": "IN",
       "address_zip": "46240",
       "recipient_committee": "RobbGreene.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521764-3206",
+      "date": "2026-01-08 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Indiana Pork PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
       "source": "indiana"
     }
   ],

@@ -2,14 +2,14 @@
   "id": "pac-fund-of-indiana-dealers-election-action-for-survival",
   "name": "PAC Fund of Indiana Dealers Election Action for Survival",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "3500.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     },
     "large": {
       "count": 1,
@@ -24,6 +24,10 @@
     "2025-12": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -38,11 +42,17 @@
       "name": "Earl Lynn Harris, Jr.",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "james-andrew-tomes",
+      "name": "James Andrew Tomes",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492068-80068",
+      "id": "contrib-1776574521584-80068",
       "date": "2025-07-17 00:00:00",
       "amount": 500,
       "candidate_name": "Earl Lynn Harris, Jr.",
@@ -58,7 +68,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80175",
+      "id": "contrib-1776574521584-80175",
       "date": "2025-12-03 00:00:00",
       "amount": 2500,
       "candidate_name": "Aaron Michael Freeman",
@@ -71,6 +81,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Freeman for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9369",
+      "date": "2026-03-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "PAC Fund of Indiana Dealers Election Action for Survival",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
       "source": "indiana"
     }
   ],

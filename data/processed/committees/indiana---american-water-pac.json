@@ -2,18 +2,22 @@
   "id": "indiana---american-water-pac",
   "name": "Indiana - American Water PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
+    "total_given": "2000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2025-05": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-04": {
       "count": 1,
       "total": "1000.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "matthew-scott-lehman",
       "name": "Matthew Scott Lehman",
-      "total": "1000.00",
-      "count": 1
+      "total": "2000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492050-64447",
+      "id": "contrib-1776574521570-64447",
       "date": "2025-05-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "Indiana - American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10517",
+      "date": "2026-04-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Matthew Scott Lehman",
       "contributor_name": "Indiana - American Water PAC",

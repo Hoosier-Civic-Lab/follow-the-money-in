@@ -2,14 +2,14 @@
   "id": "laborers-local-81-political-fund",
   "name": "Laborers' Local 81 Political Fund",
   "totals": {
-    "total_given": "7000.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "8000.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "7000.00"
+      "count": 3,
+      "total": "8000.00"
     }
   },
   "by_month": {
@@ -20,6 +20,10 @@
     "2025-12": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -28,11 +32,17 @@
       "name": "Beau Bayh",
       "total": "5000.00",
       "count": 1
+    },
+    {
+      "id": "charles-alva-moseley",
+      "name": "Charles Alva Moseley",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491962-7294",
+      "id": "contrib-1776574521502-7294",
       "date": "2025-11-14 00:00:00",
       "amount": 2000,
       "contributor_name": "Laborers' Local 81 Political Fund",
@@ -47,7 +57,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492094-101428",
+      "id": "contrib-1776574521604-101428",
       "date": "2025-12-12 00:00:00",
       "amount": 5000,
       "candidate_name": "Beau Bayh",
@@ -61,34 +71,65 @@
       "address_zip": "46383",
       "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10426",
+      "date": "2026-03-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "Laborers' Local 81 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "VALPARAISO",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "36509.61",
-    "total_contributions": 1,
+    "total_raised": "42360.60",
+    "total_contributions": 2,
     "unique_donors": 0,
     "by_contributor_type": {
       "unitemized": {
-        "count": 1,
-        "total": "36509.61"
+        "count": 2,
+        "total": "42360.60"
       }
     },
     "top_donors": [
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "36509.61",
-        "count": 1
+        "total": "42360.60",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492065-77619",
+        "id": "contrib-1776574521581-77619",
         "date": "2025-12-31 00:00:00",
         "amount": 36509.61,
         "contributor_name": "",
         "contributor_type": "unitemized",
         "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Laborers' Local 81 Political Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521779-14715",
+        "date": "2026-04-10 00:00:00",
+        "amount": 5850.99,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
         "occupation": null,
         "occupation_category": "unknown",
         "address_city": null,

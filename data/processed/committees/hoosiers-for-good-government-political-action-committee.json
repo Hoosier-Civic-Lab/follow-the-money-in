@@ -2,26 +2,41 @@
   "id": "hoosiers-for-good-government-political-action-committee",
   "name": "Hoosiers for Good Government Political Action Committee",
   "totals": {
-    "total_given": "20000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "25000.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "mega": {
       "count": 1,
       "total": "20000.00"
+    },
+    "large": {
+      "count": 2,
+      "total": "5000.00"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "20000.00"
+    },
+    "2026-03": {
+      "count": 2,
+      "total": "5000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "john-christian-ruckelshaus",
+      "name": "John Christian Ruckelshaus",
+      "total": "5000.00",
+      "count": 2
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6203",
+      "id": "contrib-1776574521501-6203",
       "date": "2025-06-30 00:00:00",
       "amount": 20000,
       "contributor_name": "Hoosiers for Good Government Political Action Committee",
@@ -33,6 +48,38 @@
       "address_state": "IN",
       "address_zip": "46202",
       "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15359",
+      "date": "2026-03-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Hoosiers for Good Government Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15360",
+      "date": "2026-03-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Hoosiers for Good Government Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
       "source": "indiana"
     }
   ],
@@ -72,7 +119,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492087-93743",
+        "id": "contrib-1776574521598-93743",
         "date": "2025-07-10 00:00:00",
         "amount": 25000,
         "contributor_name": "Billy Bean",
@@ -87,7 +134,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93744",
+        "id": "contrib-1776574521598-93744",
         "date": "2025-03-05 00:00:00",
         "amount": 10000,
         "contributor_name": "Ambassador Enterprises LLC",
@@ -102,7 +149,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93745",
+        "id": "contrib-1776574521598-93745",
         "date": "2025-06-10 00:00:00",
         "amount": 10000,
         "contributor_name": "Ambassador Enterprises LLC",
@@ -117,7 +164,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93746",
+        "id": "contrib-1776574521598-93746",
         "date": "2025-10-30 00:00:00",
         "amount": 20000,
         "contributor_name": "Ambassador Enterprises LLC",
@@ -132,7 +179,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93747",
+        "id": "contrib-1776574521598-93747",
         "date": "2025-07-10 00:00:00",
         "amount": 10000,
         "contributor_name": "Kelley Automotive Group, LLC",
@@ -147,7 +194,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492087-93748",
+        "id": "contrib-1776574521598-93748",
         "date": "2025-07-31 00:00:00",
         "amount": 20000,
         "contributor_name": "Kelley Automotive Group, LLC",

@@ -2,8 +2,8 @@
   "id": "meijer-political-action-committee-of-indiana",
   "name": "Meijer Political Action Committee of Indiana",
   "totals": {
-    "total_given": "18000.00",
-    "total_contributions": 4,
+    "total_given": "33000.00",
+    "total_contributions": 5,
     "candidates_supported": 2
   },
   "by_contribution_size": {
@@ -12,8 +12,8 @@
       "total": "7500.00"
     },
     "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 2,
+      "total": "25000.00"
     },
     "medium": {
       "count": 1,
@@ -36,6 +36,10 @@
     "2025-11": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "top_recipients": [
@@ -54,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491951-339",
+      "id": "contrib-1776574521494-339",
       "date": "2025-05-05 00:00:00",
       "amount": 5000,
       "contributor_name": "Meijer Political Action Committee of Indiana",
@@ -69,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12410",
+      "id": "contrib-1776574521506-12410",
       "date": "2025-09-05 00:00:00",
       "amount": 10000,
       "contributor_name": "Meijer Political Action Committee of Indiana",
@@ -84,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82681",
+      "id": "contrib-1776574521585-82681",
       "date": "2025-01-11 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Douglas Hostettler",
@@ -100,7 +104,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-91257",
+      "id": "contrib-1776574521597-91257",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "Julie Anne McGuire",
@@ -114,20 +118,35 @@
       "address_zip": "49544",
       "recipient_committee": "Julie McGuire for State Representative",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521764-3208",
+      "date": "2026-02-27 00:00:00",
+      "amount": 15000,
+      "contributor_name": "Meijer Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "49544",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "72654.73",
-    "total_contributions": 187,
-    "unique_donors": 21,
+    "total_raised": "74027.83",
+    "total_contributions": 221,
+    "unique_donors": 22,
     "by_contributor_type": {
       "unitemized": {
-        "count": 1,
-        "total": "594.73"
+        "count": 2,
+        "total": "767.83"
       },
       "individual": {
-        "count": 185,
-        "total": "71560.00"
+        "count": 218,
+        "total": "72760.00"
       },
       "committee": {
         "count": 1,
@@ -150,8 +169,8 @@
       {
         "name": "Joseph Preston",
         "type": "individual",
-        "total": "1040.00",
-        "count": 52
+        "total": "1340.00",
+        "count": 67
       },
       {
         "name": "The Mayfield Campaign",
@@ -162,8 +181,20 @@
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "594.73",
-        "count": 1
+        "total": "767.83",
+        "count": 2
+      },
+      {
+        "name": "Vickie Fisher",
+        "type": "individual",
+        "total": "600.00",
+        "count": 3
+      },
+      {
+        "name": "Samuel Jacob Hood",
+        "type": "individual",
+        "total": "560.00",
+        "count": 28
       },
       {
         "name": "Committee to Elect Heath VanNatter",
@@ -182,23 +213,11 @@
         "type": "individual",
         "total": "500.00",
         "count": 1
-      },
-      {
-        "name": "Friends of Matt Hostettier",
-        "type": "individual",
-        "total": "500.00",
-        "count": 1
-      },
-      {
-        "name": "Friends of Shelli Yoder",
-        "type": "individual",
-        "total": "500.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969491996-27347",
+        "id": "contrib-1776574521528-27347",
         "date": "2025-12-31 00:00:00",
         "amount": 594.73,
         "contributor_name": "",
@@ -213,7 +232,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27348",
+        "id": "contrib-1776574521528-27348",
         "date": "2025-01-03 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -228,7 +247,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27349",
+        "id": "contrib-1776574521528-27349",
         "date": "2025-01-10 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -243,7 +262,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27350",
+        "id": "contrib-1776574521528-27350",
         "date": "2025-01-17 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -258,7 +277,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27351",
+        "id": "contrib-1776574521528-27351",
         "date": "2025-01-24 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -273,7 +292,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27352",
+        "id": "contrib-1776574521528-27352",
         "date": "2025-01-31 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -288,7 +307,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27353",
+        "id": "contrib-1776574521528-27353",
         "date": "2025-02-07 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -303,7 +322,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27354",
+        "id": "contrib-1776574521528-27354",
         "date": "2025-02-14 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -318,7 +337,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27355",
+        "id": "contrib-1776574521528-27355",
         "date": "2025-02-21 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -333,7 +352,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27356",
+        "id": "contrib-1776574521528-27356",
         "date": "2025-02-28 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -348,7 +367,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27357",
+        "id": "contrib-1776574521528-27357",
         "date": "2025-03-07 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -363,7 +382,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27358",
+        "id": "contrib-1776574521528-27358",
         "date": "2025-03-14 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -378,7 +397,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27359",
+        "id": "contrib-1776574521528-27359",
         "date": "2025-03-21 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -393,7 +412,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27360",
+        "id": "contrib-1776574521528-27360",
         "date": "2025-03-28 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -408,7 +427,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27361",
+        "id": "contrib-1776574521528-27361",
         "date": "2025-04-04 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -423,7 +442,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27362",
+        "id": "contrib-1776574521528-27362",
         "date": "2025-04-11 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -438,7 +457,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27363",
+        "id": "contrib-1776574521528-27363",
         "date": "2025-04-18 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -453,7 +472,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27364",
+        "id": "contrib-1776574521528-27364",
         "date": "2025-04-25 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -468,7 +487,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27365",
+        "id": "contrib-1776574521528-27365",
         "date": "2025-05-02 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -483,7 +502,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27366",
+        "id": "contrib-1776574521528-27366",
         "date": "2025-05-09 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -498,7 +517,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27367",
+        "id": "contrib-1776574521528-27367",
         "date": "2025-05-16 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -513,7 +532,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27368",
+        "id": "contrib-1776574521528-27368",
         "date": "2025-05-23 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -528,7 +547,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27369",
+        "id": "contrib-1776574521528-27369",
         "date": "2025-05-30 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -543,7 +562,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27370",
+        "id": "contrib-1776574521528-27370",
         "date": "2025-06-06 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -558,7 +577,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27371",
+        "id": "contrib-1776574521528-27371",
         "date": "2025-06-13 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -573,7 +592,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27372",
+        "id": "contrib-1776574521528-27372",
         "date": "2025-06-20 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -588,7 +607,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27373",
+        "id": "contrib-1776574521528-27373",
         "date": "2025-06-27 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -603,7 +622,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27374",
+        "id": "contrib-1776574521528-27374",
         "date": "2025-07-04 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -618,7 +637,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27375",
+        "id": "contrib-1776574521528-27375",
         "date": "2025-07-11 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -633,7 +652,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27376",
+        "id": "contrib-1776574521528-27376",
         "date": "2025-07-18 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -648,7 +667,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27377",
+        "id": "contrib-1776574521528-27377",
         "date": "2025-07-25 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -663,7 +682,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27378",
+        "id": "contrib-1776574521528-27378",
         "date": "2025-08-01 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -678,7 +697,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27379",
+        "id": "contrib-1776574521528-27379",
         "date": "2025-08-08 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -693,7 +712,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27380",
+        "id": "contrib-1776574521528-27380",
         "date": "2025-08-15 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -708,7 +727,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27381",
+        "id": "contrib-1776574521528-27381",
         "date": "2025-08-22 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -723,7 +742,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27382",
+        "id": "contrib-1776574521528-27382",
         "date": "2025-08-29 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -738,7 +757,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27383",
+        "id": "contrib-1776574521528-27383",
         "date": "2025-09-05 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -753,7 +772,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27384",
+        "id": "contrib-1776574521528-27384",
         "date": "2025-09-12 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -768,7 +787,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27385",
+        "id": "contrib-1776574521528-27385",
         "date": "2025-09-19 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -783,7 +802,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27386",
+        "id": "contrib-1776574521528-27386",
         "date": "2025-09-26 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -798,7 +817,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27387",
+        "id": "contrib-1776574521528-27387",
         "date": "2025-10-03 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -813,7 +832,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27388",
+        "id": "contrib-1776574521528-27388",
         "date": "2025-10-10 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -828,7 +847,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27389",
+        "id": "contrib-1776574521528-27389",
         "date": "2025-10-17 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -843,7 +862,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27390",
+        "id": "contrib-1776574521528-27390",
         "date": "2025-10-24 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -858,7 +877,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27391",
+        "id": "contrib-1776574521528-27391",
         "date": "2025-10-31 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -873,7 +892,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27392",
+        "id": "contrib-1776574521528-27392",
         "date": "2025-11-07 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -888,7 +907,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27393",
+        "id": "contrib-1776574521528-27393",
         "date": "2025-11-14 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -903,7 +922,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27394",
+        "id": "contrib-1776574521528-27394",
         "date": "2025-11-21 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -918,7 +937,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27395",
+        "id": "contrib-1776574521528-27395",
         "date": "2025-11-28 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -933,7 +952,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27396",
+        "id": "contrib-1776574521528-27396",
         "date": "2025-12-05 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -948,7 +967,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27397",
+        "id": "contrib-1776574521528-27397",
         "date": "2025-12-12 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -963,7 +982,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27398",
+        "id": "contrib-1776574521528-27398",
         "date": "2025-12-19 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -978,7 +997,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27399",
+        "id": "contrib-1776574521528-27399",
         "date": "2025-12-26 00:00:00",
         "amount": 3,
         "contributor_name": "Bryant Foust",
@@ -993,7 +1012,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27400",
+        "id": "contrib-1776574521528-27400",
         "date": "2025-01-03 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1008,7 +1027,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27401",
+        "id": "contrib-1776574521528-27401",
         "date": "2025-01-10 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1023,7 +1042,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27402",
+        "id": "contrib-1776574521528-27402",
         "date": "2025-01-17 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1038,7 +1057,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27403",
+        "id": "contrib-1776574521528-27403",
         "date": "2025-01-24 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1053,7 +1072,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27404",
+        "id": "contrib-1776574521528-27404",
         "date": "2025-01-31 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1068,7 +1087,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27405",
+        "id": "contrib-1776574521528-27405",
         "date": "2025-02-07 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1083,7 +1102,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27406",
+        "id": "contrib-1776574521528-27406",
         "date": "2025-02-14 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1098,7 +1117,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27407",
+        "id": "contrib-1776574521528-27407",
         "date": "2025-02-21 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1113,7 +1132,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27408",
+        "id": "contrib-1776574521528-27408",
         "date": "2025-02-28 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1128,7 +1147,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27409",
+        "id": "contrib-1776574521528-27409",
         "date": "2025-03-07 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1143,7 +1162,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27410",
+        "id": "contrib-1776574521528-27410",
         "date": "2025-03-14 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1158,7 +1177,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27411",
+        "id": "contrib-1776574521528-27411",
         "date": "2025-03-21 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1173,7 +1192,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27412",
+        "id": "contrib-1776574521528-27412",
         "date": "2025-03-28 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1188,7 +1207,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27413",
+        "id": "contrib-1776574521528-27413",
         "date": "2025-04-04 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1203,7 +1222,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27414",
+        "id": "contrib-1776574521528-27414",
         "date": "2025-04-11 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1218,7 +1237,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27415",
+        "id": "contrib-1776574521528-27415",
         "date": "2025-04-18 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1233,7 +1252,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27416",
+        "id": "contrib-1776574521528-27416",
         "date": "2025-04-25 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1248,7 +1267,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27417",
+        "id": "contrib-1776574521528-27417",
         "date": "2025-05-02 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1263,7 +1282,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27418",
+        "id": "contrib-1776574521528-27418",
         "date": "2025-05-09 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1278,7 +1297,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27419",
+        "id": "contrib-1776574521528-27419",
         "date": "2025-05-16 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1293,7 +1312,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27420",
+        "id": "contrib-1776574521528-27420",
         "date": "2025-05-23 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1308,7 +1327,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27421",
+        "id": "contrib-1776574521528-27421",
         "date": "2025-05-30 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1323,7 +1342,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27422",
+        "id": "contrib-1776574521528-27422",
         "date": "2025-06-06 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1338,7 +1357,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27423",
+        "id": "contrib-1776574521528-27423",
         "date": "2025-06-13 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1353,7 +1372,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27424",
+        "id": "contrib-1776574521528-27424",
         "date": "2025-06-20 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1368,7 +1387,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27425",
+        "id": "contrib-1776574521528-27425",
         "date": "2025-06-27 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1383,7 +1402,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27426",
+        "id": "contrib-1776574521528-27426",
         "date": "2025-07-04 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1398,7 +1417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27427",
+        "id": "contrib-1776574521528-27427",
         "date": "2025-07-11 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1413,7 +1432,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27428",
+        "id": "contrib-1776574521528-27428",
         "date": "2025-07-18 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1428,7 +1447,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27429",
+        "id": "contrib-1776574521528-27429",
         "date": "2025-07-25 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1443,7 +1462,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27430",
+        "id": "contrib-1776574521528-27430",
         "date": "2025-08-01 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1458,7 +1477,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27431",
+        "id": "contrib-1776574521528-27431",
         "date": "2025-08-08 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1473,7 +1492,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27432",
+        "id": "contrib-1776574521528-27432",
         "date": "2025-08-15 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1488,7 +1507,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27433",
+        "id": "contrib-1776574521528-27433",
         "date": "2025-08-22 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1503,7 +1522,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27434",
+        "id": "contrib-1776574521528-27434",
         "date": "2025-08-29 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1518,7 +1537,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27435",
+        "id": "contrib-1776574521528-27435",
         "date": "2025-09-05 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1533,7 +1552,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27436",
+        "id": "contrib-1776574521528-27436",
         "date": "2025-09-12 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1548,7 +1567,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27437",
+        "id": "contrib-1776574521528-27437",
         "date": "2025-09-19 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1563,7 +1582,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27438",
+        "id": "contrib-1776574521528-27438",
         "date": "2025-09-26 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1578,7 +1597,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27439",
+        "id": "contrib-1776574521528-27439",
         "date": "2025-10-03 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1593,7 +1612,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27440",
+        "id": "contrib-1776574521528-27440",
         "date": "2025-10-10 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1608,7 +1627,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27441",
+        "id": "contrib-1776574521528-27441",
         "date": "2025-10-17 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1623,7 +1642,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27442",
+        "id": "contrib-1776574521528-27442",
         "date": "2025-10-24 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1638,7 +1657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27443",
+        "id": "contrib-1776574521528-27443",
         "date": "2025-10-31 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1653,7 +1672,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27444",
+        "id": "contrib-1776574521528-27444",
         "date": "2025-11-07 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1668,7 +1687,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27445",
+        "id": "contrib-1776574521528-27445",
         "date": "2025-11-14 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1683,7 +1702,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27446",
+        "id": "contrib-1776574521528-27446",
         "date": "2025-11-21 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1698,7 +1717,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27447",
+        "id": "contrib-1776574521528-27447",
         "date": "2025-11-28 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1713,7 +1732,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27448",
+        "id": "contrib-1776574521528-27448",
         "date": "2025-12-05 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1728,7 +1747,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27449",
+        "id": "contrib-1776574521528-27449",
         "date": "2025-12-12 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1743,7 +1762,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27450",
+        "id": "contrib-1776574521528-27450",
         "date": "2025-12-19 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1758,7 +1777,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27451",
+        "id": "contrib-1776574521528-27451",
         "date": "2025-12-26 00:00:00",
         "amount": 2,
         "contributor_name": "Diane R Farrington",
@@ -1773,7 +1792,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27452",
+        "id": "contrib-1776574521528-27452",
         "date": "2025-09-23 00:00:00",
         "amount": 60000,
         "contributor_name": "Hendrik Meijer",
@@ -1788,7 +1807,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27453",
+        "id": "contrib-1776574521528-27453",
         "date": "2025-01-03 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1803,7 +1822,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27454",
+        "id": "contrib-1776574521528-27454",
         "date": "2025-01-10 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1818,7 +1837,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27455",
+        "id": "contrib-1776574521528-27455",
         "date": "2025-01-17 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1833,7 +1852,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27456",
+        "id": "contrib-1776574521528-27456",
         "date": "2025-01-24 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1848,7 +1867,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27457",
+        "id": "contrib-1776574521528-27457",
         "date": "2025-01-31 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1863,7 +1882,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27458",
+        "id": "contrib-1776574521528-27458",
         "date": "2025-02-07 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1878,7 +1897,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27459",
+        "id": "contrib-1776574521528-27459",
         "date": "2025-02-14 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1893,7 +1912,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27460",
+        "id": "contrib-1776574521528-27460",
         "date": "2025-02-21 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1908,7 +1927,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27461",
+        "id": "contrib-1776574521528-27461",
         "date": "2025-02-28 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1923,7 +1942,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27462",
+        "id": "contrib-1776574521528-27462",
         "date": "2025-03-07 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1938,7 +1957,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27463",
+        "id": "contrib-1776574521528-27463",
         "date": "2025-03-14 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1953,7 +1972,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27464",
+        "id": "contrib-1776574521528-27464",
         "date": "2025-03-21 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1968,7 +1987,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27465",
+        "id": "contrib-1776574521528-27465",
         "date": "2025-03-28 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1983,7 +2002,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27466",
+        "id": "contrib-1776574521528-27466",
         "date": "2025-04-04 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -1998,7 +2017,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27467",
+        "id": "contrib-1776574521528-27467",
         "date": "2025-04-11 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2013,7 +2032,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27468",
+        "id": "contrib-1776574521528-27468",
         "date": "2025-04-18 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2028,7 +2047,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27469",
+        "id": "contrib-1776574521528-27469",
         "date": "2025-04-25 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2043,7 +2062,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27470",
+        "id": "contrib-1776574521528-27470",
         "date": "2025-05-02 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2058,7 +2077,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27471",
+        "id": "contrib-1776574521528-27471",
         "date": "2025-05-09 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2073,7 +2092,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27472",
+        "id": "contrib-1776574521528-27472",
         "date": "2025-05-16 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2088,7 +2107,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27473",
+        "id": "contrib-1776574521528-27473",
         "date": "2025-05-23 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2103,7 +2122,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27474",
+        "id": "contrib-1776574521528-27474",
         "date": "2025-05-30 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2118,7 +2137,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27475",
+        "id": "contrib-1776574521528-27475",
         "date": "2025-06-06 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2133,7 +2152,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27476",
+        "id": "contrib-1776574521528-27476",
         "date": "2025-06-13 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2148,7 +2167,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27477",
+        "id": "contrib-1776574521528-27477",
         "date": "2025-06-20 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2163,7 +2182,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27478",
+        "id": "contrib-1776574521528-27478",
         "date": "2025-06-27 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2178,7 +2197,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27479",
+        "id": "contrib-1776574521528-27479",
         "date": "2025-07-04 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2193,7 +2212,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27480",
+        "id": "contrib-1776574521528-27480",
         "date": "2025-07-11 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2208,7 +2227,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27481",
+        "id": "contrib-1776574521528-27481",
         "date": "2025-07-18 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2223,7 +2242,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27482",
+        "id": "contrib-1776574521528-27482",
         "date": "2025-07-25 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2238,7 +2257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27483",
+        "id": "contrib-1776574521528-27483",
         "date": "2025-08-01 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2253,7 +2272,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27484",
+        "id": "contrib-1776574521528-27484",
         "date": "2025-08-08 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2268,7 +2287,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27485",
+        "id": "contrib-1776574521528-27485",
         "date": "2025-08-15 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2283,7 +2302,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27486",
+        "id": "contrib-1776574521528-27486",
         "date": "2025-08-22 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2298,7 +2317,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27487",
+        "id": "contrib-1776574521528-27487",
         "date": "2025-08-29 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2313,7 +2332,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27488",
+        "id": "contrib-1776574521528-27488",
         "date": "2025-09-05 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2328,7 +2347,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27489",
+        "id": "contrib-1776574521528-27489",
         "date": "2025-09-12 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2343,7 +2362,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27490",
+        "id": "contrib-1776574521528-27490",
         "date": "2025-09-19 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2358,7 +2377,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27491",
+        "id": "contrib-1776574521528-27491",
         "date": "2025-09-26 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2373,7 +2392,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27492",
+        "id": "contrib-1776574521528-27492",
         "date": "2025-10-03 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2388,7 +2407,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27493",
+        "id": "contrib-1776574521528-27493",
         "date": "2025-10-10 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2403,7 +2422,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27494",
+        "id": "contrib-1776574521528-27494",
         "date": "2025-10-17 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2418,7 +2437,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27495",
+        "id": "contrib-1776574521528-27495",
         "date": "2025-10-24 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2433,7 +2452,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27496",
+        "id": "contrib-1776574521528-27496",
         "date": "2025-10-31 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2448,7 +2467,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27497",
+        "id": "contrib-1776574521528-27497",
         "date": "2025-11-07 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2463,7 +2482,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27498",
+        "id": "contrib-1776574521528-27498",
         "date": "2025-11-14 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2478,7 +2497,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27499",
+        "id": "contrib-1776574521528-27499",
         "date": "2025-11-21 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2493,7 +2512,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27500",
+        "id": "contrib-1776574521528-27500",
         "date": "2025-11-28 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2508,7 +2527,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27501",
+        "id": "contrib-1776574521528-27501",
         "date": "2025-12-05 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2523,7 +2542,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27502",
+        "id": "contrib-1776574521528-27502",
         "date": "2025-12-12 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2538,7 +2557,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27503",
+        "id": "contrib-1776574521528-27503",
         "date": "2025-12-19 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2553,7 +2572,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27504",
+        "id": "contrib-1776574521528-27504",
         "date": "2025-12-26 00:00:00",
         "amount": 20,
         "contributor_name": "Joseph Preston",
@@ -2568,7 +2587,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27505",
+        "id": "contrib-1776574521528-27505",
         "date": "2025-09-26 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2583,7 +2602,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27506",
+        "id": "contrib-1776574521528-27506",
         "date": "2025-10-03 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2598,7 +2617,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27507",
+        "id": "contrib-1776574521528-27507",
         "date": "2025-10-10 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2613,7 +2632,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27508",
+        "id": "contrib-1776574521528-27508",
         "date": "2025-10-17 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2628,7 +2647,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27509",
+        "id": "contrib-1776574521528-27509",
         "date": "2025-10-24 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2643,7 +2662,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27510",
+        "id": "contrib-1776574521528-27510",
         "date": "2025-10-31 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2658,7 +2677,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27511",
+        "id": "contrib-1776574521528-27511",
         "date": "2025-11-07 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2673,7 +2692,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27512",
+        "id": "contrib-1776574521528-27512",
         "date": "2025-11-21 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2688,7 +2707,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27513",
+        "id": "contrib-1776574521528-27513",
         "date": "2025-11-28 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2703,7 +2722,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27514",
+        "id": "contrib-1776574521528-27514",
         "date": "2025-12-05 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2718,7 +2737,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27515",
+        "id": "contrib-1776574521528-27515",
         "date": "2025-12-12 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2733,7 +2752,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27516",
+        "id": "contrib-1776574521528-27516",
         "date": "2025-12-19 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2748,7 +2767,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27517",
+        "id": "contrib-1776574521528-27517",
         "date": "2025-12-26 00:00:00",
         "amount": 20,
         "contributor_name": "Samuel Jacob Hood",
@@ -2763,7 +2782,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27518",
+        "id": "contrib-1776574521528-27518",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Committee to Elect Heath VanNatter",
@@ -2778,7 +2797,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27519",
+        "id": "contrib-1776574521528-27519",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "David Niezgodski for Senate",
@@ -2793,7 +2812,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27520",
+        "id": "contrib-1776574521528-27520",
         "date": "2025-08-31 00:00:00",
         "amount": 2500,
         "contributor_name": "Friends of Justin Busch",
@@ -2808,7 +2827,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27521",
+        "id": "contrib-1776574521528-27521",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Friends of Kyle Miller",
@@ -2823,7 +2842,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27522",
+        "id": "contrib-1776574521528-27522",
         "date": "2025-10-30 00:00:00",
         "amount": 500,
         "contributor_name": "Friends of Matt Hostettier",
@@ -2838,7 +2857,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27523",
+        "id": "contrib-1776574521528-27523",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Friends of Shelli Yoder",
@@ -2853,7 +2872,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27524",
+        "id": "contrib-1776574521528-27524",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Friends to Elect JD Ford",
@@ -2868,7 +2887,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27525",
+        "id": "contrib-1776574521528-27525",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Gregory W. Porter for State Rep.",
@@ -2883,7 +2902,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27526",
+        "id": "contrib-1776574521528-27526",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Hoosiers for Criswell",
@@ -2898,7 +2917,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27527",
+        "id": "contrib-1776574521528-27527",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Johnson for House",
@@ -2913,7 +2932,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27528",
+        "id": "contrib-1776574521528-27528",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Ledbetter for State Rep.",
@@ -2928,7 +2947,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27529",
+        "id": "contrib-1776574521528-27529",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Neighbors for Justin Moed",
@@ -2943,7 +2962,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27530",
+        "id": "contrib-1776574521528-27530",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Shackleford for House",
@@ -2958,7 +2977,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27531",
+        "id": "contrib-1776574521528-27531",
         "date": "2025-08-31 00:00:00",
         "amount": 1000,
         "contributor_name": "The Mayfield Campaign",
@@ -2973,7 +2992,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27532",
+        "id": "contrib-1776574521528-27532",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "Vanessa J. Summers for State Rep.",
@@ -2988,7 +3007,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491996-27533",
+        "id": "contrib-1776574521528-27533",
         "date": "2025-08-31 00:00:00",
         "amount": 500,
         "contributor_name": "VoteCarbaugh.com",
@@ -2999,6 +3018,516 @@
         "address_city": "Fort Wayne",
         "address_state": "IN",
         "address_zip": "46825",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7640",
+        "date": "2026-04-10 00:00:00",
+        "amount": 173.1,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7641",
+        "date": "2026-01-02 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7642",
+        "date": "2026-01-09 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7643",
+        "date": "2026-01-16 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7644",
+        "date": "2026-01-23 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7645",
+        "date": "2026-01-30 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7646",
+        "date": "2026-02-06 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7647",
+        "date": "2026-02-13 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7648",
+        "date": "2026-02-20 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7649",
+        "date": "2026-02-27 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7650",
+        "date": "2026-03-06 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7651",
+        "date": "2026-03-13 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7652",
+        "date": "2026-03-20 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7653",
+        "date": "2026-03-27 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7654",
+        "date": "2026-04-03 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7655",
+        "date": "2026-04-10 00:00:00",
+        "amount": 20,
+        "contributor_name": "Joseph Preston",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Franklin",
+        "address_state": "IN",
+        "address_zip": "46131",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7656",
+        "date": "2026-01-02 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7657",
+        "date": "2026-01-09 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7658",
+        "date": "2026-01-16 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7659",
+        "date": "2026-01-23 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7660",
+        "date": "2026-01-30 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7661",
+        "date": "2026-02-06 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7662",
+        "date": "2026-02-13 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7663",
+        "date": "2026-02-20 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7664",
+        "date": "2026-02-27 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7665",
+        "date": "2026-03-06 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7666",
+        "date": "2026-03-13 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7667",
+        "date": "2026-03-20 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7668",
+        "date": "2026-03-27 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7669",
+        "date": "2026-04-03 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7670",
+        "date": "2026-04-10 00:00:00",
+        "amount": 20,
+        "contributor_name": "Samuel Jacob Hood",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46060",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7671",
+        "date": "2026-01-30 00:00:00",
+        "amount": 200,
+        "contributor_name": "Vickie Fisher",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Nineveh",
+        "address_state": "IN",
+        "address_zip": "46164",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7672",
+        "date": "2026-02-06 00:00:00",
+        "amount": 200,
+        "contributor_name": "Vickie Fisher",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Nineveh",
+        "address_state": "IN",
+        "address_zip": "46164",
+        "recipient_committee": "Meijer Political Action Committee of Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521775-7673",
+        "date": "2026-02-13 00:00:00",
+        "amount": 200,
+        "contributor_name": "Vickie Fisher",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Nineveh",
+        "address_state": "IN",
+        "address_zip": "46164",
         "recipient_committee": "Meijer Political Action Committee of Indiana",
         "source": "indiana"
       }

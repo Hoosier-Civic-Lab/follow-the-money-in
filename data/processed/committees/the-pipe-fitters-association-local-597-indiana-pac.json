@@ -2,20 +2,28 @@
   "id": "the-pipe-fitters-association-local-597-indiana-pac",
   "name": "The Pipe Fitters Association, Local #597 Indiana Pac",
   "totals": {
-    "total_given": "2500.00",
-    "total_contributions": 1,
+    "total_given": "12500.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "2500.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
@@ -28,7 +36,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492068-80307",
+      "id": "contrib-1776574521584-80307",
       "date": "2025-08-15 00:00:00",
       "amount": 2500,
       "candidate_name": "David Lee Niezgodski",
@@ -42,16 +50,31 @@
       "address_zip": "60607",
       "recipient_committee": "David Niezgodski for Senate District 10",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-10190",
+      "date": "2026-03-09 00:00:00",
+      "amount": 10000,
+      "contributor_name": "The Pipe Fitters Association, Local #597 Indiana Pac",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60607",
+      "recipient_committee": "The Pipe Fitters Association, Local #597 Indiana Pac",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "55000.00",
-    "total_contributions": 5,
-    "unique_donors": 1,
+    "total_raised": "65000.00",
+    "total_contributions": 6,
+    "unique_donors": 2,
     "by_contributor_type": {
       "committee": {
-        "count": 5,
-        "total": "55000.00"
+        "count": 6,
+        "total": "65000.00"
       }
     },
     "top_donors": [
@@ -60,11 +83,17 @@
         "type": "committee",
         "total": "55000.00",
         "count": 5
+      },
+      {
+        "name": "The Pipe Fitters Association, Local #597 Indiana Pac",
+        "type": "committee",
+        "total": "10000.00",
+        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492047-63096",
+        "id": "contrib-1776574521567-63096",
         "date": "2025-03-12 00:00:00",
         "amount": 5000,
         "contributor_name": "The Pipe fitters Association Local 597 PAC",
@@ -79,7 +108,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492047-63097",
+        "id": "contrib-1776574521567-63097",
         "date": "2025-03-26 00:00:00",
         "amount": 10000,
         "contributor_name": "The Pipe fitters Association Local 597 PAC",
@@ -94,7 +123,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492047-63098",
+        "id": "contrib-1776574521567-63098",
         "date": "2025-07-30 00:00:00",
         "amount": 10000,
         "contributor_name": "The Pipe fitters Association Local 597 PAC",
@@ -109,7 +138,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492047-63099",
+        "id": "contrib-1776574521567-63099",
         "date": "2025-08-14 00:00:00",
         "amount": 15000,
         "contributor_name": "The Pipe fitters Association Local 597 PAC",
@@ -124,10 +153,25 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492047-63100",
+        "id": "contrib-1776574521567-63100",
         "date": "2025-11-07 00:00:00",
         "amount": 15000,
         "contributor_name": "The Pipe fitters Association Local 597 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60607",
+        "recipient_committee": "The Pipe Fitters Association, Local #597 Indiana Pac",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-10190",
+        "date": "2026-03-09 00:00:00",
+        "amount": 10000,
+        "contributor_name": "The Pipe Fitters Association, Local #597 Indiana Pac",
         "contributor_type": "committee",
         "contribution_size": "mega",
         "occupation": null,

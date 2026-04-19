@@ -2,14 +2,18 @@
   "id": "insurance-pac",
   "name": "Insurance PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "13000.00",
+    "total_contributions": 4,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
       "count": 3,
       "total": "3000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -24,9 +28,19 @@
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "bruce-alan-borders",
+      "name": "Bruce Alan Borders",
+      "total": "10000.00",
+      "count": 1
+    },
     {
       "id": "jeffrey-s-raatz",
       "name": "Jeffrey S Raatz",
@@ -48,7 +62,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492066-78754",
+      "id": "contrib-1776574521583-78754",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Jeffrey S Raatz",
@@ -64,7 +78,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-79966",
+      "id": "contrib-1776574521584-79966",
       "date": "2025-06-19 00:00:00",
       "amount": 1000,
       "candidate_name": "James Robert Pressel Jr.",
@@ -80,7 +94,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90429",
+      "id": "contrib-1776574521596-90429",
       "date": "2025-09-10 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -93,6 +107,22 @@
       "address_state": "IN",
       "address_zip": null,
       "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9162",
+      "date": "2026-04-08 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
       "source": "indiana"
     }
   ],

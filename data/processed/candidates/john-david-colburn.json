@@ -6,32 +6,60 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "15.00",
-    "total_contributions": 1,
-    "total_itemized": 1,
+    "total_raised": "9575.00",
+    "total_contributions": 13,
+    "total_itemized": 13,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 1,
-      "total": "15.00"
+      "count": 9,
+      "total": "6075.00"
+    },
+    "corporate": {
+      "count": 4,
+      "total": "3500.00"
     }
   },
   "by_contribution_size": {
     "small": {
       "count": 1,
       "total": "15.00"
+    },
+    "medium": {
+      "count": 9,
+      "total": "3600.00"
+    },
+    "large": {
+      "count": 3,
+      "total": "5960.00"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "15.00"
+    },
+    "2026-01": {
+      "count": 2,
+      "total": "3000.00"
+    },
+    "2026-03": {
+      "count": 4,
+      "total": "2660.00"
+    },
+    "2026-02": {
+      "count": 5,
+      "total": "3400.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492083-89713",
+      "id": "contrib-1776574521595-89713",
       "date": "2025-06-11 00:00:00",
       "amount": 15,
       "candidate_name": "John David Colburn",
@@ -43,6 +71,198 @@
       "address_city": "Sellersburg",
       "address_state": "IN",
       "address_zip": "47172",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18147",
+      "date": "2026-01-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "A Sprigler Services LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Floyds Knobs",
+      "address_state": "IN",
+      "address_zip": "47119",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18148",
+      "date": "2026-03-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Advantage Enterprises of Southern Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Floyds Knobs",
+      "address_state": "IN",
+      "address_zip": "47119",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18149",
+      "date": "2026-02-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "AGC Ventures LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18150",
+      "date": "2026-02-12 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Lozier Properties LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18151",
+      "date": "2026-01-28 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Bill Hudson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Corydon",
+      "address_state": "IN",
+      "address_zip": "47112",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18152",
+      "date": "2026-02-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "David W Broowning",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18153",
+      "date": "2026-03-30 00:00:00",
+      "amount": 1460,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "John D Colburn",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18154",
+      "date": "2026-02-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "John M Secor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18155",
+      "date": "2026-02-17 00:00:00",
+      "amount": 200,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "John P Crawford",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18156",
+      "date": "2026-04-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Michael R Heuglin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Taylorsville",
+      "address_state": "KY",
+      "address_zip": "40071",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18157",
+      "date": "2026-03-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Olivia E Naber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee to Elect John D Colburn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521782-18158",
+      "date": "2026-03-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "John David Colburn",
+      "contributor_name": "Curt Nisly for State Representative",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Goshen",
+      "address_state": "IN",
+      "address_zip": "46526",
       "recipient_committee": "Committee to Elect John D Colburn",
       "source": "indiana"
     }

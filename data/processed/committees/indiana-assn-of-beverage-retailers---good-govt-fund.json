@@ -2,14 +2,14 @@
   "id": "indiana-assn-of-beverage-retailers---good-govt-fund",
   "name": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
   "totals": {
-    "total_given": "10500.00",
-    "total_contributions": 4,
-    "candidates_supported": 3
+    "total_given": "13500.00",
+    "total_contributions": 6,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "10500.00"
+      "count": 6,
+      "total": "13500.00"
     }
   },
   "by_month": {
@@ -20,13 +20,27 @@
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "2000.00"
     }
   },
   "top_recipients": [
     {
       "id": "gregory-porter",
       "name": "GREGORY PORTER",
-      "total": "1000.00",
+      "total": "2000.00",
+      "count": 2
+    },
+    {
+      "id": "craig-thomas-snow",
+      "name": "Craig Thomas Snow",
+      "total": "2000.00",
       "count": 1
     },
     {
@@ -44,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491962-7265",
+      "id": "contrib-1776574521502-7265",
       "date": "2025-12-03 00:00:00",
       "amount": 7500,
       "contributor_name": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
@@ -59,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491996-27236",
+      "id": "contrib-1776574521528-27236",
       "date": "2025-12-30 00:00:00",
       "amount": 1000,
       "candidate_name": "GREGORY PORTER",
@@ -75,7 +89,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82797",
+      "id": "contrib-1776574521585-82797",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Michael R Gaskill",
@@ -91,7 +105,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83903",
+      "id": "contrib-1776574521586-83903",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -105,20 +119,52 @@
       "address_zip": "46204",
       "recipient_committee": "Committee to Elect Jake Teshka",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521774-7493",
+      "date": "2026-01-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "GREGORY PORTER",
+      "contributor_name": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Gregory W. Porter for State Representative District 96",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16806",
+      "date": "2026-04-03 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Craig Thomas Snow",
+      "contributor_name": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Snow Indiana State Representative",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "238000.00",
-    "total_contributions": 65,
-    "unique_donors": 62,
+    "total_raised": "305200.00",
+    "total_contributions": 119,
+    "unique_donors": 81,
     "by_contributor_type": {
       "corporate": {
-        "count": 59,
-        "total": "212000.00"
+        "count": 91,
+        "total": "259500.00"
       },
       "individual": {
-        "count": 6,
-        "total": "26000.00"
+        "count": 28,
+        "total": "45700.00"
       }
     },
     "top_donors": [
@@ -132,6 +178,12 @@
         "name": "S-C-L Corporation",
         "type": "corporate",
         "total": "20000.00",
+        "count": 2
+      },
+      {
+        "name": "Keg-N-Bottle, Inc.",
+        "type": "corporate",
+        "total": "16000.00",
         "count": 2
       },
       {
@@ -153,39 +205,33 @@
         "count": 1
       },
       {
-        "name": "Keg-N-Bottle, Inc.",
-        "type": "corporate",
-        "total": "8000.00",
-        "count": 1
-      },
-      {
-        "name": "A.E.A. Investments, Inc.",
-        "type": "corporate",
-        "total": "4000.00",
-        "count": 1
-      },
-      {
         "name": "B & R Distributors Inc",
         "type": "corporate",
-        "total": "4000.00",
-        "count": 1
+        "total": "8000.00",
+        "count": 2
       },
       {
         "name": "Southwest Indiana Management Corp",
         "type": "corporate",
-        "total": "3000.00",
-        "count": 1
+        "total": "6000.00",
+        "count": 2
       },
       {
-        "name": "John F. Cunningham & Associates",
+        "name": "Merrill Liquors, LLC",
         "type": "corporate",
-        "total": "3000.00",
-        "count": 1
+        "total": "6000.00",
+        "count": 2
+      },
+      {
+        "name": "Dearborn Liquor Group, Inc.",
+        "type": "corporate",
+        "total": "5500.00",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969491995-26532",
+        "id": "contrib-1776574521527-26532",
         "date": "2025-08-15 00:00:00",
         "amount": 1000,
         "contributor_name": "3rd Gen Holdings Inc",
@@ -200,7 +246,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26533",
+        "id": "contrib-1776574521527-26533",
         "date": "2025-04-28 00:00:00",
         "amount": 500,
         "contributor_name": "5 Star Liquor Inc",
@@ -215,7 +261,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26534",
+        "id": "contrib-1776574521527-26534",
         "date": "2025-07-23 00:00:00",
         "amount": 4000,
         "contributor_name": "A.E.A. Investments, Inc.",
@@ -230,7 +276,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26535",
+        "id": "contrib-1776574521527-26535",
         "date": "2025-02-23 00:00:00",
         "amount": 1000,
         "contributor_name": "APWT INC",
@@ -245,7 +291,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26536",
+        "id": "contrib-1776574521527-26536",
         "date": "2025-01-20 00:00:00",
         "amount": 4000,
         "contributor_name": "B & R Distributors Inc",
@@ -260,7 +306,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26537",
+        "id": "contrib-1776574521527-26537",
         "date": "2025-01-20 00:00:00",
         "amount": 1000,
         "contributor_name": "Batesville Liquor Group, Inc.",
@@ -275,7 +321,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26538",
+        "id": "contrib-1776574521527-26538",
         "date": "2025-01-20 00:00:00",
         "amount": 1000,
         "contributor_name": "BMT Group, Inc.",
@@ -290,7 +336,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26539",
+        "id": "contrib-1776574521527-26539",
         "date": "2025-01-14 00:00:00",
         "amount": 500,
         "contributor_name": "C & H Liquors Inc",
@@ -305,7 +351,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26540",
+        "id": "contrib-1776574521527-26540",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Chilly's Liquors",
@@ -320,7 +366,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26541",
+        "id": "contrib-1776574521527-26541",
         "date": "2025-03-18 00:00:00",
         "amount": 1000,
         "contributor_name": "City Liquor Inc",
@@ -335,7 +381,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26542",
+        "id": "contrib-1776574521527-26542",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK IV",
@@ -350,7 +396,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26543",
+        "id": "contrib-1776574521527-26543",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Cork Liquors II",
@@ -365,7 +411,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26544",
+        "id": "contrib-1776574521527-26544",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS III",
@@ -380,7 +426,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26545",
+        "id": "contrib-1776574521527-26545",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS IX",
@@ -395,7 +441,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26546",
+        "id": "contrib-1776574521527-26546",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS V",
@@ -410,7 +456,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26547",
+        "id": "contrib-1776574521527-26547",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS VI",
@@ -425,7 +471,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26548",
+        "id": "contrib-1776574521527-26548",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS VII",
@@ -440,7 +486,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26549",
+        "id": "contrib-1776574521527-26549",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK LIQUORS VIII",
@@ -455,7 +501,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26550",
+        "id": "contrib-1776574521527-26550",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Cork Liquors X",
@@ -470,7 +516,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26551",
+        "id": "contrib-1776574521527-26551",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Cork Liquors XII",
@@ -485,7 +531,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26552",
+        "id": "contrib-1776574521527-26552",
         "date": "2025-01-14 00:00:00",
         "amount": 500,
         "contributor_name": "Cork Liquors XIII",
@@ -500,7 +546,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26553",
+        "id": "contrib-1776574521527-26553",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Cork Liquors XIV",
@@ -515,7 +561,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26554",
+        "id": "contrib-1776574521527-26554",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "CORK XI LIQUORS",
@@ -530,7 +576,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26555",
+        "id": "contrib-1776574521527-26555",
         "date": "2025-04-10 00:00:00",
         "amount": 1000,
         "contributor_name": "Cox Enterprises, Inc. DBA Elite Beverages #2",
@@ -545,7 +591,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26556",
+        "id": "contrib-1776574521527-26556",
         "date": "2025-04-10 00:00:00",
         "amount": 1000,
         "contributor_name": "Cox Enterprises, Inc. DBA Elite Beverages #4",
@@ -560,7 +606,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26557",
+        "id": "contrib-1776574521527-26557",
         "date": "2025-04-10 00:00:00",
         "amount": 1000,
         "contributor_name": "CRT Enterprises Inc",
@@ -575,7 +621,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26558",
+        "id": "contrib-1776574521527-26558",
         "date": "2025-01-20 00:00:00",
         "amount": 2500,
         "contributor_name": "Dearborn Liquor Group, Inc.",
@@ -590,7 +636,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26559",
+        "id": "contrib-1776574521527-26559",
         "date": "2025-04-10 00:00:00",
         "amount": 500,
         "contributor_name": "Devi Krupa",
@@ -605,7 +651,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26560",
+        "id": "contrib-1776574521527-26560",
         "date": "2025-01-20 00:00:00",
         "amount": 2000,
         "contributor_name": "EWRW Corporation",
@@ -620,7 +666,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26561",
+        "id": "contrib-1776574521527-26561",
         "date": "2025-02-23 00:00:00",
         "amount": 1000,
         "contributor_name": "FC Horse Inc",
@@ -635,7 +681,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26562",
+        "id": "contrib-1776574521527-26562",
         "date": "2025-01-20 00:00:00",
         "amount": 8000,
         "contributor_name": "Keg-N-Bottle, Inc.",
@@ -650,7 +696,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26563",
+        "id": "contrib-1776574521527-26563",
         "date": "2025-01-14 00:00:00",
         "amount": 1500,
         "contributor_name": "Leslie-Powers, Inc.",
@@ -665,7 +711,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26564",
+        "id": "contrib-1776574521527-26564",
         "date": "2025-04-10 00:00:00",
         "amount": 1000,
         "contributor_name": "Lincox, Inc. DBA Elite Beverages #5",
@@ -680,7 +726,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26565",
+        "id": "contrib-1776574521527-26565",
         "date": "2025-04-10 00:00:00",
         "amount": 1000,
         "contributor_name": "Lincox, Inc. Elite Beverages #8",
@@ -695,7 +741,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26566",
+        "id": "contrib-1776574521527-26566",
         "date": "2025-01-20 00:00:00",
         "amount": 500,
         "contributor_name": "Mrozinski Enterprises, Inc.",
@@ -710,7 +756,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26567",
+        "id": "contrib-1776574521527-26567",
         "date": "2025-07-23 00:00:00",
         "amount": 500,
         "contributor_name": "Mrozinski Enterprises, Inc.",
@@ -725,7 +771,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26568",
+        "id": "contrib-1776574521527-26568",
         "date": "2025-07-23 00:00:00",
         "amount": 1000,
         "contributor_name": "Nick's Party Liquors, Inc.",
@@ -740,7 +786,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26569",
+        "id": "contrib-1776574521527-26569",
         "date": "2025-02-23 00:00:00",
         "amount": 500,
         "contributor_name": "R S Mann, Inc.",
@@ -755,7 +801,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26570",
+        "id": "contrib-1776574521527-26570",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "RCS Inc",
@@ -770,7 +816,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26571",
+        "id": "contrib-1776574521527-26571",
         "date": "2025-12-06 00:00:00",
         "amount": 3000,
         "contributor_name": "S-C-L Corporation",
@@ -785,7 +831,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26572",
+        "id": "contrib-1776574521527-26572",
         "date": "2025-10-06 00:00:00",
         "amount": 17000,
         "contributor_name": "S-C-L Corporation",
@@ -800,7 +846,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26573",
+        "id": "contrib-1776574521527-26573",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Service Liquors, Inc.",
@@ -815,7 +861,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26574",
+        "id": "contrib-1776574521527-26574",
         "date": "2025-02-05 00:00:00",
         "amount": 3000,
         "contributor_name": "Southwest Indiana Management Corp",
@@ -830,7 +876,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26575",
+        "id": "contrib-1776574521527-26575",
         "date": "2025-01-20 00:00:00",
         "amount": 1000,
         "contributor_name": "T&A Liquor Group, Inc.",
@@ -845,7 +891,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26576",
+        "id": "contrib-1776574521527-26576",
         "date": "2025-01-20 00:00:00",
         "amount": 1000,
         "contributor_name": "Tebbe Liquor, Inc.",
@@ -860,7 +906,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26577",
+        "id": "contrib-1776574521527-26577",
         "date": "2025-02-27 00:00:00",
         "amount": 500,
         "contributor_name": "The Bottle Shop",
@@ -875,7 +921,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26578",
+        "id": "contrib-1776574521527-26578",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "THE CORK LIQUORS",
@@ -890,7 +936,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26579",
+        "id": "contrib-1776574521527-26579",
         "date": "2025-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Bedrock Liquors",
@@ -905,7 +951,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26580",
+        "id": "contrib-1776574521527-26580",
         "date": "2025-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Bedrock Liquors II",
@@ -920,7 +966,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26581",
+        "id": "contrib-1776574521527-26581",
         "date": "2025-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Bedrock Liquors, III",
@@ -935,7 +981,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26582",
+        "id": "contrib-1776574521527-26582",
         "date": "2025-01-20 00:00:00",
         "amount": 2000,
         "contributor_name": "GAT LLC",
@@ -950,7 +996,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26583",
+        "id": "contrib-1776574521527-26583",
         "date": "2025-01-20 00:00:00",
         "amount": 1000,
         "contributor_name": "Hometown Wine & Liquor LLC",
@@ -965,7 +1011,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26584",
+        "id": "contrib-1776574521527-26584",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Indy Liquor Group LLC",
@@ -980,7 +1026,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26585",
+        "id": "contrib-1776574521527-26585",
         "date": "2025-03-18 00:00:00",
         "amount": 3000,
         "contributor_name": "John F. Cunningham & Associates",
@@ -995,7 +1041,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26586",
+        "id": "contrib-1776574521527-26586",
         "date": "2025-01-14 00:00:00",
         "amount": 1500,
         "contributor_name": "Kindred Spirits LLC",
@@ -1010,7 +1056,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26587",
+        "id": "contrib-1776574521527-26587",
         "date": "2025-04-10 00:00:00",
         "amount": 3000,
         "contributor_name": "Liquor Unlimited",
@@ -1025,7 +1071,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26588",
+        "id": "contrib-1776574521527-26588",
         "date": "2025-04-10 00:00:00",
         "amount": 3000,
         "contributor_name": "Merrill Liquors, LLC",
@@ -1040,7 +1086,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26589",
+        "id": "contrib-1776574521527-26589",
         "date": "2025-04-28 00:00:00",
         "amount": 14000,
         "contributor_name": "Rocket Liquors LLC",
@@ -1055,7 +1101,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26590",
+        "id": "contrib-1776574521527-26590",
         "date": "2025-06-08 00:00:00",
         "amount": 10000,
         "contributor_name": "S & V Liquors",
@@ -1070,7 +1116,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26591",
+        "id": "contrib-1776574521527-26591",
         "date": "2025-07-24 00:00:00",
         "amount": 10000,
         "contributor_name": "Soupley's Wine & Spirits",
@@ -1085,7 +1131,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26592",
+        "id": "contrib-1776574521527-26592",
         "date": "2025-07-23 00:00:00",
         "amount": 1000,
         "contributor_name": "Southport Liquors LLC",
@@ -1100,7 +1146,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26593",
+        "id": "contrib-1776574521527-26593",
         "date": "2025-04-28 00:00:00",
         "amount": 500,
         "contributor_name": "Strongarm Beverage LLC",
@@ -1115,7 +1161,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26594",
+        "id": "contrib-1776574521527-26594",
         "date": "2025-10-08 00:00:00",
         "amount": 5000,
         "contributor_name": "TWG BRL, LLC",
@@ -1130,7 +1176,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26595",
+        "id": "contrib-1776574521527-26595",
         "date": "2025-11-21 00:00:00",
         "amount": 100000,
         "contributor_name": "TWG BRL, LLC",
@@ -1145,7 +1191,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969491995-26596",
+        "id": "contrib-1776574521527-26596",
         "date": "2025-01-14 00:00:00",
         "amount": 1000,
         "contributor_name": "United Capital Investment Corp",
@@ -1156,6 +1202,816 @@
         "address_city": "Indianapolis",
         "address_state": "IN",
         "address_zip": "46205",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7308",
+        "date": "2026-02-24 00:00:00",
+        "amount": 500,
+        "contributor_name": "5 Star Liquor Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46203",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7309",
+        "date": "2026-01-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "APWT INC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "462018",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7310",
+        "date": "2026-01-19 00:00:00",
+        "amount": 4000,
+        "contributor_name": "B & R Distributors Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenwood",
+        "address_state": "IN",
+        "address_zip": "46143",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7311",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Batesville Liquor Group, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Batesville",
+        "address_state": "IN",
+        "address_zip": "47006",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7312",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "BMT Group, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Harrison",
+        "address_state": "IN",
+        "address_zip": "47060",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7313",
+        "date": "2026-01-12 00:00:00",
+        "amount": 500,
+        "contributor_name": "C & H Liquors Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7314",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cox Enterprises, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46229",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7315",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cox Enterprises, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "McCordsville",
+        "address_state": "IN",
+        "address_zip": "46055",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7316",
+        "date": "2026-03-31 00:00:00",
+        "amount": 1000,
+        "contributor_name": "CRT Enterprises Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46234",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7317",
+        "date": "2026-01-12 00:00:00",
+        "amount": 3000,
+        "contributor_name": "Dearborn Liquor Group, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lawrenceburg",
+        "address_state": "IN",
+        "address_zip": "47025",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7318",
+        "date": "2026-01-19 00:00:00",
+        "amount": 500,
+        "contributor_name": "Devi Krupa",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Seymour",
+        "address_state": "IN",
+        "address_zip": "47274",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7319",
+        "date": "2026-01-05 00:00:00",
+        "amount": 2000,
+        "contributor_name": "EWRW Corporation",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Mooresville",
+        "address_state": "IN",
+        "address_zip": "46158",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7320",
+        "date": "2026-03-17 00:00:00",
+        "amount": 500,
+        "contributor_name": "GDG Liquor Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7321",
+        "date": "2026-01-19 00:00:00",
+        "amount": 8000,
+        "contributor_name": "Keg-N-Bottle, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Anderson",
+        "address_state": "IN",
+        "address_zip": "46012",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7322",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Lincox, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fortville",
+        "address_state": "IN",
+        "address_zip": "46040",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7323",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Lincox, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "New Palestine",
+        "address_state": "IN",
+        "address_zip": "46163",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7324",
+        "date": "2026-02-24 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Midwest Liquor Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7325",
+        "date": "2026-01-19 00:00:00",
+        "amount": 500,
+        "contributor_name": "Mrozinski Enterprises, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LaPorte",
+        "address_state": "IN",
+        "address_zip": "46350",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7326",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Nick's Party Liquors, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Gary",
+        "address_state": "IN",
+        "address_zip": "46406",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7327",
+        "date": "2026-02-24 00:00:00",
+        "amount": 500,
+        "contributor_name": "R S Mann, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Chandler",
+        "address_state": "IN",
+        "address_zip": "47610",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7328",
+        "date": "2026-01-19 00:00:00",
+        "amount": 3000,
+        "contributor_name": "Southwest Indiana Management Corp",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Jasper",
+        "address_state": "IN",
+        "address_zip": "47546",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7329",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "T&A Liquor Group, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Connersville",
+        "address_state": "IN",
+        "address_zip": "47331",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7330",
+        "date": "2026-01-19 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Tebbe Liquor, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Brookville",
+        "address_state": "IN",
+        "address_zip": "47012",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7331",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Unified Capital Investment Corp",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7332",
+        "date": "2026-02-24 00:00:00",
+        "amount": 1000,
+        "contributor_name": "WLW Inc",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7333",
+        "date": "2026-01-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Bedrock Liquors",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7334",
+        "date": "2026-01-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Bedrock Liquors II",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Dayton",
+        "address_state": "IN",
+        "address_zip": "47941",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7335",
+        "date": "2026-01-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Bedrock Liquors, III",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lafayette",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7336",
+        "date": "2026-03-31 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Bob Tiplick",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46221",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7337",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Chilly's Liquors",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenfield",
+        "address_state": "IN",
+        "address_zip": "46140",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7338",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork IX Liquors",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "46176",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7339",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7340",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors II",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7341",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors III",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7342",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors IV",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7343",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors V",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47201",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7344",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors VI",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47203",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7345",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors VII",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "IN",
+        "address_zip": "47203",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7346",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors VIII",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "46176",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7347",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors X",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "47176",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7348",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors XII",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greensburg",
+        "address_state": "IN",
+        "address_zip": "47240",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7349",
+        "date": "2026-01-05 00:00:00",
+        "amount": 500,
+        "contributor_name": "Cork Liquors XIII",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Edinburgh",
+        "address_state": "IN",
+        "address_zip": "46124",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7350",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork Liquors XIV",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Seymour",
+        "address_state": "IN",
+        "address_zip": "47274",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7351",
+        "date": "2026-01-05 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Cork XI Liquors",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelbyville",
+        "address_state": "IN",
+        "address_zip": "46176",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7352",
+        "date": "2026-01-05 00:00:00",
+        "amount": 2000,
+        "contributor_name": "GAT LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46254",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7353",
+        "date": "2026-03-31 00:00:00",
+        "amount": 500,
+        "contributor_name": "H & S Liquor",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Dunreith",
+        "address_state": "IN",
+        "address_zip": "47337",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7354",
+        "date": "2026-02-24 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Hometown Wine & Liquor LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46222",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7355",
+        "date": "2026-01-12 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Indy Liquor Group LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46074",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7356",
+        "date": "2026-03-17 00:00:00",
+        "amount": 200,
+        "contributor_name": "Kahn's Fine Wine & Spirits",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7357",
+        "date": "2026-02-24 00:00:00",
+        "amount": 3000,
+        "contributor_name": "Merrill Liquors, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Merrillville",
+        "address_state": "IN",
+        "address_zip": "46410",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7358",
+        "date": "2026-01-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Southport Liquors LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46217",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7359",
+        "date": "2026-02-24 00:00:00",
+        "amount": 500,
+        "contributor_name": "Strongarm Beverage LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Madison",
+        "address_state": "IN",
+        "address_zip": "47250",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7360",
+        "date": "2026-03-17 00:00:00",
+        "amount": 500,
+        "contributor_name": "The Bottle Shop",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521774-7361",
+        "date": "2026-03-31 00:00:00",
+        "amount": 1000,
+        "contributor_name": "ZW Eastway Liquors LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47904",
         "recipient_committee": "INDIANA ASSN. OF BEVERAGE RETAILERS  - GOOD GOV'T FUND",
         "source": "indiana"
       }

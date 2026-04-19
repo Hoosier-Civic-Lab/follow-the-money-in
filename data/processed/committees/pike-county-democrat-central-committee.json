@@ -2,26 +2,37 @@
   "id": "pike-county-democrat-central-committee",
   "name": "Pike County Democrat Central Committee",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "800.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969491968-13727",
+      "id": "contrib-1776574521507-13727",
       "date": "2025-08-16 00:00:00",
       "amount": 300,
       "contributor_name": "Pike County Democrat Central Committee",
@@ -33,6 +44,22 @@
       "address_state": "IN",
       "address_zip": "47567",
       "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521789-26532",
+      "date": "2026-03-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Pike County Democrat Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
     }
   ],

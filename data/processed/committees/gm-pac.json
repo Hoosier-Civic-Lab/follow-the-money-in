@@ -2,14 +2,14 @@
   "id": "gm-pac",
   "name": "GM PAC",
   "totals": {
-    "total_given": "11000.00",
-    "total_contributions": 7,
-    "candidates_supported": 5
+    "total_given": "17000.00",
+    "total_contributions": 9,
+    "candidates_supported": 7
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "9500.00"
+      "count": 6,
+      "total": "15500.00"
     },
     "medium": {
       "count": 3,
@@ -24,9 +24,23 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "james-r-buck",
+      "name": "JAMES R BUCK",
+      "total": "5000.00",
+      "count": 1
+    },
     {
       "id": "andy-r-zay",
       "name": "Andy R Zay",
@@ -36,6 +50,12 @@
     {
       "id": "dave-allen-heine",
       "name": "Dave Allen Heine",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "travis-linn-holdman",
+      "name": "Travis Linn Holdman",
       "total": "1000.00",
       "count": 1
     },
@@ -60,7 +80,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6571",
+      "id": "contrib-1776574521502-6571",
       "date": "2025-06-03 00:00:00",
       "amount": 2500,
       "contributor_name": "GM PAC",
@@ -75,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12337",
+      "id": "contrib-1776574521506-12337",
       "date": "2025-06-05 00:00:00",
       "amount": 5000,
       "contributor_name": "GM PAC",
@@ -90,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492005-32802",
+      "id": "contrib-1776574521534-32802",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -106,7 +126,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-79475",
+      "id": "contrib-1776574521583-79475",
       "date": "2025-06-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Andy R Zay",
@@ -122,7 +142,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80002",
+      "id": "contrib-1776574521584-80002",
       "date": "2025-06-25 00:00:00",
       "amount": 500,
       "candidate_name": "C. Blake Doriot",
@@ -138,7 +158,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80091",
+      "id": "contrib-1776574521584-80091",
       "date": "2025-06-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Dave Allen Heine",
@@ -154,7 +174,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82655",
+      "id": "contrib-1776574521585-82655",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -167,6 +187,38 @@
       "address_state": "DC",
       "address_zip": "20001",
       "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521775-7800",
+      "date": "2026-04-02 00:00:00",
+      "amount": 5000,
+      "candidate_name": "JAMES R BUCK",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Citizens for Buck",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10693",
+      "date": "2026-03-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Travis Linn Holdman",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Hoosiers for Holdman",
       "source": "indiana"
     }
   ],

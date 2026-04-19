@@ -2,14 +2,18 @@
   "id": "valero-pac",
   "name": "Valero PAC",
   "totals": {
-    "total_given": "2300.00",
-    "total_contributions": 5,
-    "candidates_supported": 5
+    "total_given": "3800.00",
+    "total_contributions": 6,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "medium": {
       "count": 5,
       "total": "2300.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "by_month": {
@@ -20,9 +24,19 @@
     "2025-10": {
       "count": 4,
       "total": "2000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "jason-beau-baird",
+      "name": "Jason Beau Baird",
+      "total": "1500.00",
+      "count": 1
+    },
     {
       "id": "rodric-d-bray",
       "name": "Rodric D Bray",
@@ -56,7 +70,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492005-32807",
+      "id": "contrib-1776574521534-32807",
       "date": "2025-12-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -72,7 +86,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492057-67515",
+      "id": "contrib-1776574521576-67515",
       "date": "2025-10-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodric D Bray",
@@ -88,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-79972",
+      "id": "contrib-1776574521584-79972",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "James Robert Pressel Jr.",
@@ -104,7 +118,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80117",
+      "id": "contrib-1776574521584-80117",
       "date": "2025-10-17 00:00:00",
       "amount": 500,
       "candidate_name": "Dave Allen Heine",
@@ -120,7 +134,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90435",
+      "id": "contrib-1776574521596-90435",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -133,6 +147,22 @@
       "address_state": "TX",
       "address_zip": "78269",
       "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16496",
+      "date": "2026-04-01 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Jason Beau Baird",
+      "contributor_name": "VALERO PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "SAN ANTONIO",
+      "address_state": "IN",
+      "address_zip": "78269",
+      "recipient_committee": "Committee to Elect Beau Baird",
       "source": "indiana"
     }
   ],

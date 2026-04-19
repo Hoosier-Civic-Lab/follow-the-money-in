@@ -3,43 +3,47 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 004",
   "totals": {
-    "total_raised": "156895.00",
-    "total_contributions": 148
+    "total_raised": "188755.51",
+    "total_contributions": 302
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 17,
-      "total": "31250.00"
+      "count": 20,
+      "total": "32550.00"
     },
     "individual": {
-      "count": 85,
-      "total": "31235.00"
+      "count": 220,
+      "total": "51365.51"
     },
     "committee": {
-      "count": 44,
-      "total": "94300.00"
+      "count": 52,
+      "total": "104500.00"
     },
     "self": {
-      "count": 2,
-      "total": "110.00"
+      "count": 5,
+      "total": "140.00"
+    },
+    "unitemized": {
+      "count": 5,
+      "total": "200.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 45,
-      "total": "81500.00"
+      "count": 54,
+      "total": "99000.00"
     },
     "medium": {
-      "count": 64,
-      "total": "19100.00"
+      "count": 113,
+      "total": "30848.52"
     },
     "mega": {
       "count": 4,
       "total": "55000.00"
     },
     "small": {
-      "count": 35,
-      "total": "1295.00"
+      "count": 131,
+      "total": "3906.99"
     }
   },
   "by_month": {
@@ -51,9 +55,25 @@
       "count": 67,
       "total": "102945.00"
     },
+    "2026-01": {
+      "count": 39,
+      "total": "20681.26"
+    },
+    "2026-04": {
+      "count": 22,
+      "total": "4641.52"
+    },
     "2025-11": {
       "count": 30,
       "total": "6630.00"
+    },
+    "2026-03": {
+      "count": 70,
+      "total": "4923.89"
+    },
+    "2026-02": {
+      "count": 23,
+      "total": "1613.84"
     }
   },
   "candidates": [
@@ -62,8 +82,8 @@
       "name": "Edmond Lewis Soliday",
       "party": "Republican",
       "totals": {
-        "total_raised": "143050.00",
-        "total_contributions": 76
+        "total_raised": "161400.00",
+        "total_contributions": 92
       },
       "by_month": {
         "2025-10": {
@@ -73,6 +93,14 @@
         "2025-12": {
           "count": 35,
           "total": "96300.00"
+        },
+        "2026-01": {
+          "count": 14,
+          "total": "16650.00"
+        },
+        "2026-04": {
+          "count": 2,
+          "total": "1700.00"
         }
       }
     },
@@ -81,8 +109,8 @@
       "name": "Ryan Michael Kominakis",
       "party": "Democratic",
       "totals": {
-        "total_raised": "13845.00",
-        "total_contributions": 72
+        "total_raised": "27355.51",
+        "total_contributions": 210
       },
       "by_month": {
         "2025-11": {
@@ -96,6 +124,22 @@
         "2025-10": {
           "count": 10,
           "total": "570.00"
+        },
+        "2026-03": {
+          "count": 70,
+          "total": "4923.89"
+        },
+        "2026-01": {
+          "count": 25,
+          "total": "4031.26"
+        },
+        "2026-02": {
+          "count": 23,
+          "total": "1613.84"
+        },
+        "2026-04": {
+          "count": 20,
+          "total": "2941.52"
         }
       }
     }

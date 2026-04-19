@@ -3,31 +3,35 @@
   "office": "County Council Member",
   "district": "Johnson",
   "totals": {
-    "total_raised": "136180.57",
-    "total_contributions": 57
+    "total_raised": "156615.10",
+    "total_contributions": 83
   },
   "by_contributor_type": {
     "individual": {
-      "count": 57,
-      "total": "136180.57"
+      "count": 82,
+      "total": "145730.57"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "10884.53"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 37,
-      "total": "12560.27"
+      "count": 60,
+      "total": "19110.27"
     },
     "small": {
       "count": 11,
       "total": "537.09"
     },
     "large": {
-      "count": 7,
-      "total": "13083.21"
+      "count": 9,
+      "total": "16083.21"
     },
     "mega": {
-      "count": 2,
-      "total": "110000.00"
+      "count": 3,
+      "total": "120884.53"
     }
   },
   "by_month": {
@@ -54,6 +58,18 @@
     "2025-12": {
       "count": 7,
       "total": "104094.35"
+    },
+    "2026-03": {
+      "count": 20,
+      "total": "17984.53"
+    },
+    "2026-02": {
+      "count": 4,
+      "total": "1900.00"
+    },
+    "2026-01": {
+      "count": 2,
+      "total": "550.00"
     }
   },
   "candidates": [
@@ -62,8 +78,8 @@
       "name": "Blythe Elizabeth  Potter",
       "party": "Democratic",
       "totals": {
-        "total_raised": "136180.57",
-        "total_contributions": 57
+        "total_raised": "156615.10",
+        "total_contributions": 83
       },
       "by_month": {
         "2025-11": {
@@ -89,6 +105,18 @@
         "2025-12": {
           "count": 7,
           "total": "104094.35"
+        },
+        "2026-03": {
+          "count": 20,
+          "total": "17984.53"
+        },
+        "2026-02": {
+          "count": 4,
+          "total": "1900.00"
+        },
+        "2026-01": {
+          "count": 2,
+          "total": "550.00"
         }
       }
     }

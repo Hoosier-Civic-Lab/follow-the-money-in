@@ -2,26 +2,37 @@
   "id": "safe-pac",
   "name": "Safe PAC",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "7500.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 2,
+      "total": "7500.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "ronnie-j-alting",
+      "name": "Ronnie J. Alting",
+      "total": "2500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6258",
+      "id": "contrib-1776574521501-6258",
       "date": "2025-12-17 00:00:00",
       "amount": 5000,
       "contributor_name": "Safe PAC",
@@ -33,6 +44,22 @@
       "address_state": "IN",
       "address_zip": "46241",
       "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521775-8305",
+      "date": "2026-03-12 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Ronnie J. Alting",
+      "contributor_name": "SAFE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47305",
+      "recipient_committee": "Ron Alting For State Senate Committee",
       "source": "indiana"
     }
   ],
@@ -56,7 +83,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1775969491996-27341",
+        "id": "contrib-1776574521528-27341",
         "date": "2025-11-20 00:00:00",
         "amount": 10000,
         "contributor_name": "Indiana Fireworks Association",

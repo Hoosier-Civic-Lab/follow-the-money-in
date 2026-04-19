@@ -6,25 +6,25 @@
   "district": "73",
   "party": "Republican",
   "totals": {
-    "total_raised": "9020.00",
-    "total_contributions": 5,
-    "total_itemized": 5,
+    "total_raised": "17170.00",
+    "total_contributions": 9,
+    "total_itemized": 9,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 5,
-      "total": "9020.00"
+      "count": 9,
+      "total": "17170.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "820.00"
+      "count": 2,
+      "total": "1320.00"
     },
     "large": {
-      "count": 4,
-      "total": "8200.00"
+      "count": 7,
+      "total": "15850.00"
     }
   },
   "by_month": {
@@ -47,11 +47,27 @@
     "2025-07": {
       "count": 1,
       "total": "3000.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "2750.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "3400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492071-83811",
+      "id": "contrib-1776574521586-83811",
       "date": "2025-08-01 00:00:00",
       "amount": 820,
       "candidate_name": "Edward K. Comstock II",
@@ -67,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83812",
+      "id": "contrib-1776574521586-83812",
       "date": "2025-05-01 00:00:00",
       "amount": 1200,
       "candidate_name": "Edward K. Comstock II",
@@ -83,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83813",
+      "id": "contrib-1776574521586-83813",
       "date": "2025-03-03 00:00:00",
       "amount": 1500,
       "candidate_name": "Edward K. Comstock II",
@@ -99,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83814",
+      "id": "contrib-1776574521586-83814",
       "date": "2025-06-02 00:00:00",
       "amount": 2500,
       "candidate_name": "Edward K. Comstock II",
@@ -115,9 +131,73 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83815",
+      "id": "contrib-1776574521586-83815",
       "date": "2025-07-01 00:00:00",
       "amount": 3000,
+      "candidate_name": "Edward K. Comstock II",
+      "contributor_name": "Edward K Comstock II",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends of Edward Comstock",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16692",
+      "date": "2026-02-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Edward K. Comstock II",
+      "contributor_name": "Edward K Comstock II",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends of Edward Comstock",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16693",
+      "date": "2026-04-09 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Edward K. Comstock II",
+      "contributor_name": "Edward K Comstock II",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends of Edward Comstock",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16694",
+      "date": "2026-01-15 00:00:00",
+      "amount": 2750,
+      "candidate_name": "Edward K. Comstock II",
+      "contributor_name": "Edward K Comstock II",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends of Edward Comstock",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521781-16695",
+      "date": "2026-03-15 00:00:00",
+      "amount": 3400,
       "candidate_name": "Edward K. Comstock II",
       "contributor_name": "Edward K Comstock II",
       "contributor_type": "individual",

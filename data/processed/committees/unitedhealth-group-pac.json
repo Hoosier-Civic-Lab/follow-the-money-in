@@ -2,9 +2,9 @@
   "id": "unitedhealth-group-pac",
   "name": "UnitedHealth Group PAC",
   "totals": {
-    "total_given": "8000.00",
-    "total_contributions": 6,
-    "candidates_supported": 6
+    "total_given": "9500.00",
+    "total_contributions": 7,
+    "candidates_supported": 7
   },
   "by_contribution_size": {
     "medium": {
@@ -12,8 +12,8 @@
       "total": "2000.00"
     },
     "large": {
-      "count": 2,
-      "total": "6000.00"
+      "count": 3,
+      "total": "7500.00"
     }
   },
   "by_month": {
@@ -24,6 +24,10 @@
     "2025-07": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "top_recipients": [
@@ -31,6 +35,12 @@
       "id": "michael-k-braun",
       "name": "MICHAEL K BRAUN",
       "total": "5000.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "1500.00",
       "count": 1
     },
     {
@@ -66,7 +76,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492056-67013",
+      "id": "contrib-1776574521576-67013",
       "date": "2025-12-19 00:00:00",
       "amount": 500,
       "candidate_name": "Michael Ray Crider`",
@@ -82,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83439",
+      "id": "contrib-1776574521586-83439",
       "date": "2025-07-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Justin Thomas Busch",
@@ -98,7 +108,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90975",
+      "id": "contrib-1776574521596-90975",
       "date": "2025-12-31 00:00:00",
       "amount": 500,
       "candidate_name": "Victoria  G. Wilburn",
@@ -114,7 +124,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492087-93741",
+      "id": "contrib-1776574521598-93741",
       "date": "2025-12-08 00:00:00",
       "amount": 5000,
       "candidate_name": "MICHAEL K BRAUN",
@@ -130,7 +140,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492087-94266",
+      "id": "contrib-1776574521599-94266",
       "date": "2025-12-16 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -146,7 +156,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492088-94840",
+      "id": "contrib-1776574521599-94840",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Cyndi V Carrasco",
@@ -159,6 +169,22 @@
       "address_state": "MN",
       "address_zip": "55343",
       "recipient_committee": "Cyndi for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16200",
+      "date": "2026-01-10 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "UnitedHealth Group PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Chris Garten",
       "source": "indiana"
     }
   ],
