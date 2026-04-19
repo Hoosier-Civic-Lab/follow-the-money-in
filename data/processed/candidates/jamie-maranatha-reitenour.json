@@ -6,25 +6,29 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "2327.60",
-    "total_contributions": 4,
-    "total_itemized": 4,
-    "total_unitemized": 0
+    "total_raised": "5007.62",
+    "total_contributions": 10,
+    "total_itemized": 9,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "individual": {
-      "count": 4,
-      "total": "2327.60"
+      "count": 9,
+      "total": "3536.23"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "1471.39"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1073.36"
+      "count": 8,
+      "total": "2281.99"
     },
     "large": {
-      "count": 1,
-      "total": "1254.24"
+      "count": 2,
+      "total": "2725.63"
     }
   },
   "by_month": {
@@ -39,11 +43,19 @@
     "2025-08": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-03": {
+      "count": 5,
+      "total": "2380.02"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492091-98289",
+      "id": "contrib-1776574521602-98289",
       "date": "2025-11-04 00:00:00",
       "amount": 113.44,
       "candidate_name": "Jamie Maranatha Reitenour",
@@ -59,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492091-98290",
+      "id": "contrib-1776574521602-98290",
       "date": "2025-12-15 00:00:00",
       "amount": 1254.24,
       "candidate_name": "Jamie Maranatha Reitenour",
@@ -75,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492091-98291",
+      "id": "contrib-1776574521602-98291",
       "date": "2025-11-04 00:00:00",
       "amount": 659.92,
       "candidate_name": "Jamie Maranatha Reitenour",
@@ -91,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492091-98292",
+      "id": "contrib-1776574521602-98292",
       "date": "2025-08-13 00:00:00",
       "amount": 300,
       "candidate_name": "Jamie Maranatha Reitenour",
@@ -103,6 +115,102 @@
       "address_city": "Fishers",
       "address_state": "IN",
       "address_zip": "46040",
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23064",
+      "date": "2026-03-31 00:00:00",
+      "amount": 1471.39,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23065",
+      "date": "2026-03-11 00:00:00",
+      "amount": 102.45,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "Angela Schuble",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23066",
+      "date": "2026-03-25 00:00:00",
+      "amount": 600.25,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "Brent Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hagerstown",
+      "address_state": "IN",
+      "address_zip": "47346",
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23067",
+      "date": "2026-03-02 00:00:00",
+      "amount": 102.45,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "Laura Jobe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23068",
+      "date": "2026-03-07 00:00:00",
+      "amount": 103.48,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "Max Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hagerstown",
+      "address_state": "IN",
+      "address_zip": "47346",
+      "recipient_committee": "Jamie Reitenour for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521786-23069",
+      "date": "2026-02-28 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jamie Maranatha Reitenour",
+      "contributor_name": "Steven  Zoda",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
       "recipient_committee": "Jamie Reitenour for Indiana",
       "source": "indiana"
     }

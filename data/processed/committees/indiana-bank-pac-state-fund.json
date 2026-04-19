@@ -2,14 +2,14 @@
   "id": "indiana-bank-pac-state-fund",
   "name": "Indiana Bank PAC State Fund",
   "totals": {
-    "total_given": "2250.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "2750.00",
+    "total_contributions": 4,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "1250.00"
+      "count": 3,
+      "total": "1750.00"
     },
     "large": {
       "count": 1,
@@ -24,6 +24,10 @@
     "2025-08": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -44,11 +48,17 @@
       "name": "Jennifer Meltzer",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "benjamin-charles-smaltz",
+      "name": "Benjamin Charles Smaltz",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492072-84502",
+      "id": "contrib-1776574521587-84502",
       "date": "2025-06-26 00:00:00",
       "amount": 750,
       "candidate_name": "Maureen Anne Bauer",
@@ -64,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90498",
+      "id": "contrib-1776574521596-90498",
       "date": "2025-06-27 00:00:00",
       "amount": 500,
       "candidate_name": "Jennifer Meltzer",
@@ -80,7 +90,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90796",
+      "id": "contrib-1776574521596-90796",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -93,6 +103,22 @@
       "address_state": "IN",
       "address_zip": "46240",
       "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521779-14702",
+      "date": "2026-04-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Benjamin Charles Smaltz",
+      "contributor_name": "Indiana Bank PAC State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Ben Smaltz",
       "source": "indiana"
     }
   ],

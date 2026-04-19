@@ -2,9 +2,9 @@
   "id": "bp-north-america-employee-pac",
   "name": "BP North America Employee PAC",
   "totals": {
-    "total_given": "12500.00",
-    "total_contributions": 5,
-    "candidates_supported": 4
+    "total_given": "13000.00",
+    "total_contributions": 6,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
@@ -12,8 +12,8 @@
       "total": "12000.00"
     },
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
@@ -28,6 +28,10 @@
     "2025-12": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -54,11 +58,17 @@
       "name": "Miguel A Andrade",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "earl-lynn-harris-jr",
+      "name": "Earl Lynn Harris, Jr.",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6274",
+      "id": "contrib-1776574521501-6274",
       "date": "2025-10-15 00:00:00",
       "amount": 4500,
       "contributor_name": "BP North America Employee PAC",
@@ -73,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31533",
+      "id": "contrib-1776574521534-31533",
       "date": "2025-11-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Eric Allan Koch",
@@ -89,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492047-63015",
+      "id": "contrib-1776574521566-63015",
       "date": "2025-12-16 00:00:00",
       "amount": 2000,
       "candidate_name": "Edmond Lewis Soliday",
@@ -105,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67457",
+      "id": "contrib-1776574521576-67457",
       "date": "2025-10-13 00:00:00",
       "amount": 4500,
       "candidate_name": "Rodric D Bray",
@@ -121,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492072-84450",
+      "id": "contrib-1776574521587-84450",
       "date": "2025-11-24 00:00:00",
       "amount": 500,
       "candidate_name": "Miguel A Andrade",
@@ -134,6 +144,22 @@
       "address_state": "TX",
       "address_zip": "77079",
       "recipient_committee": "Citizens For Mike Andrade",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15234",
+      "date": "2026-03-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Earl Lynn Harris, Jr.",
+      "contributor_name": "BP North America Employee PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77079",
+      "recipient_committee": "Committee to Elect Earl L. Harris Jr.",
       "source": "indiana"
     }
   ],

@@ -3,8 +3,8 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 029",
   "totals": {
-    "total_raised": "34484.31",
-    "total_contributions": 77
+    "total_raised": "65186.17",
+    "total_contributions": 219
   },
   "by_contributor_type": {
     "corporate": {
@@ -12,26 +12,34 @@
       "total": "6150.00"
     },
     "individual": {
-      "count": 47,
-      "total": "14234.31"
+      "count": 177,
+      "total": "36140.50"
     },
     "committee": {
-      "count": 20,
-      "total": "14100.00"
+      "count": 26,
+      "total": "19750.00"
+    },
+    "unitemized": {
+      "count": 4,
+      "total": "145.67"
+    },
+    "self": {
+      "count": 2,
+      "total": "3000.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 58,
-      "total": "17217.27"
+      "count": 113,
+      "total": "30201.57"
     },
     "large": {
-      "count": 12,
-      "total": "17082.04"
+      "count": 22,
+      "total": "32335.89"
     },
     "small": {
-      "count": 7,
-      "total": "185.00"
+      "count": 84,
+      "total": "2648.71"
     }
   },
   "by_month": {
@@ -62,6 +70,22 @@
     "2025-07": {
       "count": 2,
       "total": "750.00"
+    },
+    "2026-02": {
+      "count": 54,
+      "total": "5315.87"
+    },
+    "2026-04": {
+      "count": 14,
+      "total": "7860.00"
+    },
+    "2026-03": {
+      "count": 40,
+      "total": "11686.71"
+    },
+    "2026-01": {
+      "count": 34,
+      "total": "5839.28"
     }
   },
   "candidates": [
@@ -70,8 +94,8 @@
       "name": "Alaina Kelly Shonkwiler",
       "party": "Republican",
       "totals": {
-        "total_raised": "33424.31",
-        "total_contributions": 63
+        "total_raised": "39495.13",
+        "total_contributions": 70
       },
       "by_month": {
         "2025-06": {
@@ -101,6 +125,45 @@
         "2025-07": {
           "count": 2,
           "total": "750.00"
+        },
+        "2026-02": {
+          "count": 1,
+          "total": "20.82"
+        },
+        "2026-04": {
+          "count": 2,
+          "total": "3500.00"
+        },
+        "2026-03": {
+          "count": 4,
+          "total": "2550.00"
+        }
+      }
+    },
+    {
+      "id": "devon-wellington",
+      "name": "Devon Wellington",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "17505.04",
+        "total_contributions": 29
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 15,
+          "total": "7976.71"
+        },
+        "2026-04": {
+          "count": 6,
+          "total": "3925.00"
+        },
+        "2026-01": {
+          "count": 3,
+          "total": "3479.28"
+        },
+        "2026-02": {
+          "count": 5,
+          "total": "2124.05"
         }
       }
     },
@@ -109,13 +172,29 @@
       "name": "Coumba Kebe",
       "party": "Democratic",
       "totals": {
-        "total_raised": "1060.00",
-        "total_contributions": 14
+        "total_raised": "8186.00",
+        "total_contributions": 120
       },
       "by_month": {
         "2025-12": {
           "count": 14,
           "total": "1060.00"
+        },
+        "2026-02": {
+          "count": 48,
+          "total": "3171.00"
+        },
+        "2026-03": {
+          "count": 21,
+          "total": "1160.00"
+        },
+        "2026-01": {
+          "count": 31,
+          "total": "2360.00"
+        },
+        "2026-04": {
+          "count": 6,
+          "total": "435.00"
         }
       }
     }

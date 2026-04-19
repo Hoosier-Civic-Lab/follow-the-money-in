@@ -6,15 +6,15 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "355.58",
-    "total_contributions": 11,
-    "total_itemized": 11,
+    "total_raised": "548.35",
+    "total_contributions": 28,
+    "total_itemized": 28,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 11,
-      "total": "355.58"
+      "count": 28,
+      "total": "548.35"
     }
   },
   "by_contribution_size": {
@@ -23,8 +23,8 @@
       "total": "200.00"
     },
     "small": {
-      "count": 10,
-      "total": "155.58"
+      "count": 27,
+      "total": "348.35"
     }
   },
   "by_month": {
@@ -63,11 +63,23 @@
     "2025-10": {
       "count": 1,
       "total": "36.49"
+    },
+    "2026-03": {
+      "count": 6,
+      "total": "106.33"
+    },
+    "2026-02": {
+      "count": 10,
+      "total": "83.44"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "3.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492085-91391",
+      "id": "contrib-1776574521597-91391",
       "date": "2025-11-25 00:00:00",
       "amount": 200,
       "candidate_name": "John Eugene Bartlett",
@@ -83,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91392",
+      "id": "contrib-1776574521597-91392",
       "date": "2025-04-27 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -99,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91393",
+      "id": "contrib-1776574521597-91393",
       "date": "2025-05-25 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -115,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91394",
+      "id": "contrib-1776574521597-91394",
       "date": "2025-06-29 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -131,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91395",
+      "id": "contrib-1776574521597-91395",
       "date": "2025-07-27 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -147,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91396",
+      "id": "contrib-1776574521597-91396",
       "date": "2025-08-31 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -163,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91397",
+      "id": "contrib-1776574521597-91397",
       "date": "2025-09-27 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -179,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91398",
+      "id": "contrib-1776574521597-91398",
       "date": "2025-11-25 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -195,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91399",
+      "id": "contrib-1776574521597-91399",
       "date": "2025-12-28 00:00:00",
       "amount": 2.88,
       "candidate_name": "John Eugene Bartlett",
@@ -211,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91400",
+      "id": "contrib-1776574521597-91400",
       "date": "2025-10-25 00:00:00",
       "amount": 36.49,
       "candidate_name": "John Eugene Bartlett",
@@ -227,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91401",
+      "id": "contrib-1776574521597-91401",
       "date": "2025-11-16 00:00:00",
       "amount": 96.05,
       "candidate_name": "John Eugene Bartlett",
@@ -239,6 +251,278 @@
       "address_city": "Sommerville",
       "address_state": "MA",
       "address_zip": "02144",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20433",
+      "date": "2026-03-01 00:00:00",
+      "amount": 1,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "April Pyatt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20434",
+      "date": "2026-03-11 00:00:00",
+      "amount": 1.22,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Ben Ravel",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Austin",
+      "address_state": "TX",
+      "address_zip": "78751",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20435",
+      "date": "2026-02-06 00:00:00",
+      "amount": 25,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Blake Watson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Redkey",
+      "address_state": "IN",
+      "address_zip": "47373",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20436",
+      "date": "2026-01-25 00:00:00",
+      "amount": 3,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Cadance Weaver",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Farmland",
+      "address_state": "IN",
+      "address_zip": "47340",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20437",
+      "date": "2026-02-25 00:00:00",
+      "amount": 3,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Cadance Weaver",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Farmland",
+      "address_state": "IN",
+      "address_zip": "47340",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20438",
+      "date": "2026-03-25 00:00:00",
+      "amount": 3,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Cadance Weaver",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Farmland",
+      "address_state": "IN",
+      "address_zip": "47340",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20439",
+      "date": "2026-03-21 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Eric Rogers",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Portland",
+      "address_state": "IN",
+      "address_zip": "47371",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20440",
+      "date": "2026-02-21 00:00:00",
+      "amount": 2.94,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Heidi  Schmidt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Provincetown",
+      "address_state": "MA",
+      "address_zip": "02657",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20441",
+      "date": "2026-02-12 00:00:00",
+      "amount": 1.67,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "John Hobbs",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Taos",
+      "address_state": "NM",
+      "address_zip": "87571",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20442",
+      "date": "2026-02-19 00:00:00",
+      "amount": 7.82,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Luke Miller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20443",
+      "date": "2026-03-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Lynn Sousa",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20444",
+      "date": "2026-02-13 00:00:00",
+      "amount": 1.67,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Matt Irwin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20445",
+      "date": "2026-02-16 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Matthew Erickson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20002",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20446",
+      "date": "2026-02-16 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Megan Evans",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20447",
+      "date": "2026-02-13 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Paul Arden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Olmstead Twp.",
+      "address_state": "OH",
+      "address_zip": "44138",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20448",
+      "date": "2026-03-31 00:00:00",
+      "amount": 1.11,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "S.H. Costanza",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Maiden",
+      "address_state": "MA",
+      "address_zip": "56481",
+      "recipient_committee": "Bartlett for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20449",
+      "date": "2026-02-23 00:00:00",
+      "amount": 1.32,
+      "candidate_name": "John Eugene Bartlett",
+      "contributor_name": "Suzanne Bender",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Newton",
+      "address_state": "MA",
+      "address_zip": "02459",
       "recipient_committee": "Bartlett for Indiana",
       "source": "indiana"
     }

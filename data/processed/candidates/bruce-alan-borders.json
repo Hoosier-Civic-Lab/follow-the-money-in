@@ -6,33 +6,37 @@
   "district": "State Representative, District 045",
   "party": "Republican",
   "totals": {
-    "total_raised": "4950.00",
-    "total_contributions": 11,
-    "total_itemized": 11,
+    "total_raised": "87372.82",
+    "total_contributions": 30,
+    "total_itemized": 30,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "committee": {
-      "count": 8,
-      "total": "4150.00"
+      "count": 19,
+      "total": "46150.00"
     },
     "corporate": {
-      "count": 2,
-      "total": "500.00"
+      "count": 3,
+      "total": "800.00"
     },
     "individual": {
-      "count": 1,
-      "total": "300.00"
+      "count": 8,
+      "total": "40422.82"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 5,
+      "total": "8500.00"
     },
     "medium": {
-      "count": 9,
-      "total": "2950.00"
+      "count": 21,
+      "total": "7222.82"
+    },
+    "mega": {
+      "count": 4,
+      "total": "71650.00"
     }
   },
   "by_month": {
@@ -43,11 +47,19 @@
     "2025-10": {
       "count": 2,
       "total": "550.00"
+    },
+    "2026-03": {
+      "count": 12,
+      "total": "49072.82"
+    },
+    "2026-04": {
+      "count": 7,
+      "total": "33350.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492004-31618",
+      "id": "contrib-1776574521534-31618",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Bruce Alan Borders",
@@ -63,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31619",
+      "id": "contrib-1776574521534-31619",
       "date": "2025-10-29 00:00:00",
       "amount": 250,
       "candidate_name": "Bruce Alan Borders",
@@ -79,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31620",
+      "id": "contrib-1776574521534-31620",
       "date": "2025-08-12 00:00:00",
       "amount": 500,
       "candidate_name": "Bruce Alan Borders",
@@ -95,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31621",
+      "id": "contrib-1776574521534-31621",
       "date": "2025-08-12 00:00:00",
       "amount": 250,
       "candidate_name": "Bruce Alan Borders",
@@ -111,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31622",
+      "id": "contrib-1776574521534-31622",
       "date": "2025-08-12 00:00:00",
       "amount": 500,
       "candidate_name": "Bruce Alan Borders",
@@ -127,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31623",
+      "id": "contrib-1776574521534-31623",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Bruce Alan Borders",
@@ -143,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31624",
+      "id": "contrib-1776574521534-31624",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Bruce Alan Borders",
@@ -159,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31625",
+      "id": "contrib-1776574521534-31625",
       "date": "2025-08-12 00:00:00",
       "amount": 250,
       "candidate_name": "Bruce Alan Borders",
@@ -175,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31626",
+      "id": "contrib-1776574521534-31626",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Bruce Alan Borders",
@@ -191,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31627",
+      "id": "contrib-1776574521534-31627",
       "date": "2025-10-29 00:00:00",
       "amount": 300,
       "candidate_name": "Bruce Alan Borders",
@@ -207,13 +219,317 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492004-31628",
+      "id": "contrib-1776574521534-31628",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Bruce Alan Borders",
       "contributor_name": "TAFT STETTINIUS & HOLLISTER BETTER GOVERNMENT FUND",
       "contributor_type": "committee",
       "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9148",
+      "date": "2026-03-31 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "R. BROOKS LAPLANTE",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9149",
+      "date": "2026-03-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "BOSE PUBLIC AFFAIRS GROUP LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9150",
+      "date": "2026-04-10 00:00:00",
+      "amount": 20000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9151",
+      "date": "2026-03-26 00:00:00",
+      "amount": 722.82,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9152",
+      "date": "2026-03-09 00:00:00",
+      "amount": 16650,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9153",
+      "date": "2026-03-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "NEW MILLENNIUM BUILDING SYSTEMS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "FORT WAYNE",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9154",
+      "date": "2026-03-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "TAFT STETTINUS & HOLLISTER LLP BETTER GOVERNMENT FUND",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9155",
+      "date": "2026-04-08 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOC. POLITICAL ACCT. 1",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CHICAGO",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9156",
+      "date": "2026-04-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "ERIE INSURANCE PAC - FEDERAL",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ERIE",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9157",
+      "date": "2026-04-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "IMPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9158",
+      "date": "2026-03-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "INDIANA AMERICAN WATER PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GREENWOOD",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9159",
+      "date": "2026-03-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "INDIANA FIREFIGHTERS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9160",
+      "date": "2026-03-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "INDIANA MULTI-FAMILY HOUSING PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9161",
+      "date": "2026-03-31 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "INDIANA REALTORS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9162",
+      "date": "2026-04-08 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9163",
+      "date": "2026-04-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "ISAHU-PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46235",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9164",
+      "date": "2026-03-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "RICK WAJDA - INDIANA BUILDERS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9165",
+      "date": "2026-04-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "SELECTIVE INSURANCE COMPANY OF AMERICA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BRANCHVILLE",
+      "address_state": "NJ",
+      "address_zip": "07890",
+      "recipient_committee": "Friends for Bruce Borders",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9166",
+      "date": "2026-03-31 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Bruce Alan Borders",
+      "contributor_name": "WINE AND SPIRIT WHOLESALERS OF INDIANA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "INDIANAPOLIS",

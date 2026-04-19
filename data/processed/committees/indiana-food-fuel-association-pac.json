@@ -2,14 +2,14 @@
   "id": "indiana-food-fuel-association-pac",
   "name": "Indiana Food & Fuel Association PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 4,
-    "candidates_supported": 3
+    "total_given": "3500.00",
+    "total_contributions": 5,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "1000.00"
+      "count": 3,
+      "total": "1500.00"
     },
     "large": {
       "count": 2,
@@ -24,6 +24,10 @@
     "2025-12": {
       "count": 2,
       "total": "1500.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -44,11 +48,17 @@
       "name": "Ronnie J. Alting",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6602",
+      "id": "contrib-1776574521502-6602",
       "date": "2025-10-07 00:00:00",
       "amount": 500,
       "contributor_name": "Indiana Food & Fuel Association PAC",
@@ -63,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491997-28608",
+      "id": "contrib-1776574521529-28608",
       "date": "2025-12-19 00:00:00",
       "amount": 500,
       "candidate_name": "Ronnie J. Alting",
@@ -79,7 +89,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-66896",
+      "id": "contrib-1776574521575-66896",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Todd Michael Huston",
@@ -95,7 +105,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82755",
+      "id": "contrib-1776574521585-82755",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -108,6 +118,22 @@
       "address_state": "IN",
       "address_zip": "46240",
       "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16196",
+      "date": "2026-01-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Indiana Food & Fuel Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Chris Garten",
       "source": "indiana"
     }
   ],

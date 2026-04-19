@@ -3,35 +3,39 @@
   "office": "Precinct Committeeman",
   "district": "HARRISON B",
   "totals": {
-    "total_raised": "25667.94",
-    "total_contributions": 30
+    "total_raised": "310080.63",
+    "total_contributions": 168
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 5,
-      "total": "2400.00"
+      "count": 12,
+      "total": "7275.00"
     },
     "individual": {
-      "count": 9,
-      "total": "5660.00"
+      "count": 121,
+      "total": "59836.53"
     },
     "committee": {
-      "count": 16,
-      "total": "17607.94"
+      "count": 35,
+      "total": "242969.10"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 14,
-      "total": "5600.00"
+      "count": 92,
+      "total": "23674.10"
     },
     "large": {
-      "count": 12,
-      "total": "20000.00"
+      "count": 35,
+      "total": "76328.32"
     },
     "small": {
-      "count": 4,
-      "total": "67.94"
+      "count": 36,
+      "total": "1217.05"
+    },
+    "mega": {
+      "count": 5,
+      "total": "208861.16"
     }
   },
   "by_month": {
@@ -46,6 +50,22 @@
     "2025-06": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 58,
+      "total": "127082.18"
+    },
+    "2026-03": {
+      "count": 71,
+      "total": "117855.51"
+    },
+    "2026-02": {
+      "count": 6,
+      "total": "39415.00"
+    },
+    "2026-01": {
+      "count": 3,
+      "total": "60.00"
     }
   },
   "candidates": [
@@ -54,8 +74,8 @@
       "name": "JAMES R BUCK",
       "party": "Republican",
       "totals": {
-        "total_raised": "25667.94",
-        "total_contributions": 30
+        "total_raised": "310080.63",
+        "total_contributions": 168
       },
       "by_month": {
         "2025-12": {
@@ -69,6 +89,22 @@
         "2025-06": {
           "count": 1,
           "total": "1000.00"
+        },
+        "2026-04": {
+          "count": 58,
+          "total": "127082.18"
+        },
+        "2026-03": {
+          "count": 71,
+          "total": "117855.51"
+        },
+        "2026-02": {
+          "count": 6,
+          "total": "39415.00"
+        },
+        "2026-01": {
+          "count": 3,
+          "total": "60.00"
         }
       }
     }

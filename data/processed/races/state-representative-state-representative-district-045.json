@@ -3,31 +3,35 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 045",
   "totals": {
-    "total_raised": "4950.00",
-    "total_contributions": 11
+    "total_raised": "87372.82",
+    "total_contributions": 30
   },
   "by_contributor_type": {
     "committee": {
-      "count": 8,
-      "total": "4150.00"
+      "count": 19,
+      "total": "46150.00"
     },
     "corporate": {
-      "count": 2,
-      "total": "500.00"
+      "count": 3,
+      "total": "800.00"
     },
     "individual": {
-      "count": 1,
-      "total": "300.00"
+      "count": 8,
+      "total": "40422.82"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 5,
+      "total": "8500.00"
     },
     "medium": {
-      "count": 9,
-      "total": "2950.00"
+      "count": 21,
+      "total": "7222.82"
+    },
+    "mega": {
+      "count": 4,
+      "total": "71650.00"
     }
   },
   "by_month": {
@@ -38,6 +42,14 @@
     "2025-10": {
       "count": 2,
       "total": "550.00"
+    },
+    "2026-03": {
+      "count": 12,
+      "total": "49072.82"
+    },
+    "2026-04": {
+      "count": 7,
+      "total": "33350.00"
     }
   },
   "candidates": [
@@ -46,8 +58,8 @@
       "name": "Bruce Alan Borders",
       "party": "Republican",
       "totals": {
-        "total_raised": "4950.00",
-        "total_contributions": 11
+        "total_raised": "87372.82",
+        "total_contributions": 30
       },
       "by_month": {
         "2025-08": {
@@ -57,6 +69,14 @@
         "2025-10": {
           "count": 2,
           "total": "550.00"
+        },
+        "2026-03": {
+          "count": 12,
+          "total": "49072.82"
+        },
+        "2026-04": {
+          "count": 7,
+          "total": "33350.00"
         }
       }
     }

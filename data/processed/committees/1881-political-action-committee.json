@@ -2,20 +2,24 @@
   "id": "1881-political-action-committee",
   "name": "1881 Political Action Committee",
   "totals": {
-    "total_given": "2500.00",
-    "total_contributions": 1,
+    "total_given": "8598.50",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2500.00"
+      "count": 2,
+      "total": "8598.50"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "6098.50"
     }
   },
   "top_recipients": [
@@ -28,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492088-94739",
+      "id": "contrib-1776574521599-94739",
       "date": "2025-12-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -42,29 +46,44 @@
       "address_zip": "46112",
       "recipient_committee": "Lopez For Indiana",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521775-7838",
+      "date": "2026-02-23 00:00:00",
+      "amount": 6098.5,
+      "contributor_name": "1881 Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Local 135 DRIVE FUND, INC.",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "1262.28",
-    "total_contributions": 12,
+    "total_raised": "1577.85",
+    "total_contributions": 15,
     "unique_donors": 1,
     "by_contributor_type": {
       "individual": {
-        "count": 12,
-        "total": "1262.28"
+        "count": 15,
+        "total": "1577.85"
       }
     },
     "top_donors": [
       {
         "name": "Don Damron",
         "type": "individual",
-        "total": "1262.28",
-        "count": 12
+        "total": "1577.85",
+        "count": 15
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492090-97470",
+        "id": "contrib-1776574521601-97470",
         "date": "2025-01-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -79,7 +98,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97471",
+        "id": "contrib-1776574521601-97471",
         "date": "2025-02-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -94,7 +113,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97472",
+        "id": "contrib-1776574521601-97472",
         "date": "2025-03-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -109,7 +128,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97473",
+        "id": "contrib-1776574521601-97473",
         "date": "2025-04-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -124,7 +143,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97474",
+        "id": "contrib-1776574521601-97474",
         "date": "2025-05-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -139,7 +158,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97475",
+        "id": "contrib-1776574521601-97475",
         "date": "2025-06-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -154,7 +173,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97476",
+        "id": "contrib-1776574521601-97476",
         "date": "2025-07-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -169,7 +188,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97477",
+        "id": "contrib-1776574521601-97477",
         "date": "2025-08-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -184,7 +203,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97478",
+        "id": "contrib-1776574521601-97478",
         "date": "2025-09-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -199,7 +218,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97479",
+        "id": "contrib-1776574521601-97479",
         "date": "2025-10-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -214,7 +233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97480",
+        "id": "contrib-1776574521601-97480",
         "date": "2025-11-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -229,8 +248,53 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492090-97481",
+        "id": "contrib-1776574521601-97481",
         "date": "2025-12-19 00:00:00",
+        "amount": 105.19,
+        "contributor_name": "Don Damron",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Kokomo",
+        "address_state": "IN",
+        "address_zip": "46901",
+        "recipient_committee": "1881 Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521785-22454",
+        "date": "2026-01-19 00:00:00",
+        "amount": 105.19,
+        "contributor_name": "Don Damron",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Kokomo",
+        "address_state": "IN",
+        "address_zip": "46901",
+        "recipient_committee": "1881 Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521785-22455",
+        "date": "2026-02-19 00:00:00",
+        "amount": 105.19,
+        "contributor_name": "Don Damron",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Kokomo",
+        "address_state": "IN",
+        "address_zip": "46901",
+        "recipient_committee": "1881 Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521785-22456",
+        "date": "2026-03-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
         "contributor_type": "individual",

@@ -3,35 +3,39 @@
   "office": "STATE SENATOR",
   "district": "State Senator, District 38",
   "totals": {
-    "total_raised": "64453.60",
-    "total_contributions": 95
+    "total_raised": "581568.15",
+    "total_contributions": 283
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 15,
-      "total": "9300.97"
+      "count": 25,
+      "total": "22200.97"
     },
     "individual": {
-      "count": 54,
-      "total": "26952.63"
+      "count": 179,
+      "total": "119313.03"
     },
     "committee": {
-      "count": 26,
-      "total": "28200.00"
+      "count": 79,
+      "total": "440054.15"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 63,
-      "total": "19150.00"
+      "count": 175,
+      "total": "59987.72"
     },
     "large": {
-      "count": 29,
-      "total": "45183.60"
+      "count": 85,
+      "total": "169288.75"
     },
     "small": {
-      "count": 3,
-      "total": "120.00"
+      "count": 10,
+      "total": "399.12"
+    },
+    "mega": {
+      "count": 13,
+      "total": "351892.56"
     }
   },
   "by_month": {
@@ -62,6 +66,22 @@
     "2025-09": {
       "count": 2,
       "total": "1020.00"
+    },
+    "2026-04": {
+      "count": 52,
+      "total": "66024.77"
+    },
+    "2026-03": {
+      "count": 108,
+      "total": "373939.78"
+    },
+    "2026-02": {
+      "count": 20,
+      "total": "56900.00"
+    },
+    "2026-01": {
+      "count": 8,
+      "total": "20250.00"
     }
   },
   "candidates": [
@@ -70,8 +90,8 @@
       "name": "Gregory Justin Goode",
       "party": "Republican",
       "totals": {
-        "total_raised": "64453.60",
-        "total_contributions": 95
+        "total_raised": "581568.15",
+        "total_contributions": 283
       },
       "by_month": {
         "2025-06": {
@@ -101,6 +121,22 @@
         "2025-09": {
           "count": 2,
           "total": "1020.00"
+        },
+        "2026-04": {
+          "count": 52,
+          "total": "66024.77"
+        },
+        "2026-03": {
+          "count": 108,
+          "total": "373939.78"
+        },
+        "2026-02": {
+          "count": 20,
+          "total": "56900.00"
+        },
+        "2026-01": {
+          "count": 8,
+          "total": "20250.00"
         }
       }
     }

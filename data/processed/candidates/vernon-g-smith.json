@@ -6,23 +6,23 @@
   "district": "State Representative, District 014",
   "party": "Democratic",
   "totals": {
-    "total_raised": "5800.00",
-    "total_contributions": 11,
-    "total_itemized": 10,
-    "total_unitemized": 1
+    "total_raised": "6500.00",
+    "total_contributions": 13,
+    "total_itemized": 11,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 2,
+      "total": "2200.00"
     },
     "corporate": {
       "count": 1,
       "total": "300.00"
     },
     "individual": {
-      "count": 5,
-      "total": "1400.00"
+      "count": 6,
+      "total": "1900.00"
     },
     "committee": {
       "count": 4,
@@ -35,8 +35,8 @@
       "total": "3000.00"
     },
     "medium": {
-      "count": 9,
-      "total": "2800.00"
+      "count": 11,
+      "total": "3500.00"
     }
   },
   "by_month": {
@@ -59,11 +59,19 @@
     "2025-08": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969491995-26597",
+      "id": "contrib-1776574521527-26597",
       "date": "2025-07-11 00:00:00",
       "amount": 2000,
       "candidate_name": "VERNON G. SMITH",
@@ -79,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26598",
+      "id": "contrib-1776574521527-26598",
       "date": "2025-10-23 00:00:00",
       "amount": 300,
       "candidate_name": "VERNON G. SMITH",
@@ -95,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26599",
+      "id": "contrib-1776574521527-26599",
       "date": "2025-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "VERNON G. SMITH",
@@ -111,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26600",
+      "id": "contrib-1776574521527-26600",
       "date": "2025-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "VERNON G. SMITH",
@@ -127,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26601",
+      "id": "contrib-1776574521527-26601",
       "date": "2025-07-06 00:00:00",
       "amount": 200,
       "candidate_name": "VERNON G. SMITH",
@@ -143,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26602",
+      "id": "contrib-1776574521527-26602",
       "date": "2025-11-30 00:00:00",
       "amount": 300,
       "candidate_name": "VERNON G. SMITH",
@@ -159,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26603",
+      "id": "contrib-1776574521527-26603",
       "date": "2025-06-23 00:00:00",
       "amount": 300,
       "candidate_name": "VERNON G. SMITH",
@@ -175,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26604",
+      "id": "contrib-1776574521527-26604",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "VERNON G. SMITH",
@@ -191,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26605",
+      "id": "contrib-1776574521527-26605",
       "date": "2025-07-15 00:00:00",
       "amount": 1000,
       "candidate_name": "VERNON G. SMITH",
@@ -207,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26606",
+      "id": "contrib-1776574521527-26606",
       "date": "2025-08-17 00:00:00",
       "amount": 500,
       "candidate_name": "VERNON G. SMITH",
@@ -223,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491995-26607",
+      "id": "contrib-1776574521527-26607",
       "date": "2025-07-29 00:00:00",
       "amount": 500,
       "candidate_name": "VERNON G. SMITH",
@@ -235,6 +243,38 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "COMMITTEE TO ELECT DR. VERNON G. SMITH ST. REP.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521774-7362",
+      "date": "2026-04-03 00:00:00",
+      "amount": 200,
+      "candidate_name": "VERNON G. SMITH",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "COMMITTEE TO ELECT DR. VERNON G. SMITH ST. REP.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521774-7363",
+      "date": "2026-03-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "VERNON G. SMITH",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
       "recipient_committee": "COMMITTEE TO ELECT DR. VERNON G. SMITH ST. REP.",
       "source": "indiana"
     }

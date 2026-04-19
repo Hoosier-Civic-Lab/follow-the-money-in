@@ -1,48 +1,490 @@
 {
   "id": "builders-association-of-greater-lafayette-pac",
-  "name": "Builders Association of Greater Lafayette PAC",
+  "name": "Builder's Association of Greater Lafayette PAC",
   "totals": {
-    "total_given": "500.00",
+    "total_given": "1000.00",
     "total_contributions": 1,
     "candidates_supported": 1
   },
   "by_contribution_size": {
-    "medium": {
+    "large": {
       "count": 1,
-      "total": "500.00"
+      "total": "1000.00"
     }
   },
   "by_month": {
-    "2025-08": {
+    "2026-03": {
       "count": 1,
-      "total": "500.00"
+      "total": "1000.00"
     }
   },
   "top_recipients": [
     {
-      "id": "matthew-scott-commons",
-      "name": "Matthew Scott Commons",
-      "total": "500.00",
+      "id": "linda-lee-rogers",
+      "name": "Linda Lee Rogers",
+      "total": "1000.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492087-94128",
-      "date": "2025-08-23 00:00:00",
-      "amount": 500,
-      "candidate_name": "Matthew Scott Commons",
-      "contributor_name": "Builders Association of Greater Lafayette PAC",
+      "id": "contrib-1776574521780-16140",
+      "date": "2026-03-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Linda Lee Rogers",
+      "contributor_name": "Builder's Association of Greater Lafayette PAC",
       "contributor_type": "committee",
-      "contribution_size": "medium",
+      "contribution_size": "large",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "Lafayette",
       "address_state": "IN",
       "address_zip": "47902",
-      "recipient_committee": "Committee to Elect Matt Commons",
+      "recipient_committee": "Linda Rogers for State Senate",
       "source": "indiana"
     }
   ],
-  "receipts": null
+  "receipts": {
+    "total_raised": "16330.00",
+    "total_contributions": 24,
+    "unique_donors": 19,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 4,
+        "total": "2270.00"
+      },
+      "individual": {
+        "count": 18,
+        "total": "13560.00"
+      },
+      "corporate": {
+        "count": 2,
+        "total": "500.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "2270.00",
+        "count": 4
+      },
+      {
+        "name": "Ryan  Kennedy",
+        "type": "individual",
+        "total": "1500.00",
+        "count": 1
+      },
+      {
+        "name": "BRIAN KERKHOFF",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "CUMBERLINE SELF STORAGE",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "DILDEN WELL DRILLING",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "FOLEY FOUNDATIONS",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "HENRY POOR LUMBER",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "Kimbarlin",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "MAJESTIC HOMES",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
+        "name": "MILAKIS HOMES",
+        "type": "individual",
+        "total": "1000.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1776574521534-31471",
+        "date": "2025-04-09 00:00:00",
+        "amount": 220,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31472",
+        "date": "2025-04-09 00:00:00",
+        "amount": 500,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31473",
+        "date": "2025-09-25 00:00:00",
+        "amount": 1300,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31474",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "BRIAN KERKHOFF",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "WEST LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31475",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "DAVID KOVICH",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47905",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31476",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "Mary C Ellis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31477",
+        "date": "2025-07-15 00:00:00",
+        "amount": 1500,
+        "contributor_name": "Ryan  Kennedy",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "West Lafayette",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31478",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "Travis Duell",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "West Lafayette",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31479",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "BROOKHAVEN HOMES LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47903",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31480",
+        "date": "2025-08-30 00:00:00",
+        "amount": 500,
+        "contributor_name": "CROWN LINE HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31481",
+        "date": "2025-09-06 00:00:00",
+        "amount": 1000,
+        "contributor_name": "CUMBERLINE SELF STORAGE",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE ",
+        "address_state": "IN",
+        "address_zip": "47904",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31482",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "DILDEN WELL DRILLING",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47904",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31483",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "FOLEY FOUNDATIONS",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31484",
+        "date": "2025-09-06 00:00:00",
+        "amount": 1000,
+        "contributor_name": "HENRY POOR LUMBER",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE ",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31485",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "KENNEDY HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WEST LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31486",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Kimbarlin",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31487",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "MAJESTIC HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31488",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "MILAKIS HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31489",
+        "date": "2025-08-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Tempest Homes",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette ",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31490",
+        "date": "2025-08-30 00:00:00",
+        "amount": 500,
+        "contributor_name": "TIPPECANOE DEVELOPMENT",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31491",
+        "date": "2025-08-30 00:00:00",
+        "amount": 250,
+        "contributor_name": "VESTER & ASSOCIATES",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47901",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521534-31492",
+        "date": "2025-09-06 00:00:00",
+        "amount": 1000,
+        "contributor_name": "WEBER CONCRETE",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ZIONSVILLE",
+        "address_state": "IN",
+        "address_zip": "46077",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9018",
+        "date": "2026-03-28 00:00:00",
+        "amount": 250,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9019",
+        "date": "2026-03-28 00:00:00",
+        "amount": 60,
+        "contributor_name": "Mary C Ellis",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      }
+    ]
+  }
 }

@@ -2,14 +2,14 @@
   "id": "nfib-indiana-pac",
   "name": "NFIB Indiana PAC",
   "totals": {
-    "total_given": "3050.00",
-    "total_contributions": 10,
+    "total_given": "3550.00",
+    "total_contributions": 11,
     "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
-      "count": 10,
-      "total": "3050.00"
+      "count": 11,
+      "total": "3550.00"
     }
   },
   "by_month": {
@@ -32,14 +32,18 @@
     "2025-06": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
     {
       "id": "linda-lee-rogers",
       "name": "Linda Lee Rogers",
-      "total": "300.00",
-      "count": 1
+      "total": "800.00",
+      "count": 2
     },
     {
       "id": "ethan-j-lawson",
@@ -68,7 +72,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6326",
+      "id": "contrib-1776574521501-6326",
       "date": "2025-11-06 00:00:00",
       "amount": 350,
       "contributor_name": "NFIB Indiana PAC",
@@ -83,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-6327",
+      "id": "contrib-1776574521501-6327",
       "date": "2025-12-17 00:00:00",
       "amount": 350,
       "contributor_name": "NFIB Indiana PAC",
@@ -98,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491961-6636",
+      "id": "contrib-1776574521502-6636",
       "date": "2025-12-29 00:00:00",
       "amount": 350,
       "contributor_name": "NFIB Indiana PAC",
@@ -113,7 +117,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12412",
+      "id": "contrib-1776574521506-12412",
       "date": "2025-09-12 00:00:00",
       "amount": 500,
       "contributor_name": "NFIB Indiana PAC",
@@ -128,7 +132,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12413",
+      "id": "contrib-1776574521506-12413",
       "date": "2025-12-18 00:00:00",
       "amount": 500,
       "contributor_name": "NFIB Indiana PAC",
@@ -143,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492069-81736",
+      "id": "contrib-1776574521585-81736",
       "date": "2025-09-22 00:00:00",
       "amount": 300,
       "candidate_name": "Linda Lee Rogers",
@@ -159,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82758",
+      "id": "contrib-1776574521585-82758",
       "date": "2025-08-12 00:00:00",
       "amount": 100,
       "candidate_name": "Stephen Russel Bartels",
@@ -175,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91387",
+      "id": "contrib-1776574521597-91387",
       "date": "2025-06-08 00:00:00",
       "amount": 200,
       "candidate_name": "Robert Richard Greene III",
@@ -191,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492085-91530",
+      "id": "contrib-1776574521597-91530",
       "date": "2025-08-11 00:00:00",
       "amount": 100,
       "candidate_name": "Cory Joe Criswell",
@@ -207,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492089-95562",
+      "id": "contrib-1776574521600-95562",
       "date": "2025-09-03 00:00:00",
       "amount": 300,
       "candidate_name": "ETHAN J LAWSON",
@@ -220,6 +224,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "ETHAN LAWSON FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16166",
+      "date": "2026-03-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Linda Lee Rogers",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Linda Rogers for State Senate",
       "source": "indiana"
     }
   ],

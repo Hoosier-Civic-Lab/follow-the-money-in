@@ -2,14 +2,14 @@
   "id": "indiana-healthcare-pac",
   "name": "Indiana Healthcare Pac",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 6,
+    "total_given": "4000.00",
+    "total_contributions": 7,
     "candidates_supported": 6
   },
   "by_contribution_size": {
     "medium": {
-      "count": 5,
-      "total": "2500.00"
+      "count": 6,
+      "total": "3000.00"
     },
     "large": {
       "count": 1,
@@ -40,6 +40,10 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -50,14 +54,14 @@
       "count": 1
     },
     {
-      "id": "robert-behning",
-      "name": "ROBERT BEHNING",
-      "total": "500.00",
-      "count": 1
-    },
-    {
       "id": "martin-j-carbaugh",
       "name": "Martin J Carbaugh",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "robert-behning",
+      "name": "ROBERT BEHNING",
       "total": "500.00",
       "count": 1
     },
@@ -82,7 +86,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491996-27151",
+      "id": "contrib-1776574521528-27151",
       "date": "2025-12-19 00:00:00",
       "amount": 500,
       "candidate_name": "ROBERT BEHNING",
@@ -98,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492050-64266",
+      "id": "contrib-1776574521570-64266",
       "date": "2025-10-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Jean Leising",
@@ -114,7 +118,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67304",
+      "id": "contrib-1776574521576-67304",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -130,7 +134,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492065-77587",
+      "id": "contrib-1776574521581-77587",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Benjamin Charles Smaltz",
@@ -146,7 +150,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-79483",
+      "id": "contrib-1776574521583-79483",
       "date": "2025-06-19 00:00:00",
       "amount": 500,
       "candidate_name": "Andy R Zay",
@@ -162,7 +166,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80166",
+      "id": "contrib-1776574521584-80166",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Aaron Michael Freeman",
@@ -175,6 +179,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Freeman for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-11213",
+      "date": "2026-04-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana Healthcare PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
       "source": "indiana"
     }
   ],

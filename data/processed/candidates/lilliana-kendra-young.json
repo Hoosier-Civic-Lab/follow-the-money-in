@@ -6,19 +6,19 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "3273.84",
-    "total_contributions": 5,
-    "total_itemized": 4,
-    "total_unitemized": 1
+    "total_raised": "5811.84",
+    "total_contributions": 11,
+    "total_itemized": 9,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "1065.84"
+      "count": 2,
+      "total": "1499.84"
     },
     "individual": {
-      "count": 4,
-      "total": "2208.00"
+      "count": 9,
+      "total": "4312.00"
     }
   },
   "by_contribution_size": {
@@ -27,8 +27,8 @@
       "total": "3065.84"
     },
     "medium": {
-      "count": 2,
-      "total": "208.00"
+      "count": 8,
+      "total": "2746.00"
     }
   },
   "by_month": {
@@ -51,11 +51,23 @@
     "2025-11": {
       "count": 1,
       "total": "100.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "434.00"
+    },
+    "2026-03": {
+      "count": 4,
+      "total": "1400.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "704.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492092-99722",
+      "id": "contrib-1776574521603-99722",
       "date": "2025-12-31 00:00:00",
       "amount": 1065.84,
       "candidate_name": "Lilliana Kendra Young",
@@ -71,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-99723",
+      "id": "contrib-1776574521603-99723",
       "date": "2025-10-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Lilliana Kendra Young",
@@ -87,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-99724",
+      "id": "contrib-1776574521603-99724",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Lilliana Kendra Young",
@@ -103,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-99725",
+      "id": "contrib-1776574521603-99725",
       "date": "2025-09-30 00:00:00",
       "amount": 108,
       "candidate_name": "Lilliana Kendra Young",
@@ -119,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-99726",
+      "id": "contrib-1776574521603-99726",
       "date": "2025-11-10 00:00:00",
       "amount": 100,
       "candidate_name": "Lilliana Kendra Young",
@@ -131,6 +143,102 @@
       "address_city": "Dallas",
       "address_state": "TX",
       "address_zip": "75228",
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25337",
+      "date": "2026-04-10 00:00:00",
+      "amount": 434,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25338",
+      "date": "2026-03-03 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "Alexander Bond",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Solsberry",
+      "address_state": "IN",
+      "address_zip": "47459",
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25339",
+      "date": "2026-03-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "Cali Matthews",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Buena Park",
+      "address_state": "CA",
+      "address_zip": "90620",
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25340",
+      "date": "2026-03-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "Cali Matthews",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Buena Park",
+      "address_state": "CA",
+      "address_zip": "90620",
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25341",
+      "date": "2026-03-13 00:00:00",
+      "amount": 600,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "Cali Matthews",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Buena Park",
+      "address_state": "CA",
+      "address_zip": "90620",
+      "recipient_committee": "Friends of Lilliana Young",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25342",
+      "date": "2026-02-04 00:00:00",
+      "amount": 704,
+      "candidate_name": "Lilliana Kendra Young",
+      "contributor_name": "Cali Matthews",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Buena Park",
+      "address_state": "CA",
+      "address_zip": "90620",
       "recipient_committee": "Friends of Lilliana Young",
       "source": "indiana"
     }

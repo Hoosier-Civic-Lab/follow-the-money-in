@@ -2,30 +2,38 @@
   "id": "carmel-fop-lodge-185-pac",
   "name": "Carmel FOP Lodge 185 PAC",
   "totals": {
-    "total_given": "3890.42",
-    "total_contributions": 2,
+    "total_given": "5096.42",
+    "total_contributions": 4,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "3728.00"
+      "count": 2,
+      "total": "4896.00"
     },
     "medium": {
       "count": 1,
       "total": "162.42"
+    },
+    "small": {
+      "count": 1,
+      "total": "38.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 2,
       "total": "3890.42"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "1206.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1775969492006-33781",
+      "id": "contrib-1776574521535-33781",
       "date": "2025-12-31 00:00:00",
       "amount": 3728,
       "contributor_name": "Carmel FOP Lodge 185 PAC",
@@ -40,12 +48,42 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492006-33782",
+      "id": "contrib-1776574521535-33782",
       "date": "2025-12-31 00:00:00",
       "amount": 162.42,
       "contributor_name": "Carmel FOP Lodge 185 PAC",
       "contributor_type": "committee",
       "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Carmel Fraternal Order of Police Lodge 185 Political Action Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9614",
+      "date": "2026-04-10 00:00:00",
+      "amount": 1168,
+      "contributor_name": "Carmel FOP Lodge 185 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Carmel Fraternal Order of Police Lodge 185 Political Action Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9615",
+      "date": "2026-04-10 00:00:00",
+      "amount": 38,
+      "contributor_name": "Carmel FOP Lodge 185 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "small",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "Carmel",

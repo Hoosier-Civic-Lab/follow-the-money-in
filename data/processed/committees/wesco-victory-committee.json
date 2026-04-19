@@ -2,26 +2,47 @@
   "id": "wesco-victory-committee",
   "name": "Wesco Victory Committee",
   "totals": {
-    "total_given": "377.67",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "1877.67",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
+      "count": 2,
+      "total": "877.67"
+    },
+    "large": {
       "count": 1,
-      "total": "377.67"
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-11": {
       "count": 1,
       "total": "377.67"
+    },
+    "2026-03": {
+      "count": 2,
+      "total": "1500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "linda-lee-rogers",
+      "name": "Linda Lee Rogers",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "john-nathanael-reed",
+      "name": "John Nathanael Reed",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6173",
+      "id": "contrib-1776574521501-6173",
       "date": "2025-11-25 00:00:00",
       "amount": 377.67,
       "contributor_name": "Wesco Victory Committee",
@@ -34,20 +55,52 @@
       "address_zip": "46561",
       "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-16133",
+      "date": "2026-03-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Linda Lee Rogers",
+      "contributor_name": "Wesco Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Osceola",
+      "address_state": "IN",
+      "address_zip": "46561",
+      "recipient_committee": "Linda Rogers for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28710",
+      "date": "2026-03-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Wesco Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Osceola",
+      "address_state": "IN",
+      "address_zip": "46561",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "28129.02",
-    "total_contributions": 35,
-    "unique_donors": 33,
+    "total_raised": "29129.02",
+    "total_contributions": 36,
+    "unique_donors": 34,
     "by_contributor_type": {
       "unitemized": {
         "count": 1,
         "total": "580.02"
       },
       "corporate": {
-        "count": 5,
-        "total": "1900.00"
+        "count": 6,
+        "total": "2900.00"
       },
       "individual": {
         "count": 13,
@@ -122,7 +175,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492053-65073",
+        "id": "contrib-1776574521572-65073",
         "date": "2025-10-25 00:00:00",
         "amount": 580.02,
         "candidate_name": "Timothy Wesco",
@@ -138,7 +191,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65074",
+        "id": "contrib-1776574521572-65074",
         "date": "2025-10-23 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -154,7 +207,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65075",
+        "id": "contrib-1776574521572-65075",
         "date": "2025-10-25 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -170,7 +223,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65076",
+        "id": "contrib-1776574521572-65076",
         "date": "2025-11-04 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -186,7 +239,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65077",
+        "id": "contrib-1776574521572-65077",
         "date": "2025-10-25 00:00:00",
         "amount": 250,
         "candidate_name": "Timothy Wesco",
@@ -202,7 +255,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65078",
+        "id": "contrib-1776574521572-65078",
         "date": "2025-11-04 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -218,7 +271,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65079",
+        "id": "contrib-1776574521572-65079",
         "date": "2025-10-14 00:00:00",
         "amount": 5000,
         "candidate_name": "Timothy Wesco",
@@ -234,7 +287,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65080",
+        "id": "contrib-1776574521572-65080",
         "date": "2025-11-10 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -250,7 +303,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65081",
+        "id": "contrib-1776574521572-65081",
         "date": "2025-10-25 00:00:00",
         "amount": 200,
         "candidate_name": "Timothy Wesco",
@@ -266,7 +319,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65082",
+        "id": "contrib-1776574521572-65082",
         "date": "2025-10-25 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -282,7 +335,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65083",
+        "id": "contrib-1776574521572-65083",
         "date": "2025-10-25 00:00:00",
         "amount": 200,
         "candidate_name": "Timothy Wesco",
@@ -298,7 +351,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65084",
+        "id": "contrib-1776574521572-65084",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -314,7 +367,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65085",
+        "id": "contrib-1776574521572-65085",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -330,7 +383,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65086",
+        "id": "contrib-1776574521572-65086",
         "date": "2025-10-04 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -346,7 +399,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65087",
+        "id": "contrib-1776574521572-65087",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -362,7 +415,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65088",
+        "id": "contrib-1776574521572-65088",
         "date": "2025-11-14 00:00:00",
         "amount": 799,
         "candidate_name": "Timothy Wesco",
@@ -378,7 +431,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65089",
+        "id": "contrib-1776574521572-65089",
         "date": "2025-12-31 00:00:00",
         "amount": 5000,
         "candidate_name": "Timothy Wesco",
@@ -394,7 +447,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65090",
+        "id": "contrib-1776574521572-65090",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -410,7 +463,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65091",
+        "id": "contrib-1776574521572-65091",
         "date": "2025-11-13 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -426,7 +479,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65092",
+        "id": "contrib-1776574521572-65092",
         "date": "2025-07-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -442,7 +495,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65093",
+        "id": "contrib-1776574521572-65093",
         "date": "2025-10-14 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -458,7 +511,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65094",
+        "id": "contrib-1776574521572-65094",
         "date": "2025-10-14 00:00:00",
         "amount": 350,
         "candidate_name": "Timothy Wesco",
@@ -474,7 +527,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65095",
+        "id": "contrib-1776574521572-65095",
         "date": "2025-06-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -490,7 +543,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65096",
+        "id": "contrib-1776574521572-65096",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -506,7 +559,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65097",
+        "id": "contrib-1776574521572-65097",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -522,7 +575,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65098",
+        "id": "contrib-1776574521572-65098",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -538,7 +591,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65099",
+        "id": "contrib-1776574521572-65099",
         "date": "2025-11-25 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -554,7 +607,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65100",
+        "id": "contrib-1776574521572-65100",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -570,7 +623,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65101",
+        "id": "contrib-1776574521572-65101",
         "date": "2025-10-17 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -586,7 +639,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65102",
+        "id": "contrib-1776574521572-65102",
         "date": "2025-10-14 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -602,7 +655,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65103",
+        "id": "contrib-1776574521572-65103",
         "date": "2025-10-14 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -618,7 +671,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65104",
+        "id": "contrib-1776574521572-65104",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "candidate_name": "Timothy Wesco",
@@ -634,7 +687,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65105",
+        "id": "contrib-1776574521572-65105",
         "date": "2025-11-10 00:00:00",
         "amount": 300,
         "candidate_name": "Timothy Wesco",
@@ -650,7 +703,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65106",
+        "id": "contrib-1776574521572-65106",
         "date": "2025-10-14 00:00:00",
         "amount": 750,
         "candidate_name": "Timothy Wesco",
@@ -666,7 +719,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492053-65107",
+        "id": "contrib-1776574521572-65107",
         "date": "2025-12-31 00:00:00",
         "amount": 1000,
         "candidate_name": "Timothy Wesco",
@@ -678,6 +731,22 @@
         "address_city": "Columbus",
         "address_state": "OH",
         "address_zip": "43215",
+        "recipient_committee": "Wesco Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521777-10817",
+        "date": "2026-01-15 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Timothy Wesco",
+        "contributor_name": "Charter Communications Operating, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "St. Louis",
+        "address_state": "MO",
+        "address_zip": "63131-3674",
         "recipient_committee": "Wesco Victory Committee",
         "source": "indiana"
       }

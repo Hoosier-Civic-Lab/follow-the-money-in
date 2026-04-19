@@ -6,25 +6,37 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "1014.18",
-    "total_contributions": 13,
-    "total_itemized": 13,
+    "total_raised": "2817.93",
+    "total_contributions": 19,
+    "total_itemized": 19,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
       "count": 13,
       "total": "1014.18"
+    },
+    "individual": {
+      "count": 5,
+      "total": "803.75"
+    },
+    "committee": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     },
     "small": {
-      "count": 12,
-      "total": "14.18"
+      "count": 15,
+      "total": "17.93"
+    },
+    "medium": {
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_month": {
@@ -75,11 +87,23 @@
     "2025-12": {
       "count": 1,
       "total": "1.26"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "1.14"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "1.25"
+    },
+    "2026-03": {
+      "count": 4,
+      "total": "1801.36"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492084-90739",
+      "id": "contrib-1776574521596-90739",
       "date": "2025-11-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Lorissa Christine Sweet",
@@ -95,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90740",
+      "id": "contrib-1776574521596-90740",
       "date": "2025-02-28 00:00:00",
       "amount": 1.12,
       "candidate_name": "Lorissa Christine Sweet",
@@ -111,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90741",
+      "id": "contrib-1776574521596-90741",
       "date": "2025-06-30 00:00:00",
       "amount": 1.15,
       "candidate_name": "Lorissa Christine Sweet",
@@ -127,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90742",
+      "id": "contrib-1776574521596-90742",
       "date": "2025-09-30 00:00:00",
       "amount": 1.15,
       "candidate_name": "Lorissa Christine Sweet",
@@ -143,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90743",
+      "id": "contrib-1776574521596-90743",
       "date": "2025-04-30 00:00:00",
       "amount": 1.16,
       "candidate_name": "Lorissa Christine Sweet",
@@ -159,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90744",
+      "id": "contrib-1776574521596-90744",
       "date": "2025-05-31 00:00:00",
       "amount": 1.18,
       "candidate_name": "Lorissa Christine Sweet",
@@ -175,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90745",
+      "id": "contrib-1776574521596-90745",
       "date": "2025-07-31 00:00:00",
       "amount": 1.18,
       "candidate_name": "Lorissa Christine Sweet",
@@ -191,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90746",
+      "id": "contrib-1776574521596-90746",
       "date": "2025-08-31 00:00:00",
       "amount": 1.18,
       "candidate_name": "Lorissa Christine Sweet",
@@ -207,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90747",
+      "id": "contrib-1776574521596-90747",
       "date": "2025-10-31 00:00:00",
       "amount": 1.18,
       "candidate_name": "Lorissa Christine Sweet",
@@ -223,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90748",
+      "id": "contrib-1776574521596-90748",
       "date": "2025-11-30 00:00:00",
       "amount": 1.18,
       "candidate_name": "Lorissa Christine Sweet",
@@ -239,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90749",
+      "id": "contrib-1776574521596-90749",
       "date": "2025-03-31 00:00:00",
       "amount": 1.21,
       "candidate_name": "Lorissa Christine Sweet",
@@ -255,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90750",
+      "id": "contrib-1776574521596-90750",
       "date": "2025-01-31 00:00:00",
       "amount": 1.23,
       "candidate_name": "Lorissa Christine Sweet",
@@ -271,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492084-90751",
+      "id": "contrib-1776574521596-90751",
       "date": "2025-12-31 00:00:00",
       "amount": 1.26,
       "candidate_name": "Lorissa Christine Sweet",
@@ -283,6 +307,102 @@
       "address_city": "Wabash",
       "address_state": "IN",
       "address_zip": "46992",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20007",
+      "date": "2026-02-28 00:00:00",
+      "amount": 1.14,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "Crossroads Bank",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wabash",
+      "address_state": "IN",
+      "address_zip": "46992",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20008",
+      "date": "2026-01-31 00:00:00",
+      "amount": 1.25,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "Crossroads Bank",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wabash",
+      "address_state": "IN",
+      "address_zip": "46992",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20009",
+      "date": "2026-03-31 00:00:00",
+      "amount": 1.36,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "Crossroads Bank",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wabash",
+      "address_state": "IN",
+      "address_zip": "46992",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20010",
+      "date": "2026-03-03 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "INDIANA BANKPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20011",
+      "date": "2026-03-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "INDIANA MULTI-FAMILY HOUSING",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Lorissa Sweet",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20012",
+      "date": "2026-03-31 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lorissa Christine Sweet",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Friends of Lorissa Sweet",
       "source": "indiana"
     }

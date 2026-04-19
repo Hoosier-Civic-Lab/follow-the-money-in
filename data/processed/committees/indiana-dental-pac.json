@@ -2,14 +2,14 @@
   "id": "indiana-dental-pac",
   "name": "Indiana Dental PAC",
   "totals": {
-    "total_given": "11500.00",
-    "total_contributions": 9,
+    "total_given": "12500.00",
+    "total_contributions": 10,
     "candidates_supported": 8
   },
   "by_contribution_size": {
     "large": {
-      "count": 8,
-      "total": "11000.00"
+      "count": 9,
+      "total": "12000.00"
     },
     "medium": {
       "count": 1,
@@ -44,6 +44,10 @@
     "2025-08": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -58,6 +62,12 @@
       "name": "Elizabeth  Marie Brown",
       "total": "2000.00",
       "count": 1
+    },
+    {
+      "id": "jeffrey-s-raatz",
+      "name": "Jeffrey S Raatz",
+      "total": "2000.00",
+      "count": 2
     },
     {
       "id": "tyler-guthrie-johnson",
@@ -78,12 +88,6 @@
       "count": 1
     },
     {
-      "id": "jeffrey-s-raatz",
-      "name": "Jeffrey S Raatz",
-      "total": "1000.00",
-      "count": 1
-    },
-    {
       "id": "justin-thomas-busch",
       "name": "Justin Thomas Busch",
       "total": "1000.00",
@@ -98,7 +102,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492006-34204",
+      "id": "contrib-1776574521535-34204",
       "date": "2025-06-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -114,7 +118,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492006-34205",
+      "id": "contrib-1776574521535-34205",
       "date": "2025-07-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -130,7 +134,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492050-64263",
+      "id": "contrib-1776574521570-64263",
       "date": "2025-10-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Jean Leising",
@@ -146,7 +150,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492066-78645",
+      "id": "contrib-1776574521583-78645",
       "date": "2025-09-11 00:00:00",
       "amount": 2000,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -162,7 +166,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492066-78748",
+      "id": "contrib-1776574521583-78748",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Jeffrey S Raatz",
@@ -178,7 +182,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80101",
+      "id": "contrib-1776574521584-80101",
       "date": "2025-06-24 00:00:00",
       "amount": 500,
       "candidate_name": "Dave Allen Heine",
@@ -194,7 +198,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83429",
+      "id": "contrib-1776574521586-83429",
       "date": "2025-12-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Justin Thomas Busch",
@@ -210,7 +214,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492083-90130",
+      "id": "contrib-1776574521596-90130",
       "date": "2025-11-12 00:00:00",
       "amount": 2000,
       "candidate_name": "Tyler Guthrie Johnson",
@@ -226,7 +230,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492087-94254",
+      "id": "contrib-1776574521599-94254",
       "date": "2025-08-12 00:00:00",
       "amount": 2000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -239,6 +243,22 @@
       "address_state": "IN",
       "address_zip": "46202",
       "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521779-14935",
+      "date": "2026-03-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jeffrey S Raatz",
+      "contributor_name": "INDIANA DENTAL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Raatz for Indiana State Senate Committee",
       "source": "indiana"
     }
   ],

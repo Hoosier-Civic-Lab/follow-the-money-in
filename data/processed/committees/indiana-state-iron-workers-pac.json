@@ -2,9 +2,9 @@
   "id": "indiana-state-iron-workers-pac",
   "name": "Indiana State Iron Workers PAC",
   "totals": {
-    "total_given": "18000.00",
-    "total_contributions": 11,
-    "candidates_supported": 10
+    "total_given": "28000.00",
+    "total_contributions": 12,
+    "candidates_supported": 11
   },
   "by_contribution_size": {
     "large": {
@@ -14,6 +14,10 @@
     "medium": {
       "count": 6,
       "total": "3000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -32,9 +36,19 @@
     "2025-07": {
       "count": 2,
       "total": "1500.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "gregory-justin-goode",
+      "name": "Gregory Justin Goode",
+      "total": "10000.00",
+      "count": 1
+    },
     {
       "id": "edmond-lewis-soliday",
       "name": "Edmond Lewis Soliday",
@@ -98,7 +112,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492006-34217",
+      "id": "contrib-1776574521535-34217",
       "date": "2025-06-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -114,7 +128,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492047-63038",
+      "id": "contrib-1776574521567-63038",
       "date": "2025-10-22 00:00:00",
       "amount": 1500,
       "candidate_name": "Edmond Lewis Soliday",
@@ -130,7 +144,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492047-63039",
+      "id": "contrib-1776574521567-63039",
       "date": "2025-12-16 00:00:00",
       "amount": 5000,
       "candidate_name": "Edmond Lewis Soliday",
@@ -146,7 +160,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67499",
+      "id": "contrib-1776574521576-67499",
       "date": "2025-10-09 00:00:00",
       "amount": 6000,
       "candidate_name": "Rodric D Bray",
@@ -162,7 +176,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-80016",
+      "id": "contrib-1776574521584-80016",
       "date": "2025-12-10 00:00:00",
       "amount": 500,
       "candidate_name": "C. Blake Doriot",
@@ -178,7 +192,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492069-81825",
+      "id": "contrib-1776574521585-81825",
       "date": "2025-07-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher Paul Garten",
@@ -194,7 +208,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83726",
+      "id": "contrib-1776574521586-83726",
       "date": "2025-10-27 00:00:00",
       "amount": 500,
       "candidate_name": "Stacey Ann Donato",
@@ -210,7 +224,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492072-84642",
+      "id": "contrib-1776574521587-84642",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -226,7 +240,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492087-93940",
+      "id": "contrib-1776574521599-93940",
       "date": "2025-10-03 00:00:00",
       "amount": 500,
       "candidate_name": "Alaina Kelly Shonkwiler",
@@ -242,7 +256,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492088-95496",
+      "id": "contrib-1776574521600-95496",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Garrett Robert Bascom",
@@ -258,7 +272,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492090-97754",
+      "id": "contrib-1776574521601-97754",
       "date": "2025-12-04 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -271,6 +285,22 @@
       "address_state": "IN",
       "address_zip": "46368",
       "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-21235",
+      "date": "2026-03-10 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Gregory Justin Goode",
+      "contributor_name": "Indiana State Iron Workers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Greg Goode",
       "source": "indiana"
     }
   ],

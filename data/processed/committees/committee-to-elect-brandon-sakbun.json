@@ -2,14 +2,18 @@
   "id": "committee-to-elect-brandon-sakbun",
   "name": "Committee to Elect Brandon Sakbun",
   "totals": {
-    "total_given": "8000.00",
-    "total_contributions": 3,
+    "total_given": "18000.00",
+    "total_contributions": 4,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
       "count": 3,
       "total": "8000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -24,6 +28,10 @@
     "2025-08": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
@@ -36,7 +44,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491952-436",
+      "id": "contrib-1776574521494-436",
       "date": "2025-09-21 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -51,7 +59,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491952-437",
+      "id": "contrib-1776574521494-437",
       "date": "2025-05-12 00:00:00",
       "amount": 2000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -66,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82910",
+      "id": "contrib-1776574521585-82910",
       "date": "2025-08-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -79,6 +87,21 @@
       "address_state": "IN",
       "address_zip": null,
       "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521762-1404",
+      "date": "2026-02-05 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
     }
   ],

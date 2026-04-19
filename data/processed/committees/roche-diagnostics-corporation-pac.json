@@ -2,14 +2,14 @@
   "id": "roche-diagnostics-corporation-pac",
   "name": "Roche Diagnostics Corporation PAC",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 9,
+    "total_given": "5500.00",
+    "total_contributions": 10,
     "candidates_supported": 9
   },
   "by_contribution_size": {
     "medium": {
-      "count": 8,
-      "total": "4000.00"
+      "count": 9,
+      "total": "4500.00"
     },
     "large": {
       "count": 1,
@@ -32,9 +32,19 @@
     "2025-10": {
       "count": 2,
       "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "philip-kelly-giaquinta",
+      "name": "Philip Kelly GiaQuinta",
+      "total": "1000.00",
+      "count": 2
+    },
     {
       "id": "travis-linn-holdman",
       "name": "Travis Linn Holdman",
@@ -44,12 +54,6 @@
     {
       "id": "gregory-porter",
       "name": "GREGORY PORTER",
-      "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "philip-kelly-giaquinta",
-      "name": "Philip Kelly GiaQuinta",
       "total": "500.00",
       "count": 1
     },
@@ -92,7 +96,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491996-27243",
+      "id": "contrib-1776574521528-27243",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "GREGORY PORTER",
@@ -108,7 +112,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492006-34230",
+      "id": "contrib-1776574521535-34230",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -124,7 +128,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492052-64789",
+      "id": "contrib-1776574521571-64789",
       "date": "2025-11-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Travis Linn Holdman",
@@ -140,7 +144,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492056-67109",
+      "id": "contrib-1776574521576-67109",
       "date": "2025-12-15 00:00:00",
       "amount": 500,
       "candidate_name": "Robin Cheri Shackleford",
@@ -156,7 +160,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492066-78616",
+      "id": "contrib-1776574521582-78616",
       "date": "2025-10-21 00:00:00",
       "amount": 500,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -172,7 +176,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492069-81835",
+      "id": "contrib-1776574521585-81835",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Garten",
@@ -188,7 +192,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83650",
+      "id": "contrib-1776574521586-83650",
       "date": "2025-12-16 00:00:00",
       "amount": 500,
       "candidate_name": "Fady A. Qaddoura",
@@ -204,7 +208,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-84107",
+      "id": "contrib-1776574521586-84107",
       "date": "2025-10-02 00:00:00",
       "amount": 500,
       "candidate_name": "Shelli Renee Yoder",
@@ -220,7 +224,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492083-90113",
+      "id": "contrib-1776574521596-90113",
       "date": "2025-11-09 00:00:00",
       "amount": 500,
       "candidate_name": "Tyler Guthrie Johnson",
@@ -233,6 +237,22 @@
       "address_state": "NJ",
       "address_zip": "7424",
       "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521776-9798",
+      "date": "2026-04-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Roche Diagnostics Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Little Falls",
+      "address_state": "NJ",
+      "address_zip": "07424",
+      "recipient_committee": "GiaQuinta for State Representative",
       "source": "indiana"
     }
   ],

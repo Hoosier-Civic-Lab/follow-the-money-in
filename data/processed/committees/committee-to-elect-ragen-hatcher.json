@@ -2,14 +2,14 @@
   "id": "committee-to-elect-ragen-hatcher",
   "name": "Committee to Elect Ragen Hatcher",
   "totals": {
-    "total_given": "800.00",
-    "total_contributions": 2,
-    "candidates_supported": 0
+    "total_given": "1300.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "800.00"
+      "count": 3,
+      "total": "1300.00"
     }
   },
   "by_month": {
@@ -20,12 +20,23 @@
     "2025-07": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "cherrish-s-pryor",
+      "name": "Cherrish S Pryor",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1775969492067-79688",
+      "id": "contrib-1776574521583-79688",
       "date": "2025-01-01 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Ragen Hatcher",
@@ -40,7 +51,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492083-90255",
+      "id": "contrib-1776574521596-90255",
       "date": "2025-07-03 00:00:00",
       "amount": 300,
       "contributor_name": "Committee to Elect Ragen Hatcher",
@@ -53,24 +64,40 @@
       "address_zip": "46401",
       "recipient_committee": "Indiana Campaign Engagement Political Action Committee",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10536",
+      "date": "2026-03-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Cherrish S Pryor",
+      "contributor_name": "Committee to Elect Ragen Hatcher",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Committee to Elect Cherrish Pryor",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "4480.00",
-    "total_contributions": 12,
-    "unique_donors": 12,
+    "total_raised": "5780.00",
+    "total_contributions": 15,
+    "unique_donors": 15,
     "by_contributor_type": {
       "individual": {
         "count": 6,
         "total": "1680.00"
       },
       "committee": {
-        "count": 5,
-        "total": "2600.00"
+        "count": 6,
+        "total": "3100.00"
       },
       "corporate": {
-        "count": 1,
-        "total": "200.00"
+        "count": 3,
+        "total": "1000.00"
       }
     },
     "top_donors": [
@@ -105,6 +132,18 @@
         "count": 1
       },
       {
+        "name": "Taft Stettinius & Hollister Better Government Fund",
+        "type": "corporate",
+        "total": "500.00",
+        "count": 1
+      },
+      {
+        "name": "NiSource Inc. PAC",
+        "type": "committee",
+        "total": "500.00",
+        "count": 1
+      },
+      {
         "name": "Bose Public Affairs Group",
         "type": "individual",
         "total": "300.00",
@@ -121,23 +160,11 @@
         "type": "committee",
         "total": "300.00",
         "count": 1
-      },
-      {
-        "name": "AFT Indiana Inc Cope Solidarity",
-        "type": "corporate",
-        "total": "200.00",
-        "count": 1
-      },
-      {
-        "name": "Scott Yonover",
-        "type": "individual",
-        "total": "180.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492070-83155",
+        "id": "contrib-1776574521586-83155",
         "date": "2025-07-20 00:00:00",
         "amount": 100,
         "candidate_name": "Ragen Heather Hatcher",
@@ -153,7 +180,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83156",
+        "id": "contrib-1776574521586-83156",
         "date": "2025-07-17 00:00:00",
         "amount": 100,
         "candidate_name": "Ragen Heather Hatcher",
@@ -169,7 +196,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83157",
+        "id": "contrib-1776574521586-83157",
         "date": "2025-07-17 00:00:00",
         "amount": 180,
         "candidate_name": "Ragen Heather Hatcher",
@@ -185,7 +212,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83158",
+        "id": "contrib-1776574521586-83158",
         "date": "2025-06-02 00:00:00",
         "amount": 300,
         "candidate_name": "Ragen Heather Hatcher",
@@ -201,7 +228,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83159",
+        "id": "contrib-1776574521586-83159",
         "date": "2025-07-17 00:00:00",
         "amount": 500,
         "candidate_name": "Ragen Heather Hatcher",
@@ -217,7 +244,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83160",
+        "id": "contrib-1776574521586-83160",
         "date": "2025-06-23 00:00:00",
         "amount": 300,
         "candidate_name": "Ragen Heather Hatcher",
@@ -233,7 +260,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83161",
+        "id": "contrib-1776574521586-83161",
         "date": "2025-07-17 00:00:00",
         "amount": 200,
         "candidate_name": "Ragen Heather Hatcher",
@@ -249,7 +276,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83162",
+        "id": "contrib-1776574521586-83162",
         "date": "2025-07-31 00:00:00",
         "amount": 500,
         "candidate_name": "Ragen Heather Hatcher",
@@ -265,7 +292,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83163",
+        "id": "contrib-1776574521586-83163",
         "date": "2025-07-17 00:00:00",
         "amount": 500,
         "candidate_name": "Ragen Heather Hatcher",
@@ -281,7 +308,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83164",
+        "id": "contrib-1776574521586-83164",
         "date": "2025-06-24 00:00:00",
         "amount": 500,
         "candidate_name": "Ragen Heather Hatcher",
@@ -297,7 +324,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83165",
+        "id": "contrib-1776574521586-83165",
         "date": "2025-07-27 00:00:00",
         "amount": 1000,
         "candidate_name": "Ragen Heather Hatcher",
@@ -313,7 +340,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1775969492070-83166",
+        "id": "contrib-1776574521586-83166",
         "date": "2025-06-05 00:00:00",
         "amount": 300,
         "candidate_name": "Ragen Heather Hatcher",
@@ -325,6 +352,54 @@
         "address_city": "Independence",
         "address_state": "OH",
         "address_zip": "44131",
+        "recipient_committee": "Committee to Elect Ragen Hatcher",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16497",
+        "date": "2026-03-11 00:00:00",
+        "amount": 300,
+        "candidate_name": "Ragen Heather Hatcher",
+        "contributor_name": "Krieg Devault",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Ragen Hatcher",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16498",
+        "date": "2026-03-11 00:00:00",
+        "amount": 500,
+        "candidate_name": "Ragen Heather Hatcher",
+        "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Ragen Hatcher",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521781-16499",
+        "date": "2026-03-11 00:00:00",
+        "amount": 500,
+        "candidate_name": "Ragen Heather Hatcher",
+        "contributor_name": "NiSource Inc. PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Columbus",
+        "address_state": "Oh",
+        "address_zip": "43215",
         "recipient_committee": "Committee to Elect Ragen Hatcher",
         "source": "indiana"
       }

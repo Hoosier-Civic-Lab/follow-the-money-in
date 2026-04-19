@@ -6,10 +6,10 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "17288.15",
-    "total_contributions": 19,
-    "total_itemized": 19,
-    "total_unitemized": 0
+    "total_raised": "18792.95",
+    "total_contributions": 22,
+    "total_itemized": 21,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
@@ -17,22 +17,30 @@
       "total": "500.00"
     },
     "individual": {
-      "count": 8,
-      "total": "8288.15"
+      "count": 9,
+      "total": "8788.15"
     },
     "committee": {
-      "count": 10,
-      "total": "8500.00"
+      "count": 11,
+      "total": "9500.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "4.80"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 11,
-      "total": "3788.15"
+      "count": 12,
+      "total": "4288.15"
     },
     "large": {
-      "count": 8,
-      "total": "13500.00"
+      "count": 9,
+      "total": "14500.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "4.80"
     }
   },
   "by_month": {
@@ -51,11 +59,15 @@
     "2025-07": {
       "count": 3,
       "total": "3700.00"
+    },
+    "2026-03": {
+      "count": 3,
+      "total": "1504.80"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492049-64022",
+      "id": "contrib-1776574521569-64022",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Charles Alva Moseley",
@@ -71,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64023",
+      "id": "contrib-1776574521569-64023",
       "date": "2025-10-31 00:00:00",
       "amount": 150,
       "candidate_name": "Charles Alva Moseley",
@@ -87,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64024",
+      "id": "contrib-1776574521569-64024",
       "date": "2025-10-31 00:00:00",
       "amount": 300,
       "candidate_name": "Charles Alva Moseley",
@@ -103,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64025",
+      "id": "contrib-1776574521569-64025",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -119,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64026",
+      "id": "contrib-1776574521569-64026",
       "date": "2025-10-31 00:00:00",
       "amount": 300,
       "candidate_name": "Charles Alva Moseley",
@@ -135,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64027",
+      "id": "contrib-1776574521569-64027",
       "date": "2025-11-13 00:00:00",
       "amount": 288.15,
       "candidate_name": "Charles Alva Moseley",
@@ -151,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64028",
+      "id": "contrib-1776574521569-64028",
       "date": "2025-07-15 00:00:00",
       "amount": 200,
       "candidate_name": "Charles Alva Moseley",
@@ -167,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64029",
+      "id": "contrib-1776574521569-64029",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Charles Alva Moseley",
@@ -183,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64030",
+      "id": "contrib-1776574521569-64030",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Charles Alva Moseley",
@@ -199,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64031",
+      "id": "contrib-1776574521569-64031",
       "date": "2025-07-15 00:00:00",
       "amount": 2500,
       "candidate_name": "Charles Alva Moseley",
@@ -215,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64032",
+      "id": "contrib-1776574521569-64032",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -231,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64033",
+      "id": "contrib-1776574521569-64033",
       "date": "2025-12-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -247,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64034",
+      "id": "contrib-1776574521569-64034",
       "date": "2025-11-13 00:00:00",
       "amount": 5000,
       "candidate_name": "Charles Alva Moseley",
@@ -263,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64035",
+      "id": "contrib-1776574521569-64035",
       "date": "2025-12-09 00:00:00",
       "amount": 300,
       "candidate_name": "Charles Alva Moseley",
@@ -279,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64036",
+      "id": "contrib-1776574521569-64036",
       "date": "2025-11-13 00:00:00",
       "amount": 500,
       "candidate_name": "Charles Alva Moseley",
@@ -295,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64037",
+      "id": "contrib-1776574521569-64037",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -311,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64038",
+      "id": "contrib-1776574521569-64038",
       "date": "2025-07-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -327,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64039",
+      "id": "contrib-1776574521569-64039",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -343,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64040",
+      "id": "contrib-1776574521569-64040",
       "date": "2025-12-23 00:00:00",
       "amount": 250,
       "candidate_name": "Charles Alva Moseley",
@@ -355,6 +367,54 @@
       "address_city": "Porter",
       "address_state": "IN",
       "address_zip": "46304",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10425",
+      "date": "2026-03-10 00:00:00",
+      "amount": 4.8,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10426",
+      "date": "2026-03-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "Laborers' Local 81 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "VALPARAISO",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10427",
+      "date": "2026-03-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "Local 6787 Political Education & Legislative",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304-9429",
       "recipient_committee": "Citizens for Chuck Committee",
       "source": "indiana"
     }

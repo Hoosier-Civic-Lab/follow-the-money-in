@@ -6,15 +6,15 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "40257.65",
-    "total_contributions": 8,
-    "total_itemized": 8,
+    "total_raised": "42860.19",
+    "total_contributions": 9,
+    "total_itemized": 9,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 4,
-      "total": "2408.20"
+      "count": 5,
+      "total": "5010.74"
     },
     "committee": {
       "count": 4,
@@ -31,8 +31,8 @@
       "total": "35250.00"
     },
     "large": {
-      "count": 3,
-      "total": "4099.45"
+      "count": 4,
+      "total": "6701.99"
     }
   },
   "by_month": {
@@ -51,11 +51,15 @@
     "2025-10": {
       "count": 1,
       "total": "1599.45"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "2602.54"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492092-100068",
+      "id": "contrib-1776574521603-100068",
       "date": "2025-11-15 00:00:00",
       "amount": 208.2,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -71,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100069",
+      "id": "contrib-1776574521603-100069",
       "date": "2025-11-14 00:00:00",
       "amount": 500,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -87,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100070",
+      "id": "contrib-1776574521603-100070",
       "date": "2025-08-21 00:00:00",
       "amount": 200,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -103,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100071",
+      "id": "contrib-1776574521603-100071",
       "date": "2025-11-24 00:00:00",
       "amount": 20000,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -119,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100072",
+      "id": "contrib-1776574521603-100072",
       "date": "2025-09-29 00:00:00",
       "amount": 15250,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -135,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100073",
+      "id": "contrib-1776574521603-100073",
       "date": "2025-10-03 00:00:00",
       "amount": 1599.45,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -151,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100074",
+      "id": "contrib-1776574521603-100074",
       "date": "2025-11-25 00:00:00",
       "amount": 1500,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -167,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492092-100075",
+      "id": "contrib-1776574521603-100075",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -179,6 +183,22 @@
       "address_city": "Countryside",
       "address_state": "IL",
       "address_zip": "60525",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521788-25489",
+      "date": "2026-01-27 00:00:00",
+      "amount": 2602.54,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Barb Regnitz",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
       "recipient_committee": "Committee to Elect Ted Uzelac",
       "source": "indiana"
     }

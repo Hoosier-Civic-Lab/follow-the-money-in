@@ -3,39 +3,43 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 020",
   "totals": {
-    "total_raised": "152921.45",
-    "total_contributions": 154
+    "total_raised": "304689.46",
+    "total_contributions": 227
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 41,
-      "total": "33094.00"
+      "count": 54,
+      "total": "43440.80"
     },
     "individual": {
-      "count": 81,
-      "total": "55378.00"
+      "count": 117,
+      "total": "108078.81"
     },
     "committee": {
-      "count": 32,
-      "total": "64449.45"
+      "count": 51,
+      "total": "152649.45"
+    },
+    "self": {
+      "count": 5,
+      "total": "520.40"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 56,
-      "total": "87399.45"
+      "count": 82,
+      "total": "142399.45"
     },
     "medium": {
-      "count": 77,
-      "total": "25053.00"
+      "count": 109,
+      "total": "35916.94"
     },
     "small": {
-      "count": 17,
-      "total": "219.00"
+      "count": 26,
+      "total": "523.07"
     },
     "mega": {
-      "count": 4,
-      "total": "40250.00"
+      "count": 10,
+      "total": "125850.00"
     }
   },
   "by_month": {
@@ -86,6 +90,22 @@
     "2025-11": {
       "count": 8,
       "total": "2901.85"
+    },
+    "2026-03": {
+      "count": 23,
+      "total": "37284.57"
+    },
+    "2026-04": {
+      "count": 41,
+      "total": "110950.00"
+    },
+    "2026-02": {
+      "count": 3,
+      "total": "181.63"
+    },
+    "2026-01": {
+      "count": 6,
+      "total": "3351.81"
     }
   },
   "candidates": [
@@ -94,8 +114,8 @@
       "name": "James Robert Pressel Jr.",
       "party": "Republican",
       "totals": {
-        "total_raised": "152921.45",
-        "total_contributions": 154
+        "total_raised": "302270.06",
+        "total_contributions": 210
       },
       "by_month": {
         "2025-12": {
@@ -145,6 +165,64 @@
         "2025-11": {
           "count": 8,
           "total": "2901.85"
+        },
+        "2026-03": {
+          "count": 13,
+          "total": "36045.17"
+        },
+        "2026-04": {
+          "count": 38,
+          "total": "110150.00"
+        },
+        "2026-02": {
+          "count": 1,
+          "total": "1.63"
+        },
+        "2026-01": {
+          "count": 4,
+          "total": "3151.81"
+        }
+      }
+    },
+    {
+      "id": "laura-liskey",
+      "name": "Laura Liskey",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "2319.40",
+        "total_contributions": 16
+      },
+      "by_month": {
+        "2026-01": {
+          "count": 2,
+          "total": "200.00"
+        },
+        "2026-03": {
+          "count": 9,
+          "total": "1139.40"
+        },
+        "2026-02": {
+          "count": 2,
+          "total": "180.00"
+        },
+        "2026-04": {
+          "count": 3,
+          "total": "800.00"
+        }
+      }
+    },
+    {
+      "id": "alicia-firanek",
+      "name": "Alicia Firanek",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "100.00",
+        "total_contributions": 1
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 1,
+          "total": "100.00"
         }
       }
     }

@@ -2,20 +2,24 @@
   "id": "wine-spirits-distributors-of-indiana-pac",
   "name": "Wine & Spirits Distributors of Indiana PAC",
   "totals": {
-    "total_given": "1249.74",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "2249.74",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1249.74"
+      "count": 2,
+      "total": "2249.74"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "1249.74"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -24,11 +28,17 @@
       "name": "Andy R Zay",
       "total": "1249.74",
       "count": 1
+    },
+    {
+      "id": "benjamin-charles-smaltz",
+      "name": "Benjamin Charles Smaltz",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492067-79489",
+      "id": "contrib-1776574521583-79489",
       "date": "2025-06-11 00:00:00",
       "amount": 1249.74,
       "candidate_name": "Andy R Zay",
@@ -41,6 +51,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Friends of Andy Zay",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521779-14714",
+      "date": "2026-04-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Benjamin Charles Smaltz",
+      "contributor_name": "Wine & Spirits Distributors of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Ben Smaltz",
       "source": "indiana"
     }
   ],

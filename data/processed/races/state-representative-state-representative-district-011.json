@@ -3,8 +3,8 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 011",
   "totals": {
-    "total_raised": "10700.00",
-    "total_contributions": 24
+    "total_raised": "14067.45",
+    "total_contributions": 83
   },
   "by_contributor_type": {
     "corporate": {
@@ -12,8 +12,8 @@
       "total": "600.00"
     },
     "individual": {
-      "count": 9,
-      "total": "4050.00"
+      "count": 68,
+      "total": "7417.45"
     },
     "committee": {
       "count": 12,
@@ -22,12 +22,16 @@
   },
   "by_contribution_size": {
     "medium": {
-      "count": 22,
-      "total": "8700.00"
+      "count": 26,
+      "total": "9825.00"
     },
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 3,
+      "total": "3000.00"
+    },
+    "small": {
+      "count": 54,
+      "total": "1242.45"
     }
   },
   "by_month": {
@@ -54,6 +58,22 @@
     "2025-11": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-01": {
+      "count": 16,
+      "total": "837.40"
+    },
+    "2026-03": {
+      "count": 20,
+      "total": "2197.34"
+    },
+    "2026-04": {
+      "count": 4,
+      "total": "45.26"
+    },
+    "2026-02": {
+      "count": 19,
+      "total": "287.45"
     }
   },
   "candidates": [
@@ -89,6 +109,33 @@
         "2025-11": {
           "count": 1,
           "total": "300.00"
+        }
+      }
+    },
+    {
+      "id": "tyler-thomas-bridges",
+      "name": "Tyler Thomas  Bridges",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "3367.45",
+        "total_contributions": 59
+      },
+      "by_month": {
+        "2026-01": {
+          "count": 16,
+          "total": "837.40"
+        },
+        "2026-03": {
+          "count": 20,
+          "total": "2197.34"
+        },
+        "2026-04": {
+          "count": 4,
+          "total": "45.26"
+        },
+        "2026-02": {
+          "count": 19,
+          "total": "287.45"
         }
       }
     }

@@ -3,41 +3,69 @@
   "office": "STATE SENATOR",
   "district": "State Senator, District 31",
   "totals": {
-    "total_raised": "60762.68",
-    "total_contributions": 22
+    "total_raised": "304798.13",
+    "total_contributions": 373
   },
   "by_contributor_type": {
     "self": {
-      "count": 3,
-      "total": "50211.99"
+      "count": 5,
+      "total": "100211.99"
     },
     "individual": {
-      "count": 19,
-      "total": "10550.69"
+      "count": 358,
+      "total": "189670.58"
+    },
+    "unitemized": {
+      "count": 2,
+      "total": "160.56"
+    },
+    "corporate": {
+      "count": 4,
+      "total": "6655.00"
+    },
+    "committee": {
+      "count": 4,
+      "total": "8100.00"
     }
   },
   "by_contribution_size": {
     "mega": {
-      "count": 2,
-      "total": "50000.00"
+      "count": 5,
+      "total": "113100.00"
     },
     "small": {
-      "count": 8,
-      "total": "414.35"
+      "count": 84,
+      "total": "3457.55"
     },
     "large": {
-      "count": 5,
-      "total": "9328.14"
+      "count": 55,
+      "total": "126732.97"
     },
     "medium": {
-      "count": 7,
-      "total": "1020.19"
+      "count": 229,
+      "total": "61507.61"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 22,
       "total": "60762.68"
+    },
+    "2026-04": {
+      "count": 60,
+      "total": "76816.61"
+    },
+    "2026-01": {
+      "count": 87,
+      "total": "23909.26"
+    },
+    "2026-03": {
+      "count": 177,
+      "total": "140160.82"
+    },
+    "2026-02": {
+      "count": 27,
+      "total": "3148.76"
     }
   },
   "candidates": [
@@ -46,13 +74,79 @@
       "name": "Juanita Albright",
       "party": "Republican",
       "totals": {
-        "total_raised": "60350.69",
-        "total_contributions": 19
+        "total_raised": "180427.11",
+        "total_contributions": 106
       },
       "by_month": {
         "2025-12": {
           "count": 19,
           "total": "60350.69"
+        },
+        "2026-04": {
+          "count": 19,
+          "total": "63906.15"
+        },
+        "2026-01": {
+          "count": 33,
+          "total": "12555.56"
+        },
+        "2026-03": {
+          "count": 28,
+          "total": "41993.95"
+        },
+        "2026-02": {
+          "count": 7,
+          "total": "1620.76"
+        }
+      }
+    },
+    {
+      "id": "jan-kepley-keefer",
+      "name": "JAN KEPLEY KEEFER",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "100827.33",
+        "total_contributions": 121
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 99,
+          "total": "90346.87"
+        },
+        "2026-04": {
+          "count": 22,
+          "total": "10480.46"
+        }
+      }
+    },
+    {
+      "id": "catherine-torzewski",
+      "name": "Catherine Torzewski",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "23331.70",
+        "total_contributions": 145
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 2,
+          "total": "200.00"
+        },
+        "2026-04": {
+          "count": 19,
+          "total": "2430.00"
+        },
+        "2026-02": {
+          "count": 20,
+          "total": "1528.00"
+        },
+        "2026-01": {
+          "count": 54,
+          "total": "11353.70"
+        },
+        "2026-03": {
+          "count": 50,
+          "total": "7820.00"
         }
       }
     },
@@ -68,21 +162,6 @@
         "2025-12": {
           "count": 1,
           "total": "211.99"
-        }
-      }
-    },
-    {
-      "id": "catherine-torzewski",
-      "name": "Catherine Torzewski",
-      "party": "Democratic",
-      "totals": {
-        "total_raised": "200.00",
-        "total_contributions": 2
-      },
-      "by_month": {
-        "2025-12": {
-          "count": 2,
-          "total": "200.00"
         }
       }
     }

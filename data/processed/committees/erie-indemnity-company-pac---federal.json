@@ -2,20 +2,28 @@
   "id": "erie-indemnity-company-pac---federal",
   "name": "Erie Indemnity Company PAC - Federal",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "5500.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
@@ -28,7 +36,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492051-64738",
+      "id": "contrib-1776574521571-64738",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Travis Linn Holdman",
@@ -41,6 +49,21 @@
       "address_state": "PA",
       "address_zip": "16530",
       "recipient_committee": "Hoosiers for Holdman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521764-3084",
+      "date": "2026-01-20 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Erie Indemnity Company PAC - Federal",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ERIE",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "recipient_committee": "INSURANCE POLITICAL ACTION COMMITTEE",
       "source": "indiana"
     }
   ],

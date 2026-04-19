@@ -6,25 +6,29 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "468.20",
-    "total_contributions": 4,
-    "total_itemized": 4,
+    "total_raised": "3466.20",
+    "total_contributions": 9,
+    "total_itemized": 9,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 4,
-      "total": "468.20"
+      "count": 9,
+      "total": "3466.20"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "453.20"
+      "count": 4,
+      "total": "710.20"
     },
     "small": {
-      "count": 1,
-      "total": "15.00"
+      "count": 3,
+      "total": "106.00"
+    },
+    "large": {
+      "count": 2,
+      "total": "2650.00"
     }
   },
   "by_month": {
@@ -35,11 +39,27 @@
     "2025-05": {
       "count": 3,
       "total": "365.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "91.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "257.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "1250.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "1400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492094-102478",
+      "id": "contrib-1776574521605-102478",
       "date": "2025-10-12 00:00:00",
       "amount": 103.2,
       "candidate_name": "Randall Lee McCallister",
@@ -55,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492094-102479",
+      "id": "contrib-1776574521605-102479",
       "date": "2025-05-25 00:00:00",
       "amount": 15,
       "candidate_name": "Randall Lee McCallister",
@@ -71,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492094-102480",
+      "id": "contrib-1776574521605-102480",
       "date": "2025-05-25 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lee McCallister",
@@ -87,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492094-102481",
+      "id": "contrib-1776574521605-102481",
       "date": "2025-05-25 00:00:00",
       "amount": 250,
       "candidate_name": "Randall Lee McCallister",
@@ -96,6 +116,86 @@
       "contribution_size": "medium",
       "occupation": null,
       "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect McCallister",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28673",
+      "date": "2026-04-02 00:00:00",
+      "amount": 40,
+      "candidate_name": "Randall Lee McCallister",
+      "contributor_name": "Jon Dull",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47305",
+      "recipient_committee": "Committee to Elect McCallister",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28674",
+      "date": "2026-04-06 00:00:00",
+      "amount": 51,
+      "candidate_name": "Randall Lee McCallister",
+      "contributor_name": "Leah Conley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect McCallister",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28675",
+      "date": "2026-03-04 00:00:00",
+      "amount": 257,
+      "candidate_name": "Randall Lee McCallister",
+      "contributor_name": "Michael Gargiulo",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "GA",
+      "address_zip": "30033",
+      "recipient_committee": "Committee to Elect McCallister",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28676",
+      "date": "2026-01-30 00:00:00",
+      "amount": 1250,
+      "candidate_name": "Randall Lee McCallister",
+      "contributor_name": "Randall L McCallister",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect McCallister",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521790-28677",
+      "date": "2026-02-27 00:00:00",
+      "amount": 1400,
+      "candidate_name": "Randall Lee McCallister",
+      "contributor_name": "Randall L McCallister",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
       "address_city": "Muncie",
       "address_state": "IN",
       "address_zip": "47302",

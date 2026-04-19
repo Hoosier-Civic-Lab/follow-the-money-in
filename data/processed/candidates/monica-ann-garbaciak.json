@@ -1,0 +1,70 @@
+{
+  "id": "monica-ann-garbaciak",
+  "name": "Monica Ann Garbaciak",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "250.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 2,
+      "total": "250.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "50.00"
+    }
+  },
+  "by_month": {
+    "2026-03": {
+      "count": 2,
+      "total": "250.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1776574521799-31148",
+      "date": "2026-03-28 00:00:00",
+      "amount": 200,
+      "candidate_name": "Monica Ann Garbaciak",
+      "contributor_name": "Angela  K Gingerich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Goshen",
+      "address_state": "IN",
+      "address_zip": "46526",
+      "recipient_committee": "Friends of Monica Garbaciak",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521799-31149",
+      "date": "2026-03-27 00:00:00",
+      "amount": 50,
+      "candidate_name": "Monica Ann Garbaciak",
+      "contributor_name": "Paul Stauffer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Goshen",
+      "address_state": "IN",
+      "address_zip": "46528",
+      "recipient_committee": "Friends of Monica Garbaciak",
+      "source": "indiana"
+    }
+  ]
+}

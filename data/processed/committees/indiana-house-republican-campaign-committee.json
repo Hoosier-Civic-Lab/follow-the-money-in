@@ -2,9 +2,9 @@
   "id": "indiana-house-republican-campaign-committee",
   "name": "Indiana House Republican Campaign Committee",
   "totals": {
-    "total_given": "11849.45",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "76830.25",
+    "total_contributions": 10,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
@@ -12,8 +12,12 @@
       "total": "1599.45"
     },
     "mega": {
-      "count": 1,
-      "total": "10250.00"
+      "count": 4,
+      "total": "71150.00"
+    },
+    "medium": {
+      "count": 5,
+      "total": "4080.80"
     }
   },
   "by_month": {
@@ -24,19 +28,51 @@
     "2025-09": {
       "count": 1,
       "total": "10250.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "21050.00"
+    },
+    "2026-03": {
+      "count": 7,
+      "total": "43930.80"
     }
   },
   "top_recipients": [
     {
       "id": "james-robert-pressel-jr",
       "name": "James Robert Pressel Jr.",
-      "total": "11849.45",
+      "total": "32949.45",
+      "count": 4
+    },
+    {
+      "id": "gregory-earl-steuerwald",
+      "name": "Gregory Earl Steuerwald",
+      "total": "21050.00",
+      "count": 1
+    },
+    {
+      "id": "peggy-mayfield",
+      "name": "Peggy Mayfield",
+      "total": "20090.42",
       "count": 2
+    },
+    {
+      "id": "robert-allen-heaton",
+      "name": "Robert Allen Heaton",
+      "total": "1844.14",
+      "count": 2
+    },
+    {
+      "id": "jennifer-meltzer",
+      "name": "Jennifer Meltzer",
+      "total": "896.24",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492067-79907",
+      "id": "contrib-1776574521583-79907",
       "date": "2025-10-03 00:00:00",
       "amount": 1599.45,
       "candidate_name": "James Robert Pressel Jr.",
@@ -52,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492067-79908",
+      "id": "contrib-1776574521583-79908",
       "date": "2025-09-29 00:00:00",
       "amount": 10250,
       "candidate_name": "James Robert Pressel Jr.",
@@ -65,6 +101,134 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Friends of Jim Pressel",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10383",
+      "date": "2026-02-26 00:00:00",
+      "amount": 21050,
+      "candidate_name": "Gregory Earl Steuerwald",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Steuerwald for State Rep.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10455",
+      "date": "2026-03-23 00:00:00",
+      "amount": 868.15,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10456",
+      "date": "2026-03-31 00:00:00",
+      "amount": 975.99,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-11285",
+      "date": "2026-03-26 00:00:00",
+      "amount": 840.42,
+      "candidate_name": "Peggy Mayfield",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "The Mayfield Campaign",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-11286",
+      "date": "2026-03-09 00:00:00",
+      "amount": 19250,
+      "candidate_name": "Peggy Mayfield",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "The Mayfield Campaign",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15173",
+      "date": "2026-03-09 00:00:00",
+      "amount": 20600,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "INDIANA HOUSE REPUBLICAN CAMPAIGN COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends of Jim Pressel",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15174",
+      "date": "2026-03-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "INDIANA HOUSE REPUBLICAN CAMPAIGN COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends of Jim Pressel",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521783-19966",
+      "date": "2026-03-31 00:00:00",
+      "amount": 896.24,
+      "candidate_name": "Jennifer Meltzer",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Meltzer for Indiana",
       "source": "indiana"
     }
   ],

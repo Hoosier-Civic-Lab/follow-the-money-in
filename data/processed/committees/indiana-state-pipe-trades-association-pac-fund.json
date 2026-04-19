@@ -2,14 +2,14 @@
   "id": "indiana-state-pipe-trades-association-pac-fund",
   "name": "Indiana State Pipe Trades Association PAC Fund",
   "totals": {
-    "total_given": "27500.00",
-    "total_contributions": 3,
-    "candidates_supported": 1
+    "total_given": "34500.00",
+    "total_contributions": 6,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "7500.00"
+      "count": 5,
+      "total": "14500.00"
     },
     "mega": {
       "count": 1,
@@ -24,19 +24,43 @@
     "2025-12": {
       "count": 1,
       "total": "20000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
     {
       "id": "gregory-justin-goode",
       "name": "Gregory Justin Goode",
-      "total": "5000.00",
+      "total": "10000.00",
+      "count": 2
+    },
+    {
+      "id": "ronnie-j-alting",
+      "name": "Ronnie J. Alting",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "1000.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491967-12396",
+      "id": "contrib-1776574521506-12396",
       "date": "2025-08-22 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
@@ -51,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12397",
+      "id": "contrib-1776574521506-12397",
       "date": "2025-12-22 00:00:00",
       "amount": 20000,
       "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
@@ -66,8 +90,56 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492088-94925",
+      "id": "contrib-1776574521599-94925",
       "date": "2025-08-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Gregory Justin Goode",
+      "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46898",
+      "recipient_committee": "Committee to Elect Greg Goode",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521775-8303",
+      "date": "2026-04-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ronnie J. Alting",
+      "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft. Wayne",
+      "address_state": "IN",
+      "address_zip": "46898",
+      "recipient_committee": "Ron Alting For State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-20066",
+      "date": "2026-03-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521784-21236",
+      "date": "2026-01-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Gregory Justin Goode",
       "contributor_name": "Indiana State Pipe Trades Association PAC Fund",

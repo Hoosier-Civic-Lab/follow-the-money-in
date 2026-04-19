@@ -6,29 +6,33 @@
   "district": "State Representative, District 097",
   "party": "Democratic",
   "totals": {
-    "total_raised": "225.93",
-    "total_contributions": 2,
-    "total_itemized": 2,
-    "total_unitemized": 0
+    "total_raised": "1156.78",
+    "total_contributions": 9,
+    "total_itemized": 8,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "self": {
-      "count": 1,
-      "total": "200.00"
+      "count": 4,
+      "total": "900.00"
     },
     "individual": {
+      "count": 4,
+      "total": "226.78"
+    },
+    "unitemized": {
       "count": 1,
-      "total": "25.93"
+      "total": "30.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "200.00"
+      "count": 4,
+      "total": "970.00"
     },
     "small": {
-      "count": 1,
-      "total": "25.93"
+      "count": 5,
+      "total": "186.78"
     }
   },
   "by_month": {
@@ -39,11 +43,23 @@
     "2025-12": {
       "count": 1,
       "total": "25.93"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "30.00"
+    },
+    "2026-03": {
+      "count": 4,
+      "total": "304.80"
+    },
+    "2026-02": {
+      "count": 2,
+      "total": "596.05"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492089-95614",
+      "id": "contrib-1776574521600-95614",
       "date": "2025-11-11 00:00:00",
       "amount": 200,
       "candidate_name": "Sarah Shydale",
@@ -59,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492089-95615",
+      "id": "contrib-1776574521600-95615",
       "date": "2025-12-21 00:00:00",
       "amount": 25.93,
       "candidate_name": "Sarah Shydale",
@@ -71,6 +87,118 @@
       "address_city": "Boston",
       "address_state": "MA",
       "address_zip": "02196",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21442",
+      "date": "2026-01-08 00:00:00",
+      "amount": 30,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21443",
+      "date": "2026-03-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Mark Crouch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21444",
+      "date": "2026-03-14 00:00:00",
+      "amount": 4.8,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Ryan Walstrom",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21445",
+      "date": "2026-02-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Sarah Shydale",
+      "contributor_type": "self",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21446",
+      "date": "2026-03-31 00:00:00",
+      "amount": 30,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Sarah Shydale",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21447",
+      "date": "2026-03-15 00:00:00",
+      "amount": 170,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Sarah Shydale",
+      "contributor_type": "self",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Sarah Shydale for house district 97",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521785-21448",
+      "date": "2026-02-19 00:00:00",
+      "amount": 96.05,
+      "candidate_name": "Sarah Shydale",
+      "contributor_name": "Stephen Whitmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
       "recipient_committee": "Sarah Shydale for house district 97",
       "source": "indiana"
     }

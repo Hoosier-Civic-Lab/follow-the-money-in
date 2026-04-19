@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1775969491961-6256",
+      "id": "contrib-1776574521501-6256",
       "date": "2025-12-12 00:00:00",
       "amount": 200000,
       "contributor_name": "Republican State Leadership Committee-Indiana",
@@ -37,31 +37,46 @@
     }
   ],
   "receipts": {
-    "total_raised": "200000.00",
-    "total_contributions": 1,
+    "total_raised": "205000.00",
+    "total_contributions": 2,
     "unique_donors": 1,
     "by_contributor_type": {
       "committee": {
-        "count": 1,
-        "total": "200000.00"
+        "count": 2,
+        "total": "205000.00"
       }
     },
     "top_donors": [
       {
         "name": "Republican State Leadership Committee Individual Dollars",
         "type": "committee",
-        "total": "200000.00",
-        "count": 1
+        "total": "205000.00",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1775969492005-33733",
+        "id": "contrib-1776574521535-33733",
         "date": "2025-12-12 00:00:00",
         "amount": 200000,
         "contributor_name": "Republican State Leadership Committee Individual Dollars",
         "contributor_type": "committee",
         "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Republican State Leadership Committee-Indiana",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1776574521776-9597",
+        "date": "2026-03-05 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Republican State Leadership Committee Individual Dollars",
+        "contributor_type": "committee",
+        "contribution_size": "large",
         "occupation": null,
         "occupation_category": "unknown",
         "address_city": "Washington",

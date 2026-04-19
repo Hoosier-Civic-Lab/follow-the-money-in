@@ -1,0 +1,70 @@
+{
+  "id": "mark-j-wehrle",
+  "name": "Mark J Wehrle",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "600.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "by_month": {
+    "2026-03": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1776574521796-30213",
+      "date": "2026-03-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Mark J Wehrle",
+      "contributor_name": "Mark Wehrle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46815",
+      "recipient_committee": "Wehrle",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521796-30214",
+      "date": "2026-04-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Mark J Wehrle",
+      "contributor_name": "Robert Benninghoff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Huntertown",
+      "address_state": "IN",
+      "address_zip": "46748",
+      "recipient_committee": "Wehrle",
+      "source": "indiana"
+    }
+  ]
+}

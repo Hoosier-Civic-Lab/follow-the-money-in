@@ -6,33 +6,37 @@
   "district": "95",
   "party": "Democratic",
   "totals": {
-    "total_raised": "4300.00",
-    "total_contributions": 7,
-    "total_itemized": 7,
+    "total_raised": "38200.00",
+    "total_contributions": 28,
+    "total_itemized": 28,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 1,
-      "total": "750.00"
+      "count": 7,
+      "total": "3750.00"
     },
     "individual": {
-      "count": 3,
-      "total": "2250.00"
+      "count": 14,
+      "total": "5850.00"
     },
     "committee": {
-      "count": 3,
-      "total": "1300.00"
+      "count": 7,
+      "total": "28600.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 5,
-      "total": "2300.00"
+      "count": 21,
+      "total": "7200.00"
     },
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 6,
+      "total": "6000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "25000.00"
     }
   },
   "by_month": {
@@ -51,11 +55,19 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 20,
+      "total": "33400.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1775969492049-64191",
+      "id": "contrib-1776574521569-64191",
       "date": "2025-12-08 00:00:00",
       "amount": 750,
       "candidate_name": "John L Bartlett",
@@ -71,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64192",
+      "id": "contrib-1776574521569-64192",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "John L Bartlett",
@@ -87,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64193",
+      "id": "contrib-1776574521569-64193",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "John L Bartlett",
@@ -103,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64194",
+      "id": "contrib-1776574521569-64194",
       "date": "2025-12-22 00:00:00",
       "amount": 1000,
       "candidate_name": "John L Bartlett",
@@ -119,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64195",
+      "id": "contrib-1776574521569-64195",
       "date": "2025-09-15 00:00:00",
       "amount": 300,
       "candidate_name": "John L Bartlett",
@@ -135,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64196",
+      "id": "contrib-1776574521569-64196",
       "date": "2025-11-28 00:00:00",
       "amount": 500,
       "candidate_name": "John L Bartlett",
@@ -151,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-64197",
+      "id": "contrib-1776574521569-64197",
       "date": "2025-08-06 00:00:00",
       "amount": 500,
       "candidate_name": "John L Bartlett",
@@ -163,6 +175,342 @@
       "address_city": "Indianapolis ",
       "address_state": "IN",
       "address_zip": "46206",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10462",
+      "date": "2026-04-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "AER Logistics, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10463",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Bose Public Affairs Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10464",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Crossroads Public Affairs LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10465",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Krieg Devault",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10466",
+      "date": "2026-04-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "RJL Solutions",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10467",
+      "date": "2026-04-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Taft Stettinus & Hollister",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10468",
+      "date": "2026-04-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Angela Roberts",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10469",
+      "date": "2026-04-09 00:00:00",
+      "amount": 150,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Clinton McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10470",
+      "date": "2026-03-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Committee to Elect Spencer for Senate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10471",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Eugene Akers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46218",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10472",
+      "date": "2026-04-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Gregory Porter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapollis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10473",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Kenneth  Beache",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10474",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Louis Burgess",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10475",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Mamon Powers III",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10476",
+      "date": "2026-04-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Philip Giaquinta",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10477",
+      "date": "2026-04-08 00:00:00",
+      "amount": 700,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Taylor for State Senate Comm.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10478",
+      "date": "2026-04-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "William Turner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10479",
+      "date": "2026-04-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10480",
+      "date": "2026-04-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Indiana Firefighters Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10481",
+      "date": "2026-04-08 00:00:00",
+      "amount": 25000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Indiana Realtors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "John L Bartlett House 95 Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521777-10482",
+      "date": "2026-04-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John L Bartlett",
+      "contributor_name": "Lawyers Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "John L Bartlett House 95 Committee",
       "source": "indiana"
     }

@@ -3,31 +3,35 @@
   "office": "State Representative",
   "district": "95",
   "totals": {
-    "total_raised": "4300.00",
-    "total_contributions": 7
+    "total_raised": "38200.00",
+    "total_contributions": 28
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 1,
-      "total": "750.00"
+      "count": 7,
+      "total": "3750.00"
     },
     "individual": {
-      "count": 3,
-      "total": "2250.00"
+      "count": 14,
+      "total": "5850.00"
     },
     "committee": {
-      "count": 3,
-      "total": "1300.00"
+      "count": 7,
+      "total": "28600.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 5,
-      "total": "2300.00"
+      "count": 21,
+      "total": "7200.00"
     },
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 6,
+      "total": "6000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "25000.00"
     }
   },
   "by_month": {
@@ -46,6 +50,14 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 20,
+      "total": "33400.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "candidates": [
@@ -54,8 +66,8 @@
       "name": "John L Bartlett",
       "party": "Democratic",
       "totals": {
-        "total_raised": "4300.00",
-        "total_contributions": 7
+        "total_raised": "38200.00",
+        "total_contributions": 28
       },
       "by_month": {
         "2025-12": {
@@ -71,6 +83,14 @@
           "total": "300.00"
         },
         "2025-11": {
+          "count": 1,
+          "total": "500.00"
+        },
+        "2026-04": {
+          "count": 20,
+          "total": "33400.00"
+        },
+        "2026-03": {
           "count": 1,
           "total": "500.00"
         }

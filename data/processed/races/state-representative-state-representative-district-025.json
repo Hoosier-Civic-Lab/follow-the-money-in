@@ -3,8 +3,8 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 025",
   "totals": {
-    "total_raised": "42300.79",
-    "total_contributions": 240
+    "total_raised": "90152.61",
+    "total_contributions": 530
   },
   "by_contributor_type": {
     "unitemized": {
@@ -12,30 +12,34 @@
       "total": "25.00"
     },
     "individual": {
-      "count": 236,
-      "total": "40975.79"
+      "count": 521,
+      "total": "87030.61"
     },
     "self": {
-      "count": 1,
-      "total": "500.00"
+      "count": 4,
+      "total": "797.00"
     },
     "committee": {
-      "count": 2,
-      "total": "800.00"
+      "count": 3,
+      "total": "1800.00"
+    },
+    "corporate": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 110,
-      "total": "4267.64"
+      "count": 264,
+      "total": "9994.34"
     },
     "medium": {
-      "count": 120,
-      "total": "25905.15"
+      "count": 245,
+      "total": "50425.15"
     },
     "large": {
-      "count": 10,
-      "total": "12128.00"
+      "count": 21,
+      "total": "29733.12"
     }
   },
   "by_month": {
@@ -70,6 +74,22 @@
     "2025-02": {
       "count": 1,
       "total": "485.00"
+    },
+    "2026-03": {
+      "count": 79,
+      "total": "16671.12"
+    },
+    "2026-04": {
+      "count": 58,
+      "total": "9182.00"
+    },
+    "2026-01": {
+      "count": 93,
+      "total": "18351.00"
+    },
+    "2026-02": {
+      "count": 60,
+      "total": "3647.70"
     }
   },
   "candidates": [
@@ -78,8 +98,8 @@
       "name": "Tiffany Stoner",
       "party": "Democratic",
       "totals": {
-        "total_raised": "42300.79",
-        "total_contributions": 240
+        "total_raised": "90152.61",
+        "total_contributions": 530
       },
       "by_month": {
         "2025-08": {
@@ -113,6 +133,22 @@
         "2025-02": {
           "count": 1,
           "total": "485.00"
+        },
+        "2026-03": {
+          "count": 79,
+          "total": "16671.12"
+        },
+        "2026-04": {
+          "count": 58,
+          "total": "9182.00"
+        },
+        "2026-01": {
+          "count": 93,
+          "total": "18351.00"
+        },
+        "2026-02": {
+          "count": 60,
+          "total": "3647.70"
         }
       }
     }

@@ -3,39 +3,43 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 087",
   "totals": {
-    "total_raised": "142150.29",
-    "total_contributions": 175
+    "total_raised": "167578.38",
+    "total_contributions": 328
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 36,
-      "total": "5749.70"
+      "count": 43,
+      "total": "6252.79"
     },
     "individual": {
-      "count": 116,
-      "total": "120650.59"
+      "count": 259,
+      "total": "142875.59"
     },
     "committee": {
-      "count": 23,
-      "total": "15750.00"
+      "count": 25,
+      "total": "18400.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "50.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 43,
-      "total": "1644.67"
+      "count": 112,
+      "total": "4253.78"
     },
     "medium": {
-      "count": 109,
-      "total": "31810.27"
+      "count": 186,
+      "total": "45129.25"
     },
     "mega": {
       "count": 2,
       "total": "62500.00"
     },
     "large": {
-      "count": 21,
-      "total": "46195.35"
+      "count": 28,
+      "total": "55695.35"
     }
   },
   "by_month": {
@@ -86,6 +90,22 @@
     "2025-12": {
       "count": 25,
       "total": "12034.30"
+    },
+    "2026-03": {
+      "count": 93,
+      "total": "12741.15"
+    },
+    "2026-01": {
+      "count": 19,
+      "total": "3022.81"
+    },
+    "2026-02": {
+      "count": 20,
+      "total": "4279.13"
+    },
+    "2026-04": {
+      "count": 21,
+      "total": "5385.00"
     }
   },
   "candidates": [
@@ -94,8 +114,8 @@
       "name": "Carey E Hamilton",
       "party": "Democratic",
       "totals": {
-        "total_raised": "142150.29",
-        "total_contributions": 175
+        "total_raised": "167578.38",
+        "total_contributions": 328
       },
       "by_month": {
         "2025-04": {
@@ -145,6 +165,22 @@
         "2025-12": {
           "count": 25,
           "total": "12034.30"
+        },
+        "2026-03": {
+          "count": 93,
+          "total": "12741.15"
+        },
+        "2026-01": {
+          "count": 19,
+          "total": "3022.81"
+        },
+        "2026-02": {
+          "count": 20,
+          "total": "4279.13"
+        },
+        "2026-04": {
+          "count": 21,
+          "total": "5385.00"
         }
       }
     }

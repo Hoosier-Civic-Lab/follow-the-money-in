@@ -2,14 +2,14 @@
   "id": "gopac-election-fund",
   "name": "GOPAC Election Fund",
   "totals": {
-    "total_given": "252500.00",
-    "total_contributions": 8,
+    "total_given": "752500.00",
+    "total_contributions": 9,
     "candidates_supported": 5
   },
   "by_contribution_size": {
     "mega": {
-      "count": 4,
-      "total": "242500.00"
+      "count": 5,
+      "total": "742500.00"
     },
     "large": {
       "count": 4,
@@ -28,6 +28,10 @@
     "2025-10": {
       "count": 2,
       "total": "5000.00"
+    },
+    "2026-03": {
+      "count": 1,
+      "total": "500000.00"
     }
   },
   "top_recipients": [
@@ -64,7 +68,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969491967-12338",
+      "id": "contrib-1776574521506-12338",
       "date": "2025-04-28 00:00:00",
       "amount": 30000,
       "contributor_name": "GOPAC Election Fund",
@@ -79,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969491967-12339",
+      "id": "contrib-1776574521506-12339",
       "date": "2025-09-25 00:00:00",
       "amount": 100000,
       "contributor_name": "GOPAC Election Fund",
@@ -94,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492049-63995",
+      "id": "contrib-1776574521569-63995",
       "date": "2025-10-28 00:00:00",
       "amount": 2500,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -110,7 +114,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492054-65420",
+      "id": "contrib-1776574521572-65420",
       "date": "2025-09-23 00:00:00",
       "amount": 62500,
       "contributor_name": "GOPAC ELECTION FUND",
@@ -125,7 +129,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492071-83897",
+      "id": "contrib-1776574521586-83897",
       "date": "2025-09-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -141,7 +145,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492087-93711",
+      "id": "contrib-1776574521598-93711",
       "date": "2025-09-26 00:00:00",
       "amount": 50000,
       "candidate_name": "MICHAEL K BRAUN",
@@ -157,7 +161,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492088-94741",
+      "id": "contrib-1776574521599-94741",
       "date": "2025-10-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -173,7 +177,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492089-95535",
+      "id": "contrib-1776574521600-95535",
       "date": "2025-09-25 00:00:00",
       "amount": 2500,
       "candidate_name": "ETHAN J LAWSON",
@@ -186,6 +190,21 @@
       "address_state": "VA",
       "address_zip": "22209",
       "recipient_committee": "ETHAN LAWSON FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521762-1015",
+      "date": "2026-03-27 00:00:00",
+      "amount": 500000,
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
     }
   ],

@@ -2,8 +2,8 @@
   "id": "general-motors-pac",
   "name": "General Motors PAC",
   "totals": {
-    "total_given": "18500.00",
-    "total_contributions": 4,
+    "total_given": "23500.00",
+    "total_contributions": 5,
     "candidates_supported": 3
   },
   "by_contribution_size": {
@@ -16,8 +16,8 @@
       "total": "500.00"
     },
     "large": {
-      "count": 2,
-      "total": "3000.00"
+      "count": 3,
+      "total": "8000.00"
     }
   },
   "by_month": {
@@ -28,6 +28,10 @@
     "2025-10": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
@@ -40,8 +44,8 @@
     {
       "id": "james-robert-pressel-jr",
       "name": "James Robert Pressel Jr.",
-      "total": "2500.00",
-      "count": 2
+      "total": "7500.00",
+      "count": 3
     },
     {
       "id": "shane-michael-lindauer",
@@ -52,7 +56,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1775969492056-66888",
+      "id": "contrib-1776574521575-66888",
       "date": "2025-06-09 00:00:00",
       "amount": 15000,
       "candidate_name": "Todd Michael Huston",
@@ -68,7 +72,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-79946",
+      "id": "contrib-1776574521584-79946",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "James Robert Pressel Jr.",
@@ -84,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492068-79947",
+      "id": "contrib-1776574521584-79947",
       "date": "2025-06-06 00:00:00",
       "amount": 2000,
       "candidate_name": "James Robert Pressel Jr.",
@@ -100,7 +104,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1775969492070-82421",
+      "id": "contrib-1776574521585-82421",
       "date": "2025-06-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Shane Michael Lindauer",
@@ -113,6 +117,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "shanelindauer.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1776574521780-15188",
+      "date": "2026-04-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "GENERAL MOTORS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Jim Pressel",
       "source": "indiana"
     }
   ],
