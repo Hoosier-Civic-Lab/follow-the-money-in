@@ -6,19 +6,23 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "18160.83",
-    "total_contributions": 26,
-    "total_itemized": 26,
-    "total_unitemized": 0
+    "total_raised": "37520.83",
+    "total_contributions": 49,
+    "total_itemized": 48,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "3110.00"
+    },
     "individual": {
-      "count": 23,
-      "total": "13451.00"
+      "count": 44,
+      "total": "28701.00"
     },
     "self": {
-      "count": 2,
-      "total": "3209.83"
+      "count": 3,
+      "total": "4209.83"
     },
     "committee": {
       "count": 1,
@@ -26,32 +30,88 @@
     }
   },
   "by_contribution_size": {
-    "medium": {
-      "count": 17,
-      "total": "4451.00"
-    },
     "large": {
-      "count": 9,
-      "total": "13709.83"
+      "count": 12,
+      "total": "18819.83"
+    },
+    "medium": {
+      "count": 32,
+      "total": "8501.00"
+    },
+    "small": {
+      "count": 4,
+      "total": "200.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
-    "2026-03": {
-      "count": 12,
-      "total": "10009.83"
-    },
     "2026-04": {
-      "count": 6,
-      "total": "3600.00"
+      "count": 9,
+      "total": "6910.00"
     },
     "2026-02": {
-      "count": 8,
-      "total": "4551.00"
+      "count": 21,
+      "total": "9151.00"
+    },
+    "2026-03": {
+      "count": 19,
+      "total": "21459.83"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1776574521798-30794",
+      "id": "contrib-1777180639938-31441",
+      "date": "2026-04-10 00:00:00",
+      "amount": 3110,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31442",
+      "date": "2026-02-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Alison Messex",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40207",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31443",
+      "date": "2026-03-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Ann Shake",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40222",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31444",
       "date": "2026-03-19 00:00:00",
       "amount": 150,
       "candidate_name": "Michele Henry",
@@ -67,7 +127,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30795",
+      "id": "contrib-1777180639938-31445",
+      "date": "2026-03-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Ben Basil",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40207",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31446",
+      "date": "2026-02-24 00:00:00",
+      "amount": 300,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Byron Guernsey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31447",
       "date": "2026-04-03 00:00:00",
       "amount": 1000,
       "candidate_name": "Michele Henry",
@@ -83,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30796",
+      "id": "contrib-1777180639938-31448",
       "date": "2026-03-04 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -99,7 +191,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30797",
+      "id": "contrib-1777180639938-31449",
+      "date": "2026-02-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Daniel Canon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31450",
+      "date": "2026-03-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "David Tachau",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40207",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31451",
+      "date": "2026-03-12 00:00:00",
+      "amount": 150,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "David Ward",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40205",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31452",
       "date": "2026-04-01 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -115,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30798",
+      "id": "contrib-1777180639938-31453",
       "date": "2026-02-17 00:00:00",
       "amount": 200,
       "candidate_name": "Michele Henry",
@@ -131,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30799",
+      "id": "contrib-1777180639938-31454",
       "date": "2026-03-16 00:00:00",
       "amount": 300,
       "candidate_name": "Michele Henry",
@@ -147,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30800",
+      "id": "contrib-1777180639938-31455",
       "date": "2026-03-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Michele Henry",
@@ -163,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30801",
+      "id": "contrib-1777180639938-31456",
       "date": "2026-02-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Michele Henry",
@@ -179,7 +319,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30802",
+      "id": "contrib-1777180639938-31457",
+      "date": "2026-03-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Isaac Fain",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40245",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31458",
+      "date": "2026-02-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Kate Crosby",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40205",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31459",
       "date": "2026-03-12 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -195,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30803",
+      "id": "contrib-1777180639938-31460",
       "date": "2026-03-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Michele Henry",
@@ -211,7 +383,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30804",
+      "id": "contrib-1777180639938-31461",
+      "date": "2026-02-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Loree Stark",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40204",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31462",
+      "date": "2026-03-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Loree Stark",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40204",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31463",
+      "date": "2026-04-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Loree Stark",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40204",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31464",
       "date": "2026-02-05 00:00:00",
       "amount": 100,
       "candidate_name": "Michele Henry",
@@ -227,7 +447,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30805",
+      "id": "contrib-1777180639938-31465",
+      "date": "2026-02-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Marilee Burnside",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31466",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Michele Henry",
@@ -243,7 +479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30806",
+      "id": "contrib-1777180639938-31467",
       "date": "2026-04-05 00:00:00",
       "amount": 100,
       "candidate_name": "Michele Henry",
@@ -259,7 +495,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30807",
+      "id": "contrib-1777180639938-31468",
+      "date": "2026-02-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Matthew Lynch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40241",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31469",
+      "date": "2026-02-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Michele Henry",
+      "contributor_type": "self",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31470",
       "date": "2026-03-06 00:00:00",
       "amount": 1109.83,
       "candidate_name": "Michele Henry",
@@ -275,7 +543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30808",
+      "id": "contrib-1777180639938-31471",
       "date": "2026-03-06 00:00:00",
       "amount": 2100,
       "candidate_name": "Michele Henry",
@@ -291,7 +559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30809",
+      "id": "contrib-1777180639938-31472",
       "date": "2026-03-20 00:00:00",
       "amount": 500,
       "candidate_name": "Michele Henry",
@@ -307,7 +575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30810",
+      "id": "contrib-1777180639938-31473",
       "date": "2026-02-05 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -323,7 +591,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30811",
+      "id": "contrib-1777180639938-31474",
+      "date": "2026-03-12 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Pete Lay",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40204",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31475",
       "date": "2026-04-03 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -339,7 +623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30812",
+      "id": "contrib-1777180639938-31476",
       "date": "2026-03-13 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -355,7 +639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30813",
+      "id": "contrib-1777180639938-31477",
       "date": "2026-02-11 00:00:00",
       "amount": 500,
       "candidate_name": "Michele Henry",
@@ -371,7 +655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30814",
+      "id": "contrib-1777180639938-31478",
       "date": "2026-04-10 00:00:00",
       "amount": 500,
       "candidate_name": "Michele Henry",
@@ -387,7 +671,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30815",
+      "id": "contrib-1777180639938-31479",
+      "date": "2026-02-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Sean Henry",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31480",
+      "date": "2026-04-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Shannon Fauver",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40206",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31481",
+      "date": "2026-02-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Stefanie Ebbens",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Milwaukee",
+      "address_state": "WI",
+      "address_zip": "53207",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31482",
+      "date": "2026-02-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Stephanie J Reese",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40207",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31483",
       "date": "2026-02-23 00:00:00",
       "amount": 2000,
       "candidate_name": "Michele Henry",
@@ -403,7 +751,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30816",
+      "id": "contrib-1777180639938-31484",
+      "date": "2026-02-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Tracy K'Meyer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40206",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31485",
       "date": "2026-02-10 00:00:00",
       "amount": 250,
       "candidate_name": "Michele Henry",
@@ -419,7 +783,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30817",
+      "id": "contrib-1777180639938-31486",
+      "date": "2026-02-20 00:00:00",
+      "amount": 250,
+      "candidate_name": "Michele Henry",
+      "contributor_name": "Tyler Korus",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lexington",
+      "address_state": "KY",
+      "address_zip": "40514",
+      "recipient_committee": "Michele for 72",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1777180639938-31487",
       "date": "2026-02-06 00:00:00",
       "amount": 251,
       "candidate_name": "Michele Henry",
@@ -435,7 +815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30818",
+      "id": "contrib-1777180639938-31488",
       "date": "2026-04-06 00:00:00",
       "amount": 1500,
       "candidate_name": "Michele Henry",
@@ -451,7 +831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1776574521798-30819",
+      "id": "contrib-1777180639938-31489",
       "date": "2026-03-09 00:00:00",
       "amount": 3000,
       "candidate_name": "Michele Henry",
