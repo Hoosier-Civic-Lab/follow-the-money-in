@@ -1,0 +1,44 @@
+{
+  "id": "precinct-committeeman-ws064",
+  "office": "Precinct Committeeman",
+  "district": "WS064",
+  "totals": {
+    "total_raised": "1000.00",
+    "total_contributions": 1
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "candidates": [
+    {
+      "id": "glenn-jude-bill",
+      "name": "Glenn Jude Bill",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "1000.00",
+        "total_contributions": 1
+      },
+      "by_month": {
+        "2026-04": {
+          "count": 1,
+          "total": "1000.00"
+        }
+      }
+    }
+  ]
+}
