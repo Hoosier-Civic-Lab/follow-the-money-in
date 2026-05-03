@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "18013.00",
-    "total_contributions": 8,
-    "total_itemized": 8,
+    "total_raised": "13013.00",
+    "total_contributions": 7,
+    "total_itemized": 7,
     "total_unitemized": 0
   },
   "by_contributor_type": {
@@ -17,14 +17,14 @@
       "total": "11013.00"
     },
     "committee": {
-      "count": 2,
-      "total": "7000.00"
+      "count": 1,
+      "total": "2000.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 6,
-      "total": "17413.00"
+      "count": 5,
+      "total": "12413.00"
     },
     "medium": {
       "count": 2,
@@ -49,13 +49,13 @@
       "total": "1695.00"
     },
     "2026-03": {
-      "count": 4,
-      "total": "8100.00"
+      "count": 3,
+      "total": "3100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1777180639671-101438",
+      "id": "contrib-1777786547623-101438",
       "date": "2025-12-15 00:00:00",
       "amount": 2125,
       "candidate_name": "John  Terrill Young",
@@ -71,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639671-101439",
+      "id": "contrib-1777786547623-101439",
       "date": "2025-10-09 00:00:00",
       "amount": 4093,
       "candidate_name": "John  Terrill Young",
@@ -87,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639671-101440",
+      "id": "contrib-1777786547623-101440",
       "date": "2025-11-01 00:00:00",
       "amount": 2000,
       "candidate_name": "John  Terrill Young",
@@ -103,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639924-27043",
+      "id": "contrib-1777786547895-27199",
       "date": "2026-01-30 00:00:00",
       "amount": 1695,
       "candidate_name": "John  Terrill Young",
@@ -119,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639924-27044",
+      "id": "contrib-1777786547895-27200",
       "date": "2026-03-01 00:00:00",
       "amount": 2500,
       "candidate_name": "John  Terrill Young",
@@ -135,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639924-27045",
+      "id": "contrib-1777786547895-27201",
       "date": "2026-03-15 00:00:00",
       "amount": 500,
       "candidate_name": "John  Terrill Young",
@@ -151,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1777180639924-27046",
+      "id": "contrib-1777786547895-27202",
       "date": "2026-03-15 00:00:00",
       "amount": 100,
       "candidate_name": "John  Terrill Young",
@@ -163,22 +163,6 @@
       "address_city": null,
       "address_state": "IN",
       "address_zip": null,
-      "recipient_committee": "John Young For Indiana",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1777180639924-27047",
-      "date": "2026-03-03 00:00:00",
-      "amount": 5000,
-      "candidate_name": "John  Terrill Young",
-      "contributor_name": "Lawyers Political Action Committee of Indiana",
-      "contributor_type": "committee",
-      "contribution_size": "large",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Indiana",
-      "address_state": "IN",
-      "address_zip": "46204",
       "recipient_committee": "John Young For Indiana",
       "source": "indiana"
     }
