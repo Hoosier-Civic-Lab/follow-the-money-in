@@ -6,24 +6,40 @@
   "district": "State Representative, District 052",
   "party": "Republican",
   "totals": {
-    "total_raised": "500.00",
-    "total_contributions": 1,
-    "total_itemized": 1,
-    "total_unitemized": 0
+    "total_raised": "523.78",
+    "total_contributions": 3,
+    "total_itemized": 2,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "11.89"
+    },
+    "self": {
+      "count": 1,
+      "total": "11.89"
+    },
     "individual": {
       "count": 1,
       "total": "500.00"
     }
   },
   "by_contribution_size": {
+    "small": {
+      "count": 2,
+      "total": "23.78"
+    },
     "medium": {
       "count": 1,
       "total": "500.00"
     }
   },
   "by_month": {
+    "2026-03": {
+      "count": 2,
+      "total": "23.78"
+    },
     "2026-02": {
       "count": 1,
       "total": "500.00"
@@ -31,7 +47,39 @@
   },
   "contributions": [
     {
-      "id": "contrib-1780208760388-31820",
+      "id": "contrib-1780814203776-31857",
+      "date": "2026-03-01 00:00:00",
+      "amount": 11.89,
+      "candidate_name": "Eve Peters",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to elect Eve Peters District 52 State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1780814203776-31858",
+      "date": "2026-03-17 00:00:00",
+      "amount": 11.89,
+      "candidate_name": "Eve Peters",
+      "contributor_name": "Eve Peters",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Avilla",
+      "address_state": "IN",
+      "address_zip": "46710",
+      "recipient_committee": "Committee to elect Eve Peters District 52 State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1780814203776-31859",
       "date": "2026-02-14 00:00:00",
       "amount": 500,
       "candidate_name": "Eve Peters",
