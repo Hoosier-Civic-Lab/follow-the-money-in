@@ -2,21 +2,25 @@
   "id": "charlie-for-mayor-committee",
   "name": "Charlie for Mayor Committee",
   "totals": {
-    "total_given": "2600.00",
-    "total_contributions": 3,
+    "total_given": "4750.00",
+    "total_contributions": 4,
     "candidates_supported": 1
   },
   "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "4150.00"
+    },
     "medium": {
       "count": 2,
       "total": "600.00"
-    },
-    "large": {
-      "count": 1,
-      "total": "2000.00"
     }
   },
   "by_month": {
+    "2025-09": {
+      "count": 1,
+      "total": "2150.00"
+    },
     "2025-06": {
       "count": 1,
       "total": "100.00"
@@ -36,7 +40,22 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1782025021970-63910",
+      "id": "contrib-1782627946374-28799",
+      "date": "2025-09-18 00:00:00",
+      "amount": 2150,
+      "contributor_name": "Charlie for Mayor Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boonville",
+      "address_state": "IN",
+      "address_zip": "47601",
+      "recipient_committee": "Warrick County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946429-64417",
       "date": "2025-06-03 00:00:00",
       "amount": 100,
       "contributor_name": "Charlie for Mayor Committee",
@@ -51,7 +70,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022011-95993",
+      "id": "contrib-1782627946471-96536",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -67,7 +86,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022011-95994",
+      "id": "contrib-1782627946471-96537",
       "date": "2025-08-14 00:00:00",
       "amount": 2000,
       "candidate_name": "Alexander Richard Burton",

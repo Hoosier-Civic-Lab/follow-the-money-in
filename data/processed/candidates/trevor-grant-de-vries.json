@@ -6,23 +6,23 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "32914.32",
-    "total_contributions": 136,
-    "total_itemized": 135,
-    "total_unitemized": 1
+    "total_raised": "52534.18",
+    "total_contributions": 196,
+    "total_itemized": 194,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "1120.00"
+      "count": 2,
+      "total": "5485.16"
     },
     "corporate": {
-      "count": 2,
-      "total": "2050.00"
+      "count": 3,
+      "total": "2300.00"
     },
     "individual": {
-      "count": 132,
-      "total": "29644.32"
+      "count": 190,
+      "total": "44649.02"
     },
     "committee": {
       "count": 1,
@@ -31,19 +31,31 @@
   },
   "by_contribution_size": {
     "large": {
-      "count": 11,
-      "total": "13718.92"
-    },
-    "small": {
-      "count": 45,
-      "total": "2090.62"
+      "count": 16,
+      "total": "22084.08"
     },
     "medium": {
-      "count": 80,
-      "total": "17104.78"
+      "count": 118,
+      "total": "27807.27"
+    },
+    "small": {
+      "count": 62,
+      "total": "2642.83"
     }
   },
   "by_month": {
+    "2025-12": {
+      "count": 5,
+      "total": "5769.64"
+    },
+    "2025-11": {
+      "count": 37,
+      "total": "9919.71"
+    },
+    "2025-10": {
+      "count": 18,
+      "total": "3930.51"
+    },
     "2026-04": {
       "count": 25,
       "total": "6563.35"
@@ -63,7 +75,967 @@
   },
   "contributions": [
     {
-      "id": "contrib-1782025022262-27276",
+      "id": "contrib-1782627946475-102056",
+      "date": "2025-12-27 00:00:00",
+      "amount": 4365.16,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102057",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Smits Funeral Homes",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Dyer",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102058",
+      "date": "2025-11-19 00:00:00",
+      "amount": 150,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Beth Hernandez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102059",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Brian Wachowiak",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Crete",
+      "address_state": "IL",
+      "address_zip": "60417",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102060",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Carey VanDerNoord",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102061",
+      "date": "2025-10-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Christy Larson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102062",
+      "date": "2025-11-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Christy Larson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102063",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Dan Housman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102064",
+      "date": "2025-10-18 00:00:00",
+      "amount": 16.88,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "David & Brenda Overzet",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102065",
+      "date": "2025-11-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "David & Brenda Overzet",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102066",
+      "date": "2025-10-29 00:00:00",
+      "amount": 36.58,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "David Bruinius",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102067",
+      "date": "2025-11-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "David Bruinius",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102068",
+      "date": "2025-11-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "David Bruinius",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102069",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Diana Morecraft",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102070",
+      "date": "2025-11-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Jeff VAN DRUNEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Dyer",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102071",
+      "date": "2025-10-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "John & Laurel Van Proyen",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102072",
+      "date": "2025-11-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "John Fiene",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102073",
+      "date": "2025-11-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "John Fiene",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102074",
+      "date": "2025-11-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "JONATHAN PETERSEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102075",
+      "date": "2025-11-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Jonathan Van Drunen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102076",
+      "date": "2025-11-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Judith Schmidt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102077",
+      "date": "2025-11-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Ken & Nancy De Young",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102078",
+      "date": "2025-10-17 00:00:00",
+      "amount": 3.5,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Kenneth DeVries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102079",
+      "date": "2025-10-07 00:00:00",
+      "amount": 16.88,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Kenneth DeVries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102080",
+      "date": "2025-10-20 00:00:00",
+      "amount": 8.98,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Kenneth DeVries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102081",
+      "date": "2025-10-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Kenneth DeVries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102082",
+      "date": "2025-11-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Kris and Lauren Sustek",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102083",
+      "date": "2025-11-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Marisa Richardson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Schererville ",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102084",
+      "date": "2025-10-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Marty Wondaal",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102085",
+      "date": "2025-11-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Matt Maddock",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Milford",
+      "address_state": "MI",
+      "address_zip": "48381",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102086",
+      "date": "2025-11-21 00:00:00",
+      "amount": 125,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Nathan Zuidema",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Highland",
+      "address_state": "IN",
+      "address_zip": "46322",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102087",
+      "date": "2025-10-25 00:00:00",
+      "amount": 225,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Nicholas Fiene",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Chicago ",
+      "address_state": "IL",
+      "address_zip": "60654",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102088",
+      "date": "2025-10-19 00:00:00",
+      "amount": 11.63,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Phil & Christine VanderWall",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Dyer",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102089",
+      "date": "2025-10-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Phil & Christine VanderWall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Dyer",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102090",
+      "date": "2025-11-05 00:00:00",
+      "amount": 150,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Rolando Deluna",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102091",
+      "date": "2025-10-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Sandra Prince",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102092",
+      "date": "2025-11-21 00:00:00",
+      "amount": 200,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Scott & Amanda Black Black",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102093",
+      "date": "2025-11-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Taylor Flikkema",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102094",
+      "date": "2025-11-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Tom Donovan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102095",
+      "date": "2025-10-18 00:00:00",
+      "amount": 108.1,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trent Overzet",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "New Lenox",
+      "address_state": "IL",
+      "address_zip": "60451",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102096",
+      "date": "2025-11-21 00:00:00",
+      "amount": 3,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102097",
+      "date": "2025-11-21 00:00:00",
+      "amount": 6,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102098",
+      "date": "2025-11-12 00:00:00",
+      "amount": 10.73,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102099",
+      "date": "2025-12-22 00:00:00",
+      "amount": 24.6,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102100",
+      "date": "2025-10-17 00:00:00",
+      "amount": 32.37,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102101",
+      "date": "2025-11-25 00:00:00",
+      "amount": 32.88,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102102",
+      "date": "2025-11-16 00:00:00",
+      "amount": 42,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102103",
+      "date": "2025-11-14 00:00:00",
+      "amount": 67.6,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102104",
+      "date": "2025-11-17 00:00:00",
+      "amount": 71.99,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102105",
+      "date": "2025-10-07 00:00:00",
+      "amount": 82.59,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102106",
+      "date": "2025-10-17 00:00:00",
+      "amount": 84,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102107",
+      "date": "2025-11-12 00:00:00",
+      "amount": 110,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102108",
+      "date": "2025-12-03 00:00:00",
+      "amount": 179.88,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102109",
+      "date": "2025-12-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102110",
+      "date": "2025-10-17 00:00:00",
+      "amount": 204,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102111",
+      "date": "2025-11-12 00:00:00",
+      "amount": 230,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102112",
+      "date": "2025-11-24 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102113",
+      "date": "2025-12-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Trevor De Vries",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102114",
+      "date": "2025-11-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "Wayne and Kathy Witvoet",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Food Services",
+      "occupation_category": "other",
+      "address_city": "Cedar Lake",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946475-102115",
+      "date": "2025-11-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Trevor Grant De Vries",
+      "contributor_name": "William Goers Jr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Hammond ",
+      "address_state": "IN",
+      "address_zip": "46324",
+      "recipient_committee": "The Friends of Trevor De Vries",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946754-27276",
       "date": "2026-04-10 00:00:00",
       "amount": 1120,
       "candidate_name": "Trevor Grant De Vries",
@@ -79,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27277",
+      "id": "contrib-1782627946754-27277",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -95,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27278",
+      "id": "contrib-1782627946754-27278",
       "date": "2026-03-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -111,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27279",
+      "id": "contrib-1782627946754-27279",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -127,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27280",
+      "id": "contrib-1782627946754-27280",
       "date": "2026-03-28 00:00:00",
       "amount": 332,
       "candidate_name": "Trevor Grant De Vries",
@@ -143,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27281",
+      "id": "contrib-1782627946754-27281",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -159,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27282",
+      "id": "contrib-1782627946754-27282",
       "date": "2026-04-08 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -175,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27283",
+      "id": "contrib-1782627946754-27283",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -191,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27284",
+      "id": "contrib-1782627946754-27284",
       "date": "2026-03-01 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -207,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27285",
+      "id": "contrib-1782627946754-27285",
       "date": "2026-04-08 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -223,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27286",
+      "id": "contrib-1782627946754-27286",
       "date": "2026-03-28 00:00:00",
       "amount": 430,
       "candidate_name": "Trevor Grant De Vries",
@@ -239,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27287",
+      "id": "contrib-1782627946754-27287",
       "date": "2026-02-25 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -255,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27288",
+      "id": "contrib-1782627946754-27288",
       "date": "2026-02-03 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -271,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27289",
+      "id": "contrib-1782627946754-27289",
       "date": "2026-04-08 00:00:00",
       "amount": 9.63,
       "candidate_name": "Trevor Grant De Vries",
@@ -287,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27290",
+      "id": "contrib-1782627946754-27290",
       "date": "2026-03-28 00:00:00",
       "amount": 300,
       "candidate_name": "Trevor Grant De Vries",
@@ -303,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27291",
+      "id": "contrib-1782627946754-27291",
       "date": "2026-01-10 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -319,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27292",
+      "id": "contrib-1782627946754-27292",
       "date": "2026-01-08 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -335,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27293",
+      "id": "contrib-1782627946754-27293",
       "date": "2026-04-09 00:00:00",
       "amount": 25,
       "candidate_name": "Trevor Grant De Vries",
@@ -351,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27294",
+      "id": "contrib-1782627946754-27294",
       "date": "2026-03-28 00:00:00",
       "amount": 160,
       "candidate_name": "Trevor Grant De Vries",
@@ -367,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27295",
+      "id": "contrib-1782627946754-27295",
       "date": "2026-02-21 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -383,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27296",
+      "id": "contrib-1782627946754-27296",
       "date": "2026-02-14 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -399,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27297",
+      "id": "contrib-1782627946754-27297",
       "date": "2026-02-10 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -415,7 +1387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27298",
+      "id": "contrib-1782627946754-27298",
       "date": "2026-04-02 00:00:00",
       "amount": 125,
       "candidate_name": "Trevor Grant De Vries",
@@ -431,7 +1403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27299",
+      "id": "contrib-1782627946754-27299",
       "date": "2026-03-28 00:00:00",
       "amount": 80,
       "candidate_name": "Trevor Grant De Vries",
@@ -447,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27300",
+      "id": "contrib-1782627946754-27300",
       "date": "2026-02-23 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -463,7 +1435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27301",
+      "id": "contrib-1782627946754-27301",
       "date": "2026-02-09 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -479,7 +1451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27302",
+      "id": "contrib-1782627946754-27302",
       "date": "2026-03-22 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -495,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27303",
+      "id": "contrib-1782627946754-27303",
       "date": "2026-03-30 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -511,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27304",
+      "id": "contrib-1782627946754-27304",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -527,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27305",
+      "id": "contrib-1782627946754-27305",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -543,7 +1515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27306",
+      "id": "contrib-1782627946754-27306",
       "date": "2026-03-28 00:00:00",
       "amount": 80,
       "candidate_name": "Trevor Grant De Vries",
@@ -559,7 +1531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27307",
+      "id": "contrib-1782627946754-27307",
       "date": "2026-02-13 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -575,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27308",
+      "id": "contrib-1782627946754-27308",
       "date": "2026-02-24 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -591,7 +1563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27309",
+      "id": "contrib-1782627946754-27309",
       "date": "2026-03-28 00:00:00",
       "amount": 40,
       "candidate_name": "Trevor Grant De Vries",
@@ -607,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27310",
+      "id": "contrib-1782627946754-27310",
       "date": "2026-01-20 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -623,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27311",
+      "id": "contrib-1782627946754-27311",
       "date": "2026-04-09 00:00:00",
       "amount": 25,
       "candidate_name": "Trevor Grant De Vries",
@@ -639,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27312",
+      "id": "contrib-1782627946754-27312",
       "date": "2026-02-21 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -655,7 +1627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27313",
+      "id": "contrib-1782627946754-27313",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -671,7 +1643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27314",
+      "id": "contrib-1782627946754-27314",
       "date": "2026-04-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -687,7 +1659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27315",
+      "id": "contrib-1782627946754-27315",
       "date": "2026-02-25 00:00:00",
       "amount": 10,
       "candidate_name": "Trevor Grant De Vries",
@@ -703,7 +1675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27316",
+      "id": "contrib-1782627946754-27316",
       "date": "2026-02-22 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -719,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27317",
+      "id": "contrib-1782627946754-27317",
       "date": "2026-03-28 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -735,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27318",
+      "id": "contrib-1782627946754-27318",
       "date": "2026-03-16 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -751,7 +1723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27319",
+      "id": "contrib-1782627946754-27319",
       "date": "2026-02-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -767,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27320",
+      "id": "contrib-1782627946754-27320",
       "date": "2026-03-17 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -783,7 +1755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27321",
+      "id": "contrib-1782627946754-27321",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -799,7 +1771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27322",
+      "id": "contrib-1782627946754-27322",
       "date": "2026-02-24 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -815,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27323",
+      "id": "contrib-1782627946754-27323",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -831,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27324",
+      "id": "contrib-1782627946754-27324",
       "date": "2026-03-24 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -847,7 +1819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27325",
+      "id": "contrib-1782627946754-27325",
       "date": "2026-03-28 00:00:00",
       "amount": 660,
       "candidate_name": "Trevor Grant De Vries",
@@ -863,7 +1835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27326",
+      "id": "contrib-1782627946754-27326",
       "date": "2026-03-28 00:00:00",
       "amount": 2222.84,
       "candidate_name": "Trevor Grant De Vries",
@@ -879,7 +1851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27327",
+      "id": "contrib-1782627946754-27327",
       "date": "2026-03-24 00:00:00",
       "amount": 168.39,
       "candidate_name": "Trevor Grant De Vries",
@@ -895,7 +1867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27328",
+      "id": "contrib-1782627946754-27328",
       "date": "2026-02-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -911,7 +1883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27329",
+      "id": "contrib-1782627946754-27329",
       "date": "2026-03-28 00:00:00",
       "amount": 160,
       "candidate_name": "Trevor Grant De Vries",
@@ -927,7 +1899,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27330",
+      "id": "contrib-1782627946754-27330",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -943,7 +1915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27331",
+      "id": "contrib-1782627946754-27331",
       "date": "2026-02-23 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -959,7 +1931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27332",
+      "id": "contrib-1782627946754-27332",
       "date": "2026-04-06 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -975,7 +1947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27333",
+      "id": "contrib-1782627946754-27333",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -991,7 +1963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27334",
+      "id": "contrib-1782627946754-27334",
       "date": "2026-02-23 00:00:00",
       "amount": 750,
       "candidate_name": "Trevor Grant De Vries",
@@ -1007,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27335",
+      "id": "contrib-1782627946754-27335",
       "date": "2026-03-28 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -1023,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27336",
+      "id": "contrib-1782627946754-27336",
       "date": "2026-03-28 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -1039,7 +2011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27337",
+      "id": "contrib-1782627946754-27337",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1055,7 +2027,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27338",
+      "id": "contrib-1782627946754-27338",
       "date": "2026-01-13 00:00:00",
       "amount": 25,
       "candidate_name": "Trevor Grant De Vries",
@@ -1071,7 +2043,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27339",
+      "id": "contrib-1782627946754-27339",
       "date": "2026-02-23 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1087,7 +2059,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27340",
+      "id": "contrib-1782627946754-27340",
       "date": "2026-03-28 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -1103,7 +2075,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27341",
+      "id": "contrib-1782627946754-27341",
       "date": "2026-03-28 00:00:00",
       "amount": 40,
       "candidate_name": "Trevor Grant De Vries",
@@ -1119,7 +2091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27342",
+      "id": "contrib-1782627946754-27342",
       "date": "2026-02-05 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1135,7 +2107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27343",
+      "id": "contrib-1782627946754-27343",
       "date": "2026-02-04 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1151,7 +2123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27344",
+      "id": "contrib-1782627946754-27344",
       "date": "2026-03-28 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -1167,7 +2139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27345",
+      "id": "contrib-1782627946754-27345",
       "date": "2026-02-26 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1183,7 +2155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27346",
+      "id": "contrib-1782627946754-27346",
       "date": "2026-03-28 00:00:00",
       "amount": 160,
       "candidate_name": "Trevor Grant De Vries",
@@ -1199,7 +2171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27347",
+      "id": "contrib-1782627946754-27347",
       "date": "2026-04-09 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1215,7 +2187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27348",
+      "id": "contrib-1782627946754-27348",
       "date": "2026-03-28 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -1231,7 +2203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27349",
+      "id": "contrib-1782627946754-27349",
       "date": "2026-01-09 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1247,7 +2219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27350",
+      "id": "contrib-1782627946754-27350",
       "date": "2026-02-09 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1263,7 +2235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27351",
+      "id": "contrib-1782627946754-27351",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1279,7 +2251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27352",
+      "id": "contrib-1782627946754-27352",
       "date": "2026-02-24 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1295,7 +2267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27353",
+      "id": "contrib-1782627946754-27353",
       "date": "2026-04-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -1311,7 +2283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27354",
+      "id": "contrib-1782627946754-27354",
       "date": "2026-02-06 00:00:00",
       "amount": 10,
       "candidate_name": "Trevor Grant De Vries",
@@ -1327,7 +2299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27355",
+      "id": "contrib-1782627946754-27355",
       "date": "2026-03-12 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -1343,7 +2315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27356",
+      "id": "contrib-1782627946754-27356",
       "date": "2026-02-25 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -1359,7 +2331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27357",
+      "id": "contrib-1782627946754-27357",
       "date": "2026-02-13 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1375,7 +2347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27358",
+      "id": "contrib-1782627946754-27358",
       "date": "2026-02-15 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1391,7 +2363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27359",
+      "id": "contrib-1782627946754-27359",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1407,7 +2379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27360",
+      "id": "contrib-1782627946754-27360",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1423,7 +2395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27361",
+      "id": "contrib-1782627946754-27361",
       "date": "2026-03-01 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1439,7 +2411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27362",
+      "id": "contrib-1782627946754-27362",
       "date": "2026-03-28 00:00:00",
       "amount": 80,
       "candidate_name": "Trevor Grant De Vries",
@@ -1455,7 +2427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27363",
+      "id": "contrib-1782627946754-27363",
       "date": "2026-02-19 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1471,7 +2443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27364",
+      "id": "contrib-1782627946754-27364",
       "date": "2026-02-19 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -1487,7 +2459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27365",
+      "id": "contrib-1782627946754-27365",
       "date": "2026-02-24 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1503,7 +2475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27366",
+      "id": "contrib-1782627946754-27366",
       "date": "2026-02-05 00:00:00",
       "amount": 600,
       "candidate_name": "Trevor Grant De Vries",
@@ -1519,7 +2491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27367",
+      "id": "contrib-1782627946754-27367",
       "date": "2026-04-08 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1535,7 +2507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27368",
+      "id": "contrib-1782627946754-27368",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -1551,7 +2523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27369",
+      "id": "contrib-1782627946754-27369",
       "date": "2026-03-28 00:00:00",
       "amount": 160,
       "candidate_name": "Trevor Grant De Vries",
@@ -1567,7 +2539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27370",
+      "id": "contrib-1782627946754-27370",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1583,7 +2555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27371",
+      "id": "contrib-1782627946754-27371",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1599,7 +2571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27372",
+      "id": "contrib-1782627946754-27372",
       "date": "2026-03-28 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -1615,7 +2587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27373",
+      "id": "contrib-1782627946754-27373",
       "date": "2026-02-23 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1631,7 +2603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27374",
+      "id": "contrib-1782627946754-27374",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -1647,7 +2619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27375",
+      "id": "contrib-1782627946754-27375",
       "date": "2026-01-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Trevor Grant De Vries",
@@ -1663,7 +2635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27376",
+      "id": "contrib-1782627946754-27376",
       "date": "2026-03-03 00:00:00",
       "amount": 200,
       "candidate_name": "Trevor Grant De Vries",
@@ -1679,7 +2651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27377",
+      "id": "contrib-1782627946754-27377",
       "date": "2026-02-02 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1695,7 +2667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27378",
+      "id": "contrib-1782627946754-27378",
       "date": "2026-03-28 00:00:00",
       "amount": 80,
       "candidate_name": "Trevor Grant De Vries",
@@ -1711,7 +2683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27379",
+      "id": "contrib-1782627946754-27379",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1727,7 +2699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27380",
+      "id": "contrib-1782627946754-27380",
       "date": "2026-02-18 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1743,7 +2715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27381",
+      "id": "contrib-1782627946754-27381",
       "date": "2026-03-27 00:00:00",
       "amount": 80,
       "candidate_name": "Trevor Grant De Vries",
@@ -1759,7 +2731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27382",
+      "id": "contrib-1782627946754-27382",
       "date": "2026-01-14 00:00:00",
       "amount": 250,
       "candidate_name": "Trevor Grant De Vries",
@@ -1775,7 +2747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27383",
+      "id": "contrib-1782627946754-27383",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -1791,7 +2763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27384",
+      "id": "contrib-1782627946754-27384",
       "date": "2026-03-28 00:00:00",
       "amount": 300,
       "candidate_name": "Trevor Grant De Vries",
@@ -1807,7 +2779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27385",
+      "id": "contrib-1782627946754-27385",
       "date": "2026-02-13 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -1823,7 +2795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27386",
+      "id": "contrib-1782627946754-27386",
       "date": "2026-04-07 00:00:00",
       "amount": 207.25,
       "candidate_name": "Trevor Grant De Vries",
@@ -1839,7 +2811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27387",
+      "id": "contrib-1782627946754-27387",
       "date": "2026-03-13 00:00:00",
       "amount": 29.97,
       "candidate_name": "Trevor Grant De Vries",
@@ -1855,7 +2827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27388",
+      "id": "contrib-1782627946754-27388",
       "date": "2026-03-11 00:00:00",
       "amount": 42.75,
       "candidate_name": "Trevor Grant De Vries",
@@ -1871,7 +2843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27389",
+      "id": "contrib-1782627946754-27389",
       "date": "2026-01-19 00:00:00",
       "amount": 1176.08,
       "candidate_name": "Trevor Grant De Vries",
@@ -1887,7 +2859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27390",
+      "id": "contrib-1782627946754-27390",
       "date": "2026-02-15 00:00:00",
       "amount": 288.67,
       "candidate_name": "Trevor Grant De Vries",
@@ -1903,7 +2875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27391",
+      "id": "contrib-1782627946754-27391",
       "date": "2026-01-27 00:00:00",
       "amount": 179.88,
       "candidate_name": "Trevor Grant De Vries",
@@ -1919,7 +2891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27392",
+      "id": "contrib-1782627946754-27392",
       "date": "2026-01-08 00:00:00",
       "amount": 40.43,
       "candidate_name": "Trevor Grant De Vries",
@@ -1935,7 +2907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27393",
+      "id": "contrib-1782627946754-27393",
       "date": "2026-02-09 00:00:00",
       "amount": 40.43,
       "candidate_name": "Trevor Grant De Vries",
@@ -1951,7 +2923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27394",
+      "id": "contrib-1782627946754-27394",
       "date": "2026-01-06 00:00:00",
       "amount": 24.6,
       "candidate_name": "Trevor Grant De Vries",
@@ -1967,7 +2939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27395",
+      "id": "contrib-1782627946754-27395",
       "date": "2026-04-08 00:00:00",
       "amount": 35.94,
       "candidate_name": "Trevor Grant De Vries",
@@ -1983,7 +2955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27396",
+      "id": "contrib-1782627946754-27396",
       "date": "2026-04-03 00:00:00",
       "amount": 165.53,
       "candidate_name": "Trevor Grant De Vries",
@@ -1999,7 +2971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27397",
+      "id": "contrib-1782627946754-27397",
       "date": "2026-02-19 00:00:00",
       "amount": 1200,
       "candidate_name": "Trevor Grant De Vries",
@@ -2015,7 +2987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27398",
+      "id": "contrib-1782627946754-27398",
       "date": "2026-02-09 00:00:00",
       "amount": 150,
       "candidate_name": "Trevor Grant De Vries",
@@ -2031,7 +3003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27399",
+      "id": "contrib-1782627946754-27399",
       "date": "2026-02-18 00:00:00",
       "amount": 108.06,
       "candidate_name": "Trevor Grant De Vries",
@@ -2047,7 +3019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27400",
+      "id": "contrib-1782627946754-27400",
       "date": "2026-02-20 00:00:00",
       "amount": 300,
       "candidate_name": "Trevor Grant De Vries",
@@ -2063,7 +3035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27401",
+      "id": "contrib-1782627946754-27401",
       "date": "2026-02-09 00:00:00",
       "amount": 36.37,
       "candidate_name": "Trevor Grant De Vries",
@@ -2079,7 +3051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27402",
+      "id": "contrib-1782627946754-27402",
       "date": "2026-02-19 00:00:00",
       "amount": 80.5,
       "candidate_name": "Trevor Grant De Vries",
@@ -2095,7 +3067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27403",
+      "id": "contrib-1782627946754-27403",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -2111,7 +3083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27404",
+      "id": "contrib-1782627946754-27404",
       "date": "2026-02-23 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",
@@ -2127,7 +3099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27405",
+      "id": "contrib-1782627946754-27405",
       "date": "2026-01-07 00:00:00",
       "amount": 25,
       "candidate_name": "Trevor Grant De Vries",
@@ -2143,7 +3115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27406",
+      "id": "contrib-1782627946754-27406",
       "date": "2026-02-20 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -2159,7 +3131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27407",
+      "id": "contrib-1782627946754-27407",
       "date": "2026-02-04 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -2175,7 +3147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27408",
+      "id": "contrib-1782627946754-27408",
       "date": "2026-02-25 00:00:00",
       "amount": 500,
       "candidate_name": "Trevor Grant De Vries",
@@ -2191,7 +3163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27409",
+      "id": "contrib-1782627946754-27409",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Trevor Grant De Vries",
@@ -2207,7 +3179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27410",
+      "id": "contrib-1782627946754-27410",
       "date": "2026-03-09 00:00:00",
       "amount": 2000,
       "candidate_name": "Trevor Grant De Vries",
@@ -2223,7 +3195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022262-27411",
+      "id": "contrib-1782627946754-27411",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Trevor Grant De Vries",

@@ -6,19 +6,19 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "16059.60",
-    "total_contributions": 16,
-    "total_itemized": 16,
+    "total_raised": "13809.60",
+    "total_contributions": 17,
+    "total_itemized": 17,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
       "count": 6,
-      "total": "6550.00"
+      "total": "2050.00"
     },
     "individual": {
-      "count": 7,
-      "total": "7909.60"
+      "count": 8,
+      "total": "10159.60"
     },
     "committee": {
       "count": 3,
@@ -26,23 +26,23 @@
     }
   },
   "by_contribution_size": {
-    "large": {
-      "count": 9,
-      "total": "13750.00"
+    "small": {
+      "count": 2,
+      "total": "-2240.40"
     },
     "medium": {
       "count": 6,
       "total": "2300.00"
     },
-    "small": {
-      "count": 1,
-      "total": "9.60"
+    "large": {
+      "count": 9,
+      "total": "13750.00"
     }
   },
   "by_month": {
     "2025-08": {
-      "count": 3,
-      "total": "7250.00"
+      "count": 4,
+      "total": "5000.00"
     },
     "2025-12": {
       "count": 10,
@@ -59,13 +59,13 @@
   },
   "contributions": [
     {
-      "id": "contrib-1782025021972-64375",
+      "id": "contrib-1782627946431-64882",
       "date": "2025-08-18 00:00:00",
-      "amount": 2250,
+      "amount": -2250,
       "candidate_name": "Gregory Gurod Taylor",
       "contributor_name": "Anheuser Busch",
       "contributor_type": "corporate",
-      "contribution_size": "large",
+      "contribution_size": "small",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": null,
@@ -75,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64376",
+      "id": "contrib-1782627946431-64883",
       "date": "2025-12-15 00:00:00",
       "amount": 300,
       "candidate_name": "Gregory Gurod Taylor",
@@ -91,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64377",
+      "id": "contrib-1782627946431-64884",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Gurod Taylor",
@@ -107,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64378",
+      "id": "contrib-1782627946431-64885",
       "date": "2025-10-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Gurod Taylor",
@@ -123,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64379",
+      "id": "contrib-1782627946431-64886",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Gurod Taylor",
@@ -139,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64380",
+      "id": "contrib-1782627946431-64887",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Gurod Taylor",
@@ -155,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64381",
+      "id": "contrib-1782627946431-64888",
       "date": "2025-12-31 00:00:00",
       "amount": 300,
       "candidate_name": "Gregory Gurod Taylor",
@@ -171,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64382",
+      "id": "contrib-1782627946431-64889",
       "date": "2025-12-31 00:00:00",
       "amount": 9.6,
       "candidate_name": "Gregory Gurod Taylor",
@@ -187,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64383",
+      "id": "contrib-1782627946431-64890",
       "date": "2025-01-30 00:00:00",
       "amount": 750,
       "candidate_name": "Gregory Gurod Taylor",
@@ -203,7 +203,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64384",
+      "id": "contrib-1782627946431-64891",
+      "date": "2025-08-18 00:00:00",
+      "amount": 2250,
+      "candidate_name": "Gregory Gurod Taylor",
+      "contributor_name": "Anheuser Busch",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Greg Taylor for State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946431-64892",
       "date": "2025-08-18 00:00:00",
       "amount": 2500,
       "candidate_name": "Gregory Gurod Taylor",
@@ -219,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64385",
+      "id": "contrib-1782627946431-64893",
       "date": "2025-12-15 00:00:00",
       "amount": 1500,
       "candidate_name": "Gregory Gurod Taylor",
@@ -235,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64386",
+      "id": "contrib-1782627946431-64894",
       "date": "2025-12-31 00:00:00",
       "amount": 300,
       "candidate_name": "Gregory Gurod Taylor",
@@ -251,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64387",
+      "id": "contrib-1782627946431-64895",
       "date": "2025-12-18 00:00:00",
       "amount": 300,
       "candidate_name": "Gregory Gurod Taylor",
@@ -267,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64388",
+      "id": "contrib-1782627946431-64896",
       "date": "2025-10-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Gurod Taylor",
@@ -283,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64389",
+      "id": "contrib-1782627946431-64897",
       "date": "2025-08-18 00:00:00",
       "amount": 2500,
       "candidate_name": "Gregory Gurod Taylor",
@@ -299,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025021972-64390",
+      "id": "contrib-1782627946431-64898",
       "date": "2025-12-15 00:00:00",
       "amount": 350,
       "candidate_name": "Gregory Gurod Taylor",

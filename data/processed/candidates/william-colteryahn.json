@@ -6,43 +6,43 @@
   "district": "State Representative, District 040",
   "party": "Democratic",
   "totals": {
-    "total_raised": "10007.66",
-    "total_contributions": 18,
-    "total_itemized": 17,
+    "total_raised": "10507.66",
+    "total_contributions": 20,
+    "total_itemized": 19,
     "total_unitemized": 1
   },
   "by_contributor_type": {
+    "individual": {
+      "count": 16,
+      "total": "7675.00"
+    },
     "self": {
-      "count": 2,
+      "count": 3,
       "total": "270.26"
     },
     "unitemized": {
       "count": 1,
       "total": "2562.40"
-    },
-    "individual": {
-      "count": 15,
-      "total": "7175.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 10,
-      "total": "2300.00"
+      "count": 11,
+      "total": "3050.00"
+    },
+    "small": {
+      "count": 5,
+      "total": "-104.74"
     },
     "large": {
       "count": 4,
       "total": "7562.40"
-    },
-    "small": {
-      "count": 4,
-      "total": "145.26"
     }
   },
   "by_month": {
     "2025-11": {
-      "count": 1,
-      "total": "250.00"
+      "count": 3,
+      "total": "750.00"
     },
     "2026-04": {
       "count": 3,
@@ -63,9 +63,41 @@
   },
   "contributions": [
     {
-      "id": "contrib-1782025022016-101724",
+      "id": "contrib-1782627946476-102343",
       "date": "2025-11-18 00:00:00",
-      "amount": 250,
+      "amount": 500,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "Colteryahn, William Charles",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946476-102344",
+      "date": "2025-11-18 00:00:00",
+      "amount": -250,
+      "candidate_name": "William Colteryahn",
+      "contributor_name": "William Colteryahn",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Avon",
+      "address_state": "IN",
+      "address_zip": "46123",
+      "recipient_committee": "Colteryahn4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1782627946476-102345",
+      "date": "2025-11-18 00:00:00",
+      "amount": 500,
       "candidate_name": "William Colteryahn",
       "contributor_name": "William Colteryahn",
       "contributor_type": "self",
@@ -79,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27977",
+      "id": "contrib-1782627946756-27977",
       "date": "2026-04-10 00:00:00",
       "amount": 2562.4,
       "candidate_name": "William Colteryahn",
@@ -95,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27978",
+      "id": "contrib-1782627946756-27978",
       "date": "2026-02-17 00:00:00",
       "amount": 20.26,
       "candidate_name": "William Colteryahn",
@@ -111,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27979",
+      "id": "contrib-1782627946756-27979",
       "date": "2026-01-15 00:00:00",
       "amount": 2000,
       "candidate_name": "William Colteryahn",
@@ -127,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27980",
+      "id": "contrib-1782627946756-27980",
       "date": "2026-01-12 00:00:00",
       "amount": 200,
       "candidate_name": "William Colteryahn",
@@ -143,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27981",
+      "id": "contrib-1782627946756-27981",
       "date": "2026-01-23 00:00:00",
       "amount": 100,
       "candidate_name": "William Colteryahn",
@@ -159,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27982",
+      "id": "contrib-1782627946756-27982",
       "date": "2026-02-27 00:00:00",
       "amount": 100,
       "candidate_name": "William Colteryahn",
@@ -175,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27983",
+      "id": "contrib-1782627946756-27983",
       "date": "2026-01-12 00:00:00",
       "amount": 500,
       "candidate_name": "William Colteryahn",
@@ -191,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27984",
+      "id": "contrib-1782627946756-27984",
       "date": "2026-02-18 00:00:00",
       "amount": 250,
       "candidate_name": "William Colteryahn",
@@ -207,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27985",
+      "id": "contrib-1782627946756-27985",
       "date": "2026-02-14 00:00:00",
       "amount": 150,
       "candidate_name": "William Colteryahn",
@@ -223,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27986",
+      "id": "contrib-1782627946756-27986",
       "date": "2026-03-02 00:00:00",
       "amount": 50,
       "candidate_name": "William Colteryahn",
@@ -239,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27987",
+      "id": "contrib-1782627946756-27987",
       "date": "2026-04-02 00:00:00",
       "amount": 50,
       "candidate_name": "William Colteryahn",
@@ -255,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27988",
+      "id": "contrib-1782627946756-27988",
       "date": "2026-01-25 00:00:00",
       "amount": 100,
       "candidate_name": "William Colteryahn",
@@ -271,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27989",
+      "id": "contrib-1782627946756-27989",
       "date": "2026-02-20 00:00:00",
       "amount": 1000,
       "candidate_name": "William Colteryahn",
@@ -287,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27990",
+      "id": "contrib-1782627946756-27990",
       "date": "2026-01-12 00:00:00",
       "amount": 150,
       "candidate_name": "William Colteryahn",
@@ -303,7 +335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27991",
+      "id": "contrib-1782627946756-27991",
       "date": "2026-02-21 00:00:00",
       "amount": 500,
       "candidate_name": "William Colteryahn",
@@ -319,7 +351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27992",
+      "id": "contrib-1782627946756-27992",
       "date": "2026-01-15 00:00:00",
       "amount": 2000,
       "candidate_name": "William Colteryahn",
@@ -335,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782025022263-27993",
+      "id": "contrib-1782627946756-27993",
       "date": "2026-04-10 00:00:00",
       "amount": 25,
       "candidate_name": "William Colteryahn",
