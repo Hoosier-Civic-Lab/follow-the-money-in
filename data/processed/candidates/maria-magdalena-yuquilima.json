@@ -6,15 +6,15 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "2247.00",
-    "total_contributions": 3,
+    "total_raised": "2663.05",
+    "total_contributions": 5,
     "total_itemized": 2,
-    "total_unitemized": 1
+    "total_unitemized": 3
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "1497.00"
+      "count": 3,
+      "total": "1913.05"
     },
     "individual": {
       "count": 2,
@@ -27,8 +27,12 @@
       "total": "1497.00"
     },
     "medium": {
-      "count": 2,
-      "total": "750.00"
+      "count": 3,
+      "total": "1166.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "0.05"
     }
   },
   "by_month": {
@@ -43,11 +47,15 @@
     "2025-11": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "416.05"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1782627946474-100671",
+      "id": "contrib-1783231891154-100671",
       "date": "2025-12-31 00:00:00",
       "amount": 1497,
       "candidate_name": "Maria Magdalena Yuquilima",
@@ -63,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782627946474-100672",
+      "id": "contrib-1783231891154-100672",
       "date": "2025-09-06 00:00:00",
       "amount": 500,
       "candidate_name": "Maria Magdalena Yuquilima",
@@ -79,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1782627946474-100673",
+      "id": "contrib-1783231891154-100673",
       "date": "2025-11-15 00:00:00",
       "amount": 250,
       "candidate_name": "Maria Magdalena Yuquilima",
@@ -91,6 +99,38 @@
       "address_city": "Fort Wayne",
       "address_state": "IN",
       "address_zip": "46802",
+      "recipient_committee": "Hoosiers for Yuquilima",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1783231891405-26266",
+      "date": "2026-05-07 00:00:00",
+      "amount": 416,
+      "candidate_name": "Maria Magdalena Yuquilima",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Hoosiers for Yuquilima",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1783231891405-26267",
+      "date": "2026-05-29 00:00:00",
+      "amount": 0.05,
+      "candidate_name": "Maria Magdalena Yuquilima",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
       "recipient_committee": "Hoosiers for Yuquilima",
       "source": "indiana"
     }
