@@ -2,14 +2,14 @@
   "id": "committee-to-elect-brandon-sakbun",
   "name": "Committee to Elect Brandon Sakbun",
   "totals": {
-    "total_given": "18000.00",
-    "total_contributions": 4,
-    "candidates_supported": 1
+    "total_given": "20500.00",
+    "total_contributions": 5,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "8000.00"
+      "count": 4,
+      "total": "10500.00"
     },
     "mega": {
       "count": 1,
@@ -32,6 +32,10 @@
     "2026-02": {
       "count": 1,
       "total": "10000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -40,11 +44,17 @@
       "name": "Tonya Marie Pfaff",
       "total": "5000.00",
       "count": 1
+    },
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "2500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1783834472446-436",
+      "id": "contrib-1784438915240-436",
       "date": "2025-09-21 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -59,7 +69,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472446-437",
+      "id": "contrib-1784438915240-437",
       "date": "2025-05-12 00:00:00",
       "amount": 2000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -74,7 +84,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472568-83424",
+      "id": "contrib-1784438915361-83424",
       "date": "2025-08-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -90,7 +100,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472805-1480",
+      "id": "contrib-1784438915620-1480",
       "date": "2026-02-05 00:00:00",
       "amount": 10000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -102,6 +112,22 @@
       "address_state": "IN",
       "address_zip": "47802",
       "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915678-29862",
+      "date": "2026-06-17 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
     }
   ],

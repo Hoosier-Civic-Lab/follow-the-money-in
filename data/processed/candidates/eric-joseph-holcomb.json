@@ -6,36 +6,44 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "207.00",
-    "total_contributions": 2,
-    "total_itemized": 2,
-    "total_unitemized": 0
+    "total_raised": "376.52",
+    "total_contributions": 4,
+    "total_itemized": 3,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "individual": {
-      "count": 2,
-      "total": "207.00"
+      "count": 3,
+      "total": "354.71"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "21.81"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 1,
-      "total": "57.00"
+      "count": 2,
+      "total": "78.81"
     },
     "medium": {
-      "count": 1,
-      "total": "150.00"
+      "count": 2,
+      "total": "297.71"
     }
   },
   "by_month": {
     "2025-11": {
       "count": 2,
       "total": "207.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "169.52"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1783834472565-80901",
+      "id": "contrib-1784438915359-80901",
       "date": "2025-11-24 00:00:00",
       "amount": 57,
       "candidate_name": "Eric Joseph Holcomb",
@@ -51,7 +59,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472565-80902",
+      "id": "contrib-1784438915359-80902",
       "date": "2025-11-17 00:00:00",
       "amount": 150,
       "candidate_name": "Eric Joseph Holcomb",
@@ -63,6 +71,38 @@
       "address_city": null,
       "address_state": null,
       "address_zip": null,
+      "recipient_committee": "Eric Holcomb for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915636-16010",
+      "date": "2026-04-12 00:00:00",
+      "amount": 21.81,
+      "candidate_name": "Eric Joseph Holcomb",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Eric Holcomb for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915636-16011",
+      "date": "2026-04-12 00:00:00",
+      "amount": 147.71,
+      "candidate_name": "Eric Joseph Holcomb",
+      "contributor_name": "ZACH IMEL",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
       "recipient_committee": "Eric Holcomb for Indiana",
       "source": "indiana"
     }

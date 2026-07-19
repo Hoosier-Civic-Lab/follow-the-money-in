@@ -3,43 +3,43 @@
   "office": "STATE REPRESENTATIVE",
   "district": "State Representative, District 029",
   "totals": {
-    "total_raised": "65186.17",
-    "total_contributions": 219
+    "total_raised": "84152.61",
+    "total_contributions": 362
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 10,
-      "total": "6150.00"
+      "count": 11,
+      "total": "8150.00"
     },
     "individual": {
-      "count": 177,
-      "total": "36140.50"
+      "count": 316,
+      "total": "52481.94"
     },
     "committee": {
-      "count": 26,
-      "total": "19750.00"
+      "count": 28,
+      "total": "20350.00"
+    },
+    "self": {
+      "count": 3,
+      "total": "3025.00"
     },
     "unitemized": {
       "count": 4,
       "total": "145.67"
-    },
-    "self": {
-      "count": 2,
-      "total": "3000.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 113,
-      "total": "30201.57"
+      "count": 154,
+      "total": "37521.57"
     },
     "large": {
-      "count": 22,
-      "total": "32335.89"
+      "count": 26,
+      "total": "41335.89"
     },
     "small": {
-      "count": 84,
-      "total": "2648.71"
+      "count": 182,
+      "total": "5295.15"
     }
   },
   "by_month": {
@@ -76,16 +76,28 @@
       "total": "5315.87"
     },
     "2026-04": {
-      "count": 14,
-      "total": "7860.00"
+      "count": 27,
+      "total": "8675.00"
     },
     "2026-03": {
-      "count": 40,
-      "total": "11686.71"
+      "count": 41,
+      "total": "11711.71"
+    },
+    "2026-06": {
+      "count": 105,
+      "total": "14346.44"
     },
     "2026-01": {
       "count": 34,
       "total": "5839.28"
+    },
+    "2026-07": {
+      "count": 16,
+      "total": "3555.00"
+    },
+    "2026-05": {
+      "count": 8,
+      "total": "225.00"
     }
   },
   "candidates": [
@@ -141,6 +153,49 @@
       }
     },
     {
+      "id": "coumba-kebe",
+      "name": "Coumba Kebe",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "27152.44",
+        "total_contributions": 263
+      },
+      "by_month": {
+        "2025-12": {
+          "count": 14,
+          "total": "1060.00"
+        },
+        "2026-03": {
+          "count": 22,
+          "total": "1185.00"
+        },
+        "2026-02": {
+          "count": 48,
+          "total": "3171.00"
+        },
+        "2026-06": {
+          "count": 105,
+          "total": "14346.44"
+        },
+        "2026-01": {
+          "count": 31,
+          "total": "2360.00"
+        },
+        "2026-04": {
+          "count": 19,
+          "total": "1250.00"
+        },
+        "2026-07": {
+          "count": 16,
+          "total": "3555.00"
+        },
+        "2026-05": {
+          "count": 8,
+          "total": "225.00"
+        }
+      }
+    },
+    {
       "id": "devon-wellington",
       "name": "Devon Wellington",
       "party": "Democratic",
@@ -164,37 +219,6 @@
         "2026-02": {
           "count": 5,
           "total": "2124.05"
-        }
-      }
-    },
-    {
-      "id": "coumba-kebe",
-      "name": "Coumba Kebe",
-      "party": "Democratic",
-      "totals": {
-        "total_raised": "8186.00",
-        "total_contributions": 120
-      },
-      "by_month": {
-        "2025-12": {
-          "count": 14,
-          "total": "1060.00"
-        },
-        "2026-02": {
-          "count": 48,
-          "total": "3171.00"
-        },
-        "2026-03": {
-          "count": 21,
-          "total": "1160.00"
-        },
-        "2026-01": {
-          "count": 31,
-          "total": "2360.00"
-        },
-        "2026-04": {
-          "count": 6,
-          "total": "435.00"
         }
       }
     }
