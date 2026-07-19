@@ -2,14 +2,14 @@
   "id": "alliance-coal-pac",
   "name": "Alliance Coal PAC",
   "totals": {
-    "total_given": "9000.00",
-    "total_contributions": 5,
+    "total_given": "14000.00",
+    "total_contributions": 6,
     "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 5,
-      "total": "9000.00"
+      "count": 6,
+      "total": "14000.00"
     }
   },
   "by_month": {
@@ -24,14 +24,18 @@
     "2025-09": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
     {
       "id": "theodore-edward-rokita",
       "name": "THEODORE EDWARD ROKITA",
-      "total": "5000.00",
-      "count": 2
+      "total": "10000.00",
+      "count": 3
     },
     {
       "id": "todd-michael-huston",
@@ -54,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1783834472503-31352",
+      "id": "contrib-1784438915298-31352",
       "date": "2025-08-01 00:00:00",
       "amount": 2500,
       "candidate_name": "THEODORE EDWARD ROKITA",
@@ -70,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472503-31353",
+      "id": "contrib-1784438915298-31353",
       "date": "2025-11-25 00:00:00",
       "amount": 2500,
       "candidate_name": "THEODORE EDWARD ROKITA",
@@ -86,7 +90,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472554-67389",
+      "id": "contrib-1784438915348-67389",
       "date": "2025-09-02 00:00:00",
       "amount": 2000,
       "candidate_name": "Todd Michael Huston",
@@ -102,7 +106,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472569-84916",
+      "id": "contrib-1784438915363-84916",
       "date": "2025-08-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Cindy Lynn Ledbetter",
@@ -118,7 +122,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472581-90199",
+      "id": "contrib-1784438915373-90199",
       "date": "2025-08-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Timothy Andrew O'Brien",
@@ -131,6 +135,22 @@
       "address_state": "OK",
       "address_zip": "74121",
       "recipient_committee": "Friends of Tim O'Brien",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915631-9394",
+      "date": "2026-06-17 00:00:00",
+      "amount": 5000,
+      "candidate_name": "THEODORE EDWARD ROKITA",
+      "contributor_name": "Alliance Coal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Tulsa",
+      "address_state": "OK",
+      "address_zip": "74121",
+      "recipient_committee": "Todd Rokita Election Committee",
       "source": "indiana"
     }
   ],

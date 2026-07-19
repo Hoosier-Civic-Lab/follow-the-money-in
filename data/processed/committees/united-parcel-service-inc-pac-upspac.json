@@ -2,18 +2,22 @@
   "id": "united-parcel-service-inc-pac-upspac",
   "name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
+    "total_given": "10000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 2,
+      "total": "10000.00"
     }
   },
   "by_month": {
     "2025-09": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-05": {
       "count": 1,
       "total": "5000.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "michael-k-braun",
       "name": "MICHAEL K BRAUN",
-      "total": "5000.00",
-      "count": 1
+      "total": "10000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1783834472585-94260",
+      "id": "contrib-1784438915377-94260",
       "date": "2025-09-21 00:00:00",
+      "amount": 5000,
+      "candidate_name": "MICHAEL K BRAUN",
+      "contributor_name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20003",
+      "recipient_committee": "MIKE BRAUN FOR INDIANA, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915656-22457",
+      "date": "2026-05-29 00:00:00",
       "amount": 5000,
       "candidate_name": "MICHAEL K BRAUN",
       "contributor_name": "UNITED PARCEL SERVICE, INC. PAC (UPSPAC)",

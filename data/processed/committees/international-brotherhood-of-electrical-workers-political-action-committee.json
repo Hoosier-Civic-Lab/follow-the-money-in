@@ -2,8 +2,8 @@
   "id": "international-brotherhood-of-electrical-workers-political-action-committee",
   "name": "International Brotherhood of Electrical Workers Political Action Committee",
   "totals": {
-    "total_given": "21250.00",
-    "total_contributions": 6,
+    "total_given": "32250.00",
+    "total_contributions": 8,
     "candidates_supported": 1
   },
   "by_contribution_size": {
@@ -12,8 +12,12 @@
       "total": "250.00"
     },
     "large": {
-      "count": 5,
-      "total": "21000.00"
+      "count": 6,
+      "total": "22000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -34,25 +38,29 @@
       "total": "5000.00"
     },
     "2026-04": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     },
     "2026-03": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
     {
       "id": "beau-bayh",
       "name": "Beau Bayh",
-      "total": "5000.00",
-      "count": 1
+      "total": "16000.00",
+      "count": 3
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1783834472447-520",
+      "id": "contrib-1784438915240-520",
       "date": "2025-10-22 00:00:00",
       "amount": 250,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -67,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472447-521",
+      "id": "contrib-1784438915240-521",
       "date": "2025-09-10 00:00:00",
       "amount": 5000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -82,7 +90,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472456-7365",
+      "id": "contrib-1784438915254-7365",
       "date": "2025-01-07 00:00:00",
       "amount": 5000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -97,7 +105,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472456-7366",
+      "id": "contrib-1784438915254-7366",
       "date": "2025-12-29 00:00:00",
       "amount": 5000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -112,7 +120,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472798-174",
+      "id": "contrib-1784438915618-174",
       "date": "2026-04-02 00:00:00",
       "amount": 1000,
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
@@ -127,13 +135,45 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472844-27283",
+      "id": "contrib-1784438915678-29896",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915678-29897",
       "date": "2026-03-31 00:00:00",
       "amount": 5000,
       "candidate_name": "Beau Bayh",
       "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
       "contributor_type": "committee",
       "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915678-29898",
+      "date": "2026-06-30 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "International Brotherhood of Electrical Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "WASHINGTON",

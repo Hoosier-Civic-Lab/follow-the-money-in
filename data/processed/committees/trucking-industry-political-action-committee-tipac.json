@@ -2,14 +2,14 @@
   "id": "trucking-industry-political-action-committee-tipac",
   "name": "Trucking Industry Political Action Committee (TIPAC)",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 2,
+    "total_given": "6000.00",
+    "total_contributions": 3,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "3500.00"
+      "count": 3,
+      "total": "6000.00"
     }
   },
   "by_month": {
@@ -20,19 +20,23 @@
     "2025-06": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
     {
       "id": "theodore-edward-rokita",
       "name": "THEODORE EDWARD ROKITA",
-      "total": "3500.00",
-      "count": 2
+      "total": "6000.00",
+      "count": 3
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1783834472503-31362",
+      "id": "contrib-1784438915298-31362",
       "date": "2025-10-03 00:00:00",
       "amount": 1000,
       "candidate_name": "THEODORE EDWARD ROKITA",
@@ -48,8 +52,24 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1783834472503-31363",
+      "id": "contrib-1784438915298-31363",
       "date": "2025-06-10 00:00:00",
+      "amount": 2500,
+      "candidate_name": "THEODORE EDWARD ROKITA",
+      "contributor_name": "Trucking Industry Political Action Committee (TIPAC)",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Todd Rokita Election Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1784438915631-9400",
+      "date": "2026-02-19 00:00:00",
       "amount": 2500,
       "candidate_name": "THEODORE EDWARD ROKITA",
       "contributor_name": "Trucking Industry Political Action Committee (TIPAC)",
