@@ -1,0 +1,66 @@
+{
+  "id": "tyler-joseph-henkle",
+  "name": "Tyler Joseph Henkle",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "300.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 2,
+      "total": "300.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "300.00"
+    }
+  },
+  "by_month": {
+    "2026-07": {
+      "count": 2,
+      "total": "300.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1785648798755-35502",
+      "date": "2026-07-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tyler Joseph Henkle",
+      "contributor_name": "Jack McClintock",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Henkle For Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35503",
+      "date": "2026-07-19 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tyler Joseph Henkle",
+      "contributor_name": "Tyler J. Henkle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Henkle For Hoosiers",
+      "source": "indiana"
+    }
+  ]
+}
