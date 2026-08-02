@@ -1,0 +1,94 @@
+{
+  "id": "paul-george-nix",
+  "name": "Paul George Nix",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "1550.00",
+    "total_contributions": 3,
+    "total_itemized": 3,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "individual": {
+      "count": 2,
+      "total": "1050.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "50.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2026-07": {
+      "count": 3,
+      "total": "1550.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1785648798755-35499",
+      "date": "2026-07-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paul George Nix",
+      "contributor_name": "NIXGroup INC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46216",
+      "recipient_committee": "NIX4Indiana Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35500",
+      "date": "2026-07-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Paul George Nix",
+      "contributor_name": "Jeb Cox",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "NIX4Indiana Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35501",
+      "date": "2026-07-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paul George Nix",
+      "contributor_name": "Paul Nix",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "NIX4Indiana Campaign Committee",
+      "source": "indiana"
+    }
+  ]
+}

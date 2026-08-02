@@ -1,0 +1,98 @@
+{
+  "id": "joshua-david-burbrink",
+  "name": "Joshua David Burbrink",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "2790.72",
+    "total_contributions": 3,
+    "total_itemized": 3,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "individual": {
+      "count": 3,
+      "total": "2790.72"
+    }
+  },
+  "by_contribution_size": {
+    "small": {
+      "count": 1,
+      "total": "80.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "2510.72"
+    }
+  },
+  "by_month": {
+    "2026-07": {
+      "count": 1,
+      "total": "80.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "2510.72"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1785648798755-35422",
+      "date": "2026-07-07 00:00:00",
+      "amount": 80,
+      "candidate_name": "Joshua David Burbrink",
+      "contributor_name": "David M Burbrink",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Josh Burbrink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35423",
+      "date": "2026-02-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Joshua David Burbrink",
+      "contributor_name": "Joshua D Burbrink",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Columbus",
+      "address_state": "In",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Josh Burbrink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35424",
+      "date": "2026-01-01 00:00:00",
+      "amount": 2510.72,
+      "candidate_name": "Joshua David Burbrink",
+      "contributor_name": "Friends of Josh Burbrink",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "In",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Josh Burbrink",
+      "source": "indiana"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "mason-barclay",
+  "name": "Mason Barclay",
+  "source": "indiana",
+  "office": "PRECINCT COMMITTEEMAN",
+  "district": "Boon 12 Democratic Precinct Committeeman, Warrick County",
+  "party": "Democratic",
+  "totals": {
+    "total_raised": "5000.03",
+    "total_contributions": 2,
+    "total_itemized": 2,
+    "total_unitemized": 0
+  },
+  "by_contributor_type": {
+    "corporate": {
+      "count": 1,
+      "total": "0.03"
+    },
+    "individual": {
+      "count": 1,
+      "total": "5000.00"
+    }
+  },
+  "by_contribution_size": {
+    "small": {
+      "count": 1,
+      "total": "0.03"
+    },
+    "large": {
+      "count": 1,
+      "total": "5000.00"
+    }
+  },
+  "by_month": {
+    "2026-06": {
+      "count": 2,
+      "total": "5000.03"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1785648798755-35497",
+      "date": "2026-06-30 00:00:00",
+      "amount": 0.03,
+      "candidate_name": "Mason Barclay",
+      "contributor_name": "People's Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boonville",
+      "address_state": "IN",
+      "address_zip": "47601",
+      "recipient_committee": "Barclay for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35498",
+      "date": "2026-06-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Mason Barclay",
+      "contributor_name": "Kathleen Pettijon",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elberfeld",
+      "address_state": "IN",
+      "address_zip": "47613",
+      "recipient_committee": "Barclay for Indiana",
+      "source": "indiana"
+    }
+  ]
+}

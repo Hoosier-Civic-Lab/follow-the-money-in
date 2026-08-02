@@ -1,0 +1,70 @@
+{
+  "id": "nanette-crock-polk",
+  "name": "Nanette Crock Polk",
+  "source": "indiana",
+  "office": null,
+  "district": null,
+  "party": null,
+  "totals": {
+    "total_raised": "600.00",
+    "total_contributions": 2,
+    "total_itemized": 1,
+    "total_unitemized": 1
+  },
+  "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "individual": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "by_month": {
+    "2026-06": {
+      "count": 2,
+      "total": "600.00"
+    }
+  },
+  "contributions": [
+    {
+      "id": "contrib-1785648798755-35495",
+      "date": "2026-06-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nanette Crock Polk",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Nan Polk",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1785648798755-35496",
+      "date": "2026-06-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nanette Crock Polk",
+      "contributor_name": "Nannett C Polk",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Castle",
+      "address_state": "IN",
+      "address_zip": "47362",
+      "recipient_committee": "Committee to Elect Nan Polk",
+      "source": "indiana"
+    }
+  ]
+}
