@@ -3,39 +3,43 @@
   "office": "State Representative",
   "district": "40",
   "totals": {
-    "total_raised": "85200.24",
-    "total_contributions": 87
+    "total_raised": "258734.49",
+    "total_contributions": 147
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 3,
-      "total": "2361.34"
+      "count": 6,
+      "total": "2504.02"
     },
     "corporate": {
-      "count": 25,
-      "total": "25687.82"
+      "count": 33,
+      "total": "35271.51"
     },
     "individual": {
-      "count": 31,
-      "total": "15815.00"
+      "count": 47,
+      "total": "28315.00"
     },
     "committee": {
-      "count": 28,
-      "total": "41336.08"
+      "count": 61,
+      "total": "192643.96"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 49,
-      "total": "20126.34"
+      "count": 70,
+      "total": "28834.22"
     },
     "large": {
-      "count": 36,
-      "total": "64997.82"
+      "count": 68,
+      "total": "128631.51"
     },
     "small": {
-      "count": 2,
-      "total": "76.08"
+      "count": 5,
+      "total": "218.76"
+    },
+    "mega": {
+      "count": 4,
+      "total": "101050.00"
     }
   },
   "by_month": {
@@ -62,6 +66,18 @@
     "2025-07": {
       "count": 5,
       "total": "8500.00"
+    },
+    "2026-02": {
+      "count": 2,
+      "total": "21074.01"
+    },
+    "2026-04": {
+      "count": 32,
+      "total": "70150.00"
+    },
+    "2026-03": {
+      "count": 26,
+      "total": "82310.24"
     }
   },
   "candidates": [
@@ -70,8 +86,8 @@
       "name": "Gregory Earl Steuerwald",
       "party": "Republican",
       "totals": {
-        "total_raised": "85200.24",
-        "total_contributions": 87
+        "total_raised": "258665.82",
+        "total_contributions": 146
       },
       "by_month": {
         "2025-09": {
@@ -97,6 +113,33 @@
         "2025-07": {
           "count": 5,
           "total": "8500.00"
+        },
+        "2026-02": {
+          "count": 2,
+          "total": "21074.01"
+        },
+        "2026-04": {
+          "count": 32,
+          "total": "70150.00"
+        },
+        "2026-03": {
+          "count": 25,
+          "total": "82241.57"
+        }
+      }
+    },
+    {
+      "id": "kevin-short",
+      "name": "Kevin Short",
+      "party": "Democratic",
+      "totals": {
+        "total_raised": "68.67",
+        "total_contributions": 1
+      },
+      "by_month": {
+        "2026-03": {
+          "count": 1,
+          "total": "68.67"
         }
       }
     }

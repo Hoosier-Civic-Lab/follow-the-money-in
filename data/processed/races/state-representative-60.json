@@ -3,31 +3,39 @@
   "office": "State Representative",
   "district": "60",
   "totals": {
-    "total_raised": "31450.00",
-    "total_contributions": 57
+    "total_raised": "99790.42",
+    "total_contributions": 111
   },
   "by_contributor_type": {
     "individual": {
-      "count": 14,
-      "total": "6050.00"
+      "count": 38,
+      "total": "20900.00"
     },
     "corporate": {
-      "count": 8,
-      "total": "4150.00"
+      "count": 15,
+      "total": "7150.00"
     },
     "committee": {
-      "count": 35,
-      "total": "21250.00"
+      "count": 58,
+      "total": "71740.42"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 44,
-      "total": "16950.00"
+      "count": 82,
+      "total": "30940.42"
     },
     "large": {
-      "count": 13,
-      "total": "14500.00"
+      "count": 24,
+      "total": "34500.00"
+    },
+    "small": {
+      "count": 3,
+      "total": "100.00"
+    },
+    "mega": {
+      "count": 2,
+      "total": "34250.00"
     }
   },
   "by_month": {
@@ -54,6 +62,22 @@
     "2025-10": {
       "count": 2,
       "total": "2000.00"
+    },
+    "2026-04": {
+      "count": 49,
+      "total": "47925.00"
+    },
+    "2026-01": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-02": {
+      "count": 1,
+      "total": "25.00"
+    },
+    "2026-03": {
+      "count": 3,
+      "total": "20140.42"
     }
   },
   "candidates": [
@@ -62,8 +86,8 @@
       "name": "Peggy Mayfield",
       "party": "Republican",
       "totals": {
-        "total_raised": "31450.00",
-        "total_contributions": 57
+        "total_raised": "99790.42",
+        "total_contributions": 111
       },
       "by_month": {
         "2025-07": {
@@ -89,6 +113,22 @@
         "2025-10": {
           "count": 2,
           "total": "2000.00"
+        },
+        "2026-04": {
+          "count": 49,
+          "total": "47925.00"
+        },
+        "2026-01": {
+          "count": 1,
+          "total": "250.00"
+        },
+        "2026-02": {
+          "count": 1,
+          "total": "25.00"
+        },
+        "2026-03": {
+          "count": 3,
+          "total": "20140.42"
         }
       }
     }

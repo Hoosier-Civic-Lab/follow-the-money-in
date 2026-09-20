@@ -3,28 +3,107 @@
   "office": "State Representative",
   "district": "22",
   "totals": {
-    "total_raised": "5.00",
-    "total_contributions": 1
+    "total_raised": "191611.00",
+    "total_contributions": 184
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 22,
+      "total": "16650.00"
+    },
+    "individual": {
+      "count": 91,
+      "total": "87256.00"
+    },
+    "committee": {
+      "count": 70,
+      "total": "87700.00"
+    },
     "self": {
       "count": 1,
       "total": "5.00"
     }
   },
   "by_contribution_size": {
+    "medium": {
+      "count": 112,
+      "total": "48200.00"
+    },
+    "large": {
+      "count": 66,
+      "total": "103356.00"
+    },
     "small": {
-      "count": 1,
-      "total": "5.00"
+      "count": 2,
+      "total": "55.00"
+    },
+    "mega": {
+      "count": 4,
+      "total": "40000.00"
     }
   },
   "by_month": {
+    "2025-09": {
+      "count": 57,
+      "total": "49456.00"
+    },
+    "2025-11": {
+      "count": 55,
+      "total": "63200.00"
+    },
+    "2025-12": {
+      "count": 6,
+      "total": "6000.00"
+    },
     "2025-01": {
-      "count": 1,
-      "total": "5.00"
+      "count": 3,
+      "total": "1305.00"
+    },
+    "2026-03": {
+      "count": 11,
+      "total": "10950.00"
+    },
+    "2026-04": {
+      "count": 52,
+      "total": "60700.00"
     }
   },
   "candidates": [
+    {
+      "id": "craig-thomas-snow",
+      "name": "Craig Thomas Snow",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "191606.00",
+        "total_contributions": 183
+      },
+      "by_month": {
+        "2025-09": {
+          "count": 57,
+          "total": "49456.00"
+        },
+        "2025-11": {
+          "count": 55,
+          "total": "63200.00"
+        },
+        "2025-12": {
+          "count": 6,
+          "total": "6000.00"
+        },
+        "2025-01": {
+          "count": 2,
+          "total": "1300.00"
+        },
+        "2026-03": {
+          "count": 11,
+          "total": "10950.00"
+        },
+        "2026-04": {
+          "count": 52,
+          "total": "60700.00"
+        }
+      }
+    },
     {
       "id": "josh-vergiels",
       "name": "Josh Vergiels",

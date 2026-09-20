@@ -3,29 +3,61 @@
   "office": "State Representative",
   "district": "73",
   "totals": {
-    "total_raised": "17170.00",
-    "total_contributions": 9
+    "total_raised": "45066.24",
+    "total_contributions": 56
   },
   "by_contributor_type": {
     "individual": {
-      "count": 9,
-      "total": "17170.00"
+      "count": 25,
+      "total": "23870.00"
+    },
+    "corporate": {
+      "count": 3,
+      "total": "900.00"
+    },
+    "committee": {
+      "count": 28,
+      "total": "20296.24"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "1320.00"
+      "count": 42,
+      "total": "16216.24"
     },
     "large": {
-      "count": 7,
-      "total": "15850.00"
+      "count": 14,
+      "total": "28850.00"
     }
   },
   "by_month": {
+    "2025-06": {
+      "count": 19,
+      "total": "11850.00"
+    },
     "2025-08": {
+      "count": 3,
+      "total": "1570.00"
+    },
+    "2025-07": {
+      "count": 4,
+      "total": "4300.00"
+    },
+    "2025-09": {
       "count": 1,
-      "total": "820.00"
+      "total": "1000.00"
+    },
+    "2025-10": {
+      "count": 2,
+      "total": "3300.00"
+    },
+    "2026-03": {
+      "count": 4,
+      "total": "5096.24"
+    },
+    "2026-04": {
+      "count": 19,
+      "total": "12000.00"
     },
     "2025-05": {
       "count": 1,
@@ -35,32 +67,55 @@
       "count": 1,
       "total": "1500.00"
     },
-    "2025-06": {
-      "count": 1,
-      "total": "2500.00"
-    },
-    "2025-07": {
-      "count": 1,
-      "total": "3000.00"
-    },
     "2026-02": {
       "count": 1,
       "total": "500.00"
     },
-    "2026-04": {
-      "count": 1,
-      "total": "1500.00"
-    },
     "2026-01": {
       "count": 1,
       "total": "2750.00"
-    },
-    "2026-03": {
-      "count": 1,
-      "total": "3400.00"
     }
   },
   "candidates": [
+    {
+      "id": "jennifer-meltzer",
+      "name": "Jennifer Meltzer",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "27896.24",
+        "total_contributions": 47
+      },
+      "by_month": {
+        "2025-06": {
+          "count": 18,
+          "total": "9350.00"
+        },
+        "2025-08": {
+          "count": 2,
+          "total": "750.00"
+        },
+        "2025-07": {
+          "count": 3,
+          "total": "1300.00"
+        },
+        "2025-09": {
+          "count": 1,
+          "total": "1000.00"
+        },
+        "2025-10": {
+          "count": 2,
+          "total": "3300.00"
+        },
+        "2026-03": {
+          "count": 3,
+          "total": "1696.24"
+        },
+        "2026-04": {
+          "count": 18,
+          "total": "10500.00"
+        }
+      }
+    },
     {
       "id": "edward-k-comstock-ii",
       "name": "Edward K. Comstock II",

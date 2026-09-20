@@ -3,28 +3,91 @@
   "office": "State Representative",
   "district": "04",
   "totals": {
-    "total_raised": "119.74",
-    "total_contributions": 1
+    "total_raised": "161519.74",
+    "total_contributions": 93
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 20,
+      "total": "32550.00"
+    },
+    "individual": {
+      "count": 24,
+      "total": "27450.00"
+    },
+    "committee": {
+      "count": 48,
+      "total": "101400.00"
+    },
     "unitemized": {
       "count": 1,
       "total": "119.74"
     }
   },
   "by_contribution_size": {
+    "large": {
+      "count": 46,
+      "total": "88500.00"
+    },
     "medium": {
-      "count": 1,
-      "total": "119.74"
+      "count": 43,
+      "total": "18019.74"
+    },
+    "mega": {
+      "count": 4,
+      "total": "55000.00"
     }
   },
   "by_month": {
+    "2025-10": {
+      "count": 41,
+      "total": "46750.00"
+    },
+    "2025-12": {
+      "count": 35,
+      "total": "96300.00"
+    },
+    "2026-01": {
+      "count": 14,
+      "total": "16650.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "1700.00"
+    },
     "2025-01": {
       "count": 1,
       "total": "119.74"
     }
   },
   "candidates": [
+    {
+      "id": "edmond-lewis-soliday",
+      "name": "Edmond Lewis Soliday",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "161400.00",
+        "total_contributions": 92
+      },
+      "by_month": {
+        "2025-10": {
+          "count": 41,
+          "total": "46750.00"
+        },
+        "2025-12": {
+          "count": 35,
+          "total": "96300.00"
+        },
+        "2026-01": {
+          "count": 14,
+          "total": "16650.00"
+        },
+        "2026-04": {
+          "count": 2,
+          "total": "1700.00"
+        }
+      }
+    },
     {
       "id": "erika-maia-robinson-watkins",
       "name": "Erika Maia Robinson-Watkins",
