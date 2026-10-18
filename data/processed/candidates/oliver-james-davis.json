@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "5185.79",
-    "total_contributions": 13,
-    "total_itemized": 12,
+    "total_raised": "19785.79",
+    "total_contributions": 39,
+    "total_itemized": 38,
     "total_unitemized": 1
   },
   "by_contributor_type": {
@@ -17,22 +17,26 @@
       "total": "600.00"
     },
     "individual": {
-      "count": 10,
-      "total": "4555.37"
+      "count": 35,
+      "total": "18855.37"
     },
     "unitemized": {
       "count": 1,
       "total": "30.42"
+    },
+    "committee": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 11,
-      "total": "2600.00"
+      "count": 34,
+      "total": "6700.00"
     },
     "large": {
-      "count": 1,
-      "total": "2555.37"
+      "count": 4,
+      "total": "13055.37"
     },
     "small": {
       "count": 1,
@@ -41,17 +45,41 @@
   },
   "by_month": {
     "2026-04": {
-      "count": 7,
-      "total": "3785.79"
+      "count": 8,
+      "total": "3885.79"
+    },
+    "2026-08": {
+      "count": 11,
+      "total": "3000.00"
+    },
+    "2026-09": {
+      "count": 6,
+      "total": "5300.00"
     },
     "2026-03": {
       "count": 6,
       "total": "1400.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "300.00"
+    },
+    "2026-10": {
+      "count": 4,
+      "total": "5550.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769748-33845",
+      "id": "contrib-1792307282044-91523",
       "date": "2026-04-09 00:00:00",
       "amount": 300,
       "candidate_name": "Oliver James Davis",
@@ -67,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33846",
+      "id": "contrib-1792307282044-91524",
       "date": "2026-04-09 00:00:00",
       "amount": 300,
       "candidate_name": "Oliver James Davis",
@@ -83,7 +111,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33847",
+      "id": "contrib-1792307282044-91525",
+      "date": "2026-08-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Aileen Wehren",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Liberty",
+      "address_state": "IN",
+      "address_zip": "46554-9139",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91526",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Andrea Halpin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46619",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91527",
       "date": "2026-03-07 00:00:00",
       "amount": 350,
       "candidate_name": "Oliver James Davis",
@@ -99,7 +159,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33848",
+      "id": "contrib-1792307282044-91528",
+      "date": "2026-04-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Darice Phillips",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46635",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91529",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "Oliver James Davis",
@@ -115,7 +191,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33849",
+      "id": "contrib-1792307282044-91530",
+      "date": "2026-08-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "David B Millar",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Carlisle",
+      "address_state": "IN",
+      "address_zip": "46552",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91531",
+      "date": "2026-07-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Doris Reed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46619",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91532",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "Oliver James Davis",
@@ -131,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33850",
+      "id": "contrib-1792307282044-91533",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "Oliver James Davis",
@@ -147,7 +255,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33851",
+      "id": "contrib-1792307282044-91534",
+      "date": "2026-09-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Jason Critchlow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91535",
+      "date": "2026-06-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Jason Phillips",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Princess",
+      "address_state": "IN",
+      "address_zip": "21853",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91536",
+      "date": "2026-10-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "John  Warren",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91537",
       "date": "2026-04-10 00:00:00",
       "amount": 250,
       "candidate_name": "Oliver James Davis",
@@ -163,7 +319,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33852",
+      "id": "contrib-1792307282044-91538",
+      "date": "2026-08-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "John Monczunski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46615",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91539",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "John P Warren",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91540",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Kesha Farlow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91541",
+      "date": "2026-08-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Leslie Baumann",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Liberty",
+      "address_state": "IN",
+      "address_zip": "46554",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91542",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "Oliver James Davis",
@@ -179,7 +399,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33853",
+      "id": "contrib-1792307282044-91543",
+      "date": "2026-08-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Marcus Ellison",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46615",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91544",
+      "date": "2026-08-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Mary  J. Sullivan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Peru",
+      "address_state": "IN",
+      "address_zip": "46970",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91545",
       "date": "2026-03-07 00:00:00",
       "amount": 500,
       "candidate_name": "Oliver James Davis",
@@ -195,7 +447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33854",
+      "id": "contrib-1792307282044-91546",
       "date": "2026-04-09 00:00:00",
       "amount": 2555.37,
       "candidate_name": "Oliver James Davis",
@@ -211,7 +463,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33855",
+      "id": "contrib-1792307282044-91547",
+      "date": "2026-09-09 00:00:00",
+      "amount": 4500,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Oliver Davis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46613",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91548",
+      "date": "2026-10-09 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Oliver Davis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46613",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91549",
+      "date": "2026-08-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Patricia L Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lancaster",
+      "address_state": "IN",
+      "address_zip": "75134-4617",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91550",
+      "date": "2026-08-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Renita Fleming",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46545",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91551",
+      "date": "2026-09-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Ricky Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Liberty",
+      "address_state": "IN",
+      "address_zip": "46554",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91552",
+      "date": "2026-06-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Robert S Wilson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46615",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91553",
       "date": "2026-04-09 00:00:00",
       "amount": 250,
       "candidate_name": "Oliver James Davis",
@@ -227,7 +575,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33856",
+      "id": "contrib-1792307282044-91554",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Steve Goldberg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91555",
+      "date": "2026-09-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Tony Mroczkiewicz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Carlisle",
+      "address_state": "IN",
+      "address_zip": "46552",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91556",
       "date": "2026-04-10 00:00:00",
       "amount": 30.42,
       "candidate_name": "Oliver James Davis",
@@ -243,7 +623,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33857",
+      "id": "contrib-1792307282044-91557",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Velvet Canada",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91558",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Oliver James Davis",
@@ -255,6 +651,54 @@
       "address_city": "South Bend",
       "address_state": "IN",
       "address_zip": "46616 ",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91559",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Committee to Elect Oliver Davis",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46619-9749",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91560",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "Democratic Activist of LaPorte County",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91561",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Oliver James Davis",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "THE COMMITTEE TO ELECT OLIVER DAVIS",
       "source": "indiana"
     }

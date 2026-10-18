@@ -2,14 +2,14 @@
   "id": "committee-to-elect-steve-collier",
   "name": "Committee to Elect Steve Collier",
   "totals": {
-    "total_given": "19673.39",
-    "total_contributions": 7,
-    "candidates_supported": 2
+    "total_given": "27173.39",
+    "total_contributions": 9,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 7,
-      "total": "19673.39"
+      "count": 9,
+      "total": "27173.39"
     }
   },
   "by_month": {
@@ -29,6 +29,14 @@
       "count": 1,
       "total": "2500.00"
     },
+    "2026-10": {
+      "count": 1,
+      "total": "2500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "5000.00"
+    },
     "2026-06": {
       "count": 2,
       "total": "5173.39"
@@ -42,19 +50,25 @@
     {
       "id": "gregory-alan-ballard",
       "name": "Gregory Alan Ballard",
-      "total": "10173.39",
-      "count": 3
+      "total": "15173.39",
+      "count": 4
     },
     {
       "id": "kyle-walker",
       "name": "KYLE WALKER",
       "total": "5000.00",
       "count": 1
+    },
+    {
+      "id": "juanita-albright",
+      "name": "Juanita Albright",
+      "total": "2500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-6984",
+      "id": "contrib-1792307281106-6984",
       "date": "2025-10-30 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Steve Collier",
@@ -69,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65360",
+      "id": "contrib-1792307281199-65360",
       "date": "2025-02-11 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Steve Collier",
@@ -84,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769436-89734",
+      "id": "contrib-1792307281231-89734",
       "date": "2025-07-24 00:00:00",
       "amount": 5000,
       "candidate_name": "KYLE WALKER",
@@ -100,7 +114,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11477",
+      "id": "contrib-1792307281952-32352",
       "date": "2026-03-13 00:00:00",
       "amount": 2500,
       "contributor_name": "Committee to Elect Steve Collier",
@@ -115,7 +129,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35510",
+      "id": "contrib-1792307282037-87665",
+      "date": "2026-10-01 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Juanita Albright",
+      "contributor_name": "Committee to Elect Steve Collier",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrence",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Albright for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282053-96376",
+      "date": "2026-09-22 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Gregory Alan Ballard",
+      "contributor_name": "Committee to Elect Steve Collier",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrence",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Greg for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282053-96392",
       "date": "2026-06-25 00:00:00",
       "amount": 3000,
       "candidate_name": "Gregory Alan Ballard",
@@ -131,7 +177,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35511",
+      "id": "contrib-1792307282053-96393",
       "date": "2026-04-14 00:00:00",
       "amount": 5000,
       "candidate_name": "Gregory Alan Ballard",
@@ -147,7 +193,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35512",
+      "id": "contrib-1792307282053-96394",
       "date": "2026-06-23 00:00:00",
       "amount": 2173.39,
       "candidate_name": "Gregory Alan Ballard",

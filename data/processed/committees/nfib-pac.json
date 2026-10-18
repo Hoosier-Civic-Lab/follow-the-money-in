@@ -2,20 +2,28 @@
   "id": "nfib-pac",
   "name": "NFIB PAC",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "1100.00",
+    "total_contributions": 5,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 5,
+      "total": "1100.00"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "600.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "200.00"
     }
   },
   "top_recipients": [
@@ -24,11 +32,35 @@
       "name": "Michael Harry Karickhoff",
       "total": "300.00",
       "count": 1
+    },
+    {
+      "id": "dale-r-devon",
+      "name": "Dale R DeVon",
+      "total": "200.00",
+      "count": 1
+    },
+    {
+      "id": "joanna-king",
+      "name": "Joanna King",
+      "total": "200.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-paul-jeter",
+      "name": "Christopher Paul Jeter",
+      "total": "200.00",
+      "count": 1
+    },
+    {
+      "id": "alaina-kelly-shonkwiler",
+      "name": "Alaina Kelly Shonkwiler",
+      "total": "200.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769406-65562",
+      "id": "contrib-1792307281200-65562",
       "date": "2025-06-12 00:00:00",
       "amount": 300,
       "candidate_name": "Michael Harry Karickhoff",
@@ -41,6 +73,70 @@
       "address_state": "TN",
       "address_zip": "37214",
       "recipient_committee": "Friends for Karickhoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33616",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Dale R DeVon",
+      "contributor_name": "NFIB pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville ",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Dale DeVon for State Rep",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45252",
+      "date": "2026-09-12 00:00:00",
+      "amount": 200,
+      "candidate_name": "Joanna King",
+      "contributor_name": "NFIB PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Joanna King for the People",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50040",
+      "date": "2026-09-15 00:00:00",
+      "amount": 200,
+      "candidate_name": "Christopher Paul Jeter",
+      "contributor_name": "NFIB PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Jeter for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281996-62358",
+      "date": "2026-10-06 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alaina Kelly Shonkwiler",
+      "contributor_name": "NFIB PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Alaina for Noblesville",
       "source": "indiana"
     }
   ],

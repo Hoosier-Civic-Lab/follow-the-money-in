@@ -2,33 +2,102 @@
   "id": "iron-workers-local-22-pac-fund",
   "name": "Iron Workers Local 22 PAC Fund",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
+    "total_given": "45000.00",
+    "total_contributions": 6,
     "candidates_supported": 1
   },
   "by_contribution_size": {
+    "mega": {
+      "count": 3,
+      "total": "30000.00"
+    },
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 3,
+      "total": "15000.00"
     }
   },
   "by_month": {
+    "2026-08": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "10000.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
     {
       "id": "beau-bayh",
       "name": "Beau Bayh",
-      "total": "5000.00",
-      "count": 1
+      "total": "20000.00",
+      "count": 3
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769739-30055",
+      "id": "contrib-1792307281903-3608",
+      "date": "2026-08-25 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Iron Workers Local 22 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5777",
+      "date": "2026-06-19 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Iron Workers Local 22 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5778",
+      "date": "2026-04-20 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Iron Workers Local 22 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80952",
       "date": "2026-02-25 00:00:00",
       "amount": 5000,
       "candidate_name": "Beau Bayh",
@@ -42,29 +111,61 @@
       "address_zip": "46241",
       "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80953",
+      "date": "2026-07-29 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Iron Workers Local 22 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80954",
+      "date": "2026-09-24 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Iron Workers Local 22 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "339250.18",
-    "total_contributions": 15,
+    "total_raised": "512104.68",
+    "total_contributions": 21,
     "unique_donors": 1,
     "by_contributor_type": {
       "individual": {
-        "count": 15,
-        "total": "339250.18"
+        "count": 21,
+        "total": "512104.68"
       }
     },
     "top_donors": [
       {
         "name": "Voluntary Contributions from Iron Workers Local 22 Membership",
         "type": "individual",
-        "total": "339250.18",
-        "count": 15
+        "total": "512104.68",
+        "count": 21
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769411-67649",
+        "id": "contrib-1792307281203-67649",
         "date": "2025-02-28 00:00:00",
         "amount": 11899.03,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -79,7 +180,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67650",
+        "id": "contrib-1792307281203-67650",
         "date": "2025-01-31 00:00:00",
         "amount": 20252.26,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -94,7 +195,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67651",
+        "id": "contrib-1792307281203-67651",
         "date": "2025-04-30 00:00:00",
         "amount": 20350.19,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -109,7 +210,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67652",
+        "id": "contrib-1792307281203-67652",
         "date": "2025-05-30 00:00:00",
         "amount": 20700.04,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -124,7 +225,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67653",
+        "id": "contrib-1792307281203-67653",
         "date": "2025-09-29 00:00:00",
         "amount": 21438.19,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -139,7 +240,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67654",
+        "id": "contrib-1792307281203-67654",
         "date": "2025-06-30 00:00:00",
         "amount": 22063.09,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -154,7 +255,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67655",
+        "id": "contrib-1792307281203-67655",
         "date": "2025-07-30 00:00:00",
         "amount": 22269.94,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -169,7 +270,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67656",
+        "id": "contrib-1792307281203-67656",
         "date": "2025-03-31 00:00:00",
         "amount": 23093.02,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -184,7 +285,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67657",
+        "id": "contrib-1792307281203-67657",
         "date": "2025-08-29 00:00:00",
         "amount": 25201.87,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -199,7 +300,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67658",
+        "id": "contrib-1792307281203-67658",
         "date": "2025-12-31 00:00:00",
         "amount": 27396.86,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -214,7 +315,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67659",
+        "id": "contrib-1792307281203-67659",
         "date": "2025-10-31 00:00:00",
         "amount": 28054.9,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -229,7 +330,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67660",
+        "id": "contrib-1792307281203-67660",
         "date": "2025-11-26 00:00:00",
         "amount": 29700.39,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -244,7 +345,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11849",
+        "id": "contrib-1792307281954-33726",
         "date": "2026-01-30 00:00:00",
         "amount": 18364.85,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -259,7 +360,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11850",
+        "id": "contrib-1792307281954-33727",
         "date": "2026-03-31 00:00:00",
         "amount": 23330.56,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
@@ -274,9 +375,99 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11851",
+        "id": "contrib-1792307281954-33728",
+        "date": "2026-07-24 00:00:00",
+        "amount": 24961.38,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33729",
         "date": "2026-02-27 00:00:00",
         "amount": 25134.99,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33730",
+        "date": "2026-06-23 00:00:00",
+        "amount": 26988.08,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33731",
+        "date": "2026-05-29 00:00:00",
+        "amount": 28134.91,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33732",
+        "date": "2026-04-30 00:00:00",
+        "amount": 29618.31,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33733",
+        "date": "2026-08-21 00:00:00",
+        "amount": 29872.08,
+        "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Iron Workers Local 22 PAC Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33734",
+        "date": "2026-09-29 00:00:00",
+        "amount": 33279.74,
         "contributor_name": "Voluntary Contributions from Iron Workers Local 22 Membership",
         "contributor_type": "individual",
         "contribution_size": "mega",

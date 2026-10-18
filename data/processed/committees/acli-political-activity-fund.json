@@ -1,0 +1,86 @@
+{
+  "id": "acli-political-activity-fund",
+  "name": "ACLI Political Activity Fund",
+  "totals": {
+    "total_given": "2500.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2026-09": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "philip-kelly-giaquinta",
+      "name": "Philip Kelly GiaQuinta",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281903-3627",
+      "date": "2026-09-29 00:00:00",
+      "amount": 1500,
+      "contributor_name": "ACLI Political Activity Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281904-3873",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "contributor_name": "ACLI Political Activity Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28897",
+      "date": "2026-09-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "ACLI Political Activity Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

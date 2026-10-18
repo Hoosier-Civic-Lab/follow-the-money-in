@@ -2,14 +2,14 @@
   "id": "architects-for-indiana-political-action-committee",
   "name": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "2050.00",
-    "total_contributions": 6,
-    "candidates_supported": 4
+    "total_given": "2550.00",
+    "total_contributions": 7,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
-      "count": 6,
-      "total": "2050.00"
+      "count": 7,
+      "total": "2550.00"
     }
   },
   "by_month": {
@@ -18,6 +18,10 @@
       "total": "650.00"
     },
     "2025-12": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-08": {
       "count": 1,
       "total": "500.00"
     },
@@ -31,6 +35,12 @@
     }
   },
   "top_recipients": [
+    {
+      "id": "jacob-louis-teshka",
+      "name": "Jacob Louis Teshka",
+      "total": "500.00",
+      "count": 1
+    },
     {
       "id": "jean-leising",
       "name": "Jean Leising",
@@ -58,7 +68,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6185",
+      "id": "contrib-1792307281105-6185",
       "date": "2025-10-15 00:00:00",
       "amount": 350,
       "contributor_name": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
@@ -73,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769319-7320",
+      "id": "contrib-1792307281106-7320",
       "date": "2025-12-05 00:00:00",
       "amount": 500,
       "contributor_name": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
@@ -88,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769404-64738",
+      "id": "contrib-1792307281197-64738",
       "date": "2025-10-30 00:00:00",
       "amount": 300,
       "candidate_name": "Jean Leising",
@@ -104,7 +114,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17655",
+      "id": "contrib-1792307281974-50148",
+      "date": "2026-08-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50360",
       "date": "2026-04-03 00:00:00",
       "amount": 300,
       "candidate_name": "Craig Thomas Snow",
@@ -120,7 +146,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-21994",
+      "id": "contrib-1792307281988-59578",
       "date": "2026-03-31 00:00:00",
       "amount": 300,
       "candidate_name": "Spencer Robert Deery",
@@ -136,7 +162,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22111",
+      "id": "contrib-1792307281988-59788",
       "date": "2026-03-19 00:00:00",
       "amount": 300,
       "candidate_name": "DANIEL EDWARD DERNULC",
@@ -153,26 +179,38 @@
     }
   ],
   "receipts": {
-    "total_raised": "4953.53",
-    "total_contributions": 35,
-    "unique_donors": 4,
+    "total_raised": "10559.02",
+    "total_contributions": 49,
+    "unique_donors": 8,
     "by_contributor_type": {
       "unitemized": {
-        "count": 15,
-        "total": "28.53"
+        "count": 21,
+        "total": "34.02"
       },
       "corporate": {
-        "count": 2,
-        "total": "3500.00"
+        "count": 5,
+        "total": "8500.00"
       },
       "individual": {
-        "count": 18,
-        "total": "1425.00"
+        "count": 23,
+        "total": "2025.00"
       }
     },
     "top_donors": [
       {
         "name": "CSO",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "krM Architecture",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
+      {
+        "name": "Schmidt Associates Inc.",
         "type": "corporate",
         "total": "2000.00",
         "count": 1
@@ -184,6 +222,12 @@
         "count": 1
       },
       {
+        "name": "Browning Day Mullins Dierdorf",
+        "type": "corporate",
+        "total": "1000.00",
+        "count": 1
+      },
+      {
         "name": "Luke Leising",
         "type": "individual",
         "total": "1000.00",
@@ -192,19 +236,25 @@
       {
         "name": "Jason Larrison",
         "type": "individual",
-        "total": "425.00",
-        "count": 17
+        "total": "525.00",
+        "count": 21
+      },
+      {
+        "name": "Marjorie L Kienle",
+        "type": "individual",
+        "total": "500.00",
+        "count": 1
       },
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "28.53",
-        "count": 15
+        "total": "34.02",
+        "count": 21
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769355-27830",
+        "id": "contrib-1792307281148-27830",
         "date": "2025-12-15 00:00:00",
         "amount": 1.69,
         "contributor_name": "",
@@ -219,7 +269,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27831",
+        "id": "contrib-1792307281148-27831",
         "date": "2025-11-30 00:00:00",
         "amount": 1.76,
         "contributor_name": "",
@@ -234,7 +284,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27832",
+        "id": "contrib-1792307281148-27832",
         "date": "2025-02-28 00:00:00",
         "amount": 2.07,
         "contributor_name": "",
@@ -249,7 +299,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27833",
+        "id": "contrib-1792307281148-27833",
         "date": "2025-09-30 00:00:00",
         "amount": 2.11,
         "contributor_name": "",
@@ -264,7 +314,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27834",
+        "id": "contrib-1792307281148-27834",
         "date": "2025-06-30 00:00:00",
         "amount": 2.12,
         "contributor_name": "",
@@ -279,7 +329,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27835",
+        "id": "contrib-1792307281148-27835",
         "date": "2025-10-31 00:00:00",
         "amount": 2.13,
         "contributor_name": "",
@@ -294,7 +344,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27836",
+        "id": "contrib-1792307281148-27836",
         "date": "2025-07-31 00:00:00",
         "amount": 2.16,
         "contributor_name": "",
@@ -309,7 +359,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27837",
+        "id": "contrib-1792307281148-27837",
         "date": "2025-08-31 00:00:00",
         "amount": 2.16,
         "contributor_name": "",
@@ -324,7 +374,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27838",
+        "id": "contrib-1792307281148-27838",
         "date": "2025-04-30 00:00:00",
         "amount": 2.23,
         "contributor_name": "",
@@ -339,7 +389,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27839",
+        "id": "contrib-1792307281148-27839",
         "date": "2025-03-31 00:00:00",
         "amount": 2.3,
         "contributor_name": "",
@@ -354,7 +404,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27840",
+        "id": "contrib-1792307281148-27840",
         "date": "2025-05-31 00:00:00",
         "amount": 2.3,
         "contributor_name": "",
@@ -369,7 +419,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27841",
+        "id": "contrib-1792307281148-27841",
         "date": "2025-01-31 00:00:00",
         "amount": 2.31,
         "contributor_name": "",
@@ -384,7 +434,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27842",
+        "id": "contrib-1792307281148-27842",
         "date": "2025-11-24 00:00:00",
         "amount": 1500,
         "contributor_name": "HAFER",
@@ -399,7 +449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27843",
+        "id": "contrib-1792307281148-27843",
         "date": "2025-01-14 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -414,7 +464,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27844",
+        "id": "contrib-1792307281148-27844",
         "date": "2025-02-11 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -429,7 +479,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27845",
+        "id": "contrib-1792307281148-27845",
         "date": "2025-03-10 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -444,7 +494,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27846",
+        "id": "contrib-1792307281148-27846",
         "date": "2025-04-09 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -459,7 +509,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27847",
+        "id": "contrib-1792307281148-27847",
         "date": "2025-05-06 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -474,7 +524,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27848",
+        "id": "contrib-1792307281148-27848",
         "date": "2025-05-29 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -489,7 +539,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27849",
+        "id": "contrib-1792307281148-27849",
         "date": "2025-07-21 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -504,7 +554,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27850",
+        "id": "contrib-1792307281148-27850",
         "date": "2025-08-05 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -519,7 +569,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27851",
+        "id": "contrib-1792307281148-27851",
         "date": "2025-09-02 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -534,7 +584,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27852",
+        "id": "contrib-1792307281148-27852",
         "date": "2025-09-30 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -549,7 +599,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27853",
+        "id": "contrib-1792307281148-27853",
         "date": "2025-11-03 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -564,7 +614,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27854",
+        "id": "contrib-1792307281148-27854",
         "date": "2025-11-17 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -579,7 +629,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769355-27855",
+        "id": "contrib-1792307281148-27855",
         "date": "2025-12-15 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -594,7 +644,37 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8032",
+        "id": "contrib-1792307281937-23177",
+        "date": "2026-05-31 00:00:00",
+        "amount": 0.39,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23178",
+        "date": "2026-04-30 00:00:00",
+        "amount": 0.59,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23179",
         "date": "2026-01-31 00:00:00",
         "amount": 0.72,
         "contributor_name": "",
@@ -609,7 +689,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8033",
+        "id": "contrib-1792307281937-23180",
+        "date": "2026-09-30 00:00:00",
+        "amount": 0.76,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23181",
         "date": "2026-02-28 00:00:00",
         "amount": 1.04,
         "contributor_name": "",
@@ -624,7 +719,52 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8034",
+        "id": "contrib-1792307281937-23182",
+        "date": "2026-06-30 00:00:00",
+        "amount": 1.12,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23183",
+        "date": "2026-08-31 00:00:00",
+        "amount": 1.25,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23184",
+        "date": "2026-07-31 00:00:00",
+        "amount": 1.38,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23185",
         "date": "2026-03-31 00:00:00",
         "amount": 1.43,
         "contributor_name": "",
@@ -639,7 +779,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8035",
+        "id": "contrib-1792307281937-23186",
+        "date": "2026-08-21 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Browning Day Mullins Dierdorf",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23187",
         "date": "2026-02-18 00:00:00",
         "amount": 2000,
         "contributor_name": "CSO",
@@ -654,7 +809,37 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8036",
+        "id": "contrib-1792307281937-23188",
+        "date": "2026-06-01 00:00:00",
+        "amount": 2000,
+        "contributor_name": "krM Architecture",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Anderson",
+        "address_state": "IN",
+        "address_zip": "46016",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23189",
+        "date": "2026-06-12 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Schmidt Associates Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23190",
         "date": "2026-01-08 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -669,7 +854,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8037",
+        "id": "contrib-1792307281937-23191",
         "date": "2026-02-11 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -684,7 +869,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8038",
+        "id": "contrib-1792307281937-23192",
         "date": "2026-03-17 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -699,7 +884,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8039",
+        "id": "contrib-1792307281937-23193",
         "date": "2026-04-07 00:00:00",
         "amount": 25,
         "contributor_name": "Jason Larrison",
@@ -714,7 +899,67 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769686-8040",
+        "id": "contrib-1792307281937-23194",
+        "date": "2026-05-12 00:00:00",
+        "amount": 25,
+        "contributor_name": "Jason Larrison",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23195",
+        "date": "2026-06-01 00:00:00",
+        "amount": 25,
+        "contributor_name": "Jason Larrison",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23196",
+        "date": "2026-07-08 00:00:00",
+        "amount": 25,
+        "contributor_name": "Jason Larrison",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23197",
+        "date": "2026-08-21 00:00:00",
+        "amount": 25,
+        "contributor_name": "Jason Larrison",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46219",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23198",
         "date": "2026-02-02 00:00:00",
         "amount": 1000,
         "contributor_name": "Luke Leising",
@@ -725,6 +970,21 @@
         "address_city": "Indianapolis",
         "address_state": "IN",
         "address_zip": "46220",
+        "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23199",
+        "date": "2026-10-05 00:00:00",
+        "amount": 500,
+        "contributor_name": "Marjorie L Kienle",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202-3630",
         "recipient_committee": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
         "source": "indiana"
       }

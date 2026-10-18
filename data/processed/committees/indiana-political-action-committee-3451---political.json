@@ -2,26 +2,36 @@
   "id": "indiana-political-action-committee-3451---political",
   "name": "Indiana Political Action Committee #3451 - Political",
   "totals": {
-    "total_given": "800.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "1300.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "800.00"
+      "count": 3,
+      "total": "1300.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 2,
       "total": "800.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
     {
       "id": "ryan-douglas-mishler",
       "name": "Ryan Douglas Mishler",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "robert-allen-heaton",
+      "name": "Robert Allen Heaton",
       "total": "500.00",
       "count": 1
     },
@@ -34,7 +44,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769359-33304",
+      "id": "contrib-1792307281152-33304",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Douglas Mishler",
@@ -50,7 +60,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-65000",
+      "id": "contrib-1792307281198-65000",
       "date": "2025-12-10 00:00:00",
       "amount": 300,
       "candidate_name": "Lonnie M. Randolph",
@@ -63,6 +73,22 @@
       "address_state": "IA",
       "address_zip": "50613",
       "recipient_committee": "Committee to Elect Attorney Lonnie M. Randolph",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31663",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Political Action Committee #3451 - Political",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Falls",
+      "address_state": "IA",
+      "address_zip": "50613",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
       "source": "indiana"
     }
   ],

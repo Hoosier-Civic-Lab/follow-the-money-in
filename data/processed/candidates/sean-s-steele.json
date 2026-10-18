@@ -6,32 +6,56 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "13621.12",
-    "total_contributions": 62,
-    "total_itemized": 62,
+    "total_raised": "56833.57",
+    "total_contributions": 122,
+    "total_itemized": 122,
     "total_unitemized": 0
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 3,
+      "total": "3376.00"
+    },
     "individual": {
-      "count": 62,
-      "total": "13621.12"
+      "count": 118,
+      "total": "38457.57"
+    },
+    "committee": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "by_contribution_size": {
-    "small": {
-      "count": 21,
-      "total": "1042.10"
+    "large": {
+      "count": 12,
+      "total": "22526.00"
     },
     "medium": {
-      "count": 38,
-      "total": "9579.02"
+      "count": 71,
+      "total": "17610.47"
     },
-    "large": {
-      "count": 3,
-      "total": "3000.00"
+    "small": {
+      "count": 38,
+      "total": "1697.10"
+    },
+    "mega": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "by_month": {
+    "Sean S.": {
+      "count": 1,
+      "total": "2026.00"
+    },
+    "2026-10": {
+      "count": 10,
+      "total": "6530.00"
+    },
+    "2026-08": {
+      "count": 16,
+      "total": "8490.00"
+    },
     "2026-03": {
       "count": 8,
       "total": "3379.04"
@@ -40,9 +64,13 @@
       "count": 41,
       "total": "7977.08"
     },
+    "2026-09": {
+      "count": 32,
+      "total": "25166.45"
+    },
     "2026-07": {
-      "count": 6,
-      "total": "1390.00"
+      "count": 7,
+      "total": "2390.00"
     },
     "2026-04": {
       "count": 5,
@@ -55,7 +83,55 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769757-35242",
+      "id": "contrib-1792307282052-95809",
+      "date": "Sean S. Steele",
+      "amount": 2026,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Anderson Family Holding, LLC, (d/b/a Mary's Place)",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedfords",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95810",
+      "date": "2026-10-09 00:00:00",
+      "amount": 400,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Four Season's Storage",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95811",
+      "date": "2026-08-12 00:00:00",
+      "amount": 950,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "WOW Investments LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Heltonville",
+      "address_state": "IN",
+      "address_zip": "47436",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95812",
       "date": "2026-03-07 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -71,7 +147,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35243",
+      "id": "contrib-1792307282052-95813",
+      "date": "2026-08-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Alan Hamilton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95814",
       "date": "2026-05-22 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -87,7 +179,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35244",
+      "id": "contrib-1792307282052-95815",
+      "date": "2026-09-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Allen Ashley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Glenview",
+      "address_state": "IL",
+      "address_zip": "60025",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95816",
+      "date": "2026-09-22 00:00:00",
+      "amount": 15,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Alyssa Dugger",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williams",
+      "address_state": "IN",
+      "address_zip": "47470",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95817",
       "date": "2026-05-21 00:00:00",
       "amount": 25,
       "candidate_name": "Sean S. Steele",
@@ -103,7 +227,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35245",
+      "id": "contrib-1792307282052-95818",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Andrew Wood",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oolitic",
+      "address_state": "IN",
+      "address_zip": "47451",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95819",
+      "date": "2026-08-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Barbara Mitchell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Springville",
+      "address_state": "IN",
+      "address_zip": "47462",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95820",
       "date": "2026-07-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Sean S. Steele",
@@ -119,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35246",
+      "id": "contrib-1792307282052-95821",
       "date": "2026-05-20 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -135,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35247",
+      "id": "contrib-1792307282052-95822",
       "date": "2026-05-21 00:00:00",
       "amount": 300,
       "candidate_name": "Sean S. Steele",
@@ -151,7 +307,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35248",
+      "id": "contrib-1792307282052-95823",
+      "date": "2026-09-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Bob-Paralee Daggy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95824",
       "date": "2026-05-21 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -167,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35249",
+      "id": "contrib-1792307282052-95825",
       "date": "2026-05-21 00:00:00",
       "amount": 210,
       "candidate_name": "Sean S. Steele",
@@ -183,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35250",
+      "id": "contrib-1792307282052-95826",
       "date": "2026-03-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Sean S. Steele",
@@ -199,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35251",
+      "id": "contrib-1792307282052-95827",
       "date": "2026-07-23 00:00:00",
       "amount": 40,
       "candidate_name": "Sean S. Steele",
@@ -215,7 +387,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35252",
+      "id": "contrib-1792307282052-95828",
+      "date": "2026-08-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Brian, Lacy Hawkins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95829",
       "date": "2026-03-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Sean S. Steele",
@@ -231,7 +419,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35253",
+      "id": "contrib-1792307282052-95830",
+      "date": "2026-09-25 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Candy, Michael Robbins",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421-8166",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95831",
+      "date": "2026-08-20 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Carol Edwards",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95832",
       "date": "2026-05-21 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -247,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35254",
+      "id": "contrib-1792307282052-95833",
       "date": "2026-05-11 00:00:00",
       "amount": 54,
       "candidate_name": "Sean S. Steele",
@@ -263,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35255",
+      "id": "contrib-1792307282052-95834",
       "date": "2026-05-11 00:00:00",
       "amount": 80,
       "candidate_name": "Sean S. Steele",
@@ -279,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35256",
+      "id": "contrib-1792307282052-95835",
       "date": "2026-05-11 00:00:00",
       "amount": 600,
       "candidate_name": "Sean S. Steele",
@@ -295,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35257",
+      "id": "contrib-1792307282052-95836",
       "date": "2026-05-11 00:00:00",
       "amount": 720,
       "candidate_name": "Sean S. Steele",
@@ -311,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35258",
+      "id": "contrib-1792307282052-95837",
       "date": "2026-05-14 00:00:00",
       "amount": 55,
       "candidate_name": "Sean S. Steele",
@@ -327,7 +547,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35259",
+      "id": "contrib-1792307282052-95838",
+      "date": "2026-09-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Cindy Curtis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95839",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Danny Jackson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47451",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95840",
       "date": "2026-04-20 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -343,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35260",
+      "id": "contrib-1792307282052-95841",
       "date": "2026-05-21 00:00:00",
       "amount": 480,
       "candidate_name": "Sean S. Steele",
@@ -359,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35261",
+      "id": "contrib-1792307282052-95842",
       "date": "2026-05-20 00:00:00",
       "amount": 500,
       "candidate_name": "Sean S. Steele",
@@ -375,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35262",
+      "id": "contrib-1792307282052-95843",
       "date": "2026-05-20 00:00:00",
       "amount": 880.37,
       "candidate_name": "Sean S. Steele",
@@ -391,7 +643,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35263",
+      "id": "contrib-1792307282052-95844",
+      "date": "2026-09-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Dawn, Kirk Bratton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Paoli",
+      "address_state": "IN",
+      "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95845",
+      "date": "2026-09-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Debra S Beeler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mitchell",
+      "address_state": "IN",
+      "address_zip": "47446",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95846",
       "date": "2026-04-12 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -407,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35264",
+      "id": "contrib-1792307282052-95847",
       "date": "2026-05-20 00:00:00",
       "amount": 55,
       "candidate_name": "Sean S. Steele",
@@ -423,7 +707,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35265",
+      "id": "contrib-1792307282052-95848",
+      "date": "2026-09-12 00:00:00",
+      "amount": 200,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Douglas,Karen Pittman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Paoli",
+      "address_state": "IN",
+      "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95849",
+      "date": "2026-09-09 00:00:00",
+      "amount": 75,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Dustin George",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95850",
+      "date": "2026-09-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "George Sorrells",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95851",
+      "date": "2026-09-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "George Sorrells",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Mitchell",
+      "address_state": "IN",
+      "address_zip": "47446",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95852",
       "date": "2026-05-20 00:00:00",
       "amount": 175,
       "candidate_name": "Sean S. Steele",
@@ -439,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35266",
+      "id": "contrib-1792307282052-95853",
       "date": "2026-05-22 00:00:00",
       "amount": 250,
       "candidate_name": "Sean S. Steele",
@@ -455,7 +803,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35267",
+      "id": "contrib-1792307282052-95854",
+      "date": "2026-07-31 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95855",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Sean S. Steele",
@@ -471,7 +835,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35268",
+      "id": "contrib-1792307282052-95856",
+      "date": "2026-08-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Jack Maxwell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95857",
       "date": "2026-05-20 00:00:00",
       "amount": 711.71,
       "candidate_name": "Sean S. Steele",
@@ -487,7 +867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35269",
+      "id": "contrib-1792307282052-95858",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Sean S. Steele",
@@ -503,7 +883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35270",
+      "id": "contrib-1792307282052-95859",
       "date": "2026-05-21 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -519,7 +899,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35271",
+      "id": "contrib-1792307282052-95860",
+      "date": "2026-08-04 00:00:00",
+      "amount": 20,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Jane Crosby",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95861",
       "date": "2026-07-16 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -535,7 +931,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35272",
+      "id": "contrib-1792307282052-95862",
+      "date": "2026-09-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Janet,Richard Kern",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95863",
       "date": "2026-05-20 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -551,7 +963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35273",
+      "id": "contrib-1792307282052-95864",
       "date": "2026-05-21 00:00:00",
       "amount": 70,
       "candidate_name": "Sean S. Steele",
@@ -567,7 +979,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35274",
+      "id": "contrib-1792307282052-95865",
+      "date": "2026-10-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Jaynell Simmons",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Springville",
+      "address_state": "IN",
+      "address_zip": "47462",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95866",
+      "date": "2026-09-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Jeff Muse",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95867",
+      "date": "2026-08-05 00:00:00",
+      "amount": 10,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Jennifer Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95868",
       "date": "2026-05-09 00:00:00",
       "amount": 40,
       "candidate_name": "Sean S. Steele",
@@ -583,7 +1043,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35275",
+      "id": "contrib-1792307282052-95869",
       "date": "2026-05-21 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -599,7 +1059,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35276",
+      "id": "contrib-1792307282052-95870",
+      "date": "2026-10-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "John Highhouse",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95871",
+      "date": "2026-08-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "John Highhouse",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95872",
       "date": "2026-05-22 00:00:00",
       "amount": 250,
       "candidate_name": "Sean S. Steele",
@@ -615,7 +1107,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35277",
+      "id": "contrib-1792307282052-95873",
+      "date": "2026-09-02 00:00:00",
+      "amount": 20,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Johnny, Shona Edwards",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Orleans",
+      "address_state": "IN",
+      "address_zip": "47452",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95874",
+      "date": "2026-08-18 00:00:00",
+      "amount": 4500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Kamal N Girgis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95875",
+      "date": "2026-09-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Karl Baker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oolitic",
+      "address_state": "IN",
+      "address_zip": "47451",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95876",
       "date": "2026-05-21 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -631,7 +1171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35278",
+      "id": "contrib-1792307282052-95877",
       "date": "2026-05-22 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -647,7 +1187,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35279",
+      "id": "contrib-1792307282052-95878",
+      "date": "2026-10-09 00:00:00",
+      "amount": 270,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Kris-Mike Hole",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Orleans",
+      "address_state": "IN",
+      "address_zip": "47452",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95879",
       "date": "2026-05-20 00:00:00",
       "amount": 55,
       "candidate_name": "Sean S. Steele",
@@ -663,7 +1219,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35280",
+      "id": "contrib-1792307282052-95880",
+      "date": "2026-08-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Kurt Klebe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "80210",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95881",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Lacy Hawkins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95882",
+      "date": "2026-09-12 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Larry A Hollan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Paoli",
+      "address_state": "IN",
+      "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95883",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Leslie Schmity",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95884",
       "date": "2026-05-20 00:00:00",
       "amount": 40,
       "candidate_name": "Sean S. Steele",
@@ -679,7 +1299,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35281",
+      "id": "contrib-1792307282052-95885",
+      "date": "2026-09-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Linda Chezem",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168-2394",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95886",
       "date": "2026-05-20 00:00:00",
       "amount": 75,
       "candidate_name": "Sean S. Steele",
@@ -695,7 +1331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35282",
+      "id": "contrib-1792307282052-95887",
       "date": "2026-03-07 00:00:00",
       "amount": 21.1,
       "candidate_name": "Sean S. Steele",
@@ -711,7 +1347,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35283",
+      "id": "contrib-1792307282052-95888",
+      "date": "2026-09-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Maria Pujois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Military",
+      "occupation_category": "other",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95889",
       "date": "2026-07-06 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -727,7 +1379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35284",
+      "id": "contrib-1792307282052-95890",
       "date": "2026-04-14 00:00:00",
       "amount": 300,
       "candidate_name": "Sean S. Steele",
@@ -743,7 +1395,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35285",
+      "id": "contrib-1792307282052-95891",
+      "date": "2026-09-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Martha Nice",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Paoli",
+      "address_state": "IN",
+      "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95892",
       "date": "2026-07-23 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -759,7 +1427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35286",
+      "id": "contrib-1792307282052-95893",
       "date": "2026-05-09 00:00:00",
       "amount": 174,
       "candidate_name": "Sean S. Steele",
@@ -775,7 +1443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35287",
+      "id": "contrib-1792307282052-95894",
       "date": "2026-05-22 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -791,7 +1459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35288",
+      "id": "contrib-1792307282052-95895",
       "date": "2026-05-21 00:00:00",
       "amount": 37,
       "candidate_name": "Sean S. Steele",
@@ -807,7 +1475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35289",
+      "id": "contrib-1792307282052-95896",
       "date": "2026-04-18 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -823,7 +1491,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35290",
+      "id": "contrib-1792307282052-95897",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Randy Duncan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95898",
+      "date": "2026-09-03 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Rebecca Bushlong",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47408",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95899",
+      "date": "2026-09-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Renee M Charette",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95900",
       "date": "2026-03-07 00:00:00",
       "amount": 257.94,
       "candidate_name": "Sean S. Steele",
@@ -839,7 +1555,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35291",
+      "id": "contrib-1792307282052-95901",
+      "date": "2026-10-09 00:00:00",
+      "amount": 30,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Rita Pinney",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95902",
+      "date": "2026-08-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Rowena Cross-Najafi",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95903",
       "date": "2026-05-22 00:00:00",
       "amount": 500,
       "candidate_name": "Sean S. Steele",
@@ -855,7 +1603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35292",
+      "id": "contrib-1792307282052-95904",
       "date": "2026-05-21 00:00:00",
       "amount": 120,
       "candidate_name": "Sean S. Steele",
@@ -871,7 +1619,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35293",
+      "id": "contrib-1792307282052-95905",
+      "date": "2026-09-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Sandra Sherrill",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95906",
       "date": "2026-05-20 00:00:00",
       "amount": 70,
       "candidate_name": "Sean S. Steele",
@@ -887,7 +1651,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35294",
+      "id": "contrib-1792307282052-95907",
+      "date": "2026-09-21 00:00:00",
+      "amount": 331.45,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Shawna Girgis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95908",
+      "date": "2026-10-07 00:00:00",
+      "amount": 130,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Shawna Girgis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95909",
       "date": "2026-05-09 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -903,7 +1699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35295",
+      "id": "contrib-1792307282052-95910",
       "date": "2026-05-22 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -919,7 +1715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35296",
+      "id": "contrib-1792307282052-95911",
       "date": "2026-06-04 00:00:00",
       "amount": 150,
       "candidate_name": "Sean S. Steele",
@@ -935,7 +1731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35297",
+      "id": "contrib-1792307282052-95912",
       "date": "2026-04-26 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -951,7 +1747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35298",
+      "id": "contrib-1792307282052-95913",
       "date": "2026-03-06 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -967,7 +1763,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35299",
+      "id": "contrib-1792307282052-95914",
+      "date": "2026-09-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Tally Melvin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47436",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95915",
+      "date": "2026-10-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Theressa,Rich Wade",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williams",
+      "address_state": "IN",
+      "address_zip": "47470",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95916",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Thom Davidson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "Ma",
+      "address_zip": null,
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95917",
+      "date": "2026-09-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Timothy Brown",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Paoli",
+      "address_state": "IN",
+      "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95918",
       "date": "2026-07-07 00:00:00",
       "amount": 100,
       "candidate_name": "Sean S. Steele",
@@ -983,7 +1843,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35300",
+      "id": "contrib-1792307282052-95919",
+      "date": "2026-09-12 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Tod Curtis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95920",
+      "date": "2026-09-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Tom, Diana Talbert",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95921",
+      "date": "2026-10-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Toni Fortner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "French Lick",
+      "address_state": "IN",
+      "address_zip": "47432",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95922",
       "date": "2026-05-20 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -999,7 +1907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35301",
+      "id": "contrib-1792307282052-95923",
       "date": "2026-05-20 00:00:00",
       "amount": 200,
       "candidate_name": "Sean S. Steele",
@@ -1015,7 +1923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35302",
+      "id": "contrib-1792307282052-95924",
       "date": "2026-05-20 00:00:00",
       "amount": 50,
       "candidate_name": "Sean S. Steele",
@@ -1031,7 +1939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35303",
+      "id": "contrib-1792307282052-95925",
       "date": "2026-06-16 00:00:00",
       "amount": 25,
       "candidate_name": "Sean S. Steele",
@@ -1043,6 +1951,86 @@
       "address_city": "Paoli",
       "address_state": "IN",
       "address_zip": "47454",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95926",
+      "date": "2026-09-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "William,Beverly McFadden",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95927",
+      "date": "2026-10-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "South Central Indiana Trades Council",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205-2403",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95928",
+      "date": "2026-08-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "CWA - COPE PCC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95929",
+      "date": "2026-09-18 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46280-0042",
+      "recipient_committee": "Steele4Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95930",
+      "date": "2026-10-09 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Steele4Indiana",
       "source": "indiana"
     }

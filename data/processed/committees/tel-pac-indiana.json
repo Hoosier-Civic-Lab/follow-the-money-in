@@ -2,14 +2,14 @@
   "id": "tel-pac-indiana",
   "name": "Tel PAC Indiana",
   "totals": {
-    "total_given": "850.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "1200.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "850.00"
+      "count": 3,
+      "total": "1200.00"
     }
   },
   "by_month": {
@@ -18,6 +18,10 @@
       "total": "500.00"
     },
     "2025-11": {
+      "count": 1,
+      "total": "350.00"
+    },
+    "2026-08": {
       "count": 1,
       "total": "350.00"
     }
@@ -34,11 +38,17 @@
       "name": "Jean Leising",
       "total": "350.00",
       "count": 1
+    },
+    {
+      "id": "dale-r-devon",
+      "name": "Dale R DeVon",
+      "total": "350.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769356-28852",
+      "id": "contrib-1792307281149-28852",
       "date": "2025-10-09 00:00:00",
       "amount": 500,
       "candidate_name": "JAMES DOUGLAS ATTERHOLT",
@@ -54,7 +64,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769404-64778",
+      "id": "contrib-1792307281197-64778",
       "date": "2025-11-11 00:00:00",
       "amount": 350,
       "candidate_name": "Jean Leising",
@@ -67,6 +77,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Jean Leising for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33617",
+      "date": "2026-08-28 00:00:00",
+      "amount": 350,
+      "candidate_name": "Dale R DeVon",
+      "contributor_name": "Tel PAC Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Dale DeVon for State Rep",
       "source": "indiana"
     }
   ],

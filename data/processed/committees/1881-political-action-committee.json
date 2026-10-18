@@ -2,14 +2,14 @@
   "id": "1881-political-action-committee",
   "name": "1881 Political Action Committee",
   "totals": {
-    "total_given": "8598.50",
-    "total_contributions": 2,
+    "total_given": "27857.75",
+    "total_contributions": 5,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "8598.50"
+      "count": 5,
+      "total": "27857.75"
     }
   },
   "by_month": {
@@ -17,9 +17,21 @@
       "count": 1,
       "total": "2500.00"
     },
+    "2026-07": {
+      "count": 1,
+      "total": "4430.25"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "7961.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "6098.50"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "6868.00"
     }
   },
   "top_recipients": [
@@ -32,7 +44,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769441-95259",
+      "id": "contrib-1792307281236-95259",
       "date": "2025-12-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -48,9 +60,54 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769685-8015",
+      "id": "contrib-1792307281937-23114",
+      "date": "2026-07-31 00:00:00",
+      "amount": 4430.25,
+      "contributor_name": "1881 Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Local 135 DRIVE FUND, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23115",
+      "date": "2026-09-21 00:00:00",
+      "amount": 7961,
+      "contributor_name": "1881 Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Local 135 DRIVE FUND, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23116",
       "date": "2026-02-23 00:00:00",
       "amount": 6098.5,
+      "contributor_name": "1881 Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Local 135 DRIVE FUND, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23117",
+      "date": "2026-05-13 00:00:00",
+      "amount": 6868,
       "contributor_name": "1881 Political Action Committee",
       "contributor_type": "committee",
       "contribution_size": "large",
@@ -64,13 +121,13 @@
     }
   ],
   "receipts": {
-    "total_raised": "1577.85",
-    "total_contributions": 15,
-    "unique_donors": 1,
+    "total_raised": "1637.85",
+    "total_contributions": 16,
+    "unique_donors": 2,
     "by_contributor_type": {
       "individual": {
-        "count": 15,
-        "total": "1577.85"
+        "count": 16,
+        "total": "1637.85"
       }
     },
     "top_donors": [
@@ -79,11 +136,17 @@
         "type": "individual",
         "total": "1577.85",
         "count": 15
+      },
+      {
+        "name": "National Bank of Indianapolis",
+        "type": "individual",
+        "total": "60.00",
+        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769444-98013",
+        "id": "contrib-1792307281239-98013",
         "date": "2025-01-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -98,7 +161,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98014",
+        "id": "contrib-1792307281239-98014",
         "date": "2025-02-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -113,7 +176,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98015",
+        "id": "contrib-1792307281239-98015",
         "date": "2025-03-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -128,7 +191,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98016",
+        "id": "contrib-1792307281239-98016",
         "date": "2025-04-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -143,7 +206,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98017",
+        "id": "contrib-1792307281239-98017",
         "date": "2025-05-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -158,7 +221,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98018",
+        "id": "contrib-1792307281239-98018",
         "date": "2025-06-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -173,7 +236,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98019",
+        "id": "contrib-1792307281239-98019",
         "date": "2025-07-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -188,7 +251,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98020",
+        "id": "contrib-1792307281239-98020",
         "date": "2025-08-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -203,7 +266,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98021",
+        "id": "contrib-1792307281239-98021",
         "date": "2025-09-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -218,7 +281,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98022",
+        "id": "contrib-1792307281239-98022",
         "date": "2025-10-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -233,7 +296,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98023",
+        "id": "contrib-1792307281239-98023",
         "date": "2025-11-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -248,7 +311,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769444-98024",
+        "id": "contrib-1792307281239-98024",
         "date": "2025-12-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -263,7 +326,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769721-24338",
+        "id": "contrib-1792307282004-68534",
         "date": "2026-01-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -278,7 +341,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769721-24339",
+        "id": "contrib-1792307282004-68535",
         "date": "2026-02-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -293,7 +356,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769721-24340",
+        "id": "contrib-1792307282004-68536",
         "date": "2026-03-19 00:00:00",
         "amount": 105.19,
         "contributor_name": "Don Damron",
@@ -304,6 +367,21 @@
         "address_city": "Kokomo",
         "address_state": "IN",
         "address_zip": "46901",
+        "recipient_committee": "1881 Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282004-68537",
+        "date": "2026-06-23 00:00:00",
+        "amount": 60,
+        "contributor_name": "National Bank of Indianapolis",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
         "recipient_committee": "1881 Political Action Committee",
         "source": "indiana"
       }

@@ -2,14 +2,14 @@
   "id": "indiana-firefighter-pac",
   "name": "Indiana Firefighter PAC",
   "totals": {
-    "total_given": "2500.00",
-    "total_contributions": 3,
+    "total_given": "3500.00",
+    "total_contributions": 4,
     "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 3,
+      "total": "3000.00"
     },
     "medium": {
       "count": 1,
@@ -28,18 +28,22 @@
     "2025-06": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
     {
-      "id": "charles-alva-moseley",
-      "name": "Charles Alva Moseley",
-      "total": "1000.00",
-      "count": 1
-    },
-    {
       "id": "christopher-nathan-judy",
       "name": "Christopher Nathan Judy",
+      "total": "2000.00",
+      "count": 2
+    },
+    {
+      "id": "charles-alva-moseley",
+      "name": "Charles Alva Moseley",
       "total": "1000.00",
       "count": 1
     },
@@ -52,7 +56,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769403-64544",
+      "id": "contrib-1792307281196-64544",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Charles Alva Moseley",
@@ -68,7 +72,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79428",
+      "id": "contrib-1792307281214-79428",
       "date": "2025-07-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher Nathan Judy",
@@ -84,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80302",
+      "id": "contrib-1792307281215-80302",
       "date": "2025-06-03 00:00:00",
       "amount": 500,
       "candidate_name": "Jack Jordan",
@@ -97,6 +101,22 @@
       "address_state": "IN",
       "address_zip": "46202",
       "recipient_committee": "Friends of Jack Jordan",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44668",
+      "date": "2026-06-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher Nathan Judy",
+      "contributor_name": "Indiana Firefighter PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46885",
+      "recipient_committee": "Christopher Judy for State Representative",
       "source": "indiana"
     }
   ],

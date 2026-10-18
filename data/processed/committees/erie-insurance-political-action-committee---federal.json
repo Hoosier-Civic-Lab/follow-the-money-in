@@ -2,28 +2,47 @@
   "id": "erie-insurance-political-action-committee---federal",
   "name": "Erie Insurance Political Action Committee - Federal",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
+    "total_given": "7500.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 2,
+      "total": "7500.00"
     }
   },
   "by_month": {
     "2025-02": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769323-11767",
+      "id": "contrib-1792307281112-11767",
       "date": "2025-02-10 00:00:00",
       "amount": 5000,
+      "contributor_name": "Erie Insurance Political Action Committee - Federal",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Erie",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "recipient_committee": "INSURANCE POLITICAL ACTION COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281912-9330",
+      "date": "2026-09-28 00:00:00",
+      "amount": 2500,
       "contributor_name": "Erie Insurance Political Action Committee - Federal",
       "contributor_type": "committee",
       "contribution_size": "large",

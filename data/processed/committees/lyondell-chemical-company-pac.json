@@ -2,14 +2,14 @@
   "id": "lyondell-chemical-company-pac",
   "name": "Lyondell Chemical Company PAC",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "5000.00",
+    "total_contributions": 5,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 5,
+      "total": "5000.00"
     }
   },
   "by_month": {
@@ -20,9 +20,23 @@
     "2025-10": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "timothy-andrew-obrien",
+      "name": "Timothy Andrew O'Brien",
+      "total": "2000.00",
+      "count": 2
+    },
     {
       "id": "james-andrew-tomes",
       "name": "James Andrew Tomes",
@@ -30,15 +44,21 @@
       "count": 1
     },
     {
-      "id": "timothy-andrew-obrien",
-      "name": "Timothy Andrew O'Brien",
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "matthew-douglas-hostettler",
+      "name": "Matthew Douglas Hostettler",
       "total": "1000.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769359-33022",
+      "id": "contrib-1792307281152-33022",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -54,8 +74,56 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90218",
+      "id": "contrib-1792307281231-90218",
       "date": "2025-10-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Timothy Andrew O'Brien",
+      "contributor_name": "Lyondell Chemical Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston ",
+      "address_state": "TX",
+      "address_zip": "77010",
+      "recipient_committee": "Friends of Tim O'Brien",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33507",
+      "date": "2026-08-31 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Lyondell Chemical Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HOUSTON",
+      "address_state": "TX",
+      "address_zip": "77056",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48951",
+      "date": "2026-09-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Matthew Douglas Hostettler",
+      "contributor_name": "Lyondell Chemical Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77056",
+      "recipient_committee": "Friends of Matt Hostettler",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281983-55392",
+      "date": "2026-08-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Timothy Andrew O'Brien",
       "contributor_name": "Lyondell Chemical Company PAC",

@@ -2,23 +2,33 @@
   "id": "wal-pac",
   "name": "WAL PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "3500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "by_month": {
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "ronnie-j-alting",
+      "name": "Ronnie J. Alting",
+      "total": "2500.00",
+      "count": 1
+    },
     {
       "id": "lori-jo-goss-reaves",
       "name": "Lori  Jo Goss-Reaves",
@@ -28,7 +38,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769441-94787",
+      "id": "contrib-1792307281236-94787",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -41,6 +51,22 @@
       "address_state": "AR",
       "address_zip": "72716",
       "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24003",
+      "date": "2026-06-05 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Ronnie J. Alting",
+      "contributor_name": "WAL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716-0150",
+      "recipient_committee": "Ron Alting For State Senate Committee",
       "source": "indiana"
     }
   ],

@@ -2,18 +2,22 @@
   "id": "in-this-together-pac",
   "name": "In This Together PAC",
   "totals": {
-    "total_given": "10000.00",
-    "total_contributions": 1,
+    "total_given": "20000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 2,
+      "total": "20000.00"
     }
   },
   "by_month": {
     "2026-02": {
+      "count": 1,
+      "total": "10000.00"
+    },
+    "2026-07": {
       "count": 1,
       "total": "10000.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "beau-bayh",
       "name": "Beau Bayh",
-      "total": "10000.00",
-      "count": 1
+      "total": "20000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769739-30049",
+      "id": "contrib-1792307282020-80935",
       "date": "2026-02-27 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "In This Together PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40255",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80936",
+      "date": "2026-07-23 00:00:00",
       "amount": 10000,
       "candidate_name": "Beau Bayh",
       "contributor_name": "In This Together PAC",

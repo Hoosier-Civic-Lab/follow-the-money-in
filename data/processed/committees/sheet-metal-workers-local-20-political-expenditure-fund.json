@@ -2,8 +2,8 @@
   "id": "sheet-metal-workers-local-20-political-expenditure-fund",
   "name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
   "totals": {
-    "total_given": "4550.00",
-    "total_contributions": 4,
+    "total_given": "5800.00",
+    "total_contributions": 7,
     "candidates_supported": 2
   },
   "by_contribution_size": {
@@ -12,8 +12,8 @@
       "total": "4100.00"
     },
     "medium": {
-      "count": 2,
-      "total": "450.00"
+      "count": 5,
+      "total": "1700.00"
     }
   },
   "by_month": {
@@ -28,25 +28,37 @@
     "2025-07": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
     {
-      "id": "philip-kelly-giaquinta",
-      "name": "Philip Kelly GiaQuinta",
-      "total": "250.00",
-      "count": 1
-    },
-    {
       "id": "rodney-pol",
       "name": "Rodney Pol",
-      "total": "200.00",
-      "count": 1
+      "total": "700.00",
+      "count": 2
+    },
+    {
+      "id": "philip-kelly-giaquinta",
+      "name": "Philip Kelly GiaQuinta",
+      "total": "500.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769325-13854",
+      "id": "contrib-1792307281114-13854",
       "date": "2025-12-29 00:00:00",
       "amount": 1100,
       "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
@@ -61,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769325-13855",
+      "id": "contrib-1792307281114-13855",
       "date": "2025-12-29 00:00:00",
       "amount": 3000,
       "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
@@ -76,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34449",
+      "id": "contrib-1792307281153-34449",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -92,7 +104,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91325",
+      "id": "contrib-1792307281233-91325",
       "date": "2025-07-03 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -105,6 +117,53 @@
       "address_state": "IN",
       "address_zip": "46220",
       "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28942",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59130",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282053-96759",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Vanderburgh County Democratic Party",
       "source": "indiana"
     }
   ],

@@ -2,14 +2,14 @@
   "id": "state-farm-federal-pac",
   "name": "State Farm Federal PAC",
   "totals": {
-    "total_given": "4750.00",
-    "total_contributions": 9,
+    "total_given": "5500.00",
+    "total_contributions": 10,
     "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 8,
-      "total": "3750.00"
+      "count": 9,
+      "total": "4500.00"
     },
     "large": {
       "count": 1,
@@ -36,12 +36,22 @@
     "2026-03": {
       "count": 2,
       "total": "1750.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "750.00"
     }
   },
   "top_recipients": [
     {
       "id": "matthew-scott-lehman",
       "name": "Matthew Scott Lehman",
+      "total": "1500.00",
+      "count": 3
+    },
+    {
+      "id": "christopher-paul-jeter",
+      "name": "Christopher Paul Jeter",
       "total": "1500.00",
       "count": 3
     },
@@ -56,17 +66,11 @@
       "name": "Nicholas James McKinley",
       "total": "1000.00",
       "count": 1
-    },
-    {
-      "id": "christopher-paul-jeter",
-      "name": "Christopher Paul Jeter",
-      "total": "750.00",
-      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769405-64981",
+      "id": "contrib-1792307281198-64981",
       "date": "2025-10-27 00:00:00",
       "amount": 250,
       "candidate_name": "Matthew Scott Lehman",
@@ -82,7 +86,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-64982",
+      "id": "contrib-1792307281198-64982",
       "date": "2025-12-24 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Lehman",
@@ -98,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-64983",
+      "id": "contrib-1792307281198-64983",
       "date": "2025-08-11 00:00:00",
       "amount": 750,
       "candidate_name": "Matthew Scott Lehman",
@@ -114,7 +118,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84321",
+      "id": "contrib-1792307281218-84321",
       "date": "2025-10-20 00:00:00",
       "amount": 250,
       "candidate_name": "Christopher Paul Jeter",
@@ -130,7 +134,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11911",
+      "id": "contrib-1792307281954-33868",
       "date": "2026-01-18 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -146,7 +150,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11912",
+      "id": "contrib-1792307281954-33869",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -162,7 +166,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11913",
+      "id": "contrib-1792307281954-33870",
       "date": "2026-03-30 00:00:00",
       "amount": 750,
       "candidate_name": "Martin J Carbaugh",
@@ -178,7 +182,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17551",
+      "id": "contrib-1792307281974-50041",
       "date": "2026-01-12 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Jeter",
@@ -194,7 +198,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32762",
+      "id": "contrib-1792307281974-50042",
+      "date": "2026-08-20 00:00:00",
+      "amount": 750,
+      "candidate_name": "Christopher Paul Jeter",
+      "contributor_name": "State Farm Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "61710",
+      "recipient_committee": "Jeter for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88952",
       "date": "2026-03-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Nicholas James McKinley",

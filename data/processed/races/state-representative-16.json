@@ -3,35 +3,43 @@
   "office": "State Representative",
   "district": "16",
   "totals": {
-    "total_raised": "86310.87",
-    "total_contributions": 89
+    "total_raised": "157821.05",
+    "total_contributions": 179
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 22,
-      "total": "29085.29"
+      "count": 38,
+      "total": "33357.40"
     },
     "individual": {
-      "count": 42,
-      "total": "27975.58"
+      "count": 82,
+      "total": "52760.58"
     },
     "committee": {
-      "count": 25,
-      "total": "29250.00"
+      "count": 58,
+      "total": "71403.07"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 59,
-      "total": "22197.03"
+      "count": 128,
+      "total": "44852.03"
     },
     "large": {
-      "count": 27,
-      "total": "64000.00"
+      "count": 45,
+      "total": "101700.00"
     },
     "small": {
-      "count": 3,
-      "total": "113.84"
+      "count": 5,
+      "total": "215.95"
+    },
+    "mega": {
+      "count": 1,
+      "total": "11053.07"
     }
   },
   "by_month": {
@@ -55,9 +63,33 @@
       "count": 5,
       "total": "3300.00"
     },
+    "2026-08": {
+      "count": 42,
+      "total": "26175.00"
+    },
     "2026-03": {
       "count": 2,
       "total": "110.29"
+    },
+    "2026-09": {
+      "count": 12,
+      "total": "3772.11"
+    },
+    "2026-07": {
+      "count": 16,
+      "total": "7385.00"
+    },
+    "2026-10": {
+      "count": 8,
+      "total": "17853.07"
+    },
+    "2026-06": {
+      "count": 9,
+      "total": "14325.00"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "2000.00"
     }
   },
   "candidates": [
@@ -66,8 +98,8 @@
       "name": "KENDELL CULP",
       "party": "Republican",
       "totals": {
-        "total_raised": "86310.87",
-        "total_contributions": 89
+        "total_raised": "157821.05",
+        "total_contributions": 179
       },
       "by_month": {
         "2025-08": {
@@ -90,9 +122,33 @@
           "count": 5,
           "total": "3300.00"
         },
+        "2026-08": {
+          "count": 42,
+          "total": "26175.00"
+        },
         "2026-03": {
           "count": 2,
           "total": "110.29"
+        },
+        "2026-09": {
+          "count": 12,
+          "total": "3772.11"
+        },
+        "2026-07": {
+          "count": 16,
+          "total": "7385.00"
+        },
+        "2026-10": {
+          "count": 8,
+          "total": "17853.07"
+        },
+        "2026-06": {
+          "count": 9,
+          "total": "14325.00"
+        },
+        "2026-04": {
+          "count": 3,
+          "total": "2000.00"
         }
       }
     }

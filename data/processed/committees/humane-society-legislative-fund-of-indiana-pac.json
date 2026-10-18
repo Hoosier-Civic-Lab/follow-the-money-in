@@ -2,23 +2,33 @@
   "id": "humane-society-legislative-fund-of-indiana-pac",
   "name": "Humane Society Legislative Fund of Indiana PAC",
   "totals": {
-    "total_given": "250.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "550.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "250.00"
+      "count": 2,
+      "total": "550.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "david-harrell-abbott",
+      "name": "David Harrell Abbott",
+      "total": "300.00",
+      "count": 1
+    },
     {
       "id": "christine-anne-campbell",
       "name": "Christine Anne Campbell",
@@ -28,7 +38,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769425-83713",
+      "id": "contrib-1792307281218-83713",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Christine Anne Campbell",
@@ -41,6 +51,22 @@
       "address_state": "DC",
       "address_zip": "20037",
       "recipient_committee": "Committee to Elect Campbell",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49310",
+      "date": "2026-09-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "David Harrell Abbott",
+      "contributor_name": "Humane Society Legislative Fund of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20037",
+      "recipient_committee": "Committee to Elect Dave Abbott",
       "source": "indiana"
     }
   ],

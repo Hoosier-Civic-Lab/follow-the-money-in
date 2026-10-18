@@ -2,9 +2,9 @@
   "id": "taft-stettinius-and-hollister-better-government-fund",
   "name": "Taft Stettinius and Hollister Better Government Fund",
   "totals": {
-    "total_given": "2300.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "3300.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
@@ -12,14 +12,18 @@
       "total": "300.00"
     },
     "large": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 2,
+      "total": "3000.00"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1000.00"
     },
     "2026-03": {
       "count": 1,
@@ -32,11 +36,17 @@
       "name": "Spencer Robert Deery",
       "total": "2300.00",
       "count": 2
+    },
+    {
+      "id": "jack-jordan",
+      "name": "Jack Jordan",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769438-91533",
+      "id": "contrib-1792307281233-91533",
       "date": "2025-06-12 00:00:00",
       "amount": 300,
       "candidate_name": "Spencer Robert Deery",
@@ -52,7 +62,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-21971",
+      "id": "contrib-1792307281969-45284",
+      "date": "2026-07-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jack Jordan",
+      "contributor_name": "Taft Stettinius and Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Jack Jordan",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59541",
       "date": "2026-03-31 00:00:00",
       "amount": 2000,
       "candidate_name": "Spencer Robert Deery",

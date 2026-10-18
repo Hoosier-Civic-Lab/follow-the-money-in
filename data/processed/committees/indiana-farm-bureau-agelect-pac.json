@@ -2,23 +2,37 @@
   "id": "indiana-farm-bureau-agelect-pac",
   "name": "Indiana Farm Bureau AgElect PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "1500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-06": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "benjamin-charles-smaltz",
+      "name": "Benjamin Charles Smaltz",
+      "total": "1000.00",
+      "count": 1
+    },
     {
       "id": "matthew-scott-commons",
       "name": "Matthew Scott Commons",
@@ -28,7 +42,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769441-94653",
+      "id": "contrib-1792307281236-94653",
       "date": "2025-06-10 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Commons",
@@ -41,6 +55,22 @@
       "address_state": "IN",
       "address_zip": "46206",
       "recipient_committee": "Committee to Elect Matt Commons",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281967-43782",
+      "date": "2026-05-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Benjamin Charles Smaltz",
+      "contributor_name": "Indiana Farm Bureau AgElect PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ben Smaltz",
       "source": "indiana"
     }
   ],

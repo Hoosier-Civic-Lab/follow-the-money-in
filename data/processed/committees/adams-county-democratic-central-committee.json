@@ -1,0 +1,63 @@
+{
+  "id": "adams-county-democratic-central-committee",
+  "name": "Adams County Democratic Central Committee",
+  "totals": {
+    "total_given": "1550.00",
+    "total_contributions": 2,
+    "candidates_supported": 0
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "350.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1200.00"
+    }
+  },
+  "by_month": {
+    "2026-05": {
+      "count": 1,
+      "total": "350.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1200.00"
+    }
+  },
+  "top_recipients": [],
+  "contributions": [
+    {
+      "id": "contrib-1792307281897-466",
+      "date": "2026-05-21 00:00:00",
+      "amount": 350,
+      "contributor_name": "Adams County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733-2532",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281915-11562",
+      "date": "2026-07-30 00:00:00",
+      "amount": 1200,
+      "contributor_name": "Adams County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Berne",
+      "address_state": "IN",
+      "address_zip": "46711",
+      "recipient_committee": "Indiana Third Congressional District Democratic Committee",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

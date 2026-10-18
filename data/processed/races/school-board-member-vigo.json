@@ -3,41 +3,65 @@
   "office": "School Board Member",
   "district": "Vigo",
   "totals": {
-    "total_raised": "3910.83",
-    "total_contributions": 13
+    "total_raised": "43163.34",
+    "total_contributions": 65
   },
   "by_contributor_type": {
     "individual": {
-      "count": 13,
-      "total": "3910.83"
+      "count": 59,
+      "total": "29355.94"
+    },
+    "committee": {
+      "count": 6,
+      "total": "13807.40"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 9,
-      "total": "1810.83"
+      "count": 46,
+      "total": "9703.89"
     },
     "small": {
-      "count": 2,
-      "total": "100.00"
+      "count": 8,
+      "total": "352.05"
     },
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 11,
+      "total": "33107.40"
     }
   },
   "by_month": {
+    "2026-08": {
+      "count": 27,
+      "total": "11625.00"
+    },
     "2026-02": {
       "count": 5,
       "total": "906.73"
+    },
+    "2026-09": {
+      "count": 12,
+      "total": "9987.30"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-06": {
+      "count": 4,
+      "total": "924.61"
     },
     "2026-03": {
       "count": 7,
       "total": "2804.10"
     },
+    "2026-10": {
+      "count": 6,
+      "total": "16411.50"
+    },
     "2026-04": {
-      "count": 1,
-      "total": "200.00"
+      "count": 3,
+      "total": "404.10"
     }
   },
   "candidates": [
@@ -46,21 +70,41 @@
       "name": "Amy Lore",
       "party": "Non Partisan",
       "totals": {
-        "total_raised": "3910.83",
-        "total_contributions": 13
+        "total_raised": "43163.34",
+        "total_contributions": 65
       },
       "by_month": {
+        "2026-08": {
+          "count": 27,
+          "total": "11625.00"
+        },
         "2026-02": {
           "count": 5,
           "total": "906.73"
+        },
+        "2026-09": {
+          "count": 12,
+          "total": "9987.30"
+        },
+        "2026-07": {
+          "count": 1,
+          "total": "100.00"
+        },
+        "2026-06": {
+          "count": 4,
+          "total": "924.61"
         },
         "2026-03": {
           "count": 7,
           "total": "2804.10"
         },
+        "2026-10": {
+          "count": 6,
+          "total": "16411.50"
+        },
         "2026-04": {
-          "count": 1,
-          "total": "200.00"
+          "count": 3,
+          "total": "404.10"
         }
       }
     }

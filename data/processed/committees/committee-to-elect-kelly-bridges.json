@@ -2,39 +2,63 @@
   "id": "committee-to-elect-kelly-bridges",
   "name": "Committee to Elect Kelly Bridges",
   "totals": {
-    "total_given": "100.00",
-    "total_contributions": 1,
+    "total_given": "175.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "100.00"
+    },
+    "small": {
+      "count": 1,
+      "total": "75.00"
     }
   },
   "by_month": {
     "2026-04": {
       "count": 1,
       "total": "100.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "75.00"
     }
   },
   "top_recipients": [
     {
       "id": "scott-eugene-houldieson",
       "name": "Scott Eugene Houldieson",
-      "total": "100.00",
-      "count": 1
+      "total": "175.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769741-31242",
+      "id": "contrib-1792307282027-85380",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Eugene Houldieson",
       "contributor_name": "Committee to Elect Kelly Bridges",
       "contributor_type": "committee",
       "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Highland",
+      "address_state": "IN",
+      "address_zip": "46322",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85381",
+      "date": "2026-09-03 00:00:00",
+      "amount": 75,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "Committee to Elect Kelly Bridges",
+      "contributor_type": "committee",
+      "contribution_size": "small",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "Highland",

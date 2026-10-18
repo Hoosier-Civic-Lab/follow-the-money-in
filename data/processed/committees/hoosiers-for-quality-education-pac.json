@@ -2,9 +2,9 @@
   "id": "hoosiers-for-quality-education-pac",
   "name": "Hoosiers for Quality Education PAC",
   "totals": {
-    "total_given": "8300.00",
-    "total_contributions": 4,
-    "candidates_supported": 4
+    "total_given": "49800.00",
+    "total_contributions": 10,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
@@ -12,8 +12,12 @@
       "total": "300.00"
     },
     "large": {
-      "count": 3,
-      "total": "8000.00"
+      "count": 7,
+      "total": "21000.00"
+    },
+    "mega": {
+      "count": 2,
+      "total": "28500.00"
     }
   },
   "by_month": {
@@ -28,24 +32,46 @@
     "2025-10": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "11500.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "20000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "top_recipients": [
     {
-      "id": "christopher-paul-garten",
-      "name": "Christopher Paul Garten",
-      "total": "5000.00",
-      "count": 1
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "total": "25000.00",
+      "count": 3
     },
     {
-      "id": "zachary-charles-payne",
-      "name": "Zachary Charles Payne",
-      "total": "1500.00",
-      "count": 1
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "20000.00",
+      "count": 3
     },
     {
       "id": "hunter-dwight-smith",
       "name": "Hunter Dwight Smith",
+      "total": "3000.00",
+      "count": 2
+    },
+    {
+      "id": "zachary-charles-payne",
+      "name": "Zachary Charles Payne",
       "total": "1500.00",
       "count": 1
     },
@@ -58,7 +84,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769411-67438",
+      "id": "contrib-1792307281203-67438",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "Dale R DeVon",
@@ -74,7 +100,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-82317",
+      "id": "contrib-1792307281216-82317",
       "date": "2025-07-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Christopher Paul Garten",
@@ -90,7 +116,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85035",
+      "id": "contrib-1792307281219-85035",
       "date": "2025-07-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Zachary Charles Payne",
@@ -106,8 +132,104 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-95938",
+      "id": "contrib-1792307281237-95938",
       "date": "2025-10-28 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Hunter Dwight Smith",
+      "contributor_name": "Hoosiers For Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hunter Smith For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48137",
+      "date": "2026-06-23 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Hoosiers for Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48138",
+      "date": "2026-10-02 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Hoosiers for Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63471",
+      "date": "2026-09-01 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Hoosiers for Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63472",
+      "date": "2026-07-03 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Hoosiers for Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63473",
+      "date": "2026-09-29 00:00:00",
+      "amount": 18500,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Hoosiers for Quality Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64228",
+      "date": "2026-10-05 00:00:00",
       "amount": 1500,
       "candidate_name": "Hunter Dwight Smith",
       "contributor_name": "Hoosiers For Quality Education PAC",

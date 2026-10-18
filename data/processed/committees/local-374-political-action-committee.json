@@ -2,23 +2,37 @@
   "id": "local-374-political-action-committee",
   "name": "LOCAL 374 POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "11000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "1000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "charles-alva-moseley",
+      "name": "Charles Alva Moseley",
+      "total": "10000.00",
+      "count": 1
+    },
     {
       "id": "david-lee-niezgodski",
       "name": "David Lee Niezgodski",
@@ -28,7 +42,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769423-80807",
+      "id": "contrib-1792307281215-80807",
       "date": "2025-08-15 00:00:00",
       "amount": 1000,
       "candidate_name": "David Lee Niezgodski",
@@ -42,29 +56,45 @@
       "address_zip": "46342",
       "recipient_committee": "David Niezgodski for Senate District 10",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31600",
+      "date": "2026-08-24 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HOBART",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "16528.14",
-    "total_contributions": 9,
+    "total_raised": "111890.29",
+    "total_contributions": 38,
     "unique_donors": 0,
     "by_contributor_type": {
       "unitemized": {
-        "count": 9,
-        "total": "16528.14"
+        "count": 38,
+        "total": "111890.29"
       }
     },
     "top_donors": [
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "16528.14",
-        "count": 9
+        "total": "111890.29",
+        "count": 38
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769356-28624",
+        "id": "contrib-1792307281149-28624",
         "date": "2025-04-11 00:00:00",
         "amount": 219.2,
         "contributor_name": "",
@@ -79,7 +109,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28625",
+        "id": "contrib-1792307281149-28625",
         "date": "2025-09-01 00:00:00",
         "amount": 319.1,
         "contributor_name": "",
@@ -94,7 +124,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28626",
+        "id": "contrib-1792307281149-28626",
         "date": "2025-06-13 00:00:00",
         "amount": 447.94,
         "contributor_name": "",
@@ -109,7 +139,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28627",
+        "id": "contrib-1792307281149-28627",
         "date": "2025-03-14 00:00:00",
         "amount": 474.16,
         "contributor_name": "",
@@ -124,7 +154,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28628",
+        "id": "contrib-1792307281149-28628",
         "date": "2025-02-28 00:00:00",
         "amount": 2043.19,
         "contributor_name": "",
@@ -139,7 +169,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28629",
+        "id": "contrib-1792307281149-28629",
         "date": "2025-03-28 00:00:00",
         "amount": 2186.09,
         "contributor_name": "",
@@ -154,7 +184,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28630",
+        "id": "contrib-1792307281149-28630",
         "date": "2025-04-15 00:00:00",
         "amount": 2887.06,
         "contributor_name": "",
@@ -169,7 +199,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28631",
+        "id": "contrib-1792307281149-28631",
         "date": "2025-01-24 00:00:00",
         "amount": 2932.62,
         "contributor_name": "",
@@ -184,9 +214,444 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769356-28632",
+        "id": "contrib-1792307281149-28632",
         "date": "2025-05-15 00:00:00",
         "amount": 5018.78,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23692",
+        "date": "2026-06-10 00:00:00",
+        "amount": 55.2,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23693",
+        "date": "2026-06-19 00:00:00",
+        "amount": 330.18,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23694",
+        "date": "2026-06-13 00:00:00",
+        "amount": 543.49,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23695",
+        "date": "2026-06-10 00:00:00",
+        "amount": 558.8,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23696",
+        "date": "2026-06-11 00:00:00",
+        "amount": 958.86,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23697",
+        "date": "2026-04-14 00:00:00",
+        "amount": 1021.7,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23698",
+        "date": "2026-06-11 00:00:00",
+        "amount": 1043.82,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23699",
+        "date": "2026-05-14 00:00:00",
+        "amount": 1326.77,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23700",
+        "date": "2026-07-02 00:00:00",
+        "amount": 1425.31,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23701",
+        "date": "2026-06-11 00:00:00",
+        "amount": 1453.5,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23702",
+        "date": "2026-06-11 00:00:00",
+        "amount": 1853.61,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23703",
+        "date": "2026-07-02 00:00:00",
+        "amount": 1922.5,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23704",
+        "date": "2026-05-28 00:00:00",
+        "amount": 1997.21,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23705",
+        "date": "2026-06-11 00:00:00",
+        "amount": 2163.95,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23706",
+        "date": "2026-06-30 00:00:00",
+        "amount": 2391.25,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23707",
+        "date": "2026-06-11 00:00:00",
+        "amount": 3183.84,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23708",
+        "date": "2026-06-09 00:00:00",
+        "amount": 3343.23,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23709",
+        "date": "2026-06-11 00:00:00",
+        "amount": 3442.48,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23710",
+        "date": "2026-06-11 00:00:00",
+        "amount": 4052.78,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23711",
+        "date": "2026-06-11 00:00:00",
+        "amount": 4355.55,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23712",
+        "date": "2026-06-11 00:00:00",
+        "amount": 4787.64,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23713",
+        "date": "2026-06-24 00:00:00",
+        "amount": 4949.85,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23714",
+        "date": "2026-06-09 00:00:00",
+        "amount": 5076.94,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23715",
+        "date": "2026-06-11 00:00:00",
+        "amount": 6455.6,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23716",
+        "date": "2026-09-23 00:00:00",
+        "amount": 6460.4,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23717",
+        "date": "2026-07-22 00:00:00",
+        "amount": 6682.67,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23718",
+        "date": "2026-06-09 00:00:00",
+        "amount": 6794.99,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23719",
+        "date": "2026-07-14 00:00:00",
+        "amount": 7830.89,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23720",
+        "date": "2026-08-27 00:00:00",
+        "amount": 8899.14,
         "contributor_name": "",
         "contributor_type": "unitemized",
         "contribution_size": "large",

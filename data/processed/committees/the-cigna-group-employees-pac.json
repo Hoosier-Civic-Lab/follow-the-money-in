@@ -2,20 +2,24 @@
   "id": "the-cigna-group-employees-pac",
   "name": "The Cigna Group Employees PAC",
   "totals": {
-    "total_given": "4000.00",
-    "total_contributions": 3,
+    "total_given": "6000.00",
+    "total_contributions": 5,
     "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "4000.00"
+      "count": 5,
+      "total": "6000.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 3,
       "total": "4000.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "top_recipients": [
@@ -28,19 +32,19 @@
     {
       "id": "heath-randall-van-natter",
       "name": "Heath Randall Van Natter",
-      "total": "1000.00",
-      "count": 1
+      "total": "2000.00",
+      "count": 2
     },
     {
       "id": "peggy-mayfield",
       "name": "Peggy Mayfield",
-      "total": "1000.00",
-      "count": 1
+      "total": "2000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769405-64986",
+      "id": "contrib-1792307281198-64986",
       "date": "2025-10-27 00:00:00",
       "amount": 2000,
       "candidate_name": "Matthew Scott Lehman",
@@ -56,7 +60,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65354",
+      "id": "contrib-1792307281199-65354",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Heath Randall Van Natter",
@@ -72,8 +76,40 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769413-68109",
+      "id": "contrib-1792307281204-68109",
       "date": "2025-10-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Peggy Mayfield",
+      "contributor_name": "The Cigna Group Employees Pac",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Philadelphia",
+      "address_state": "PA",
+      "address_zip": "19192",
+      "recipient_committee": "The Mayfield Campaign",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281952-32287",
+      "date": "2026-05-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Heath Randall Van Natter",
+      "contributor_name": "The Cigna Group Employees PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Philadelphia",
+      "address_state": "IN",
+      "address_zip": "19192",
+      "recipient_committee": "Committee to Elect Heath VanNatter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281955-34062",
+      "date": "2026-05-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Peggy Mayfield",
       "contributor_name": "The Cigna Group Employees Pac",

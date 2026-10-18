@@ -6,37 +6,45 @@
   "district": "80",
   "party": "Democratic",
   "totals": {
-    "total_raised": "133496.76",
-    "total_contributions": 125,
-    "total_itemized": 125,
-    "total_unitemized": 0
+    "total_raised": "295656.76",
+    "total_contributions": 242,
+    "total_itemized": 241,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 21,
-      "total": "33000.00"
+      "count": 32,
+      "total": "49750.00"
     },
     "individual": {
-      "count": 49,
-      "total": "26596.76"
+      "count": 108,
+      "total": "74006.76"
     },
     "committee": {
-      "count": 55,
-      "total": "73900.00"
+      "count": 101,
+      "total": "171800.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 58,
-      "total": "23911.11"
+      "count": 114,
+      "total": "42911.11"
     },
     "large": {
-      "count": 60,
-      "total": "109250.00"
+      "count": 114,
+      "total": "232250.00"
     },
     "small": {
-      "count": 7,
-      "total": "335.65"
+      "count": 12,
+      "total": "495.65"
+    },
+    "mega": {
+      "count": 2,
+      "total": "20000.00"
     }
   },
   "by_month": {
@@ -68,9 +76,29 @@
       "count": 10,
       "total": "9660.50"
     },
+    "2026-08": {
+      "count": 59,
+      "total": "41755.00"
+    },
+    "2026-09": {
+      "count": 17,
+      "total": "30700.00"
+    },
+    "2026-06": {
+      "count": 26,
+      "total": "42805.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "250.00"
+    },
     "2026-04": {
-      "count": 3,
-      "total": "6000.00"
+      "count": 5,
+      "total": "7300.00"
+    },
+    "2026-10": {
+      "count": 12,
+      "total": "45350.00"
     },
     "2026-01": {
       "count": 1,
@@ -79,7 +107,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769360-34334",
+      "id": "contrib-1792307281153-34334",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -95,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34335",
+      "id": "contrib-1792307281153-34335",
       "date": "2025-12-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -111,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34336",
+      "id": "contrib-1792307281153-34336",
       "date": "2025-10-02 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -127,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34337",
+      "id": "contrib-1792307281153-34337",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -143,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34338",
+      "id": "contrib-1792307281153-34338",
       "date": "2025-12-19 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -159,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34339",
+      "id": "contrib-1792307281153-34339",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -175,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34340",
+      "id": "contrib-1792307281153-34340",
       "date": "2025-12-08 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -191,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34341",
+      "id": "contrib-1792307281153-34341",
       "date": "2025-08-19 00:00:00",
       "amount": 200,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -207,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34342",
+      "id": "contrib-1792307281153-34342",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -223,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34343",
+      "id": "contrib-1792307281153-34343",
       "date": "2025-09-05 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -239,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34344",
+      "id": "contrib-1792307281153-34344",
       "date": "2025-12-08 00:00:00",
       "amount": 30,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -255,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34345",
+      "id": "contrib-1792307281153-34345",
       "date": "2025-12-08 00:00:00",
       "amount": 50,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -271,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34346",
+      "id": "contrib-1792307281153-34346",
       "date": "2025-08-13 00:00:00",
       "amount": 50,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -287,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34347",
+      "id": "contrib-1792307281153-34347",
       "date": "2025-09-12 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -303,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34348",
+      "id": "contrib-1792307281153-34348",
       "date": "2025-06-18 00:00:00",
       "amount": 300,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -319,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34349",
+      "id": "contrib-1792307281153-34349",
       "date": "2025-12-08 00:00:00",
       "amount": 50,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -335,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34350",
+      "id": "contrib-1792307281153-34350",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -351,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34351",
+      "id": "contrib-1792307281153-34351",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -367,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34352",
+      "id": "contrib-1792307281153-34352",
       "date": "2025-08-14 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -383,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34353",
+      "id": "contrib-1792307281153-34353",
       "date": "2025-08-22 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -399,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34354",
+      "id": "contrib-1792307281153-34354",
       "date": "2025-08-14 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -415,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34355",
+      "id": "contrib-1792307281153-34355",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -431,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34356",
+      "id": "contrib-1792307281153-34356",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -447,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34357",
+      "id": "contrib-1792307281153-34357",
       "date": "2025-12-08 00:00:00",
       "amount": 50,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -463,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34358",
+      "id": "contrib-1792307281153-34358",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -479,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34359",
+      "id": "contrib-1792307281153-34359",
       "date": "2025-07-10 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -495,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34360",
+      "id": "contrib-1792307281153-34360",
       "date": "2025-08-14 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -511,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34361",
+      "id": "contrib-1792307281153-34361",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -527,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34362",
+      "id": "contrib-1792307281153-34362",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -543,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34363",
+      "id": "contrib-1792307281153-34363",
       "date": "2025-11-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -559,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34364",
+      "id": "contrib-1792307281153-34364",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -575,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34365",
+      "id": "contrib-1792307281153-34365",
       "date": "2025-10-02 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -591,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34366",
+      "id": "contrib-1792307281153-34366",
       "date": "2025-07-08 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -607,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34367",
+      "id": "contrib-1792307281153-34367",
       "date": "2025-08-13 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -623,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34368",
+      "id": "contrib-1792307281153-34368",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -639,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34369",
+      "id": "contrib-1792307281153-34369",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -655,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34370",
+      "id": "contrib-1792307281153-34370",
       "date": "2025-06-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -671,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34371",
+      "id": "contrib-1792307281153-34371",
       "date": "2025-10-02 00:00:00",
       "amount": 650,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -687,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34372",
+      "id": "contrib-1792307281153-34372",
       "date": "2025-07-08 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -703,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34373",
+      "id": "contrib-1792307281153-34373",
       "date": "2025-09-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -719,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34374",
+      "id": "contrib-1792307281153-34374",
       "date": "2025-12-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -735,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34375",
+      "id": "contrib-1792307281153-34375",
       "date": "2025-09-12 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -751,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34376",
+      "id": "contrib-1792307281153-34376",
       "date": "2025-10-02 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -767,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34377",
+      "id": "contrib-1792307281153-34377",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -783,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34378",
+      "id": "contrib-1792307281153-34378",
       "date": "2025-09-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -799,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34379",
+      "id": "contrib-1792307281153-34379",
       "date": "2025-09-12 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -815,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34380",
+      "id": "contrib-1792307281153-34380",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -831,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34381",
+      "id": "contrib-1792307281153-34381",
       "date": "2025-10-20 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -847,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34382",
+      "id": "contrib-1792307281153-34382",
       "date": "2025-08-20 00:00:00",
       "amount": 2500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -863,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34383",
+      "id": "contrib-1792307281153-34383",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -879,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34384",
+      "id": "contrib-1792307281153-34384",
       "date": "2025-06-27 00:00:00",
       "amount": 2500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -895,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34385",
+      "id": "contrib-1792307281153-34385",
       "date": "2025-07-10 00:00:00",
       "amount": 7500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -911,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34386",
+      "id": "contrib-1792307281153-34386",
       "date": "2025-10-23 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -927,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34387",
+      "id": "contrib-1792307281153-34387",
       "date": "2025-07-21 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -943,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34388",
+      "id": "contrib-1792307281153-34388",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -959,7 +987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34389",
+      "id": "contrib-1792307281153-34389",
       "date": "2025-10-02 00:00:00",
       "amount": 2500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -975,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34390",
+      "id": "contrib-1792307281153-34390",
       "date": "2025-11-24 00:00:00",
       "amount": 960.5,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -991,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34391",
+      "id": "contrib-1792307281153-34391",
       "date": "2025-09-14 00:00:00",
       "amount": 9.6,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1007,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34392",
+      "id": "contrib-1792307281153-34392",
       "date": "2025-07-01 00:00:00",
       "amount": 96.05,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1023,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34393",
+      "id": "contrib-1792307281153-34393",
       "date": "2025-08-13 00:00:00",
       "amount": 480.24,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1039,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34394",
+      "id": "contrib-1792307281153-34394",
       "date": "2025-08-13 00:00:00",
       "amount": 720.37,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1055,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34395",
+      "id": "contrib-1792307281153-34395",
       "date": "2025-08-12 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1071,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34396",
+      "id": "contrib-1792307281153-34396",
       "date": "2025-06-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1087,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34397",
+      "id": "contrib-1792307281153-34397",
       "date": "2025-08-12 00:00:00",
       "amount": 2250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1103,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34398",
+      "id": "contrib-1792307281153-34398",
       "date": "2025-10-02 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1119,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34399",
+      "id": "contrib-1792307281153-34399",
       "date": "2025-10-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1135,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34400",
+      "id": "contrib-1792307281153-34400",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1151,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34401",
+      "id": "contrib-1792307281153-34401",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1167,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34402",
+      "id": "contrib-1792307281153-34402",
       "date": "2025-11-10 00:00:00",
       "amount": 2500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1183,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34403",
+      "id": "contrib-1792307281153-34403",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1199,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34404",
+      "id": "contrib-1792307281153-34404",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1215,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34405",
+      "id": "contrib-1792307281153-34405",
       "date": "2025-11-20 00:00:00",
       "amount": 750,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1231,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34406",
+      "id": "contrib-1792307281153-34406",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1247,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34407",
+      "id": "contrib-1792307281153-34407",
       "date": "2025-06-17 00:00:00",
       "amount": 750,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1263,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34408",
+      "id": "contrib-1792307281153-34408",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1279,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34409",
+      "id": "contrib-1792307281153-34409",
       "date": "2025-09-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1295,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34410",
+      "id": "contrib-1792307281153-34410",
       "date": "2025-11-20 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1311,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34411",
+      "id": "contrib-1792307281153-34411",
       "date": "2025-08-29 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1327,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34412",
+      "id": "contrib-1792307281153-34412",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1343,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34413",
+      "id": "contrib-1792307281153-34413",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1359,7 +1387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34414",
+      "id": "contrib-1792307281153-34414",
       "date": "2025-08-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1375,7 +1403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34415",
+      "id": "contrib-1792307281153-34415",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1391,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34416",
+      "id": "contrib-1792307281153-34416",
       "date": "2025-06-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1407,7 +1435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34417",
+      "id": "contrib-1792307281153-34417",
       "date": "2025-08-13 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1423,7 +1451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34418",
+      "id": "contrib-1792307281153-34418",
       "date": "2025-06-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1439,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34419",
+      "id": "contrib-1792307281153-34419",
       "date": "2025-07-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1455,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34420",
+      "id": "contrib-1792307281153-34420",
       "date": "2025-10-02 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1471,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34421",
+      "id": "contrib-1792307281153-34421",
       "date": "2025-12-26 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1487,7 +1515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34422",
+      "id": "contrib-1792307281153-34422",
       "date": "2025-06-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1503,7 +1531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34423",
+      "id": "contrib-1792307281153-34423",
       "date": "2025-07-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1519,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34424",
+      "id": "contrib-1792307281153-34424",
       "date": "2025-08-25 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1535,7 +1563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34425",
+      "id": "contrib-1792307281153-34425",
       "date": "2025-06-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1551,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34426",
+      "id": "contrib-1792307281153-34426",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1567,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34427",
+      "id": "contrib-1792307281153-34427",
       "date": "2025-06-18 00:00:00",
       "amount": 3000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1583,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34428",
+      "id": "contrib-1792307281153-34428",
       "date": "2025-08-25 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1599,7 +1627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34429",
+      "id": "contrib-1792307281153-34429",
       "date": "2025-10-02 00:00:00",
       "amount": 300,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1615,7 +1643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34430",
+      "id": "contrib-1792307281153-34430",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1631,7 +1659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34431",
+      "id": "contrib-1792307281153-34431",
       "date": "2025-12-31 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1647,7 +1675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34432",
+      "id": "contrib-1792307281153-34432",
       "date": "2025-10-02 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1663,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34433",
+      "id": "contrib-1792307281153-34433",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1679,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34434",
+      "id": "contrib-1792307281153-34434",
       "date": "2025-10-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1695,7 +1723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34435",
+      "id": "contrib-1792307281153-34435",
       "date": "2025-06-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1711,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34436",
+      "id": "contrib-1792307281153-34436",
       "date": "2025-12-08 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1727,7 +1755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34437",
+      "id": "contrib-1792307281153-34437",
       "date": "2025-12-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1743,7 +1771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34438",
+      "id": "contrib-1792307281153-34438",
       "date": "2025-09-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1759,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34439",
+      "id": "contrib-1792307281153-34439",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1775,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34440",
+      "id": "contrib-1792307281153-34440",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1791,7 +1819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34441",
+      "id": "contrib-1792307281153-34441",
       "date": "2025-06-10 00:00:00",
       "amount": 2500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1807,7 +1835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34442",
+      "id": "contrib-1792307281153-34442",
       "date": "2025-10-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1823,7 +1851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34443",
+      "id": "contrib-1792307281153-34443",
       "date": "2025-12-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1839,7 +1867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34444",
+      "id": "contrib-1792307281153-34444",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1855,7 +1883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34445",
+      "id": "contrib-1792307281153-34445",
       "date": "2025-08-13 00:00:00",
       "amount": 750,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1871,7 +1899,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34446",
+      "id": "contrib-1792307281153-34446",
       "date": "2025-10-02 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1887,7 +1915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34447",
+      "id": "contrib-1792307281153-34447",
       "date": "2025-11-28 00:00:00",
       "amount": 350,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1903,7 +1931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34448",
+      "id": "contrib-1792307281153-34448",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1919,7 +1947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34449",
+      "id": "contrib-1792307281153-34449",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1935,7 +1963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34450",
+      "id": "contrib-1792307281153-34450",
       "date": "2025-06-18 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1951,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34451",
+      "id": "contrib-1792307281153-34451",
       "date": "2025-10-02 00:00:00",
       "amount": 300,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1967,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34452",
+      "id": "contrib-1792307281153-34452",
       "date": "2025-12-31 00:00:00",
       "amount": 1500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1983,7 +2011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34453",
+      "id": "contrib-1792307281153-34453",
       "date": "2025-06-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -1999,7 +2027,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34454",
+      "id": "contrib-1792307281153-34454",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -2015,7 +2043,231 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-10423",
+      "id": "contrib-1792307281942-28827",
+      "date": "2026-08-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28828",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "CVS Pharmacy .",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Woonsocket",
+      "address_state": "RI",
+      "address_zip": "02895",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28829",
+      "date": "2026-08-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Haller & Colvin, P.C.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28830",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Market Street Group, Incorporated",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28831",
+      "date": "2026-06-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Steel Dynamics",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28832",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "TFS Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46808",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28833",
+      "date": "2026-08-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Andy Downs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28834",
+      "date": "2026-06-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Anthony A Samuel Mr.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28835",
+      "date": "2026-08-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Bob Behr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28836",
+      "date": "2026-09-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Chuck Surack",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28837",
+      "date": "2026-08-25 00:00:00",
+      "amount": 50,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Claudia Buxton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wane",
+      "address_state": "IN",
+      "address_zip": "46815",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28838",
+      "date": "2026-07-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Clint McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28839",
+      "date": "2026-09-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Clint McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28840",
+      "date": "2026-06-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Clint McKay",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28841",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -2031,7 +2283,967 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-10424",
+      "id": "contrib-1792307281942-28842",
+      "date": "2026-06-28 00:00:00",
+      "amount": 5,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Darlene Rutledge",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28843",
+      "date": "2026-08-10 00:00:00",
+      "amount": 5,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Darlene Rutledge",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28844",
+      "date": "2026-08-25 00:00:00",
+      "amount": 400,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "David Franke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28845",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Debra Lambright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lagrange",
+      "address_state": "IN",
+      "address_zip": "46761",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28846",
+      "date": "2026-08-25 00:00:00",
+      "amount": 150,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Derek Camp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28847",
+      "date": "2026-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Don Cates",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28848",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Frank Suarez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46808",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28849",
+      "date": "2026-09-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Herbert Simon",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28850",
+      "date": "2026-09-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Jackie Banister",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fremont",
+      "address_state": "IN",
+      "address_zip": "46737",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28851",
+      "date": "2026-08-25 00:00:00",
+      "amount": 50,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Jenne Cashdollar",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28852",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Joe  Kelly",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28853",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Joel Riethmiller",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28854",
+      "date": "2026-08-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "John Theisen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28855",
+      "date": "2026-06-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "John Willey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28856",
+      "date": "2026-08-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Johninie Morgan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46806",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28857",
+      "date": "2026-09-25 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Justin Journay",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28858",
+      "date": "2026-08-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Karl Bandemer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28859",
+      "date": "2026-09-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Keri Roby",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Waye",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28860",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Kevin Hunter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28861",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Kody Tinnel Mr.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28862",
+      "date": "2026-08-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Larry Weigand",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28863",
+      "date": "2026-08-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Leonard Helfrich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28864",
+      "date": "2026-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Marlene Purdy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28865",
+      "date": "2026-08-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Marvin Ross",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28866",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Michael Gouloff",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28867",
+      "date": "2026-08-25 00:00:00",
+      "amount": 150,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Pete Kelly",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wolcottville",
+      "address_state": "IN",
+      "address_zip": "46795",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28868",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Richard Teets",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Butler",
+      "address_state": "IN",
+      "address_zip": "46721",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28869",
+      "date": "2026-09-11 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Scott Glaze",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Roanoke",
+      "address_state": "IN",
+      "address_zip": "46783",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28870",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Sonja Aghabekian",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28871",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Stan Ziherl",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28872",
+      "date": "2026-08-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Stephanie Crandall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28873",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Thomas GiaQuinta",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28874",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Hoosier Heartland Area Labor Federation",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28875",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "International Union of Operating Engineers Local 103",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28876",
+      "date": "2026-08-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Laborers International Union of North America local 213",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46806",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28877",
+      "date": "2026-08-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Millwrights Local Union 1076",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28878",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "United Brotherhood of Carpenters & Joiners of America Local 232",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46808",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28879",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Beers Mallers, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28880",
+      "date": "2026-08-07 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Borror Public Affairs LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28881",
+      "date": "2026-09-24 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28882",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "In",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28883",
+      "date": "2026-10-05 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "In",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28884",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Committee to Elect Austin Knox",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46803",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28885",
+      "date": "2026-06-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "IN",
+      "address_zip": "55402",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28886",
+      "date": "2026-08-25 00:00:00",
+      "amount": 150,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Forward With Fisher",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28887",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Geoff Paddock for City Council",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28888",
+      "date": "2026-04-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Fine Wine & Spirits, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "Md",
+      "address_zip": "20817",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28889",
+      "date": "2026-06-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Kreig Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "In",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28890",
+      "date": "2026-06-15 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28891",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Eli Lilly and Company Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28892",
+      "date": "2026-09-30 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Fort Wayne First",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28893",
+      "date": "2026-06-16 00:00:00",
+      "amount": 7500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28894",
+      "date": "2026-10-05 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28895",
+      "date": "2026-06-17 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "INDIANA MEDICAL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28896",
+      "date": "2026-10-07 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28897",
+      "date": "2026-09-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "ACLI Political Activity Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28898",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "AILIC-PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28899",
+      "date": "2026-06-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "American Electric Power Committee For Responsive Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28900",
+      "date": "2026-08-24 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Anheuser Busch",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Saint Louis",
+      "address_state": "IN",
+      "address_zip": "63118",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28901",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28902",
       "date": "2026-04-09 00:00:00",
       "amount": 5000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -2047,7 +3259,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-10425",
+      "id": "contrib-1792307281942-28903",
+      "date": "2026-06-22 00:00:00",
+      "amount": 750,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "CenterPoint Energy, Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "IN",
+      "address_zip": "77210-4567",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28904",
+      "date": "2026-08-10 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Citizens For Excellence In Government",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28905",
       "date": "2026-01-16 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -2063,7 +3307,567 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-10426",
+      "id": "contrib-1792307281942-28906",
+      "date": "2026-06-16 00:00:00",
+      "amount": 750,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Cummins Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "IN",
+      "address_zip": "20004",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28907",
+      "date": "2026-08-14 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Duke PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "Oh",
+      "address_zip": "43215",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28908",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Elevance Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28909",
+      "date": "2026-08-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Fort Wayne Professional Fire Fighters Local #124 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28910",
+      "date": "2026-06-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Friends of Indiana Hospitals",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28911",
+      "date": "2026-08-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Hoosier Beverage Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "In",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28912",
+      "date": "2026-10-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Huntington Bancshares Incorporated PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "43215",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28913",
+      "date": "2026-08-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28914",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28915",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "IBEW PAC Voluntary Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "IN",
+      "address_zip": "20001",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28916",
+      "date": "2026-06-17 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Ice PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28917",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28918",
+      "date": "2026-09-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana CPA Political Action Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28919",
+      "date": "2026-06-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28920",
+      "date": "2026-06-17 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28921",
+      "date": "2026-06-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Independent Automobile Dealers Assoc.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28922",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Manufacturers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28923",
+      "date": "2026-10-07 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Realtors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28924",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana State Building & Construction Trades Council-PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28925",
+      "date": "2026-06-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana State Iron Workers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage ",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28926",
+      "date": "2026-08-25 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "In",
+      "address_zip": "46898",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28927",
+      "date": "2026-10-09 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana State Pipe Trades Association PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "In",
+      "address_zip": "46898",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28928",
+      "date": "2026-06-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana Technology & Innovation Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46238",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28929",
+      "date": "2026-06-05 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Iron Workers Local 147 P.A.C. Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28930",
+      "date": "2026-06-22 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Lawyers Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28931",
+      "date": "2026-10-07 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Lawyers Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28932",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Lincoln Financial Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46801",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28933",
+      "date": "2026-08-25 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Local Union 166 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28934",
+      "date": "2026-06-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Neighbors for Justin Moed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46217",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28935",
+      "date": "2026-10-05 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "NiSource PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "43215",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28936",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Norfolk Southern Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28937",
+      "date": "2026-08-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Northeast Indiana Building Trades Council PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28938",
+      "date": "2026-09-18 00:00:00",
+      "amount": 750,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Optometry's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28939",
+      "date": "2026-09-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Pfizer PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York",
+      "address_state": "IN",
+      "address_zip": "10001",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28940",
+      "date": "2026-10-01 00:00:00",
+      "amount": 350,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "PhRMA",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "IN",
+      "address_zip": "20024",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28941",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -2075,6 +3879,102 @@
       "address_city": "Little Falls",
       "address_state": "NJ",
       "address_zip": "07424",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28942",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28943",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "SMART TD PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Independence",
+      "address_state": "OH",
+      "address_zip": "44131",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28944",
+      "date": "2026-04-22 00:00:00",
+      "amount": 300,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Stand for Children PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28945",
+      "date": "2026-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "STAR PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28946",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "State Farm PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington ",
+      "address_state": "IL",
+      "address_zip": "61710",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28947",
+      "date": "2026-10-07 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Wine and Spirits Wholesalers of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "GiaQuinta for State Representative",
       "source": "indiana"
     }

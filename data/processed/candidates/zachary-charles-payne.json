@@ -6,33 +6,33 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "5675.00",
-    "total_contributions": 11,
-    "total_itemized": 11,
+    "total_raised": "11504.00",
+    "total_contributions": 22,
+    "total_itemized": 22,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 1,
-      "total": "500.00"
+      "count": 3,
+      "total": "1300.00"
     },
     "individual": {
-      "count": 4,
-      "total": "1275.00"
+      "count": 7,
+      "total": "2204.00"
     },
     "committee": {
-      "count": 6,
-      "total": "3900.00"
+      "count": 12,
+      "total": "8000.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 9,
-      "total": "3175.00"
+      "count": 18,
+      "total": "6504.00"
     },
     "large": {
-      "count": 2,
-      "total": "2500.00"
+      "count": 4,
+      "total": "5000.00"
     }
   },
   "by_month": {
@@ -51,11 +51,19 @@
     "2025-08": {
       "count": 3,
       "total": "2000.00"
+    },
+    "2026-07": {
+      "count": 10,
+      "total": "4829.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769426-85027",
+      "id": "contrib-1792307281219-85027",
       "date": "2025-07-02 00:00:00",
       "amount": 500,
       "candidate_name": "Zachary Charles Payne",
@@ -71,7 +79,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85028",
+      "id": "contrib-1792307281219-85028",
       "date": "2025-10-02 00:00:00",
       "amount": 175,
       "candidate_name": "Zachary Charles Payne",
@@ -87,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85029",
+      "id": "contrib-1792307281219-85029",
       "date": "2025-06-16 00:00:00",
       "amount": 100,
       "candidate_name": "Zachary Charles Payne",
@@ -103,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85030",
+      "id": "contrib-1792307281219-85030",
       "date": "2025-07-16 00:00:00",
       "amount": 300,
       "candidate_name": "Zachary Charles Payne",
@@ -119,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85031",
+      "id": "contrib-1792307281219-85031",
       "date": "2025-07-16 00:00:00",
       "amount": 300,
       "candidate_name": "Zachary Charles Payne",
@@ -135,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85032",
+      "id": "contrib-1792307281219-85032",
       "date": "2025-06-05 00:00:00",
       "amount": 300,
       "candidate_name": "Zachary Charles Payne",
@@ -151,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85033",
+      "id": "contrib-1792307281219-85033",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Zachary Charles Payne",
@@ -167,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85034",
+      "id": "contrib-1792307281219-85034",
       "date": "2025-08-13 00:00:00",
       "amount": 500,
       "candidate_name": "Zachary Charles Payne",
@@ -183,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85035",
+      "id": "contrib-1792307281219-85035",
       "date": "2025-07-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Zachary Charles Payne",
@@ -199,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85036",
+      "id": "contrib-1792307281219-85036",
       "date": "2025-08-13 00:00:00",
       "amount": 500,
       "candidate_name": "Zachary Charles Payne",
@@ -215,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85037",
+      "id": "contrib-1792307281219-85037",
       "date": "2025-06-16 00:00:00",
       "amount": 500,
       "candidate_name": "Zachary Charles Payne",
@@ -227,6 +235,182 @@
       "address_city": "Fort Wayne",
       "address_state": "IN",
       "address_zip": "46885",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50665",
+      "date": "2026-07-10 00:00:00",
+      "amount": 329,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Scott D Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "IN",
+      "address_zip": "60611",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50666",
+      "date": "2026-07-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50667",
+      "date": "2026-07-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50668",
+      "date": "2026-07-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Kroger Gardis & Regas, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50669",
+      "date": "2026-07-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50670",
+      "date": "2026-07-21 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Hoosiers for Quality Education Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50671",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50672",
+      "date": "2026-07-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Indiana Bankpac",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50673",
+      "date": "2026-07-09 00:00:00",
+      "amount": 300,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50674",
+      "date": "2026-07-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Zach Payne",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50675",
+      "date": "2026-07-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Zachary Charles Payne",
+      "contributor_name": "Indiana Multi-Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
       "recipient_committee": "Friends of Zach Payne",
       "source": "indiana"
     }

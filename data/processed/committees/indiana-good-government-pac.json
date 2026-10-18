@@ -1,21 +1,41 @@
 {
   "id": "indiana-good-government-pac",
-  "name": "INDIANA GOOD GOVERNMENT PAC",
+  "name": "Indiana Good Government PAC",
   "totals": {
-    "total_given": "7500.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "29000.00",
+    "total_contributions": 7,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "7500.00"
+      "count": 6,
+      "total": "19000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
+    "2026-10": {
+      "count": 1,
+      "total": "7500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1000.00"
+    },
     "2026-04": {
       "count": 2,
       "total": "7500.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "11000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "2000.00"
     }
   },
   "top_recipients": [
@@ -30,11 +50,60 @@
       "name": "Linda Lee Rogers",
       "total": "2500.00",
       "count": 1
+    },
+    {
+      "id": "spencer-robert-deery",
+      "name": "Spencer Robert Deery",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "ronnie-j-alting",
+      "name": "Ronnie J. Alting",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "john-christian-ruckelshaus",
+      "name": "John Christian Ruckelshaus",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769688-11355",
+      "id": "contrib-1792307281913-9643",
+      "date": "2026-10-01 00:00:00",
+      "amount": 7500,
+      "contributor_name": "Indiana Good Government PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-23988",
+      "date": "2026-07-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ronnie J. Alting",
+      "contributor_name": "Indiana Good Government PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Ron Alting For State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281947-32128",
       "date": "2026-04-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Travis Linn Holdman",
@@ -50,7 +119,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769698-16922",
+      "id": "contrib-1792307281970-45872",
+      "date": "2026-05-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Good Government PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-47964",
       "date": "2026-04-02 00:00:00",
       "amount": 2500,
       "candidate_name": "Linda Lee Rogers",
@@ -64,20 +149,51 @@
       "address_zip": "46236",
       "recipient_committee": "Linda Rogers for State Senate",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59572",
+      "date": "2026-08-18 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Spencer Robert Deery",
+      "contributor_name": "INDIANA GOOD GOVERNMENT PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Spencer Deery for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281990-61197",
+      "date": "2026-05-19 00:00:00",
+      "amount": 10000,
+      "contributor_name": "INDIANA GOOD GOVERNMENT PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Central Indiana Constructors PAC",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "300955.22",
-    "total_contributions": 5,
-    "unique_donors": 2,
+    "total_raised": "304156.13",
+    "total_contributions": 14,
+    "unique_donors": 3,
     "by_contributor_type": {
       "unitemized": {
         "count": 1,
         "total": "0.81"
       },
       "individual": {
-        "count": 4,
-        "total": "300954.41"
+        "count": 13,
+        "total": "304155.32"
       }
     },
     "top_donors": [
@@ -90,8 +206,14 @@
       {
         "name": "OLD NATIONAL BANK",
         "type": "individual",
-        "total": "954.41",
-        "count": 3
+        "total": "4000.23",
+        "count": 10
+      },
+      {
+        "name": "VANGUARD",
+        "type": "individual",
+        "total": "155.09",
+        "count": 2
       },
       {
         "name": "(Unknown)",
@@ -102,7 +224,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769748-33987",
+        "id": "contrib-1792307282045-91973",
         "date": "2026-04-02 00:00:00",
         "amount": 0.81,
         "contributor_name": "",
@@ -117,7 +239,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769748-33988",
+        "id": "contrib-1792307282045-91974",
         "date": "2026-02-27 00:00:00",
         "amount": 79.03,
         "contributor_name": "OLD NATIONAL BANK",
@@ -132,7 +254,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769748-33989",
+        "id": "contrib-1792307282045-91975",
         "date": "2026-03-31 00:00:00",
         "amount": 272.42,
         "contributor_name": "OLD NATIONAL BANK",
@@ -147,7 +269,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769748-33990",
+        "id": "contrib-1792307282045-91976",
         "date": "2026-03-20 00:00:00",
         "amount": 602.96,
         "contributor_name": "OLD NATIONAL BANK",
@@ -162,7 +284,142 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769748-33991",
+        "id": "contrib-1792307282045-91977",
+        "date": "2026-08-18 00:00:00",
+        "amount": 2648.1,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91978",
+        "date": "2026-09-30 00:00:00",
+        "amount": 0.67,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91979",
+        "date": "2026-06-30 00:00:00",
+        "amount": 1.98,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91980",
+        "date": "2026-07-31 00:00:00",
+        "amount": 2.03,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91981",
+        "date": "2026-05-29 00:00:00",
+        "amount": 2.22,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91982",
+        "date": "2026-04-30 00:00:00",
+        "amount": 63.44,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91983",
+        "date": "2026-08-31 00:00:00",
+        "amount": 327.38,
+        "contributor_name": "OLD NATIONAL BANK",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91984",
+        "date": "2026-09-22 00:00:00",
+        "amount": 49.98,
+        "contributor_name": "VANGUARD",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "MALVERN",
+        "address_state": "PA",
+        "address_zip": "19355",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91985",
+        "date": "2026-09-30 00:00:00",
+        "amount": 105.11,
+        "contributor_name": "VANGUARD",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "MALVERN",
+        "address_state": "PA",
+        "address_zip": "19355",
+        "recipient_committee": "INDIANA GOOD GOVERNMENT PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307282045-91986",
         "date": "2026-02-20 00:00:00",
         "amount": 300000,
         "contributor_name": "WALKER FOR INDIANA",

@@ -1,0 +1,63 @@
+{
+  "id": "committee-to-elect-joseph-oconnor",
+  "name": "Committee To Elect Joseph O'Connor",
+  "totals": {
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "2000.00"
+    }
+  },
+  "by_month": {
+    "2026-10": {
+      "count": 2,
+      "total": "2000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "eva-marie-rosberg",
+      "name": "Eva Marie Rosberg",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281900-2159",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee To Elect Joseph O'Connor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-95033",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Eva Marie Rosberg",
+      "contributor_name": "Committee to Elect Joseph O'Connor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Committee to Elect Eva Rosberg",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

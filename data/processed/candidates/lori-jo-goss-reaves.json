@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "37989.39",
-    "total_contributions": 128,
-    "total_itemized": 128,
-    "total_unitemized": 0
+    "total_raised": "83295.03",
+    "total_contributions": 265,
+    "total_itemized": 263,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 18,
-      "total": "4550.12"
+      "count": 35,
+      "total": "10150.12"
     },
     "individual": {
-      "count": 89,
-      "total": "23139.27"
+      "count": 182,
+      "total": "48644.91"
     },
     "committee": {
-      "count": 21,
-      "total": "10300.00"
+      "count": 46,
+      "total": "23800.00"
+    },
+    "unitemized": {
+      "count": 2,
+      "total": "700.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 91,
-      "total": "26511.53"
+      "count": 187,
+      "total": "54301.68"
     },
     "small": {
-      "count": 28,
-      "total": "1477.86"
+      "count": 57,
+      "total": "2993.35"
     },
     "large": {
-      "count": 9,
-      "total": "10000.00"
+      "count": 21,
+      "total": "26000.00"
     }
   },
   "by_month": {
@@ -68,6 +72,30 @@
       "count": 1,
       "total": "0.04"
     },
+    "2026-09": {
+      "count": 56,
+      "total": "21991.12"
+    },
+    "2026-10": {
+      "count": 77,
+      "total": "22575.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "24.33"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "515.15"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "0.04"
+    },
     "2026-03": {
       "count": 1,
       "total": "0.04"
@@ -79,7 +107,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769441-94662",
+      "id": "contrib-1792307281236-94662",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -95,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94663",
+      "id": "contrib-1792307281236-94663",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -111,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94664",
+      "id": "contrib-1792307281236-94664",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -127,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94665",
+      "id": "contrib-1792307281236-94665",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -143,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94666",
+      "id": "contrib-1792307281236-94666",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -159,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94667",
+      "id": "contrib-1792307281236-94667",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -175,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94668",
+      "id": "contrib-1792307281236-94668",
       "date": "2025-11-25 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -191,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94669",
+      "id": "contrib-1792307281236-94669",
       "date": "2025-10-16 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -207,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94670",
+      "id": "contrib-1792307281236-94670",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -223,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94671",
+      "id": "contrib-1792307281236-94671",
       "date": "2025-08-02 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -239,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94672",
+      "id": "contrib-1792307281236-94672",
       "date": "2025-11-01 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -255,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94673",
+      "id": "contrib-1792307281236-94673",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -271,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94674",
+      "id": "contrib-1792307281236-94674",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -287,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94675",
+      "id": "contrib-1792307281236-94675",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -303,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94676",
+      "id": "contrib-1792307281236-94676",
       "date": "2025-08-02 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -319,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94677",
+      "id": "contrib-1792307281236-94677",
       "date": "2025-12-31 00:00:00",
       "amount": 0.04,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -335,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94678",
+      "id": "contrib-1792307281236-94678",
       "date": "2025-03-31 00:00:00",
       "amount": 0.04,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -351,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94679",
+      "id": "contrib-1792307281236-94679",
       "date": "2025-06-30 00:00:00",
       "amount": 0.04,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -367,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94680",
+      "id": "contrib-1792307281236-94680",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -383,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94681",
+      "id": "contrib-1792307281236-94681",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -399,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94682",
+      "id": "contrib-1792307281236-94682",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -415,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94683",
+      "id": "contrib-1792307281236-94683",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -431,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94684",
+      "id": "contrib-1792307281236-94684",
       "date": "2025-10-17 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -447,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94685",
+      "id": "contrib-1792307281236-94685",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -463,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94686",
+      "id": "contrib-1792307281236-94686",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -479,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94687",
+      "id": "contrib-1792307281236-94687",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -495,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94688",
+      "id": "contrib-1792307281236-94688",
       "date": "2025-10-16 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -511,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94689",
+      "id": "contrib-1792307281236-94689",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -527,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94690",
+      "id": "contrib-1792307281236-94690",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -543,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94691",
+      "id": "contrib-1792307281236-94691",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -559,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94692",
+      "id": "contrib-1792307281236-94692",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -575,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94693",
+      "id": "contrib-1792307281236-94693",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -591,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94694",
+      "id": "contrib-1792307281236-94694",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -607,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94695",
+      "id": "contrib-1792307281236-94695",
       "date": "2025-11-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -623,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94696",
+      "id": "contrib-1792307281236-94696",
       "date": "2025-11-17 00:00:00",
       "amount": 520.51,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -639,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94697",
+      "id": "contrib-1792307281236-94697",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -655,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94698",
+      "id": "contrib-1792307281236-94698",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -671,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94699",
+      "id": "contrib-1792307281236-94699",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -687,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94700",
+      "id": "contrib-1792307281236-94700",
       "date": "2025-08-12 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -703,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94701",
+      "id": "contrib-1792307281236-94701",
       "date": "2025-08-12 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -719,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94702",
+      "id": "contrib-1792307281236-94702",
       "date": "2025-08-12 00:00:00",
       "amount": 200,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -735,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94703",
+      "id": "contrib-1792307281236-94703",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -751,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94704",
+      "id": "contrib-1792307281236-94704",
       "date": "2025-09-30 00:00:00",
       "amount": 200,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -767,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94705",
+      "id": "contrib-1792307281236-94705",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -783,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94706",
+      "id": "contrib-1792307281236-94706",
       "date": "2025-08-02 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -799,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94707",
+      "id": "contrib-1792307281236-94707",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -815,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94708",
+      "id": "contrib-1792307281236-94708",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -831,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94709",
+      "id": "contrib-1792307281236-94709",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -847,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94710",
+      "id": "contrib-1792307281236-94710",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -863,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94711",
+      "id": "contrib-1792307281236-94711",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -879,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94712",
+      "id": "contrib-1792307281236-94712",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -895,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94713",
+      "id": "contrib-1792307281236-94713",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -911,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94714",
+      "id": "contrib-1792307281236-94714",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -927,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94715",
+      "id": "contrib-1792307281236-94715",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -943,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94716",
+      "id": "contrib-1792307281236-94716",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -959,7 +987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94717",
+      "id": "contrib-1792307281236-94717",
       "date": "2025-08-02 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -975,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94718",
+      "id": "contrib-1792307281236-94718",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -991,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94719",
+      "id": "contrib-1792307281236-94719",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1007,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94720",
+      "id": "contrib-1792307281236-94720",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1023,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94721",
+      "id": "contrib-1792307281236-94721",
       "date": "2025-09-30 00:00:00",
       "amount": 200,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1039,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94722",
+      "id": "contrib-1792307281236-94722",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1055,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94723",
+      "id": "contrib-1792307281236-94723",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1071,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94724",
+      "id": "contrib-1792307281236-94724",
       "date": "2025-11-19 00:00:00",
       "amount": 52.05,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1087,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94725",
+      "id": "contrib-1792307281236-94725",
       "date": "2025-10-16 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1103,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94726",
+      "id": "contrib-1792307281236-94726",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1119,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94727",
+      "id": "contrib-1792307281236-94727",
       "date": "2025-09-30 00:00:00",
       "amount": 90,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1135,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94728",
+      "id": "contrib-1792307281236-94728",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1151,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94729",
+      "id": "contrib-1792307281236-94729",
       "date": "2025-10-16 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1167,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94730",
+      "id": "contrib-1792307281236-94730",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1183,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94731",
+      "id": "contrib-1792307281236-94731",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1199,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94732",
+      "id": "contrib-1792307281236-94732",
       "date": "2025-11-17 00:00:00",
       "amount": 520.51,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1215,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94733",
+      "id": "contrib-1792307281236-94733",
       "date": "2025-12-16 00:00:00",
       "amount": 520.51,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1231,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94734",
+      "id": "contrib-1792307281236-94734",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1247,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94735",
+      "id": "contrib-1792307281236-94735",
       "date": "2025-10-16 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1263,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94736",
+      "id": "contrib-1792307281236-94736",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1279,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94737",
+      "id": "contrib-1792307281236-94737",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1295,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94738",
+      "id": "contrib-1792307281236-94738",
       "date": "2025-08-12 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1311,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94739",
+      "id": "contrib-1792307281236-94739",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1327,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94740",
+      "id": "contrib-1792307281236-94740",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1343,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94741",
+      "id": "contrib-1792307281236-94741",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1359,7 +1387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94742",
+      "id": "contrib-1792307281236-94742",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1375,7 +1403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94743",
+      "id": "contrib-1792307281236-94743",
       "date": "2025-08-12 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1391,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94744",
+      "id": "contrib-1792307281236-94744",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1407,7 +1435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94745",
+      "id": "contrib-1792307281236-94745",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1423,7 +1451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94746",
+      "id": "contrib-1792307281236-94746",
       "date": "2025-11-04 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1439,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94747",
+      "id": "contrib-1792307281236-94747",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1455,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94748",
+      "id": "contrib-1792307281236-94748",
       "date": "2025-09-30 00:00:00",
       "amount": 75,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1471,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94749",
+      "id": "contrib-1792307281236-94749",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1487,7 +1515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94750",
+      "id": "contrib-1792307281236-94750",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1503,7 +1531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94751",
+      "id": "contrib-1792307281236-94751",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1519,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94752",
+      "id": "contrib-1792307281236-94752",
       "date": "2025-12-08 00:00:00",
       "amount": 35.61,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1535,7 +1563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94753",
+      "id": "contrib-1792307281236-94753",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1551,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94754",
+      "id": "contrib-1792307281236-94754",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1567,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94755",
+      "id": "contrib-1792307281236-94755",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1583,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94756",
+      "id": "contrib-1792307281236-94756",
       "date": "2025-09-30 00:00:00",
       "amount": 100,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1599,7 +1627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94757",
+      "id": "contrib-1792307281236-94757",
       "date": "2025-09-30 00:00:00",
       "amount": 150,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1615,7 +1643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94758",
+      "id": "contrib-1792307281236-94758",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1631,7 +1659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94759",
+      "id": "contrib-1792307281236-94759",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1647,7 +1675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94760",
+      "id": "contrib-1792307281236-94760",
       "date": "2025-09-30 00:00:00",
       "amount": 0.04,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1663,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94761",
+      "id": "contrib-1792307281236-94761",
       "date": "2025-11-04 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1679,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94762",
+      "id": "contrib-1792307281236-94762",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1695,7 +1723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94763",
+      "id": "contrib-1792307281236-94763",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1711,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94764",
+      "id": "contrib-1792307281236-94764",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1727,7 +1755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94765",
+      "id": "contrib-1792307281236-94765",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1743,7 +1771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94766",
+      "id": "contrib-1792307281236-94766",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1759,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94767",
+      "id": "contrib-1792307281236-94767",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1775,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94768",
+      "id": "contrib-1792307281236-94768",
       "date": "2025-11-04 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1791,7 +1819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94769",
+      "id": "contrib-1792307281236-94769",
       "date": "2025-08-12 00:00:00",
       "amount": 400,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1807,7 +1835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94770",
+      "id": "contrib-1792307281236-94770",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1823,7 +1851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94771",
+      "id": "contrib-1792307281236-94771",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1839,7 +1867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94772",
+      "id": "contrib-1792307281236-94772",
       "date": "2025-11-25 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1855,7 +1883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94773",
+      "id": "contrib-1792307281236-94773",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1871,7 +1899,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94774",
+      "id": "contrib-1792307281236-94774",
       "date": "2025-08-12 00:00:00",
       "amount": 2000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1887,7 +1915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94775",
+      "id": "contrib-1792307281236-94775",
       "date": "2025-10-16 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1903,7 +1931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94776",
+      "id": "contrib-1792307281236-94776",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1919,7 +1947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94777",
+      "id": "contrib-1792307281236-94777",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1935,7 +1963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94778",
+      "id": "contrib-1792307281236-94778",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1951,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94779",
+      "id": "contrib-1792307281236-94779",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1967,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94780",
+      "id": "contrib-1792307281236-94780",
       "date": "2025-10-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1983,7 +2011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94781",
+      "id": "contrib-1792307281236-94781",
       "date": "2025-12-16 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -1999,7 +2027,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94782",
+      "id": "contrib-1792307281236-94782",
       "date": "2025-12-30 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2015,7 +2043,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94783",
+      "id": "contrib-1792307281236-94783",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2031,7 +2059,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94784",
+      "id": "contrib-1792307281236-94784",
       "date": "2025-11-25 00:00:00",
       "amount": 400,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2047,7 +2075,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94785",
+      "id": "contrib-1792307281236-94785",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2063,7 +2091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94786",
+      "id": "contrib-1792307281236-94786",
       "date": "2025-12-16 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2079,7 +2107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94787",
+      "id": "contrib-1792307281236-94787",
       "date": "2025-09-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2095,7 +2123,1767 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22729",
+      "id": "contrib-1792307281997-62584",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62585",
+      "date": "2026-10-01 00:00:00",
+      "amount": 450,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62586",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Dubois Optometric, PC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Warsaw",
+      "address_state": "IN",
+      "address_zip": "46580",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62587",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Nappanee Family Eyecare",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nappanee",
+      "address_state": "IN",
+      "address_zip": "46550",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62588",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Niemeyer Eyecare, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62589",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "P.E.W. Farms Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fairmount",
+      "address_state": "IN",
+      "address_zip": "46928",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62590",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Peerless Printing",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62591",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Pendleton Family Optometry PC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pendleton",
+      "address_state": "IN",
+      "address_zip": "46064",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62592",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Plainfield Care, PC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Plainfield",
+      "address_state": "IN",
+      "address_zip": "46168",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62593",
+      "date": "2026-10-02 00:00:00",
+      "amount": 600,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "South Gibson Eyecare",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62594",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Visionquest Eyecare PC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62595",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Abbey Hoffman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62596",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Abby Small",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portland",
+      "address_state": "IN",
+      "address_zip": "47371",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62597",
+      "date": "2026-10-01 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Adam Krupp",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62598",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Adrienne Rines Hammond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gas City",
+      "address_state": "IN",
+      "address_zip": "46933",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62599",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Ali Prible",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Poneto",
+      "address_state": "IN",
+      "address_zip": "46781",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62600",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Alice McCaslin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62601",
+      "date": "2026-09-06 00:00:00",
+      "amount": 14.97,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Amazon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62602",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Amy and Aaron Kent",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62603",
+      "date": "2026-10-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Andrew Burkhart",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62604",
+      "date": "2026-09-17 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Beau Baird Mr",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Greencastle",
+      "address_state": "IN",
+      "address_zip": "46135",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62605",
+      "date": "2026-05-28 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Beau Baird Mr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Greencastle",
+      "address_state": "IN",
+      "address_zip": "46135",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62606",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Cathy Moritz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marioin",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62607",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Charles Herriman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62608",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Chuck and Dianne Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62609",
+      "date": "2026-09-15 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Chuck and Tricia Goodrich",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62610",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Damon Dierker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62611",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Darren & Susan Reese",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62612",
+      "date": "2026-10-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "David Poehler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62613",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "David W Bettegnies Mr.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62614",
+      "date": "2026-09-15 00:00:00",
+      "amount": 78.08,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Dawn Brown",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gas City",
+      "address_state": "IN",
+      "address_zip": "46933",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62615",
+      "date": "2026-10-01 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Deborah Cain Mrs.",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62616",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Don Strange",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62617",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Donald Wright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jonesboro",
+      "address_state": "IN",
+      "address_zip": "46938",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62618",
+      "date": "2026-10-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Doug and Whitney Kingseed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62619",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Douglast Morrow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62620",
+      "date": "2026-09-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Dwight Ott",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62621",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Dwight Ott",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62622",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Eric Wright Mr.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fairmount",
+      "address_state": "IN",
+      "address_zip": "46928",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62623",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Garrett Zgunda",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pendleton",
+      "address_state": "IN",
+      "address_zip": "46064",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62624",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Greg Norman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Flora",
+      "address_state": "IN",
+      "address_zip": "46923",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62625",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "James H King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Swayzee",
+      "address_state": "IN",
+      "address_zip": "46986",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62626",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "James R. Sutter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62627",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jay Kay Mr.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62628",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jeff Yocum",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47901",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62629",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jennifer Kohn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60607",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62630",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jeremy Gard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mooreland",
+      "address_state": "IN",
+      "address_zip": "47360",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62631",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jerry and Cindy Pattengale",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62632",
+      "date": "2026-10-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jerry and Cindy Pattengale",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62633",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jim and Debra Luttrull",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62634",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jim and Sandi Duecker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62635",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "John Johnston",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62636",
+      "date": "2026-09-15 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "John Lake",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Converse",
+      "address_state": "IN",
+      "address_zip": "46919",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62637",
+      "date": "2026-10-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "John Offerle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62638",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Joshua Greenlee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62639",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Judith Carmichael",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62640",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Karen Nowakowski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62641",
+      "date": "2026-09-15 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Keith Murphy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62642",
+      "date": "2026-10-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Kellene and Scott Snyder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62643",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Kurt and Anne Kohlmorgen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62644",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Kyle and Pam Turner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62645",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "L�erin Garner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arcadia",
+      "address_state": "IN",
+      "address_zip": "46030",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62646",
+      "date": "2026-10-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Lori and Steve DeNeff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62647",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Madison Sprunger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62648",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Matt and Jennifer Spencer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Amboy",
+      "address_state": "IN",
+      "address_zip": "46911",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62649",
+      "date": "2026-09-10 00:00:00",
+      "amount": 78.08,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Matt Sneed",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62650",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Mike Ashman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47305",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62651",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Nathan Morrow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62652",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Nic and Stephanie McKinley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62653",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Nilah N. Bonham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brazil",
+      "address_state": "IN",
+      "address_zip": "47834",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62654",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Noah Warren",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62655",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Nolan T Holloway",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62656",
+      "date": "2026-09-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Paul and Marsha Usher",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Sweetser",
+      "address_state": "IN",
+      "address_zip": "46987",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62657",
+      "date": "2026-10-01 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Pete and Kelli Heuer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46011",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62658",
+      "date": "2026-10-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Ric and Angela Pennington",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46953",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62659",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Richard Evanseck DDS PC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62660",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Robert King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62661",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Ryan Ott",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62662",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Scott Murphy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62663",
+      "date": "2026-10-01 00:00:00",
+      "amount": 425,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62664",
+      "date": "2026-10-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Sharon and Ronald Campbell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62665",
+      "date": "2026-10-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Sia A. Mbayo",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62666",
+      "date": "2026-09-15 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Stan and Carol Burkart",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62667",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Stephanie Hilton-Siebert",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62668",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Steven Justus",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Berne",
+      "address_state": "IN",
+      "address_zip": "46711",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62669",
+      "date": "2026-10-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Terry and Teresa Shafer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62670",
+      "date": "2026-10-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Tim and Karen Helm",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62671",
+      "date": "2026-10-01 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Victoria Herring Mrs.",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952-8669",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62672",
+      "date": "2026-10-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Wayne and Majorie Ellis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62673",
+      "date": "2026-09-15 00:00:00",
+      "amount": 75,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "William Creech",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62674",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "William Gartland",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62675",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "AECC LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62676",
+      "date": "2026-07-18 00:00:00",
+      "amount": 24.33,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Amazon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62677",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Bose Public Affairs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62678",
+      "date": "2026-08-04 00:00:00",
+      "amount": 515.15,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Catalyst Public Affairs Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62679",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62680",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62681",
+      "date": "2026-10-01 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "COPE IBEW 873",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62682",
+      "date": "2026-09-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "E&J Investments LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62683",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55402",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62684",
+      "date": "2026-10-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Jones Heritage, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62685",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Krieg Devault LLP Attorney at Law",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62686",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Kroger, Gardis, and Regas, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204-5125",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62687",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "KWK Management Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62688",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Lowdens Jewelers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62689",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "McWilliams Vision Care LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Newburgh",
+      "address_state": "IN",
+      "address_zip": "47630",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62690",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Sand Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62691",
+      "date": "2026-10-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Todd Rokita Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62692",
+      "date": "2026-06-30 00:00:00",
+      "amount": 0.04,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "VIA Credit Union",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62693",
+      "date": "2026-09-30 00:00:00",
+      "amount": 0.04,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "VIA Credit Union",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62694",
       "date": "2026-03-31 00:00:00",
       "amount": 0.04,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2111,7 +3899,391 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22730",
+      "id": "contrib-1792307281997-62695",
+      "date": "2026-09-11 00:00:00",
+      "amount": 19.95,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Zazzle",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Redwood City",
+      "address_state": "CA",
+      "address_zip": "94061",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62696",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "American Electric Power - Indiana - Committee for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62697",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Eli Lilly and Company Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62698",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Builders Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62699",
+      "date": "2026-09-15 00:00:00",
+      "amount": 750,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Health Care Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62700",
+      "date": "2026-10-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "INDIANA MEDICAL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62701",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62702",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "American Property Casualty Insurance Association. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62703",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Duke Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62704",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Elevance Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62705",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Foot Support PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62706",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Friends of the In Council of Community Mental Health Centers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62707",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "General Motors Company GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62708",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "GSK PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62709",
+      "date": "2026-10-01 00:00:00",
+      "amount": 750,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Hygienists of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Osceola",
+      "address_state": "IN",
+      "address_zip": "46561",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62710",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62711",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "IHLA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62712",
+      "date": "2026-09-15 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "IN Dental PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62713",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "INAPTA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft. Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62714",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62715",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62716",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62717",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Realtors",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62718",
+      "date": "2026-10-07 00:00:00",
+      "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Indiana Society of Anesthesiolgists PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62719",
       "date": "2026-01-09 00:00:00",
       "amount": 300,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -2123,6 +4295,54 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62720",
+      "date": "2026-09-15 00:00:00",
+      "amount": 200,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62721",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Oorah PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62722",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Optometry�s PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
       "recipient_committee": "Friends of Lori Goss-Reaves",
       "source": "indiana"
     }

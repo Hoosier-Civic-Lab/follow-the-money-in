@@ -2,18 +2,18 @@
   "id": "general-motors-company-pac",
   "name": "General Motors Company PAC",
   "totals": {
-    "total_given": "20000.00",
-    "total_contributions": 6,
-    "candidates_supported": 4
+    "total_given": "21400.00",
+    "total_contributions": 8,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "9500.00"
+      "count": 5,
+      "total": "10500.00"
     },
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "900.00"
     },
     "mega": {
       "count": 1,
@@ -36,6 +36,14 @@
     "2025-05": {
       "count": 1,
       "total": "10000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "400.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -58,15 +66,27 @@
       "count": 2
     },
     {
+      "id": "tracey-bryan-powell",
+      "name": "Tracey Bryan Powell",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
       "id": "lindsay-margaret-patterson",
       "name": "Lindsay Margaret Patterson",
       "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "400.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769355-27685",
+      "id": "contrib-1792307281148-27685",
       "date": "2025-06-16 00:00:00",
       "amount": 1000,
       "candidate_name": "JAMES R BUCK",
@@ -82,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769355-27686",
+      "id": "contrib-1792307281148-27686",
       "date": "2025-10-25 00:00:00",
       "amount": 1000,
       "candidate_name": "JAMES R BUCK",
@@ -98,7 +118,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79139",
+      "id": "contrib-1792307281213-79139",
       "date": "2025-06-09 00:00:00",
       "amount": 2000,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -114,7 +134,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79140",
+      "id": "contrib-1792307281213-79140",
       "date": "2025-09-03 00:00:00",
       "amount": 5500,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -130,7 +150,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769439-92087",
+      "id": "contrib-1792307281233-92087",
       "date": "2025-06-12 00:00:00",
       "amount": 500,
       "candidate_name": "Lindsay Margaret Patterson",
@@ -146,7 +166,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94230",
+      "id": "contrib-1792307281235-94230",
       "date": "2025-05-27 00:00:00",
       "amount": 10000,
       "candidate_name": "MICHAEL K BRAUN",
@@ -159,6 +179,38 @@
       "address_state": "DC",
       "address_zip": "20001",
       "recipient_committee": "MIKE BRAUN FOR INDIANA, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59108",
+      "date": "2026-07-30 00:00:00",
+      "amount": 400,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "General Motors Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74173",
+      "date": "2026-09-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracey Bryan Powell",
+      "contributor_name": "General Motors Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Tracey Powell for Indiana",
       "source": "indiana"
     }
   ],

@@ -6,36 +6,52 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "828.00",
-    "total_contributions": 4,
-    "total_itemized": 4,
+    "total_raised": "1903.00",
+    "total_contributions": 13,
+    "total_itemized": 13,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 4,
-      "total": "828.00"
+      "count": 13,
+      "total": "1903.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1328.00"
+      "count": 9,
+      "total": "2228.00"
     },
     "small": {
-      "count": 1,
-      "total": "-500.00"
+      "count": 4,
+      "total": "-325.00"
     }
   },
   "by_month": {
     "2026-02": {
       "count": 4,
       "total": "828.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-10": {
+      "count": 6,
+      "total": "475.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769749-34433",
+      "id": "contrib-1792307282048-93686",
       "date": "2026-02-06 00:00:00",
       "amount": 414,
       "candidate_name": "Magdalaine Isabella Davis",
@@ -51,7 +67,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769749-34434",
+      "id": "contrib-1792307282048-93687",
       "date": "2026-02-07 00:00:00",
       "amount": -500,
       "candidate_name": "Magdalaine Isabella Davis",
@@ -67,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769749-34435",
+      "id": "contrib-1792307282048-93688",
       "date": "2026-02-07 00:00:00",
       "amount": 500,
       "candidate_name": "Magdalaine Isabella Davis",
@@ -83,7 +99,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769749-34436",
+      "id": "contrib-1792307282048-93689",
+      "date": "2026-05-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Blade Cintron",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93690",
+      "date": "2026-10-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Cindy Pratt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93691",
+      "date": "2026-10-05 00:00:00",
+      "amount": 75,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Frank Hannan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93692",
+      "date": "2026-10-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Julie Roush",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93693",
+      "date": "2026-06-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Kimberly Scott",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93694",
       "date": "2026-02-06 00:00:00",
       "amount": 414,
       "candidate_name": "Magdalaine Isabella Davis",
@@ -95,6 +191,70 @@
       "address_city": "West Lafayette",
       "address_state": "IN",
       "address_zip": "47906",
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93695",
+      "date": "2026-10-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Marcia Carlson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93696",
+      "date": "2026-10-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Nicole Duttlinger",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93697",
+      "date": "2026-07-08 00:00:00",
+      "amount": 400,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Ron Alting",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Maggie Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93698",
+      "date": "2026-10-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Magdalaine Isabella Davis",
+      "contributor_name": "Tracy Brown",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
       "recipient_committee": "Committee to Elect Maggie Davis",
       "source": "indiana"
     }

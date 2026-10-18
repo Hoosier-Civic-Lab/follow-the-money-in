@@ -3,57 +3,81 @@
   "office": "County Sheriff",
   "district": "Marion",
   "totals": {
-    "total_raised": "75314.64",
-    "total_contributions": 105
+    "total_raised": "374822.71",
+    "total_contributions": 260
   },
   "by_contributor_type": {
     "individual": {
-      "count": 100,
-      "total": "65869.00"
-    },
-    "corporate": {
-      "count": 2,
-      "total": "5250.00"
+      "count": 230,
+      "total": "144136.39"
     },
     "committee": {
-      "count": 3,
-      "total": "4195.64"
+      "count": 25,
+      "total": "223186.32"
+    },
+    "corporate": {
+      "count": 5,
+      "total": "7500.00"
     }
   },
   "by_contribution_size": {
-    "medium": {
-      "count": 76,
-      "total": "16304.64"
-    },
     "small": {
-      "count": 14,
-      "total": "669.00"
+      "count": 65,
+      "total": "2348.73"
+    },
+    "medium": {
+      "count": 143,
+      "total": "37087.30"
     },
     "large": {
-      "count": 14,
-      "total": "33341.00"
+      "count": 40,
+      "total": "84335.98"
     },
     "mega": {
-      "count": 1,
-      "total": "25000.00"
+      "count": 12,
+      "total": "251050.70"
     }
   },
   "by_month": {
+    "2026-07": {
+      "count": 14,
+      "total": "2354.43"
+    },
+    "2026-09": {
+      "count": 46,
+      "total": "98291.01"
+    },
     "2026-03": {
       "count": 41,
       "total": "12620.64"
     },
+    "2026-10": {
+      "count": 32,
+      "total": "114570.65"
+    },
     "2026-04": {
-      "count": 28,
-      "total": "24949.00"
+      "count": 53,
+      "total": "75009.00"
     },
     "2026-02": {
       "count": 34,
       "total": "12720.00"
     },
+    "2026-08": {
+      "count": 25,
+      "total": "20165.00"
+    },
+    "2026-05": {
+      "count": 12,
+      "total": "12322.00"
+    },
     "2026-01": {
       "count": 2,
       "total": "25025.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1744.98"
     }
   },
   "candidates": [
@@ -62,25 +86,49 @@
       "name": "Kerry Joseph Forestal",
       "party": "Democratic",
       "totals": {
-        "total_raised": "75314.64",
-        "total_contributions": 105
+        "total_raised": "374822.71",
+        "total_contributions": 260
       },
       "by_month": {
+        "2026-07": {
+          "count": 14,
+          "total": "2354.43"
+        },
+        "2026-09": {
+          "count": 46,
+          "total": "98291.01"
+        },
         "2026-03": {
           "count": 41,
           "total": "12620.64"
         },
+        "2026-10": {
+          "count": 32,
+          "total": "114570.65"
+        },
         "2026-04": {
-          "count": 28,
-          "total": "24949.00"
+          "count": 53,
+          "total": "75009.00"
         },
         "2026-02": {
           "count": 34,
           "total": "12720.00"
         },
+        "2026-08": {
+          "count": 25,
+          "total": "20165.00"
+        },
+        "2026-05": {
+          "count": 12,
+          "total": "12322.00"
+        },
         "2026-01": {
           "count": 2,
           "total": "25025.00"
+        },
+        "2026-06": {
+          "count": 1,
+          "total": "1744.98"
         }
       }
     }

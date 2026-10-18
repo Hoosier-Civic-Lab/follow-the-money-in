@@ -2,14 +2,18 @@
   "id": "ifca-pac",
   "name": "IFCA PAC",
   "totals": {
-    "total_given": "2300.00",
-    "total_contributions": 5,
+    "total_given": "3300.00",
+    "total_contributions": 6,
     "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
       "count": 5,
       "total": "2300.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_month": {
@@ -28,14 +32,18 @@
     "2026-01": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
     {
       "id": "stephen-russel-bartels",
       "name": "Stephen Russel Bartels",
-      "total": "1000.00",
-      "count": 2
+      "total": "2000.00",
+      "count": 3
     },
     {
       "id": "kyle-walker",
@@ -58,7 +66,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769425-83259",
+      "id": "contrib-1792307281217-83259",
       "date": "2025-07-24 00:00:00",
       "amount": 750,
       "candidate_name": "Stephen Russel Bartels",
@@ -74,7 +82,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769436-89786",
+      "id": "contrib-1792307281231-89786",
       "date": "2025-08-04 00:00:00",
       "amount": 500,
       "candidate_name": "KYLE WALKER",
@@ -90,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95071",
+      "id": "contrib-1792307281236-95071",
       "date": "2025-07-18 00:00:00",
       "amount": 300,
       "candidate_name": "James A Zimmerman",
@@ -106,7 +114,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8627",
+      "id": "contrib-1792307281938-24080",
       "date": "2026-03-06 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -122,13 +130,29 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17276",
+      "id": "contrib-1792307281973-49036",
       "date": "2026-01-12 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
       "contributor_name": "IFCA PAC",
       "contributor_type": "committee",
       "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49037",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IFCA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "Camby",

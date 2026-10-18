@@ -2,18 +2,22 @@
   "id": "indiana-electrical-contracting-pac",
   "name": "Indiana Electrical Contracting PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 1,
+    "total_given": "6000.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "3000.00"
+      "count": 2,
+      "total": "6000.00"
     }
   },
   "by_month": {
     "2025-12": {
+      "count": 1,
+      "total": "3000.00"
+    },
+    "2026-10": {
       "count": 1,
       "total": "3000.00"
     }
@@ -21,8 +25,23 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7240",
+      "id": "contrib-1792307281106-7240",
       "date": "2025-12-03 00:00:00",
+      "amount": 3000,
+      "contributor_name": "Indiana Electrical Contracting PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5683",
+      "date": "2026-10-07 00:00:00",
       "amount": 3000,
       "contributor_name": "Indiana Electrical Contracting PAC",
       "contributor_type": "committee",

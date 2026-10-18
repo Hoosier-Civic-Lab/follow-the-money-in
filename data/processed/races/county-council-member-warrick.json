@@ -3,33 +3,65 @@
   "office": "County Council Member",
   "district": "Warrick",
   "totals": {
-    "total_raised": "5000.03",
-    "total_contributions": 2
+    "total_raised": "97143.18",
+    "total_contributions": 77
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 27,
+      "total": "2117.15"
+    },
     "corporate": {
       "count": 1,
       "total": "0.03"
     },
     "individual": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 43,
+      "total": "73226.00"
+    },
+    "committee": {
+      "count": 6,
+      "total": "21800.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 1,
-      "total": "0.03"
+      "count": 37,
+      "total": "1114.18"
+    },
+    "medium": {
+      "count": 30,
+      "total": "6829.00"
+    },
+    "mega": {
+      "count": 2,
+      "total": "60000.00"
     },
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 8,
+      "total": "29200.00"
     }
   },
   "by_month": {
+    "2026-07": {
+      "count": 6,
+      "total": "10950.21"
+    },
+    "2026-08": {
+      "count": 35,
+      "total": "62529.74"
+    },
+    "2026-09": {
+      "count": 32,
+      "total": "12063.20"
+    },
     "2026-06": {
       "count": 2,
       "total": "5000.03"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "6600.00"
     }
   },
   "candidates": [
@@ -38,13 +70,29 @@
       "name": "Mason Barclay",
       "party": "Democratic",
       "totals": {
-        "total_raised": "5000.03",
-        "total_contributions": 2
+        "total_raised": "97143.18",
+        "total_contributions": 77
       },
       "by_month": {
+        "2026-07": {
+          "count": 6,
+          "total": "10950.21"
+        },
+        "2026-08": {
+          "count": 35,
+          "total": "62529.74"
+        },
+        "2026-09": {
+          "count": 32,
+          "total": "12063.20"
+        },
         "2026-06": {
           "count": 2,
           "total": "5000.03"
+        },
+        "2026-10": {
+          "count": 2,
+          "total": "6600.00"
         }
       }
     }

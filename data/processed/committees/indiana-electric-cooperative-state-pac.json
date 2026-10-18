@@ -2,24 +2,28 @@
   "id": "indiana-electric-cooperative-state-pac",
   "name": "Indiana Electric Cooperative State PAC",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 5,
-    "candidates_supported": 5
+    "total_given": "7500.00",
+    "total_contributions": 7,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "2000.00"
+      "count": 5,
+      "total": "2500.00"
     },
     "large": {
-      "count": 1,
-      "total": "1500.00"
+      "count": 2,
+      "total": "5000.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 2,
       "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     },
     "2026-03": {
       "count": 1,
@@ -32,9 +36,19 @@
     "2026-01": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "3500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "james-robert-pressel-jr",
+      "name": "James Robert Pressel Jr.",
+      "total": "3500.00",
+      "count": 1
+    },
     {
       "id": "robert-donald-morris",
       "name": "Robert Donald Morris",
@@ -42,14 +56,14 @@
       "count": 1
     },
     {
-      "id": "james-r-buck",
-      "name": "JAMES R BUCK",
-      "total": "500.00",
-      "count": 1
-    },
-    {
       "id": "edward-o-delaney",
       "name": "Edward O DeLaney",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "james-r-buck",
+      "name": "JAMES R BUCK",
       "total": "500.00",
       "count": 1
     },
@@ -68,7 +82,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769355-27694",
+      "id": "contrib-1792307281148-27694",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "JAMES R BUCK",
@@ -84,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769404-64834",
+      "id": "contrib-1792307281197-64834",
       "date": "2025-12-08 00:00:00",
       "amount": 500,
       "candidate_name": "Edward O DeLaney",
@@ -100,7 +114,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11662",
+      "id": "contrib-1792307281946-31817",
+      "date": "2026-09-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Edward O DeLaney",
+      "contributor_name": "Indiana Electric Cooperative State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Ed DeLaney For Our House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281953-32795",
       "date": "2026-03-01 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Donald Morris",
@@ -116,7 +146,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11902",
+      "id": "contrib-1792307281954-33850",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -132,7 +162,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-12181",
+      "id": "contrib-1792307281955-34427",
       "date": "2026-01-05 00:00:00",
       "amount": 500,
       "candidate_name": "Rick N Niemeyer",
@@ -145,6 +175,22 @@
       "address_state": "IN",
       "address_zip": "46032",
       "recipient_committee": "Committe to Elect Rick Niemeyer",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45393",
+      "date": "2026-05-06 00:00:00",
+      "amount": 3500,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "INDIANA ELECTRIC COOPERATIVE STATE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMLE",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends of Jim Pressel",
       "source": "indiana"
     }
   ],

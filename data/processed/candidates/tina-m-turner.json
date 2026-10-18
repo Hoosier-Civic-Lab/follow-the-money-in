@@ -6,9 +6,9 @@
   "district": "MADISON 02",
   "party": "Republican",
   "totals": {
-    "total_raised": "44551.74",
-    "total_contributions": 33,
-    "total_itemized": 30,
+    "total_raised": "47340.51",
+    "total_contributions": 49,
+    "total_itemized": 46,
     "total_unitemized": 3
   },
   "by_contributor_type": {
@@ -17,22 +17,34 @@
       "total": "280.00"
     },
     "individual": {
-      "count": 30,
-      "total": "44271.74"
+      "count": 44,
+      "total": "46030.29"
+    },
+    "corporate": {
+      "count": 1,
+      "total": "30.22"
+    },
+    "committee": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 19,
-      "total": "3989.95"
+      "count": 25,
+      "total": "5464.95"
     },
     "mega": {
       "count": 4,
       "total": "40000.00"
     },
     "small": {
-      "count": 10,
-      "total": "561.79"
+      "count": 18,
+      "total": "-124.44"
+    },
+    "large": {
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
@@ -53,12 +65,16 @@
       "total": "1000.00"
     },
     "2026-04": {
-      "count": 5,
-      "total": "830.43"
+      "count": 16,
+      "total": "2436.58"
     },
     "2026-02": {
       "count": 14,
       "total": "1631.31"
+    },
+    "2026-05": {
+      "count": 5,
+      "total": "1182.62"
     },
     "2026-03": {
       "count": 5,
@@ -71,7 +87,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769444-98482",
+      "id": "contrib-1792307281239-98482",
       "date": "2025-05-23 00:00:00",
       "amount": 100,
       "candidate_name": "Tina M Turner",
@@ -87,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98483",
+      "id": "contrib-1792307281239-98483",
       "date": "2025-04-01 00:00:00",
       "amount": 10000,
       "candidate_name": "Tina M Turner",
@@ -103,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98484",
+      "id": "contrib-1792307281239-98484",
       "date": "2025-08-12 00:00:00",
       "amount": 200,
       "candidate_name": "Tina M Turner",
@@ -119,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98485",
+      "id": "contrib-1792307281239-98485",
       "date": "2025-08-10 00:00:00",
       "amount": 25,
       "candidate_name": "Tina M Turner",
@@ -135,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98486",
+      "id": "contrib-1792307281239-98486",
       "date": "2025-08-11 00:00:00",
       "amount": 240,
       "candidate_name": "Tina M Turner",
@@ -151,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98487",
+      "id": "contrib-1792307281239-98487",
       "date": "2025-07-21 00:00:00",
       "amount": 500,
       "candidate_name": "Tina M Turner",
@@ -167,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98488",
+      "id": "contrib-1792307281239-98488",
       "date": "2025-04-01 00:00:00",
       "amount": 10000,
       "candidate_name": "Tina M Turner",
@@ -183,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98489",
+      "id": "contrib-1792307281239-98489",
       "date": "2025-07-21 00:00:00",
       "amount": 500,
       "candidate_name": "Tina M Turner",
@@ -199,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24656",
+      "id": "contrib-1792307282006-69396",
       "date": "2026-04-01 00:00:00",
       "amount": 100,
       "candidate_name": "Tina M Turner",
@@ -215,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24657",
+      "id": "contrib-1792307282006-69397",
       "date": "2026-02-17 00:00:00",
       "amount": 80,
       "candidate_name": "Tina M Turner",
@@ -231,7 +247,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24658",
+      "id": "contrib-1792307282006-69398",
+      "date": "2026-05-06 00:00:00",
+      "amount": 30.22,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Tractor Supply",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mooresville",
+      "address_state": "IN",
+      "address_zip": "46158",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69399",
       "date": "2026-02-16 00:00:00",
       "amount": 148.92,
       "candidate_name": "Tina M Turner",
@@ -247,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24659",
+      "id": "contrib-1792307282006-69400",
       "date": "2026-02-07 00:00:00",
       "amount": 186,
       "candidate_name": "Tina M Turner",
@@ -263,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24660",
+      "id": "contrib-1792307282006-69401",
       "date": "2026-03-16 00:00:00",
       "amount": 10000,
       "candidate_name": "Tina M Turner",
@@ -279,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24661",
+      "id": "contrib-1792307282006-69402",
       "date": "2026-02-07 00:00:00",
       "amount": 150,
       "candidate_name": "Tina M Turner",
@@ -295,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24662",
+      "id": "contrib-1792307282006-69403",
       "date": "2026-02-20 00:00:00",
       "amount": 200,
       "candidate_name": "Tina M Turner",
@@ -311,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24663",
+      "id": "contrib-1792307282006-69404",
       "date": "2026-02-17 00:00:00",
       "amount": 88.5,
       "candidate_name": "Tina M Turner",
@@ -327,7 +359,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24664",
+      "id": "contrib-1792307282006-69405",
+      "date": "2026-05-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Carolyn Friel",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69406",
+      "date": "2026-04-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Cathy Brogan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69407",
       "date": "2026-03-23 00:00:00",
       "amount": 25,
       "candidate_name": "Tina M Turner",
@@ -343,7 +407,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24665",
+      "id": "contrib-1792307282006-69408",
+      "date": "2026-04-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Donald March",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69409",
       "date": "2026-03-04 00:00:00",
       "amount": 200,
       "candidate_name": "Tina M Turner",
@@ -359,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24666",
+      "id": "contrib-1792307282006-69410",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Tina M Turner",
@@ -375,7 +455,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24667",
+      "id": "contrib-1792307282006-69411",
+      "date": "2026-04-23 00:00:00",
+      "amount": 52.4,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Jeremy Todzia",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Prince Frederick",
+      "address_state": "MD",
+      "address_zip": "20678",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69412",
+      "date": "2026-04-16 00:00:00",
+      "amount": 52.4,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Jodi Alvey",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69413",
       "date": "2026-01-09 00:00:00",
       "amount": 200,
       "candidate_name": "Tina M Turner",
@@ -391,7 +503,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24668",
+      "id": "contrib-1792307282006-69414",
+      "date": "2026-05-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Kaylee Katherine",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69415",
       "date": "2026-02-17 00:00:00",
       "amount": 50,
       "candidate_name": "Tina M Turner",
@@ -407,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24669",
+      "id": "contrib-1792307282006-69416",
       "date": "2026-02-17 00:00:00",
       "amount": 100,
       "candidate_name": "Tina M Turner",
@@ -423,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24670",
+      "id": "contrib-1792307282006-69417",
       "date": "2026-02-17 00:00:00",
       "amount": 88.49,
       "candidate_name": "Tina M Turner",
@@ -439,7 +567,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24671",
+      "id": "contrib-1792307282006-69418",
+      "date": "2026-04-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "MaryAnn McCarthy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Southport",
+      "address_state": "NC",
+      "address_zip": "28461",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69419",
+      "date": "2026-04-11 00:00:00",
+      "amount": -1000,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Micah Beckwith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69420",
+      "date": "2026-04-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Micah Beckwith",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69421",
       "date": "2026-04-09 00:00:00",
       "amount": 52.4,
       "candidate_name": "Tina M Turner",
@@ -455,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24672",
+      "id": "contrib-1792307282006-69422",
       "date": "2026-02-14 00:00:00",
       "amount": 104.48,
       "candidate_name": "Tina M Turner",
@@ -471,7 +647,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24673",
+      "id": "contrib-1792307282006-69423",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "S Brogan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69424",
+      "date": "2026-04-27 00:00:00",
+      "amount": 26.35,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Spencer Ross",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Simi Valley",
+      "address_state": "CA",
+      "address_zip": "93065",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69425",
       "date": "2026-04-10 00:00:00",
       "amount": 104.48,
       "candidate_name": "Tina M Turner",
@@ -487,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24674",
+      "id": "contrib-1792307282006-69426",
       "date": "2026-04-10 00:00:00",
       "amount": 521.15,
       "candidate_name": "Tina M Turner",
@@ -503,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24675",
+      "id": "contrib-1792307282006-69427",
       "date": "2026-04-01 00:00:00",
       "amount": 52.4,
       "candidate_name": "Tina M Turner",
@@ -519,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24676",
+      "id": "contrib-1792307282006-69428",
       "date": "2026-02-17 00:00:00",
       "amount": 50,
       "candidate_name": "Tina M Turner",
@@ -535,7 +743,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24677",
+      "id": "contrib-1792307282006-69429",
+      "date": "2026-04-18 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "THOMAS  J BALEK",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "UNION",
+      "address_state": "SC",
+      "address_zip": "29379",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69430",
       "date": "2026-03-16 00:00:00",
       "amount": 10000,
       "candidate_name": "Tina M Turner",
@@ -551,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24678",
+      "id": "contrib-1792307282006-69431",
       "date": "2026-02-07 00:00:00",
       "amount": 186,
       "candidate_name": "Tina M Turner",
@@ -567,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24679",
+      "id": "contrib-1792307282006-69432",
       "date": "2026-02-16 00:00:00",
       "amount": 148.92,
       "candidate_name": "Tina M Turner",
@@ -583,7 +807,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24680",
+      "id": "contrib-1792307282006-69433",
+      "date": "2026-05-01 00:00:00",
+      "amount": 52.4,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Vicky Soppeland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Glenwood",
+      "address_state": "MN",
+      "address_zip": "56334",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69434",
       "date": "2026-02-07 00:00:00",
       "amount": 50,
       "candidate_name": "Tina M Turner",
@@ -595,6 +835,38 @@
       "address_city": "Martinsville",
       "address_state": "IN",
       "address_zip": "46151",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69435",
+      "date": "2026-04-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Virginia Quaglia",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ocean Isle Beach",
+      "address_state": "NC",
+      "address_zip": "28469",
+      "recipient_committee": "The Right Turn",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282006-69436",
+      "date": "2026-05-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tina M Turner",
+      "contributor_name": "Todd Rokita Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
       "recipient_committee": "The Right Turn",
       "source": "indiana"
     }

@@ -2,9 +2,9 @@
   "id": "selective-insurance-company-of-america-pac",
   "name": "SELECTIVE INSURANCE COMPANY OF AMERICA PAC",
   "totals": {
-    "total_given": "4000.00",
-    "total_contributions": 4,
-    "candidates_supported": 4
+    "total_given": "7000.00",
+    "total_contributions": 5,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
@@ -12,17 +12,27 @@
       "total": "1000.00"
     },
     "large": {
-      "count": 2,
-      "total": "3000.00"
+      "count": 3,
+      "total": "6000.00"
     }
   },
   "by_month": {
     "2026-04": {
       "count": 4,
       "total": "4000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "3000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "matthew-scott-lehman",
+      "name": "Matthew Scott Lehman",
+      "total": "3000.00",
+      "count": 1
+    },
     {
       "id": "nicholas-james-mckinley",
       "name": "Nicholas James McKinley",
@@ -50,7 +60,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769687-9762",
+      "id": "contrib-1792307281940-26235",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Bruce Alan Borders",
@@ -66,7 +76,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11121",
+      "id": "contrib-1792307281946-31670",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -82,7 +92,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11910",
+      "id": "contrib-1792307281946-31898",
+      "date": "2026-05-08 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "Selective Insurance Company of America PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Branchville",
+      "address_state": "NJ",
+      "address_zip": "07890",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33866",
       "date": "2026-04-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -98,7 +124,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32761",
+      "id": "contrib-1792307282039-88951",
       "date": "2026-04-10 00:00:00",
       "amount": 2000,
       "candidate_name": "Nicholas James McKinley",

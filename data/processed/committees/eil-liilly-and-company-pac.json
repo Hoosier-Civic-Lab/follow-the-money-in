@@ -2,18 +2,22 @@
   "id": "eil-liilly-and-company-pac",
   "name": "Eil Liilly and Company PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "1000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-08": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-07": {
       "count": 1,
       "total": "500.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "cherrish-s-pryor",
       "name": "Cherrish S Pryor",
-      "total": "500.00",
-      "count": 1
+      "total": "1000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769405-65027",
+      "id": "contrib-1792307281198-65027",
       "date": "2025-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Cherrish S Pryor",
+      "contributor_name": "Eil Liilly and Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "Committee to Elect Cherrish Pryor",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31924",
+      "date": "2026-07-03 00:00:00",
       "amount": 500,
       "candidate_name": "Cherrish S Pryor",
       "contributor_name": "Eil Liilly and Company PAC",

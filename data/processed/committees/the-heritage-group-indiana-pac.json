@@ -2,14 +2,14 @@
   "id": "the-heritage-group-indiana-pac",
   "name": "The Heritage Group Indiana PAC",
   "totals": {
-    "total_given": "8750.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "16250.00",
+    "total_contributions": 6,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "8500.00"
+      "count": 5,
+      "total": "16000.00"
     },
     "medium": {
       "count": 1,
@@ -21,9 +21,21 @@
       "count": 1,
       "total": "7500.00"
     },
+    "2026-10": {
+      "count": 1,
+      "total": "2500.00"
+    },
     "2026-03": {
       "count": 2,
       "total": "1250.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "4000.00"
     }
   },
   "top_recipients": [
@@ -31,6 +43,18 @@
       "id": "rodric-d-bray",
       "name": "Rodric D Bray",
       "total": "7500.00",
+      "count": 1
+    },
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "total": "4000.00",
+      "count": 1
+    },
+    {
+      "id": "john-christian-ruckelshaus",
+      "name": "John Christian Ruckelshaus",
+      "total": "1000.00",
       "count": 1
     },
     {
@@ -48,7 +72,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769412-68022",
+      "id": "contrib-1792307281204-68022",
       "date": "2025-11-24 00:00:00",
       "amount": 7500,
       "candidate_name": "Rodric D Bray",
@@ -64,7 +88,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11081",
+      "id": "contrib-1792307281913-9672",
+      "date": "2026-10-01 00:00:00",
+      "amount": 2500,
+      "contributor_name": "The Heritage Group Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31563",
       "date": "2026-03-21 00:00:00",
       "amount": 250,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -80,7 +119,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22009",
+      "id": "contrib-1792307281970-45911",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "The Heritage Group Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59597",
       "date": "2026-03-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Spencer Robert Deery",
@@ -93,6 +148,22 @@
       "address_state": "IN",
       "address_zip": "46268",
       "recipient_committee": "Spencer Deery for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63495",
+      "date": "2026-07-03 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "The Heritage Group Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Lopez For Indiana",
       "source": "indiana"
     }
   ],

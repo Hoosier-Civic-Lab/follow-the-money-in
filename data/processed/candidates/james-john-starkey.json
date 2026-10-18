@@ -6,60 +6,88 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "41189.70",
-    "total_contributions": 35,
-    "total_itemized": 35,
+    "total_raised": "131536.91",
+    "total_contributions": 93,
+    "total_itemized": 93,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 7,
-      "total": "22200.00"
+      "count": 15,
+      "total": "34350.00"
     },
     "individual": {
-      "count": 23,
-      "total": "17289.70"
+      "count": 57,
+      "total": "70481.81"
     },
     "self": {
       "count": 5,
       "total": "1700.00"
+    },
+    "committee": {
+      "count": 16,
+      "total": "25005.10"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 16,
-      "total": "6063.70"
+      "count": 50,
+      "total": "18705.11"
     },
     "large": {
-      "count": 13,
-      "total": "34900.00"
+      "count": 30,
+      "total": "75080.10"
     },
     "small": {
-      "count": 6,
-      "total": "226.00"
+      "count": 11,
+      "total": "526.70"
+    },
+    "mega": {
+      "count": 2,
+      "total": "37225.00"
     }
   },
   "by_month": {
     "2026-04": {
-      "count": 14,
-      "total": "28074.00"
+      "count": 20,
+      "total": "33619.70"
     },
     "2026-03": {
       "count": 11,
       "total": "10984.70"
     },
+    "2026-07": {
+      "count": 18,
+      "total": "18975.00"
+    },
+    "2026-08": {
+      "count": 8,
+      "total": "3421.10"
+    },
     "2026-02": {
       "count": 9,
       "total": "1631.00"
     },
+    "2026-06": {
+      "count": 9,
+      "total": "30755.00"
+    },
     "2026-01": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 4,
+      "total": "8655.10"
+    },
+    "2026-09": {
+      "count": 13,
+      "total": "22995.31"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769747-33367",
+      "id": "contrib-1792307282042-90534",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "James John Starkey",
@@ -75,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33368",
+      "id": "contrib-1792307282042-90535",
       "date": "2026-03-14 00:00:00",
       "amount": 300,
       "candidate_name": "James John Starkey",
@@ -91,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33369",
+      "id": "contrib-1792307282042-90536",
       "date": "2026-03-28 00:00:00",
       "amount": 959.7,
       "candidate_name": "James John Starkey",
@@ -107,7 +135,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33370",
+      "id": "contrib-1792307282042-90537",
+      "date": "2026-07-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Andrew James",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90538",
       "date": "2026-04-09 00:00:00",
       "amount": 2500,
       "candidate_name": "James John Starkey",
@@ -123,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33371",
+      "id": "contrib-1792307282042-90539",
       "date": "2026-03-11 00:00:00",
       "amount": 100,
       "candidate_name": "James John Starkey",
@@ -139,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33372",
+      "id": "contrib-1792307282042-90540",
       "date": "2026-04-01 00:00:00",
       "amount": 150,
       "candidate_name": "James John Starkey",
@@ -155,7 +199,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33373",
+      "id": "contrib-1792307282042-90541",
+      "date": "2026-08-20 00:00:00",
+      "amount": 215,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Barbara Neihouser",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90542",
+      "date": "2026-08-24 00:00:00",
+      "amount": 206.1,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Barbara Neihouser",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90543",
+      "date": "2026-08-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Barbara Parker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90544",
       "date": "2026-02-22 00:00:00",
       "amount": 80,
       "candidate_name": "James John Starkey",
@@ -171,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33374",
+      "id": "contrib-1792307282042-90545",
       "date": "2026-02-13 00:00:00",
       "amount": 50,
       "candidate_name": "James John Starkey",
@@ -187,7 +279,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33375",
+      "id": "contrib-1792307282042-90546",
+      "date": "2026-07-23 00:00:00",
+      "amount": 125,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Charlene Foss",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90547",
       "date": "2026-03-27 00:00:00",
       "amount": 500,
       "candidate_name": "James John Starkey",
@@ -203,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33376",
+      "id": "contrib-1792307282042-90548",
       "date": "2026-03-02 00:00:00",
       "amount": 500,
       "candidate_name": "James John Starkey",
@@ -219,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33377",
+      "id": "contrib-1792307282042-90549",
       "date": "2026-04-10 00:00:00",
       "amount": 954,
       "candidate_name": "James John Starkey",
@@ -235,7 +343,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33378",
+      "id": "contrib-1792307282042-90550",
+      "date": "2026-04-22 00:00:00",
+      "amount": 50,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Greg  Girard",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90551",
+      "date": "2026-06-11 00:00:00",
+      "amount": 30,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Greg Edquist",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Flint",
+      "address_state": "Mi",
+      "address_zip": "48532",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90552",
       "date": "2026-03-10 00:00:00",
       "amount": 3000,
       "candidate_name": "James John Starkey",
@@ -251,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33379",
+      "id": "contrib-1792307282042-90553",
       "date": "2026-03-17 00:00:00",
       "amount": 1000,
       "candidate_name": "James John Starkey",
@@ -267,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33380",
+      "id": "contrib-1792307282042-90554",
       "date": "2026-03-20 00:00:00",
       "amount": 2500,
       "candidate_name": "James John Starkey",
@@ -283,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33381",
+      "id": "contrib-1792307282042-90555",
       "date": "2026-03-10 00:00:00",
       "amount": 2000,
       "candidate_name": "James John Starkey",
@@ -299,7 +439,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33382",
+      "id": "contrib-1792307282042-90556",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Wholesale Liquor Dealers Credit Systems, LLC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90557",
+      "date": "2026-07-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Jacqueline L. Sloan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90558",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "James A Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228-1414",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90559",
       "date": "2026-01-23 00:00:00",
       "amount": 500,
       "candidate_name": "James John Starkey",
@@ -315,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33383",
+      "id": "contrib-1792307282042-90560",
       "date": "2026-02-06 00:00:00",
       "amount": 200,
       "candidate_name": "James John Starkey",
@@ -331,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33384",
+      "id": "contrib-1792307282042-90561",
       "date": "2026-02-10 00:00:00",
       "amount": 200,
       "candidate_name": "James John Starkey",
@@ -347,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33385",
+      "id": "contrib-1792307282042-90562",
       "date": "2026-02-24 00:00:00",
       "amount": 700,
       "candidate_name": "James John Starkey",
@@ -363,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33386",
+      "id": "contrib-1792307282042-90563",
       "date": "2026-02-13 00:00:00",
       "amount": 100,
       "candidate_name": "James John Starkey",
@@ -379,7 +567,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33387",
+      "id": "contrib-1792307282042-90564",
+      "date": "2026-04-21 00:00:00",
+      "amount": 50,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Jan Lukowski",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Morocco",
+      "address_state": "IN",
+      "address_zip": "47963",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90565",
       "date": "2026-03-26 00:00:00",
       "amount": 25,
       "candidate_name": "James John Starkey",
@@ -395,7 +599,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33388",
+      "id": "contrib-1792307282042-90566",
+      "date": "2026-10-06 00:00:00",
+      "amount": 75,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "John  Nason",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90567",
+      "date": "2026-07-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "John  Van Proyen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Saint John",
+      "address_state": "IN",
+      "address_zip": "46173",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90568",
+      "date": "2026-04-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "John Van Proyen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "St. John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90569",
+      "date": "2026-07-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Joy Slegers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90570",
+      "date": "2026-09-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Kathryn  C  Kiernan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Hammond",
+      "address_state": "IN",
+      "address_zip": "46320",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90571",
       "date": "2026-02-19 00:00:00",
       "amount": 200,
       "candidate_name": "James John Starkey",
@@ -411,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33389",
+      "id": "contrib-1792307282042-90572",
       "date": "2026-02-13 00:00:00",
       "amount": 100,
       "candidate_name": "James John Starkey",
@@ -427,7 +711,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33390",
+      "id": "contrib-1792307282042-90573",
+      "date": "2026-07-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Marcia  Forcey",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90574",
+      "date": "2026-04-28 00:00:00",
+      "amount": 2000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Martin Obst",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90575",
       "date": "2026-04-05 00:00:00",
       "amount": 1000,
       "candidate_name": "James John Starkey",
@@ -443,7 +759,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33391",
+      "id": "contrib-1792307282042-90576",
+      "date": "2026-07-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Michael  J Aylesworth",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90577",
+      "date": "2026-07-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Michael D Simpson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385-9317",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90578",
+      "date": "2026-07-23 00:00:00",
+      "amount": 2000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Mike Braun",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90579",
       "date": "2026-02-25 00:00:00",
       "amount": 1,
       "candidate_name": "James John Starkey",
@@ -459,7 +823,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33392",
+      "id": "contrib-1792307282042-90580",
+      "date": "2026-07-22 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Randell Niemeyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Cedar Lake",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90581",
       "date": "2026-04-10 00:00:00",
       "amount": 20,
       "candidate_name": "James John Starkey",
@@ -475,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33393",
+      "id": "contrib-1792307282042-90582",
       "date": "2026-03-04 00:00:00",
       "amount": 100,
       "candidate_name": "James John Starkey",
@@ -491,7 +871,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33394",
+      "id": "contrib-1792307282042-90583",
+      "date": "2026-09-09 00:00:00",
+      "amount": 200,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Robert Swanson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "DeMotte",
+      "address_state": "IN",
+      "address_zip": "46310",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90584",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Ron Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90585",
+      "date": "2026-07-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Ryan E Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "DeMotte",
+      "address_state": "IN",
+      "address_zip": "46310",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90586",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "James John Starkey",
@@ -507,7 +935,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33395",
+      "id": "contrib-1792307282042-90587",
+      "date": "2026-04-15 00:00:00",
+      "amount": 95.7,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Travis  Conley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46431",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90588",
+      "date": "2026-07-23 00:00:00",
+      "amount": 1500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Zachary  Beaver",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Winfield",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90589",
       "date": "2026-04-09 00:00:00",
       "amount": 2200,
       "candidate_name": "James John Starkey",
@@ -523,7 +983,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33396",
+      "id": "contrib-1792307282042-90590",
+      "date": "2026-07-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90591",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90592",
       "date": "2026-04-09 00:00:00",
       "amount": 9200,
       "candidate_name": "James John Starkey",
@@ -539,7 +1031,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33397",
+      "id": "contrib-1792307282042-90593",
+      "date": "2026-09-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90594",
+      "date": "2026-04-15 00:00:00",
+      "amount": 3100,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "DOMA LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "DeMotte",
+      "address_state": "IN",
+      "address_zip": "46310",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90595",
+      "date": "2026-06-17 00:00:00",
+      "amount": 25000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Friends of Chris Garten",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Henryville",
+      "address_state": "IN",
+      "address_zip": "47126",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90596",
+      "date": "2026-09-28 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Hallowell Consulting, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236-4828",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90597",
       "date": "2026-04-09 00:00:00",
       "amount": 2200,
       "candidate_name": "James John Starkey",
@@ -555,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33398",
+      "id": "contrib-1792307282042-90598",
       "date": "2026-04-09 00:00:00",
       "amount": 2200,
       "candidate_name": "James John Starkey",
@@ -571,7 +1127,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33399",
+      "id": "contrib-1792307282042-90599",
+      "date": "2026-10-08 00:00:00",
+      "amount": 7080.1,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90600",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Wholesale Liquor Dealers Credit Systems, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90601",
+      "date": "2026-08-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Krieg DeVault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90602",
+      "date": "2026-07-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "LBL Development, LLC (Operating Account)",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Lake",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90603",
+      "date": "2026-09-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Micah for LT. Governor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90604",
+      "date": "2026-09-25 00:00:00",
+      "amount": 12225,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Mike Braun for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel ",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90605",
+      "date": "2026-09-25 00:00:00",
+      "amount": 4000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "NWI Development LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Saint John",
+      "address_state": "IN",
+      "address_zip": "46373",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90606",
       "date": "2026-04-09 00:00:00",
       "amount": 2200,
       "candidate_name": "James John Starkey",
@@ -587,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33400",
+      "id": "contrib-1792307282042-90607",
       "date": "2026-04-09 00:00:00",
       "amount": 1200,
       "candidate_name": "James John Starkey",
@@ -603,7 +1271,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33401",
+      "id": "contrib-1792307282042-90608",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Vote Dr Johnson Tyler G. Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Leo",
+      "address_state": "IN",
+      "address_zip": "46765-9785",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90609",
+      "date": "2026-07-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "VRQ LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Highland",
+      "address_state": "IN",
+      "address_zip": "46322-3742",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90610",
       "date": "2026-04-09 00:00:00",
       "amount": 3700,
       "candidate_name": "James John Starkey",
@@ -615,6 +1315,262 @@
       "address_city": "Fair Oaks",
       "address_state": "IN",
       "address_zip": "47943",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90611",
+      "date": "2026-09-28 00:00:00",
+      "amount": 420.31,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Wine and Spirits Distributors of Indiana-an unincorporated association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90612",
+      "date": "2026-07-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Beer Industry Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90613",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Build Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90614",
+      "date": "2026-09-29 00:00:00",
+      "amount": 750,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Community Health Network PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204-2820",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90615",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Hoosiers for Quality Education Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90616",
+      "date": "2026-09-28 00:00:00",
+      "amount": 2000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Hoosiers for Quality Education Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90617",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "IMHA/RVIC Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90618",
+      "date": "2026-08-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana American Water Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143-9761",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90619",
+      "date": "2026-08-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90620",
+      "date": "2026-09-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202-3404",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90621",
+      "date": "2026-06-01 00:00:00",
+      "amount": 2500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Multi-Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90622",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Indiana Multi-Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90623",
+      "date": "2026-07-23 00:00:00",
+      "amount": 5000,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Pipefitters' Assoc Local 597 UA Indiana PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90624",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Trucking Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90625",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Wine and Spirits Wholesalers of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect James (Jay) Starkey",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90626",
+      "date": "2026-07-17 00:00:00",
+      "amount": 2500,
+      "candidate_name": "James John Starkey",
+      "contributor_name": "Wine and Spirits Wholesalers of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Committee to Elect James (Jay) Starkey",
       "source": "indiana"
     }

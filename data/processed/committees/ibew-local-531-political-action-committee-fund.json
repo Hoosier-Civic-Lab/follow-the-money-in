@@ -2,14 +2,14 @@
   "id": "ibew-local-531-political-action-committee-fund",
   "name": "IBEW LOCAL 531 POLITICAL ACTION COMMITTEE FUND",
   "totals": {
-    "total_given": "1500.00",
-    "total_contributions": 2,
-    "candidates_supported": 0
+    "total_given": "3500.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "3000.00"
     },
     "medium": {
       "count": 1,
@@ -24,12 +24,23 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "2000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "james-robert-pressel-jr",
+      "name": "James Robert Pressel Jr.",
+      "total": "2000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6209",
+      "id": "contrib-1792307281105-6209",
       "date": "2025-08-26 00:00:00",
       "amount": 1000,
       "contributor_name": "IBEW LOCAL 531 POLITICAL ACTION COMMITTEE FUND",
@@ -44,7 +55,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31589",
+      "id": "contrib-1792307281151-31589",
       "date": "2025-11-12 00:00:00",
       "amount": 500,
       "contributor_name": "IBEW LOCAL 531 POLITICAL ACTION COMMITTEE FUND",
@@ -56,6 +67,22 @@
       "address_state": "IN",
       "address_zip": "46350",
       "recipient_committee": "Porter County Republican Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45358",
+      "date": "2026-05-05 00:00:00",
+      "amount": 2000,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "IBEW LOCAL 531 POLITICAL ACTION COMMITTEE FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Friends of Jim Pressel",
       "source": "indiana"
     }
   ],

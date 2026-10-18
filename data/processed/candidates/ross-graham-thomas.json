@@ -6,33 +6,37 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "10185.00",
-    "total_contributions": 8,
-    "total_itemized": 7,
-    "total_unitemized": 1
+    "total_raised": "22907.75",
+    "total_contributions": 35,
+    "total_itemized": 33,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "35.00"
+      "count": 2,
+      "total": "267.75"
     },
     "individual": {
-      "count": 7,
-      "total": "10150.00"
+      "count": 32,
+      "total": "22240.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "400.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 2,
-      "total": "85.00"
+      "count": 15,
+      "total": "775.00"
     },
     "medium": {
-      "count": 4,
-      "total": "1100.00"
+      "count": 16,
+      "total": "4132.75"
     },
     "large": {
-      "count": 2,
-      "total": "9000.00"
+      "count": 4,
+      "total": "18000.00"
     }
   },
   "by_month": {
@@ -40,18 +44,42 @@
       "count": 4,
       "total": "1035.00"
     },
+    "2026-10": {
+      "count": 7,
+      "total": "9372.75"
+    },
+    "2026-08": {
+      "count": 6,
+      "total": "2050.00"
+    },
+    "2026-05": {
+      "count": 4,
+      "total": "175.00"
+    },
     "2026-03": {
       "count": 2,
       "total": "2050.00"
     },
+    "2026-07": {
+      "count": 2,
+      "total": "125.00"
+    },
+    "2026-09": {
+      "count": 4,
+      "total": "250.00"
+    },
     "2026-02": {
       "count": 2,
       "total": "7100.00"
+    },
+    "2026-06": {
+      "count": 4,
+      "total": "750.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769715-22013",
+      "id": "contrib-1792307281988-59601",
       "date": "2026-04-10 00:00:00",
       "amount": 35,
       "candidate_name": "Ross Graham Thomas",
@@ -67,7 +95,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22014",
+      "id": "contrib-1792307281988-59602",
+      "date": "2026-10-09 00:00:00",
+      "amount": 232.75,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59603",
+      "date": "2026-08-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Bryan Rich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59604",
+      "date": "2026-08-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Christine Ahlbrand",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59605",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Dave Bozell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59606",
+      "date": "2026-05-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Davis Morenus",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Alexandria",
+      "address_state": "VA",
+      "address_zip": "22307",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59607",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Ross Graham Thomas",
@@ -83,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22015",
+      "id": "contrib-1792307281988-59608",
       "date": "2026-03-15 00:00:00",
       "amount": 2000,
       "candidate_name": "Ross Graham Thomas",
@@ -99,7 +207,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22016",
+      "id": "contrib-1792307281988-59609",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Gregg Summerville",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59610",
+      "date": "2026-08-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "James Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59611",
+      "date": "2026-07-12 00:00:00",
+      "amount": 75,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "John Keele",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59612",
+      "date": "2026-09-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "John Stoddard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59613",
+      "date": "2026-08-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Kevin Leonard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59614",
+      "date": "2026-09-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Marina Olikara",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59615",
+      "date": "2026-05-23 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Mark Kaley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59616",
+      "date": "2026-05-06 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Melinda  Lorance",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59617",
       "date": "2026-04-03 00:00:00",
       "amount": 250,
       "candidate_name": "Ross Graham Thomas",
@@ -115,7 +351,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22017",
+      "id": "contrib-1792307281988-59618",
+      "date": "2026-09-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Michael Mullett",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59619",
       "date": "2026-02-13 00:00:00",
       "amount": 100,
       "candidate_name": "Ross Graham Thomas",
@@ -131,7 +383,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22018",
+      "id": "contrib-1792307281988-59620",
+      "date": "2026-06-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Nancy Hoover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59621",
       "date": "2026-03-18 00:00:00",
       "amount": 50,
       "candidate_name": "Ross Graham Thomas",
@@ -147,7 +415,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22019",
+      "id": "contrib-1792307281988-59622",
+      "date": "2026-06-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Robert Schoumacher",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47203",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59623",
+      "date": "2026-06-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Ross Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59624",
+      "date": "2026-08-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Ross Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59625",
       "date": "2026-02-02 00:00:00",
       "amount": 7000,
       "candidate_name": "Ross Graham Thomas",
@@ -163,7 +479,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22020",
+      "id": "contrib-1792307281988-59626",
+      "date": "2026-10-08 00:00:00",
+      "amount": 8000,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Ross Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59627",
+      "date": "2026-05-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59628",
+      "date": "2026-06-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59629",
+      "date": "2026-07-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59630",
+      "date": "2026-08-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59631",
+      "date": "2026-09-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59632",
+      "date": "2026-10-09 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Steve Schoettmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elizabethtown",
+      "address_state": "IN",
+      "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59633",
       "date": "2026-04-09 00:00:00",
       "amount": 250,
       "candidate_name": "Ross Graham Thomas",
@@ -175,6 +603,38 @@
       "address_city": "Elizabethtown",
       "address_state": "IN",
       "address_zip": "47232",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59634",
+      "date": "2026-10-08 00:00:00",
+      "amount": 90,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Sue McDaniel",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Bargersville",
+      "address_state": "IN",
+      "address_zip": "46106",
+      "recipient_committee": "Friends of Ross Thomas",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59635",
+      "date": "2026-10-02 00:00:00",
+      "amount": 400,
+      "candidate_name": "Ross Graham Thomas",
+      "contributor_name": "Sixth District Democratic Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
       "recipient_committee": "Friends of Ross Thomas",
       "source": "indiana"
     }

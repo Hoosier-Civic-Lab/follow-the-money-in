@@ -6,49 +6,49 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "93593.55",
-    "total_contributions": 126,
-    "total_itemized": 125,
-    "total_unitemized": 1
+    "total_raised": "181626.05",
+    "total_contributions": 227,
+    "total_itemized": 225,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 10,
-      "total": "4250.00"
+      "count": 24,
+      "total": "11000.00"
     },
     "individual": {
-      "count": 78,
-      "total": "53630.55"
+      "count": 139,
+      "total": "103048.05"
     },
     "self": {
       "count": 1,
       "total": "2000.00"
     },
     "committee": {
-      "count": 36,
-      "total": "33250.00"
+      "count": 61,
+      "total": "61400.00"
     },
     "unitemized": {
-      "count": 1,
-      "total": "463.00"
+      "count": 2,
+      "total": "4178.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 71,
-      "total": "23170.84"
+      "count": 136,
+      "total": "41895.84"
     },
     "small": {
-      "count": 27,
-      "total": "922.71"
+      "count": 41,
+      "total": "1667.71"
     },
     "large": {
-      "count": 26,
-      "total": "39500.00"
+      "count": 47,
+      "total": "92062.50"
     },
     "mega": {
-      "count": 2,
-      "total": "30000.00"
+      "count": 3,
+      "total": "46000.00"
     }
   },
   "by_month": {
@@ -88,6 +88,14 @@
       "count": 18,
       "total": "1923.00"
     },
+    "2026-09": {
+      "count": 36,
+      "total": "33837.50"
+    },
+    "2026-10": {
+      "count": 34,
+      "total": "42270.00"
+    },
     "2026-03": {
       "count": 20,
       "total": "13285.00"
@@ -99,11 +107,19 @@
     "2026-02": {
       "count": 20,
       "total": "5895.00"
+    },
+    "2026-05": {
+      "count": 30,
+      "total": "11525.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769438-91269",
+      "id": "contrib-1792307281233-91269",
       "date": "2025-10-31 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -119,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91270",
+      "id": "contrib-1792307281233-91270",
       "date": "2025-06-06 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -135,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91271",
+      "id": "contrib-1792307281233-91271",
       "date": "2025-07-03 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -151,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91272",
+      "id": "contrib-1792307281233-91272",
       "date": "2025-10-15 00:00:00",
       "amount": 2000,
       "candidate_name": "Rodney Pol",
@@ -167,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91273",
+      "id": "contrib-1792307281233-91273",
       "date": "2025-06-06 00:00:00",
       "amount": 325,
       "candidate_name": "Rodney Pol",
@@ -183,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91274",
+      "id": "contrib-1792307281233-91274",
       "date": "2025-06-06 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -199,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91275",
+      "id": "contrib-1792307281233-91275",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -215,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91276",
+      "id": "contrib-1792307281233-91276",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -231,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91277",
+      "id": "contrib-1792307281233-91277",
       "date": "2025-12-17 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -247,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91278",
+      "id": "contrib-1792307281233-91278",
       "date": "2025-12-18 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -263,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91279",
+      "id": "contrib-1792307281233-91279",
       "date": "2025-07-03 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -279,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91280",
+      "id": "contrib-1792307281233-91280",
       "date": "2025-06-06 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -295,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91281",
+      "id": "contrib-1792307281233-91281",
       "date": "2025-12-17 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -311,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91282",
+      "id": "contrib-1792307281233-91282",
       "date": "2025-06-06 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -327,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91283",
+      "id": "contrib-1792307281233-91283",
       "date": "2025-12-17 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -343,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91284",
+      "id": "contrib-1792307281233-91284",
       "date": "2025-06-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -359,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91285",
+      "id": "contrib-1792307281233-91285",
       "date": "2025-12-05 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -375,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91286",
+      "id": "contrib-1792307281233-91286",
       "date": "2025-08-21 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -391,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91287",
+      "id": "contrib-1792307281233-91287",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -407,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91288",
+      "id": "contrib-1792307281233-91288",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -423,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91289",
+      "id": "contrib-1792307281233-91289",
       "date": "2025-12-17 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -439,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91290",
+      "id": "contrib-1792307281233-91290",
       "date": "2025-11-13 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -455,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91291",
+      "id": "contrib-1792307281233-91291",
       "date": "2025-06-06 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -471,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91292",
+      "id": "contrib-1792307281233-91292",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -487,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91293",
+      "id": "contrib-1792307281233-91293",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -503,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91294",
+      "id": "contrib-1792307281233-91294",
       "date": "2025-09-25 00:00:00",
       "amount": 10000,
       "candidate_name": "Rodney Pol",
@@ -519,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91295",
+      "id": "contrib-1792307281233-91295",
       "date": "2025-12-18 00:00:00",
       "amount": 750,
       "candidate_name": "Rodney Pol",
@@ -535,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91296",
+      "id": "contrib-1792307281233-91296",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -551,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91297",
+      "id": "contrib-1792307281233-91297",
       "date": "2025-06-06 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -567,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91298",
+      "id": "contrib-1792307281233-91298",
       "date": "2025-07-03 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -583,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91299",
+      "id": "contrib-1792307281233-91299",
       "date": "2025-08-21 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -599,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91300",
+      "id": "contrib-1792307281233-91300",
       "date": "2025-09-25 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -615,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91301",
+      "id": "contrib-1792307281233-91301",
       "date": "2025-10-31 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -631,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91302",
+      "id": "contrib-1792307281233-91302",
       "date": "2025-12-17 00:00:00",
       "amount": 33.61,
       "candidate_name": "Rodney Pol",
@@ -647,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91303",
+      "id": "contrib-1792307281233-91303",
       "date": "2025-12-17 00:00:00",
       "amount": 96.05,
       "candidate_name": "Rodney Pol",
@@ -663,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91304",
+      "id": "contrib-1792307281233-91304",
       "date": "2025-01-06 00:00:00",
       "amount": 288.15,
       "candidate_name": "Rodney Pol",
@@ -679,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91305",
+      "id": "contrib-1792307281233-91305",
       "date": "2025-09-25 00:00:00",
       "amount": 480.25,
       "candidate_name": "Rodney Pol",
@@ -695,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91306",
+      "id": "contrib-1792307281233-91306",
       "date": "2025-07-03 00:00:00",
       "amount": 864.44,
       "candidate_name": "Rodney Pol",
@@ -711,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91307",
+      "id": "contrib-1792307281233-91307",
       "date": "2025-10-31 00:00:00",
       "amount": 1500,
       "candidate_name": "Rodney Pol",
@@ -727,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91308",
+      "id": "contrib-1792307281233-91308",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -743,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91309",
+      "id": "contrib-1792307281233-91309",
       "date": "2025-09-25 00:00:00",
       "amount": 2000,
       "candidate_name": "Rodney Pol",
@@ -759,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91310",
+      "id": "contrib-1792307281233-91310",
       "date": "2025-07-03 00:00:00",
       "amount": 20000,
       "candidate_name": "Rodney Pol",
@@ -775,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91311",
+      "id": "contrib-1792307281233-91311",
       "date": "2025-10-31 00:00:00",
       "amount": 2000,
       "candidate_name": "Rodney Pol",
@@ -791,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91312",
+      "id": "contrib-1792307281233-91312",
       "date": "2025-06-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -807,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91313",
+      "id": "contrib-1792307281233-91313",
       "date": "2025-08-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -823,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91314",
+      "id": "contrib-1792307281233-91314",
       "date": "2025-07-03 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -839,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91315",
+      "id": "contrib-1792307281233-91315",
       "date": "2025-12-10 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -855,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91316",
+      "id": "contrib-1792307281233-91316",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -871,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91317",
+      "id": "contrib-1792307281233-91317",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -887,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91318",
+      "id": "contrib-1792307281233-91318",
       "date": "2025-06-06 00:00:00",
       "amount": 5000,
       "candidate_name": "Rodney Pol",
@@ -903,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91319",
+      "id": "contrib-1792307281233-91319",
       "date": "2025-07-03 00:00:00",
       "amount": 2000,
       "candidate_name": "Rodney Pol",
@@ -919,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91320",
+      "id": "contrib-1792307281233-91320",
       "date": "2025-12-17 00:00:00",
       "amount": 400,
       "candidate_name": "Rodney Pol",
@@ -935,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91321",
+      "id": "contrib-1792307281233-91321",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -951,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91322",
+      "id": "contrib-1792307281233-91322",
       "date": "2025-10-31 00:00:00",
       "amount": 2500,
       "candidate_name": "Rodney Pol",
@@ -967,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91323",
+      "id": "contrib-1792307281233-91323",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -983,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91324",
+      "id": "contrib-1792307281233-91324",
       "date": "2025-09-25 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -999,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91325",
+      "id": "contrib-1792307281233-91325",
       "date": "2025-07-03 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -1015,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91326",
+      "id": "contrib-1792307281233-91326",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1031,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91327",
+      "id": "contrib-1792307281233-91327",
       "date": "2025-12-17 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1047,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21700",
+      "id": "contrib-1792307281987-58966",
       "date": "2026-01-31 00:00:00",
       "amount": 463,
       "candidate_name": "Rodney Pol",
@@ -1063,7 +1079,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21701",
+      "id": "contrib-1792307281987-58967",
+      "date": "2026-09-17 00:00:00",
+      "amount": 3715,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58968",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Anheuser Busch Companies",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58969",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Diageo North America, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York",
+      "address_state": "NY",
+      "address_zip": "10007",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58970",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Dr. Georgetta Manning Cox DDS Private Practice in Geratrics",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Long Beach",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58971",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "KDR, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Porter",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58972",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1079,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21702",
+      "id": "contrib-1792307281987-58973",
       "date": "2026-04-10 00:00:00",
       "amount": 200,
       "candidate_name": "Rodney Pol",
@@ -1095,7 +1191,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21703",
+      "id": "contrib-1792307281987-58974",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Andrew S Kubik",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Long Beach",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58975",
       "date": "2026-01-31 00:00:00",
       "amount": 10,
       "candidate_name": "Rodney Pol",
@@ -1111,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21704",
+      "id": "contrib-1792307281987-58976",
       "date": "2026-02-11 00:00:00",
       "amount": 10,
       "candidate_name": "Rodney Pol",
@@ -1127,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21705",
+      "id": "contrib-1792307281987-58977",
       "date": "2026-03-11 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1143,7 +1255,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21706",
+      "id": "contrib-1792307281987-58978",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Armando salinas",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58979",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Audi A Ambrozatis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58980",
+      "date": "2026-10-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Barbara Domer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58981",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Barbara Domer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58982",
+      "date": "2026-09-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Bud and Donna Ogle",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58983",
       "date": "2026-01-31 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -1159,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21707",
+      "id": "contrib-1792307281987-58984",
       "date": "2026-02-17 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1175,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21708",
+      "id": "contrib-1792307281987-58985",
       "date": "2026-04-06 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1191,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21709",
+      "id": "contrib-1792307281987-58986",
       "date": "2026-01-30 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1207,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21710",
+      "id": "contrib-1792307281987-58987",
       "date": "2026-02-07 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1223,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21711",
+      "id": "contrib-1792307281987-58988",
       "date": "2026-04-07 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -1239,7 +1431,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21712",
+      "id": "contrib-1792307281987-58989",
+      "date": "2026-09-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Diane Grams",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58990",
+      "date": "2026-09-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Dorothy Kurtz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ogden Dunes",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58991",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Elsa and Jose Banda",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IL",
+      "address_zip": "60423",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58992",
+      "date": "2026-05-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Ferdinand Alvarez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58993",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Filippo Lita",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Porter",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58994",
+      "date": "2026-05-26 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Gary Germann",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58995",
       "date": "2026-02-04 00:00:00",
       "amount": 150,
       "candidate_name": "Rodney Pol",
@@ -1255,7 +1543,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21713",
+      "id": "contrib-1792307281987-58996",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Geof Benson and Mary Fulghum",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58997",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1271,7 +1575,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21714",
+      "id": "contrib-1792307281987-58998",
+      "date": "2026-09-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indre Biskis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Long Beach",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58999",
       "date": "2026-02-07 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1287,7 +1607,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21715",
+      "id": "contrib-1792307281987-59000",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Jane and Bill Poole",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59001",
+      "date": "2026-09-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Janice and Jeffrey Katz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46302",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59002",
+      "date": "2026-09-17 00:00:00",
+      "amount": 75,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Jean Rudd",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59003",
       "date": "2026-02-08 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1303,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21716",
+      "id": "contrib-1792307281987-59004",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1319,7 +1687,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21717",
+      "id": "contrib-1792307281987-59005",
+      "date": "2026-05-26 00:00:00",
+      "amount": 150,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "John and Susan Benjamin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59006",
       "date": "2026-02-01 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1335,7 +1719,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21718",
+      "id": "contrib-1792307281987-59007",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Judith Aguilera and Tamara Pol",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59008",
       "date": "2026-02-01 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1351,7 +1751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21719",
+      "id": "contrib-1792307281987-59009",
       "date": "2026-01-31 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1367,7 +1767,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21720",
+      "id": "contrib-1792307281987-59010",
+      "date": "2026-05-26 00:00:00",
+      "amount": 150,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Karen Tallian",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ogden Dunes",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59011",
       "date": "2026-01-30 00:00:00",
       "amount": 400,
       "candidate_name": "Rodney Pol",
@@ -1383,7 +1799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21721",
+      "id": "contrib-1792307281987-59012",
       "date": "2026-01-30 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -1399,7 +1815,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21722",
+      "id": "contrib-1792307281987-59013",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Keith and Cathie Houchins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59014",
       "date": "2026-01-31 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1415,7 +1847,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21723",
+      "id": "contrib-1792307281987-59015",
+      "date": "2026-09-17 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Kristi Petitpren",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46801",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59016",
       "date": "2026-01-31 00:00:00",
       "amount": 25,
       "candidate_name": "Rodney Pol",
@@ -1431,7 +1879,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21724",
+      "id": "contrib-1792307281987-59017",
+      "date": "2026-10-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Larry Brown",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59018",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Larry Brown",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59019",
       "date": "2026-02-01 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1447,7 +1927,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21725",
+      "id": "contrib-1792307281987-59020",
+      "date": "2026-09-17 00:00:00",
+      "amount": 400,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Laurence Stanton and Susan Loeb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59021",
       "date": "2026-02-28 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1463,7 +1959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21726",
+      "id": "contrib-1792307281987-59022",
       "date": "2026-03-30 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1479,7 +1975,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21727",
+      "id": "contrib-1792307281987-59023",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Lesli Nuss",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59024",
+      "date": "2026-09-17 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Leslie McLean",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60610",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59025",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1495,7 +2023,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21728",
+      "id": "contrib-1792307281987-59026",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Linda and Louie Aguilera",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59027",
       "date": "2026-01-30 00:00:00",
       "amount": 10,
       "candidate_name": "Rodney Pol",
@@ -1511,7 +2055,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21729",
+      "id": "contrib-1792307281987-59028",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Mary Cody",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Long Beach",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59029",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -1527,7 +2087,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21730",
+      "id": "contrib-1792307281987-59030",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Matthew and Linda Smith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59031",
       "date": "2026-04-06 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1543,7 +2119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21731",
+      "id": "contrib-1792307281987-59032",
       "date": "2026-01-07 00:00:00",
       "amount": 35,
       "candidate_name": "Rodney Pol",
@@ -1559,7 +2135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21732",
+      "id": "contrib-1792307281987-59033",
       "date": "2026-02-07 00:00:00",
       "amount": 35,
       "candidate_name": "Rodney Pol",
@@ -1575,7 +2151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21733",
+      "id": "contrib-1792307281987-59034",
       "date": "2026-03-07 00:00:00",
       "amount": 35,
       "candidate_name": "Rodney Pol",
@@ -1591,7 +2167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21734",
+      "id": "contrib-1792307281987-59035",
       "date": "2026-04-07 00:00:00",
       "amount": 35,
       "candidate_name": "Rodney Pol",
@@ -1607,7 +2183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21735",
+      "id": "contrib-1792307281987-59036",
       "date": "2026-01-31 00:00:00",
       "amount": 25,
       "candidate_name": "Rodney Pol",
@@ -1623,7 +2199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21736",
+      "id": "contrib-1792307281987-59037",
       "date": "2026-02-02 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1639,7 +2215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21737",
+      "id": "contrib-1792307281987-59038",
       "date": "2026-01-15 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1655,7 +2231,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21738",
+      "id": "contrib-1792307281987-59039",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Patricia Perry and Allan Halline",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ogden Dunes",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59040",
       "date": "2026-01-30 00:00:00",
       "amount": 10,
       "candidate_name": "Rodney Pol",
@@ -1671,7 +2263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21739",
+      "id": "contrib-1792307281987-59041",
       "date": "2026-02-02 00:00:00",
       "amount": 25,
       "candidate_name": "Rodney Pol",
@@ -1687,7 +2279,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21740",
+      "id": "contrib-1792307281987-59042",
+      "date": "2026-09-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Radmila Bogandich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59043",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Randall and Sharon Darnell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59044",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Reese and Tod Ryzewski",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59045",
       "date": "2026-01-30 00:00:00",
       "amount": 25,
       "candidate_name": "Rodney Pol",
@@ -1703,7 +2343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21741",
+      "id": "contrib-1792307281987-59046",
       "date": "2026-02-11 00:00:00",
       "amount": 25,
       "candidate_name": "Rodney Pol",
@@ -1719,7 +2359,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21742",
+      "id": "contrib-1792307281987-59047",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Robert and Becky DeRuntz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59048",
       "date": "2026-02-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -1735,7 +2391,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21743",
+      "id": "contrib-1792307281987-59049",
+      "date": "2026-10-08 00:00:00",
+      "amount": 150,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Sandra Biggs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Naples",
+      "address_state": "FL",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59050",
+      "date": "2026-05-14 00:00:00",
+      "amount": 325,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59051",
       "date": "2026-01-30 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1751,7 +2439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21744",
+      "id": "contrib-1792307281987-59052",
       "date": "2026-02-28 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1767,7 +2455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21745",
+      "id": "contrib-1792307281987-59053",
       "date": "2026-03-30 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -1783,7 +2471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21746",
+      "id": "contrib-1792307281987-59054",
       "date": "2026-01-31 00:00:00",
       "amount": 20,
       "candidate_name": "Rodney Pol",
@@ -1799,7 +2487,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21747",
+      "id": "contrib-1792307281987-59055",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Walter Breitinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59056",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Wilma Vasquez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59057",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Wilma Vasquez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59058",
+      "date": "2026-05-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "IBEW Local 292",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brooklyn Park",
+      "address_state": "MN",
+      "address_zip": "55428",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59059",
       "date": "2026-03-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -1815,7 +2567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21748",
+      "id": "contrib-1792307281987-59060",
       "date": "2026-03-09 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1831,7 +2583,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21749",
+      "id": "contrib-1792307281987-59061",
+      "date": "2026-05-26 00:00:00",
+      "amount": 150,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "At Peace LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59062",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59063",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Catalyst Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59064",
+      "date": "2026-05-26 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Citizens for Chuck Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59065",
+      "date": "2026-10-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Citizens for Chuck Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59066",
+      "date": "2026-10-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Citizens to Elect Meer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59067",
+      "date": "2026-05-26 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Clancy for Portage",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59068",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee for Gina Giest Hurst for Councilman Dist 1",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59069",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee for Gina Giest Hurst for Councilman Dist 1",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59070",
+      "date": "2026-10-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee to Elect Elizabeth Turzai Modesto",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59071",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee to Elect Jesse Harper",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46384",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59072",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1847,7 +2775,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21750",
+      "id": "contrib-1792307281987-59073",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59074",
+      "date": "2026-05-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Fady 4 Hoosier Families",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46290",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59075",
       "date": "2026-02-17 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1863,7 +2823,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21751",
+      "id": "contrib-1792307281987-59076",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Friedman & Associates P.C.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59077",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Friends of Shelli Yoder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59078",
       "date": "2026-03-09 00:00:00",
       "amount": 50,
       "candidate_name": "Rodney Pol",
@@ -1879,7 +2871,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21752",
+      "id": "contrib-1792307281987-59079",
+      "date": "2026-05-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Jack Tipold for Valpo",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59080",
+      "date": "2026-09-25 00:00:00",
+      "amount": 2097.5,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Jack Tipold for Valpo",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59081",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59082",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Law Office of Heather A. McCarthy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Miller Beach",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59083",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Law Office Weiss, Schmidgall & Hires",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59084",
+      "date": "2026-10-08 00:00:00",
+      "amount": 95,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Law Offices of Monica",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59085",
+      "date": "2026-05-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Market & Capitol Advocacy, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59086",
+      "date": "2026-05-14 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Niezgodski for State Senator",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46619",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59087",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1895,7 +3015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21753",
+      "id": "contrib-1792307281987-59088",
       "date": "2026-01-07 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -1911,7 +3031,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21754",
+      "id": "contrib-1792307281987-59089",
+      "date": "2026-09-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "The Law Office of Davis S Gladish, P.C.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Highland",
+      "address_state": "IN",
+      "address_zip": "46322",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59090",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Tolbert & Tolbert LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46402",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59091",
+      "date": "2026-09-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Water Pulp and Paper LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Beverly Shores",
+      "address_state": "IN",
+      "address_zip": "46301",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59092",
       "date": "2026-03-06 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1927,7 +3095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21755",
+      "id": "contrib-1792307281987-59093",
       "date": "2026-02-23 00:00:00",
       "amount": 2500,
       "candidate_name": "Rodney Pol",
@@ -1943,7 +3111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21756",
+      "id": "contrib-1792307281987-59094",
       "date": "2026-02-24 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1959,7 +3127,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21757",
+      "id": "contrib-1792307281987-59095",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Cummins Inc. Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59096",
+      "date": "2026-09-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59097",
+      "date": "2026-09-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59098",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -1975,7 +3191,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21758",
+      "id": "contrib-1792307281987-59099",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59100",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Medical Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59101",
+      "date": "2026-10-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59102",
       "date": "2026-04-07 00:00:00",
       "amount": 250,
       "candidate_name": "Rodney Pol",
@@ -1991,7 +3255,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21759",
+      "id": "contrib-1792307281987-59103",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "NORFOLK SOUTHERN CORP. GOOD GOVERNMENT FUND",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20002",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59104",
       "date": "2026-03-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -2007,7 +3287,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21760",
+      "id": "contrib-1792307281987-59105",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "State Farm Mutual Automobile Insurance  Company Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BLOOMINGTON",
+      "address_state": "IL",
+      "address_zip": "61710",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59106",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59107",
+      "date": "2026-09-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Construction Advancement Foundation of Northwest Indiana, INC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59108",
+      "date": "2026-07-30 00:00:00",
+      "amount": 400,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "General Motors Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59109",
+      "date": "2026-10-08 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59110",
+      "date": "2026-09-17 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59111",
+      "date": "2026-10-06 00:00:00",
+      "amount": 16000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59112",
+      "date": "2026-09-25 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "IBEW PAC Voluntary Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "D.",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59113",
       "date": "2026-03-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -2023,7 +3431,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21761",
+      "id": "contrib-1792307281987-59114",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Bank PAC State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59115",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Fraternal Order of Police Political Action Plan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59116",
+      "date": "2026-05-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Indiana Healthcare Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59117",
       "date": "2026-03-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -2039,7 +3495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21762",
+      "id": "contrib-1792307281987-59118",
       "date": "2026-03-12 00:00:00",
       "amount": 1500,
       "candidate_name": "Rodney Pol",
@@ -2055,7 +3511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21763",
+      "id": "contrib-1792307281987-59119",
       "date": "2026-03-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Rodney Pol",
@@ -2071,7 +3527,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21764",
+      "id": "contrib-1792307281987-59120",
+      "date": "2026-10-08 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Iron Workers Local 395",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59121",
+      "date": "2026-05-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Laborers Local 81 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59122",
+      "date": "2026-09-17 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Laborers Local 81 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59123",
+      "date": "2026-10-02 00:00:00",
+      "amount": 900,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Laborers' Local 41 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59124",
       "date": "2026-03-26 00:00:00",
       "amount": 2500,
       "candidate_name": "Rodney Pol",
@@ -2087,7 +3607,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21765",
+      "id": "contrib-1792307281987-59125",
+      "date": "2026-10-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Lawyers Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59126",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "LIUNA State IN District Council State Political Contribution Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59127",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Northern Indiana Area Labor Federation C.O.P.E.",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59128",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46306",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59129",
+      "date": "2026-05-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "SEIU IL Council PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60608",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59130",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Sheet Metal Workers Local 20 Political Expenditure Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59131",
       "date": "2026-04-08 00:00:00",
       "amount": 300,
       "candidate_name": "Rodney Pol",
@@ -2103,7 +3719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21766",
+      "id": "contrib-1792307281987-59132",
       "date": "2026-03-09 00:00:00",
       "amount": 750,
       "candidate_name": "Rodney Pol",
@@ -2115,6 +3731,22 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59133",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "USW Local Union #12775",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46304",
       "recipient_committee": "Committee to Elect Rodney Pol Jr.",
       "source": "indiana"
     }

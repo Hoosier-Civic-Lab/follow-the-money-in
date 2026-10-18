@@ -6,33 +6,33 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "2125.00",
-    "total_contributions": 8,
-    "total_itemized": 8,
+    "total_raised": "5282.11",
+    "total_contributions": 21,
+    "total_itemized": 21,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 1,
-      "total": "100.00"
+      "count": 5,
+      "total": "1507.11"
     },
     "individual": {
-      "count": 7,
-      "total": "2025.00"
+      "count": 16,
+      "total": "3775.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 5,
-      "total": "1050.00"
+      "count": 17,
+      "total": "4135.08"
     },
     "large": {
       "count": 1,
       "total": "1000.00"
     },
     "small": {
-      "count": 2,
-      "total": "75.00"
+      "count": 3,
+      "total": "147.03"
     }
   },
   "by_month": {
@@ -48,14 +48,34 @@
       "count": 1,
       "total": "100.00"
     },
+    "2026-08": {
+      "count": 6,
+      "total": "1426.86"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "1130.25"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "300.00"
+    },
     "2026-01": {
       "count": 1,
       "total": "250.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769445-98848",
+      "id": "contrib-1792307281239-98848",
       "date": "2025-07-21 00:00:00",
       "amount": 100,
       "candidate_name": "Byron Edward Holland",
@@ -71,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98849",
+      "id": "contrib-1792307281239-98849",
       "date": "2025-07-21 00:00:00",
       "amount": 100,
       "candidate_name": "Byron Edward Holland",
@@ -87,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98850",
+      "id": "contrib-1792307281239-98850",
       "date": "2025-07-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Byron Edward Holland",
@@ -103,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98851",
+      "id": "contrib-1792307281239-98851",
       "date": "2025-06-15 00:00:00",
       "amount": 500,
       "candidate_name": "Byron Edward Holland",
@@ -119,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98852",
+      "id": "contrib-1792307281239-98852",
       "date": "2025-07-21 00:00:00",
       "amount": 50,
       "candidate_name": "Byron Edward Holland",
@@ -135,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98853",
+      "id": "contrib-1792307281239-98853",
       "date": "2025-08-18 00:00:00",
       "amount": 100,
       "candidate_name": "Byron Edward Holland",
@@ -151,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98854",
+      "id": "contrib-1792307281239-98854",
       "date": "2025-07-21 00:00:00",
       "amount": 25,
       "candidate_name": "Byron Edward Holland",
@@ -167,11 +187,219 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769725-25520",
+      "id": "contrib-1792307282008-70805",
+      "date": "2026-08-02 00:00:00",
+      "amount": 72.03,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "ActBlue Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02196",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70806",
+      "date": "2026-08-23 00:00:00",
+      "amount": 240.12,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "ActBlue Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02196",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70807",
+      "date": "2026-09-20 00:00:00",
+      "amount": 480.25,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "ActBlue Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02196",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70808",
+      "date": "2026-08-09 00:00:00",
+      "amount": 614.71,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "ActBlue Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02196",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70809",
+      "date": "2026-06-22 00:00:00",
+      "amount": 200,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "David A. Stargardt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70810",
+      "date": "2026-07-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Erin Lane",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70811",
+      "date": "2026-08-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Evelyn  White",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Madison",
+      "address_state": "IN",
+      "address_zip": "47250",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70812",
+      "date": "2026-09-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "James H. Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70813",
+      "date": "2026-08-13 00:00:00",
+      "amount": 150,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Janetta C. Hardy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Scottsburg",
+      "address_state": "IN",
+      "address_zip": "47170",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70814",
       "date": "2026-01-08 00:00:00",
       "amount": 250,
       "candidate_name": "Byron Edward Holland",
       "contributor_name": "Jeffrey Phillips",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Madison",
+      "address_state": "IN",
+      "address_zip": "47250",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70815",
+      "date": "2026-09-10 00:00:00",
+      "amount": 400,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Jerry  Goodin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Austin",
+      "address_state": "IN",
+      "address_zip": "47102",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70816",
+      "date": "2026-04-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Jerry L. Bovard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Rising Sun",
+      "address_state": "IN",
+      "address_zip": "47040",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70817",
+      "date": "2026-08-22 00:00:00",
+      "amount": 250,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Kent Yeager",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Mauckport",
+      "address_state": "IN",
+      "address_zip": "47142",
+      "recipient_committee": "Holland for Hoosiers",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70818",
+      "date": "2026-07-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Byron Edward Holland",
+      "contributor_name": "Susan Patterson",
       "contributor_type": "individual",
       "contribution_size": "medium",
       "occupation": "Retired",

@@ -6,37 +6,41 @@
   "district": "07",
   "party": "Republican",
   "totals": {
-    "total_raised": "144086.40",
-    "total_contributions": 128,
-    "total_itemized": 128,
+    "total_raised": "290433.52",
+    "total_contributions": 253,
+    "total_itemized": 253,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 33,
-      "total": "36287.40"
+      "count": 66,
+      "total": "65647.40"
     },
     "individual": {
-      "count": 60,
-      "total": "58699.00"
+      "count": 111,
+      "total": "111789.00"
     },
     "committee": {
-      "count": 35,
-      "total": "49100.00"
+      "count": 76,
+      "total": "112997.12"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 64,
-      "total": "121450.00"
+      "count": 122,
+      "total": "227647.12"
     },
     "medium": {
-      "count": 61,
-      "total": "22450.00"
+      "count": 116,
+      "total": "44650.00"
     },
     "small": {
-      "count": 3,
-      "total": "186.40"
+      "count": 14,
+      "total": "636.40"
+    },
+    "mega": {
+      "count": 1,
+      "total": "17500.00"
     }
   },
   "by_month": {
@@ -72,9 +76,33 @@
       "count": 3,
       "total": "2000.00"
     },
+    "2026-10": {
+      "count": 18,
+      "total": "12350.00"
+    },
+    "2026-09": {
+      "count": 21,
+      "total": "23922.12"
+    },
+    "2026-07": {
+      "count": 15,
+      "total": "21100.00"
+    },
+    "2026-06": {
+      "count": 36,
+      "total": "48700.00"
+    },
+    "2026-04": {
+      "count": 6,
+      "total": "6849.00"
+    },
     "2026-01": {
       "count": 6,
       "total": "1337.40"
+    },
+    "2026-08": {
+      "count": 26,
+      "total": "31525.00"
     },
     "2026-02": {
       "count": 2,
@@ -84,14 +112,14 @@
       "count": 7,
       "total": "4600.00"
     },
-    "2026-04": {
-      "count": 1,
-      "total": "99.00"
+    "2026-05": {
+      "count": 4,
+      "total": "2000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769426-84330",
+      "id": "contrib-1792307281218-84330",
       "date": "2025-09-02 00:00:00",
       "amount": 2000,
       "candidate_name": "Jacob Louis Teshka",
@@ -107,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84331",
+      "id": "contrib-1792307281218-84331",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84332",
+      "id": "contrib-1792307281218-84332",
       "date": "2025-08-22 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84333",
+      "id": "contrib-1792307281218-84333",
       "date": "2025-08-28 00:00:00",
       "amount": 1500,
       "candidate_name": "Jacob Louis Teshka",
@@ -155,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84334",
+      "id": "contrib-1792307281218-84334",
       "date": "2025-08-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -171,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84335",
+      "id": "contrib-1792307281218-84335",
       "date": "2025-06-11 00:00:00",
       "amount": 400,
       "candidate_name": "Jacob Louis Teshka",
@@ -187,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84336",
+      "id": "contrib-1792307281218-84336",
       "date": "2025-10-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -203,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84337",
+      "id": "contrib-1792307281218-84337",
       "date": "2025-07-23 00:00:00",
       "amount": 1500,
       "candidate_name": "Jacob Louis Teshka",
@@ -219,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84338",
+      "id": "contrib-1792307281218-84338",
       "date": "2025-06-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -235,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84339",
+      "id": "contrib-1792307281218-84339",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -251,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84340",
+      "id": "contrib-1792307281218-84340",
       "date": "2025-08-05 00:00:00",
       "amount": 1800,
       "candidate_name": "Jacob Louis Teshka",
@@ -267,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84341",
+      "id": "contrib-1792307281218-84341",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -283,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84342",
+      "id": "contrib-1792307281218-84342",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -299,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84343",
+      "id": "contrib-1792307281218-84343",
       "date": "2025-07-18 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -315,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84344",
+      "id": "contrib-1792307281218-84344",
       "date": "2025-09-15 00:00:00",
       "amount": 150,
       "candidate_name": "Jacob Louis Teshka",
@@ -331,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84345",
+      "id": "contrib-1792307281218-84345",
       "date": "2025-08-20 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -347,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84346",
+      "id": "contrib-1792307281218-84346",
       "date": "2025-07-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -363,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84347",
+      "id": "contrib-1792307281218-84347",
       "date": "2025-07-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -379,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84348",
+      "id": "contrib-1792307281218-84348",
       "date": "2025-09-29 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -395,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84349",
+      "id": "contrib-1792307281218-84349",
       "date": "2025-05-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -411,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84350",
+      "id": "contrib-1792307281218-84350",
       "date": "2025-07-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Jacob Louis Teshka",
@@ -427,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84351",
+      "id": "contrib-1792307281218-84351",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -443,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84352",
+      "id": "contrib-1792307281218-84352",
       "date": "2025-06-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -459,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84353",
+      "id": "contrib-1792307281218-84353",
       "date": "2025-08-22 00:00:00",
       "amount": 5000,
       "candidate_name": "Jacob Louis Teshka",
@@ -475,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84354",
+      "id": "contrib-1792307281218-84354",
       "date": "2025-08-22 00:00:00",
       "amount": 5000,
       "candidate_name": "Jacob Louis Teshka",
@@ -491,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84355",
+      "id": "contrib-1792307281218-84355",
       "date": "2025-06-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -507,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84356",
+      "id": "contrib-1792307281218-84356",
       "date": "2025-07-10 00:00:00",
       "amount": 50,
       "candidate_name": "Jacob Louis Teshka",
@@ -523,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84357",
+      "id": "contrib-1792307281218-84357",
       "date": "2025-06-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -539,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84358",
+      "id": "contrib-1792307281218-84358",
       "date": "2025-08-19 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -555,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84359",
+      "id": "contrib-1792307281218-84359",
       "date": "2025-09-02 00:00:00",
       "amount": 2000,
       "candidate_name": "Jacob Louis Teshka",
@@ -571,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84360",
+      "id": "contrib-1792307281218-84360",
       "date": "2025-07-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Jacob Louis Teshka",
@@ -587,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84361",
+      "id": "contrib-1792307281218-84361",
       "date": "2025-08-22 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -603,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84362",
+      "id": "contrib-1792307281218-84362",
       "date": "2025-07-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -619,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84363",
+      "id": "contrib-1792307281218-84363",
       "date": "2025-07-23 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -635,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84364",
+      "id": "contrib-1792307281218-84364",
       "date": "2025-08-08 00:00:00",
       "amount": 1800,
       "candidate_name": "Jacob Louis Teshka",
@@ -651,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84365",
+      "id": "contrib-1792307281218-84365",
       "date": "2025-07-30 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -667,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84366",
+      "id": "contrib-1792307281218-84366",
       "date": "2025-10-01 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -683,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84367",
+      "id": "contrib-1792307281218-84367",
       "date": "2025-12-11 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -699,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84368",
+      "id": "contrib-1792307281218-84368",
       "date": "2025-08-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -715,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84369",
+      "id": "contrib-1792307281218-84369",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -731,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84370",
+      "id": "contrib-1792307281218-84370",
       "date": "2025-08-22 00:00:00",
       "amount": 1800,
       "candidate_name": "Jacob Louis Teshka",
@@ -747,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84371",
+      "id": "contrib-1792307281218-84371",
       "date": "2025-08-28 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -763,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84372",
+      "id": "contrib-1792307281218-84372",
       "date": "2025-12-29 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -779,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84373",
+      "id": "contrib-1792307281218-84373",
       "date": "2025-09-15 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -795,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84374",
+      "id": "contrib-1792307281218-84374",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -811,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84375",
+      "id": "contrib-1792307281218-84375",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -827,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84376",
+      "id": "contrib-1792307281218-84376",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -843,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84377",
+      "id": "contrib-1792307281218-84377",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -859,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84378",
+      "id": "contrib-1792307281218-84378",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -875,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84379",
+      "id": "contrib-1792307281218-84379",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -891,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84380",
+      "id": "contrib-1792307281218-84380",
       "date": "2025-09-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -907,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84381",
+      "id": "contrib-1792307281218-84381",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -923,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84382",
+      "id": "contrib-1792307281218-84382",
       "date": "2025-10-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -939,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84383",
+      "id": "contrib-1792307281218-84383",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -955,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84384",
+      "id": "contrib-1792307281218-84384",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -971,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84385",
+      "id": "contrib-1792307281218-84385",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -987,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84386",
+      "id": "contrib-1792307281218-84386",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1003,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84387",
+      "id": "contrib-1792307281218-84387",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1019,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84388",
+      "id": "contrib-1792307281218-84388",
       "date": "2025-10-14 00:00:00",
       "amount": 1500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1035,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84389",
+      "id": "contrib-1792307281218-84389",
       "date": "2025-12-22 00:00:00",
       "amount": 150,
       "candidate_name": "Jacob Louis Teshka",
@@ -1051,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84390",
+      "id": "contrib-1792307281218-84390",
       "date": "2025-08-14 00:00:00",
       "amount": 5000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1067,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84391",
+      "id": "contrib-1792307281218-84391",
       "date": "2025-10-07 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1083,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84392",
+      "id": "contrib-1792307281218-84392",
       "date": "2025-05-08 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -1099,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84393",
+      "id": "contrib-1792307281218-84393",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1115,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84394",
+      "id": "contrib-1792307281218-84394",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1131,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84395",
+      "id": "contrib-1792307281218-84395",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1147,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84396",
+      "id": "contrib-1792307281218-84396",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1163,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84397",
+      "id": "contrib-1792307281218-84397",
       "date": "2025-12-22 00:00:00",
       "amount": 150,
       "candidate_name": "Jacob Louis Teshka",
@@ -1179,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84398",
+      "id": "contrib-1792307281218-84398",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1195,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84399",
+      "id": "contrib-1792307281218-84399",
       "date": "2025-08-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1211,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84400",
+      "id": "contrib-1792307281218-84400",
       "date": "2025-08-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1227,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84401",
+      "id": "contrib-1792307281218-84401",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1243,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84402",
+      "id": "contrib-1792307281218-84402",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1259,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84403",
+      "id": "contrib-1792307281218-84403",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1275,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84404",
+      "id": "contrib-1792307281218-84404",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1291,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84405",
+      "id": "contrib-1792307281218-84405",
       "date": "2025-11-24 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1307,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84406",
+      "id": "contrib-1792307281218-84406",
       "date": "2025-09-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1323,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84407",
+      "id": "contrib-1792307281218-84407",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1339,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84408",
+      "id": "contrib-1792307281218-84408",
       "date": "2025-11-12 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1355,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84409",
+      "id": "contrib-1792307281218-84409",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1371,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84410",
+      "id": "contrib-1792307281218-84410",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1387,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84411",
+      "id": "contrib-1792307281218-84411",
       "date": "2025-09-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1403,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84412",
+      "id": "contrib-1792307281218-84412",
       "date": "2025-09-25 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1419,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84413",
+      "id": "contrib-1792307281218-84413",
       "date": "2025-09-05 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -1435,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84414",
+      "id": "contrib-1792307281218-84414",
       "date": "2025-12-15 00:00:00",
       "amount": 7500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1451,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84415",
+      "id": "contrib-1792307281218-84415",
       "date": "2025-09-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1467,7 +1495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84416",
+      "id": "contrib-1792307281218-84416",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1483,7 +1511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84417",
+      "id": "contrib-1792307281218-84417",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1499,7 +1527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84418",
+      "id": "contrib-1792307281218-84418",
       "date": "2025-09-16 00:00:00",
       "amount": 7500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1515,7 +1543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84419",
+      "id": "contrib-1792307281218-84419",
       "date": "2025-07-29 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1531,7 +1559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84420",
+      "id": "contrib-1792307281218-84420",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1547,7 +1575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84421",
+      "id": "contrib-1792307281218-84421",
       "date": "2025-09-16 00:00:00",
       "amount": 1250,
       "candidate_name": "Jacob Louis Teshka",
@@ -1563,7 +1591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84422",
+      "id": "contrib-1792307281218-84422",
       "date": "2025-11-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1579,7 +1607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84423",
+      "id": "contrib-1792307281218-84423",
       "date": "2025-08-05 00:00:00",
       "amount": 1800,
       "candidate_name": "Jacob Louis Teshka",
@@ -1595,7 +1623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84424",
+      "id": "contrib-1792307281218-84424",
       "date": "2025-07-07 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1611,7 +1639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84425",
+      "id": "contrib-1792307281218-84425",
       "date": "2025-08-22 00:00:00",
       "amount": 3000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1627,7 +1655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84426",
+      "id": "contrib-1792307281218-84426",
       "date": "2025-06-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1643,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84427",
+      "id": "contrib-1792307281218-84427",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1659,7 +1687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84428",
+      "id": "contrib-1792307281218-84428",
       "date": "2025-12-15 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1675,7 +1703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84429",
+      "id": "contrib-1792307281218-84429",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Jacob Louis Teshka",
@@ -1691,7 +1719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84430",
+      "id": "contrib-1792307281218-84430",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1707,7 +1735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84431",
+      "id": "contrib-1792307281218-84431",
       "date": "2025-08-28 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1723,7 +1751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84432",
+      "id": "contrib-1792307281218-84432",
       "date": "2025-09-05 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1739,7 +1767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84433",
+      "id": "contrib-1792307281218-84433",
       "date": "2025-10-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1755,7 +1783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84434",
+      "id": "contrib-1792307281218-84434",
       "date": "2025-06-10 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1771,7 +1799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84435",
+      "id": "contrib-1792307281218-84435",
       "date": "2025-06-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1787,7 +1815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84436",
+      "id": "contrib-1792307281218-84436",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1803,7 +1831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84437",
+      "id": "contrib-1792307281218-84437",
       "date": "2025-09-16 00:00:00",
       "amount": 400,
       "candidate_name": "Jacob Louis Teshka",
@@ -1819,7 +1847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84438",
+      "id": "contrib-1792307281218-84438",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1835,7 +1863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84439",
+      "id": "contrib-1792307281218-84439",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1851,7 +1879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84440",
+      "id": "contrib-1792307281218-84440",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1867,7 +1895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84441",
+      "id": "contrib-1792307281218-84441",
       "date": "2025-08-28 00:00:00",
       "amount": 1500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1883,7 +1911,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17556",
+      "id": "contrib-1792307281974-50050",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Anheuser Busch",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "MO",
+      "address_zip": "63118",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50051",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Anthropic Public Benefit Corporation",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94104",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50052",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Carnegie Learning Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pittsburgh",
+      "address_state": "PA",
+      "address_zip": "15219",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50053",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Charter Communications",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "MO",
+      "address_zip": "63131",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50054",
+      "date": "2026-04-30 00:00:00",
+      "amount": 400,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "DoorDash, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco ",
+      "address_state": "CA",
+      "address_zip": "94105",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50055",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Fresenius Medical Care North America",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Waltham",
+      "address_state": "MA",
+      "address_zip": "02451",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50056",
       "date": "2026-01-18 00:00:00",
       "amount": 37.4,
       "candidate_name": "Jacob Louis Teshka",
@@ -1899,7 +2023,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17557",
+      "id": "contrib-1792307281974-50057",
+      "date": "2026-08-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "National Shooting Sports Foundation Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Newtown ",
+      "address_state": "CT",
+      "address_zip": "06170",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50058",
       "date": "2026-02-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Jacob Louis Teshka",
@@ -1915,7 +2055,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17558",
+      "id": "contrib-1792307281974-50059",
+      "date": "2026-10-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "RAI Services Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Winston-Salem",
+      "address_state": "NC",
+      "address_zip": "27101",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50060",
+      "date": "2026-07-15 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "United Beverage Co, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50061",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -1931,7 +2103,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17559",
+      "id": "contrib-1792307281974-50062",
+      "date": "2026-06-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Al Hubbard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50063",
       "date": "2026-03-17 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -1947,7 +2135,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17560",
+      "id": "contrib-1792307281974-50064",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Andrew Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50065",
+      "date": "2026-10-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Anthony Hazen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46545",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50066",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1963,7 +2183,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17561",
+      "id": "contrib-1792307281974-50067",
+      "date": "2026-07-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Brad Toothaker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Petoskey",
+      "address_state": "MI",
+      "address_zip": "49770",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50068",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -1979,7 +2215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17562",
+      "id": "contrib-1792307281974-50069",
       "date": "2026-03-26 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -1995,7 +2231,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17563",
+      "id": "contrib-1792307281974-50070",
+      "date": "2026-07-02 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Chuck Goodrich",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Nobelsville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50071",
+      "date": "2026-07-07 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Dallas Bergl",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Elkhart",
+      "address_state": "IN",
+      "address_zip": "46516",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50072",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -2011,7 +2279,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17564",
+      "id": "contrib-1792307281974-50073",
+      "date": "2026-08-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Eric Doden",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50074",
+      "date": "2026-09-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Fran Tucker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50075",
+      "date": "2026-09-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Gus Saucerman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50076",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Jackie Stout",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50077",
+      "date": "2026-08-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Jim Henning",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "New Carlisle",
+      "address_state": "IN",
+      "address_zip": "46552",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50078",
+      "date": "2026-09-09 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Jim Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50079",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Joe & Danielle Layne",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "North Liberty",
+      "address_state": "IN",
+      "address_zip": "46554",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50080",
+      "date": "2026-08-28 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Joe Grabill",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46546",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50081",
+      "date": "2026-08-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "John Kruse",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50082",
+      "date": "2026-08-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "John Offerle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50083",
+      "date": "2026-05-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "John Snider",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50084",
+      "date": "2026-06-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Jon Gubera",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50085",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -2027,7 +2487,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17565",
+      "id": "contrib-1792307281974-50086",
+      "date": "2026-08-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Larry Davis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50087",
+      "date": "2026-04-16 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Lawrence Garatoni",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46545",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50088",
+      "date": "2026-06-03 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Lawrence Garatoni",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46545",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50089",
+      "date": "2026-08-21 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Loren Roth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46614",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50090",
+      "date": "2026-09-21 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Loren Roth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46614",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50091",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Luke Reilander",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50092",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -2043,7 +2599,151 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17566",
+      "id": "contrib-1792307281974-50093",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Michael  Bartone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50094",
+      "date": "2026-04-20 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Michael  Guzik",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50095",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Michael O'Brien",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50096",
+      "date": "2026-09-21 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Paul Sherman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Newtonville",
+      "address_state": "MA",
+      "address_zip": "02460",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50097",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Peter Agostino",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46628",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50098",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Peter Barrett",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46614",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50099",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Peter Deputy",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50100",
+      "date": "2026-05-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Phil Smoker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46544",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50101",
+      "date": "2026-09-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Richard J Pfeil",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50102",
       "date": "2026-03-24 00:00:00",
       "amount": 100,
       "candidate_name": "Jacob Louis Teshka",
@@ -2059,7 +2759,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17567",
+      "id": "contrib-1792307281974-50103",
+      "date": "2026-04-16 00:00:00",
+      "amount": 150,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Ron & Lain  Downs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Elkhart",
+      "address_state": "IN",
+      "address_zip": "46514",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50104",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Scott Yanover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50105",
+      "date": "2026-05-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Tim Creason",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "New Carlisle",
+      "address_state": "IN",
+      "address_zip": "46552",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50106",
       "date": "2026-04-09 00:00:00",
       "amount": 99,
       "candidate_name": "Jacob Louis Teshka",
@@ -2075,7 +2823,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17568",
+      "id": "contrib-1792307281974-50107",
+      "date": "2026-10-03 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Velvet Canada",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50108",
       "date": "2026-03-14 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -2091,7 +2855,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17569",
+      "id": "contrib-1792307281974-50109",
+      "date": "2026-08-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Zack Sand",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50110",
+      "date": "2026-05-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Ironworkers Local 292",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46628",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50111",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "1816 Public Affairs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50112",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "19th Star Solutions LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50113",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Baxmeyer for Commissioner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46635",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50114",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Borror Public Affairs",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50115",
+      "date": "2026-06-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Bose Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50116",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50117",
       "date": "2026-02-26 00:00:00",
       "amount": 2000,
       "candidate_name": "Jacob Louis Teshka",
@@ -2107,7 +2999,359 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17570",
+      "id": "contrib-1792307281974-50118",
+      "date": "2026-10-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "CEFCO Stores, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Temple",
+      "address_state": "TX",
+      "address_zip": "76503",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50119",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Dupont Hospital, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50120",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Faegre Drinker Biddle & Rieth LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50121",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Flint Consulting LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersberg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50122",
+      "date": "2026-09-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "G2 Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46815",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50123",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1347.12,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50124",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Fine Wines & Spirits LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "MD",
+      "address_zip": "20817",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50125",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "IOM Health System LP",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50126",
+      "date": "2026-07-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "JBK Investments LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nappanee",
+      "address_state": "IN",
+      "address_zip": "46550",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50127",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "KRG Finance LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50128",
+      "date": "2026-09-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50129",
+      "date": "2026-07-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50130",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Kroger Gardis and Regas LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50131",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "LaPorte Hospital Company, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50132",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Lebbin Law Office LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Dowagiac",
+      "address_state": "MI",
+      "address_zip": "49047",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50133",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Lutheran Musculoskeletal Center, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50134",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "New Millennium Building Systems, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50135",
+      "date": "2026-07-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Obvion Consulting Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50136",
+      "date": "2026-10-06 00:00:00",
+      "amount": 60,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Porter Hospital LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50137",
+      "date": "2026-08-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Seven Diamonds LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50138",
+      "date": "2026-08-28 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Skypoint Transit LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Goshen",
+      "address_state": "IN",
+      "address_zip": "46527",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50139",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "St. Joseph Health System, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50140",
       "date": "2026-01-23 00:00:00",
       "amount": 250,
       "candidate_name": "Jacob Louis Teshka",
@@ -2123,7 +3367,567 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17571",
+      "id": "contrib-1792307281974-50141",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "The Corydon Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50142",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "VanceMitchum Public Affairs LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46259",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50143",
+      "date": "2026-06-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Volt Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50144",
+      "date": "2026-10-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Warsaw Health System, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50145",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50146",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "AES Indiana Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50147",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "American Electric Power - Indiana - Committee for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50148",
+      "date": "2026-08-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "ARCHITECTS FOR INDIANA POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50149",
+      "date": "2026-07-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50150",
+      "date": "2026-07-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50151",
+      "date": "2026-04-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Business Advocacy Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50152",
+      "date": "2026-08-14 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "CareSource Mission Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "OH",
+      "address_zip": "43215",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50153",
+      "date": "2026-06-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "CSX Corporation Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50154",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50155",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Duke Energy Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50156",
+      "date": "2026-06-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Eli Lilly and Company Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50157",
+      "date": "2026-09-15 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50158",
+      "date": "2026-10-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Hoosier Beverage Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50159",
+      "date": "2026-06-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Hoosiers for Quality Education Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50160",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana American Water Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GREENWOOD",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50161",
+      "date": "2026-06-23 00:00:00",
+      "amount": 17500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50162",
+      "date": "2026-06-23 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Builders Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50163",
+      "date": "2026-06-24 00:00:00",
+      "amount": 1250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "INDIANA CREDIT UNION POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50164",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Health Care Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50165",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Merit Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50166",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Multi Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50167",
+      "date": "2026-07-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Multi Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50168",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1800,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Multi Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50169",
+      "date": "2026-10-06 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Multi Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50170",
+      "date": "2026-10-06 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50171",
+      "date": "2026-09-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "INDIANA SOCIETY OF ANESTHESIOLOGISTS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50172",
+      "date": "2026-06-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Technology & Innovation Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50173",
+      "date": "2026-10-06 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "INDIANA TITLE POL. ACTION COMM.",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50174",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Wholesale Distributors Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50175",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Meijer Political Action Committee of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GRAND RAPIDS",
+      "address_state": "MI",
+      "address_zip": "49544",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50176",
       "date": "2026-01-09 00:00:00",
       "amount": 750,
       "candidate_name": "Jacob Louis Teshka",
@@ -2135,6 +3939,230 @@
       "address_city": "COLUMBUS",
       "address_state": "OH",
       "address_zip": "43215",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50177",
+      "date": "2026-09-01 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Northern Indiana Operators Joint Labor Management PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "COUNTRYSIDE",
+      "address_state": "IL",
+      "address_zip": "60525",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50178",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "OORAH! POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50179",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Stand for Children Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50180",
+      "date": "2026-08-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Stand for Children Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50181",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50182",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "TRUCKING INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50183",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Wal-Mart Stores Inc., PAC for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BENTONVILLE",
+      "address_state": "AR",
+      "address_zip": "72716",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50184",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "WINE & SPIRITS WHOLESALERS OF INDIANA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50185",
+      "date": "2026-08-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Alliance Coal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Tulsa ",
+      "address_state": "OK",
+      "address_zip": "74121",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50186",
+      "date": "2026-09-03 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "IBEW PAC Voluntary Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50187",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Ice PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50188",
+      "date": "2026-06-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "IMHA/RVIC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50189",
+      "date": "2026-06-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50190",
+      "date": "2026-09-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20005",
       "recipient_committee": "Committee to Elect Jake Teshka",
       "source": "indiana"
     }

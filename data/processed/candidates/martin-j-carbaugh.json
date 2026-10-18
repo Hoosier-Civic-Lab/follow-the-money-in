@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "80400.00",
-    "total_contributions": 131,
-    "total_itemized": 130,
-    "total_unitemized": 1
+    "total_raised": "130250.00",
+    "total_contributions": 173,
+    "total_itemized": 169,
+    "total_unitemized": 4
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 18,
-      "total": "11400.00"
+      "count": 27,
+      "total": "18150.00"
     },
     "individual": {
-      "count": 60,
-      "total": "19450.00"
+      "count": 73,
+      "total": "28700.00"
     },
     "unitemized": {
-      "count": 1,
-      "total": "400.00"
+      "count": 4,
+      "total": "4150.00"
     },
     "committee": {
-      "count": 52,
-      "total": "49150.00"
+      "count": 69,
+      "total": "79250.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 92,
-      "total": "29750.00"
+      "count": 117,
+      "total": "40050.00"
     },
     "small": {
       "count": 3,
       "total": "150.00"
     },
     "large": {
-      "count": 36,
-      "total": "50500.00"
+      "count": 52,
+      "total": "75050.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "by_month": {
@@ -68,13 +72,33 @@
       "count": 1,
       "total": "1500.00"
     },
+    "2026-08": {
+      "count": 15,
+      "total": "11900.00"
+    },
+    "2026-05": {
+      "count": 4,
+      "total": "3000.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "1250.00"
+    },
+    "2026-07": {
+      "count": 7,
+      "total": "6250.00"
+    },
     "2026-04": {
-      "count": 31,
-      "total": "27750.00"
+      "count": 40,
+      "total": "51550.00"
     },
     "2026-01": {
       "count": 12,
       "total": "7000.00"
+    },
+    "2026-10": {
+      "count": 4,
+      "total": "3650.00"
     },
     "2026-03": {
       "count": 2,
@@ -83,7 +107,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769412-67732",
+      "id": "contrib-1792307281203-67732",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -99,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67733",
+      "id": "contrib-1792307281203-67733",
       "date": "2025-09-12 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -115,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67734",
+      "id": "contrib-1792307281203-67734",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -131,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67735",
+      "id": "contrib-1792307281203-67735",
       "date": "2025-10-01 00:00:00",
       "amount": 150,
       "candidate_name": "Martin J Carbaugh",
@@ -147,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67736",
+      "id": "contrib-1792307281203-67736",
       "date": "2025-09-29 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -163,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67737",
+      "id": "contrib-1792307281203-67737",
       "date": "2025-09-10 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -179,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67738",
+      "id": "contrib-1792307281203-67738",
       "date": "2025-08-22 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -195,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67739",
+      "id": "contrib-1792307281203-67739",
       "date": "2025-09-20 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -211,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67740",
+      "id": "contrib-1792307281203-67740",
       "date": "2025-08-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -227,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67741",
+      "id": "contrib-1792307281203-67741",
       "date": "2025-09-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -243,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67742",
+      "id": "contrib-1792307281203-67742",
       "date": "2025-09-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -259,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67743",
+      "id": "contrib-1792307281203-67743",
       "date": "2025-09-21 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -275,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67744",
+      "id": "contrib-1792307281203-67744",
       "date": "2025-10-16 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -291,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67745",
+      "id": "contrib-1792307281203-67745",
       "date": "2025-08-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -307,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67746",
+      "id": "contrib-1792307281203-67746",
       "date": "2025-08-18 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -323,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67747",
+      "id": "contrib-1792307281203-67747",
       "date": "2025-09-26 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -339,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67748",
+      "id": "contrib-1792307281203-67748",
       "date": "2025-09-14 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -355,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67749",
+      "id": "contrib-1792307281203-67749",
       "date": "2025-09-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -371,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67750",
+      "id": "contrib-1792307281203-67750",
       "date": "2025-09-22 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -387,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67751",
+      "id": "contrib-1792307281203-67751",
       "date": "2025-09-16 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -403,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67752",
+      "id": "contrib-1792307281203-67752",
       "date": "2025-10-05 00:00:00",
       "amount": 50,
       "candidate_name": "Martin J Carbaugh",
@@ -419,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67753",
+      "id": "contrib-1792307281203-67753",
       "date": "2025-10-04 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -435,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67754",
+      "id": "contrib-1792307281203-67754",
       "date": "2025-09-24 00:00:00",
       "amount": 100,
       "candidate_name": "Martin J Carbaugh",
@@ -451,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67755",
+      "id": "contrib-1792307281203-67755",
       "date": "2025-10-13 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -467,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67756",
+      "id": "contrib-1792307281203-67756",
       "date": "2025-09-30 00:00:00",
       "amount": 150,
       "candidate_name": "Martin J Carbaugh",
@@ -483,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67757",
+      "id": "contrib-1792307281203-67757",
       "date": "2025-10-02 00:00:00",
       "amount": 150,
       "candidate_name": "Martin J Carbaugh",
@@ -499,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67758",
+      "id": "contrib-1792307281203-67758",
       "date": "2025-09-16 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -515,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67759",
+      "id": "contrib-1792307281203-67759",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -531,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67760",
+      "id": "contrib-1792307281203-67760",
       "date": "2025-09-26 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -547,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67761",
+      "id": "contrib-1792307281203-67761",
       "date": "2025-10-13 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -563,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67762",
+      "id": "contrib-1792307281203-67762",
       "date": "2025-09-23 00:00:00",
       "amount": 400,
       "candidate_name": "Martin J Carbaugh",
@@ -579,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67763",
+      "id": "contrib-1792307281203-67763",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -595,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67764",
+      "id": "contrib-1792307281203-67764",
       "date": "2025-09-21 00:00:00",
       "amount": 100,
       "candidate_name": "Martin J Carbaugh",
@@ -611,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67765",
+      "id": "contrib-1792307281203-67765",
       "date": "2025-09-02 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -627,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67766",
+      "id": "contrib-1792307281203-67766",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -643,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67767",
+      "id": "contrib-1792307281203-67767",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -659,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67768",
+      "id": "contrib-1792307281203-67768",
       "date": "2025-07-31 00:00:00",
       "amount": 2000,
       "candidate_name": "Martin J Carbaugh",
@@ -675,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67769",
+      "id": "contrib-1792307281203-67769",
       "date": "2025-09-24 00:00:00",
       "amount": 100,
       "candidate_name": "Martin J Carbaugh",
@@ -691,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67770",
+      "id": "contrib-1792307281203-67770",
       "date": "2025-10-13 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -707,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67771",
+      "id": "contrib-1792307281203-67771",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -723,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67772",
+      "id": "contrib-1792307281203-67772",
       "date": "2025-09-26 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -739,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67773",
+      "id": "contrib-1792307281203-67773",
       "date": "2025-10-29 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -755,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67774",
+      "id": "contrib-1792307281203-67774",
       "date": "2025-09-24 00:00:00",
       "amount": 100,
       "candidate_name": "Martin J Carbaugh",
@@ -771,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67775",
+      "id": "contrib-1792307281203-67775",
       "date": "2025-09-26 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -787,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67776",
+      "id": "contrib-1792307281203-67776",
       "date": "2025-09-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -803,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67777",
+      "id": "contrib-1792307281203-67777",
       "date": "2025-08-01 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -819,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67778",
+      "id": "contrib-1792307281203-67778",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -835,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67779",
+      "id": "contrib-1792307281203-67779",
       "date": "2025-10-15 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -851,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67780",
+      "id": "contrib-1792307281203-67780",
       "date": "2025-09-15 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -867,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67781",
+      "id": "contrib-1792307281203-67781",
       "date": "2025-09-22 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -883,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67782",
+      "id": "contrib-1792307281203-67782",
       "date": "2025-09-30 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -899,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67783",
+      "id": "contrib-1792307281203-67783",
       "date": "2025-05-14 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -915,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67784",
+      "id": "contrib-1792307281203-67784",
       "date": "2025-08-25 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -931,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67785",
+      "id": "contrib-1792307281203-67785",
       "date": "2025-10-13 00:00:00",
       "amount": 600,
       "candidate_name": "Martin J Carbaugh",
@@ -947,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67786",
+      "id": "contrib-1792307281203-67786",
       "date": "2025-09-20 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -963,7 +987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67787",
+      "id": "contrib-1792307281203-67787",
       "date": "2025-10-01 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -979,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67788",
+      "id": "contrib-1792307281203-67788",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -995,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67789",
+      "id": "contrib-1792307281203-67789",
       "date": "2025-08-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1011,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67790",
+      "id": "contrib-1792307281203-67790",
       "date": "2025-07-01 00:00:00",
       "amount": 350,
       "candidate_name": "Martin J Carbaugh",
@@ -1027,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67791",
+      "id": "contrib-1792307281203-67791",
       "date": "2025-08-12 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -1043,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67792",
+      "id": "contrib-1792307281203-67792",
       "date": "2025-08-12 00:00:00",
       "amount": 400,
       "candidate_name": "Martin J Carbaugh",
@@ -1059,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67793",
+      "id": "contrib-1792307281203-67793",
       "date": "2025-08-13 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1075,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67794",
+      "id": "contrib-1792307281203-67794",
       "date": "2025-07-10 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1091,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67795",
+      "id": "contrib-1792307281203-67795",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1107,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67796",
+      "id": "contrib-1792307281203-67796",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1123,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67797",
+      "id": "contrib-1792307281203-67797",
       "date": "2025-07-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Martin J Carbaugh",
@@ -1139,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67798",
+      "id": "contrib-1792307281203-67798",
       "date": "2025-09-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1155,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67799",
+      "id": "contrib-1792307281203-67799",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1171,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67800",
+      "id": "contrib-1792307281203-67800",
       "date": "2025-07-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1187,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67801",
+      "id": "contrib-1792307281203-67801",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1203,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67802",
+      "id": "contrib-1792307281203-67802",
       "date": "2025-11-24 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -1219,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67803",
+      "id": "contrib-1792307281203-67803",
       "date": "2025-07-31 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1235,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67804",
+      "id": "contrib-1792307281203-67804",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1251,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67805",
+      "id": "contrib-1792307281203-67805",
       "date": "2025-07-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1267,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67806",
+      "id": "contrib-1792307281203-67806",
       "date": "2025-08-05 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1283,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67807",
+      "id": "contrib-1792307281203-67807",
       "date": "2025-08-11 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1299,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67808",
+      "id": "contrib-1792307281203-67808",
       "date": "2025-08-12 00:00:00",
       "amount": 2000,
       "candidate_name": "Martin J Carbaugh",
@@ -1315,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67809",
+      "id": "contrib-1792307281203-67809",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1331,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67810",
+      "id": "contrib-1792307281203-67810",
       "date": "2025-08-26 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1347,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67811",
+      "id": "contrib-1792307281203-67811",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1363,7 +1387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67812",
+      "id": "contrib-1792307281203-67812",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1379,7 +1403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67813",
+      "id": "contrib-1792307281203-67813",
       "date": "2025-07-03 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1395,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67814",
+      "id": "contrib-1792307281203-67814",
       "date": "2025-07-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1411,7 +1435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67815",
+      "id": "contrib-1792307281203-67815",
       "date": "2025-08-02 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -1427,7 +1451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67816",
+      "id": "contrib-1792307281203-67816",
       "date": "2025-10-13 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1443,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67817",
+      "id": "contrib-1792307281203-67817",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1459,7 +1483,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11871",
+      "id": "contrib-1792307281954-33787",
+      "date": "2026-08-31 00:00:00",
+      "amount": 250,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Allstate Vehicle and Property Insurance Co",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Northbrook",
+      "address_state": "IL",
+      "address_zip": "60062",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33788",
+      "date": "2026-05-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Brown and Brown, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Daytona Beach",
+      "address_state": "FL",
+      "address_zip": "32114",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33789",
+      "date": "2026-08-10 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Centene Corp",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33790",
+      "date": "2026-09-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Nationwide Mutual Insurance Co",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "OH",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33791",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Ohio Farmers Insurance",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oh",
+      "address_state": "IN",
+      "address_zip": "63105",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33792",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1475,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11872",
+      "id": "contrib-1792307281954-33793",
       "date": "2026-01-18 00:00:00",
       "amount": 50,
       "candidate_name": "Martin J Carbaugh",
@@ -1491,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11873",
+      "id": "contrib-1792307281954-33794",
       "date": "2026-01-18 00:00:00",
       "amount": 50,
       "candidate_name": "Martin J Carbaugh",
@@ -1507,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11874",
+      "id": "contrib-1792307281954-33795",
       "date": "2026-01-18 00:00:00",
       "amount": 150,
       "candidate_name": "Martin J Carbaugh",
@@ -1523,7 +1627,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11875",
+      "id": "contrib-1792307281954-33796",
+      "date": "2026-08-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Robyn Crosson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33797",
+      "date": "2026-08-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Stan G Ziherl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33798",
+      "date": "2026-07-02 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33799",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1539,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11876",
+      "id": "contrib-1792307281954-33800",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1555,7 +1707,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11877",
+      "id": "contrib-1792307281954-33801",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Delta Dental of Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lansing",
+      "address_state": "MI",
+      "address_zip": "48909",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33802",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1571,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11878",
+      "id": "contrib-1792307281954-33803",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1587,7 +1755,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11879",
+      "id": "contrib-1792307281954-33804",
+      "date": "2026-04-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Invenergy LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60606",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33805",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1603,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11880",
+      "id": "contrib-1792307281954-33806",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1619,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11881",
+      "id": "contrib-1792307281954-33807",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1635,7 +1819,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11882",
+      "id": "contrib-1792307281954-33808",
+      "date": "2026-10-08 00:00:00",
+      "amount": 350,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "PhRMA",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33809",
+      "date": "2026-08-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Pure Pharmacy Fishers, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33810",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "The Travelers insuarnce",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33811",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1651,7 +1883,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11883",
+      "id": "contrib-1792307281954-33812",
+      "date": "2026-04-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33813",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1667,7 +1915,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11884",
+      "id": "contrib-1792307281954-33814",
+      "date": "2026-08-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33815",
+      "date": "2026-04-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Eli Lilly and Company Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33816",
+      "date": "2026-07-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "FRIENDS OF INDIANA HOSPITALS",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33817",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Friends of Indiana Mental Health Centers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33818",
+      "date": "2026-04-14 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana Dental Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33819",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1683,7 +2011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11885",
+      "id": "contrib-1792307281954-33820",
       "date": "2026-04-07 00:00:00",
       "amount": 3000,
       "candidate_name": "Martin J Carbaugh",
@@ -1699,7 +2027,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11886",
+      "id": "contrib-1792307281954-33821",
+      "date": "2026-10-08 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33822",
+      "date": "2026-04-30 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33823",
+      "date": "2026-04-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "INDIANA SOCIETY OF ANESTHESIOLOGISTS",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33824",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1715,7 +2091,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11887",
+      "id": "contrib-1792307281954-33825",
+      "date": "2026-07-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33826",
+      "date": "2026-07-02 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33827",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1731,7 +2139,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11888",
+      "id": "contrib-1792307281954-33828",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "American Property Casualty Insurancre Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33829",
       "date": "2026-01-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1747,7 +2171,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11889",
+      "id": "contrib-1792307281954-33830",
+      "date": "2026-05-26 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "CareSource Management Svc.",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Dayton",
+      "address_state": "oh",
+      "address_zip": "45402",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33831",
+      "date": "2026-08-31 00:00:00",
+      "amount": 2800,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33832",
+      "date": "2026-07-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Duke Energy Corporation Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "dc",
+      "address_zip": "20004",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33833",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1763,7 +2235,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11890",
+      "id": "contrib-1792307281954-33834",
+      "date": "2026-10-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Foot Support Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33835",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1779,7 +2267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11891",
+      "id": "contrib-1792307281954-33836",
       "date": "2026-04-07 00:00:00",
       "amount": 2500,
       "candidate_name": "Martin J Carbaugh",
@@ -1795,7 +2283,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11892",
+      "id": "contrib-1792307281954-33837",
+      "date": "2026-08-21 00:00:00",
+      "amount": 1250,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "HUMANA INC. POLITICAL ACTION COMMITTEE",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33838",
       "date": "2026-01-18 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -1811,7 +2315,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11893",
+      "id": "contrib-1792307281954-33839",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Hygenists of Indiana Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Osceola",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33840",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1827,7 +2347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11894",
+      "id": "contrib-1792307281954-33841",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1843,7 +2363,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11895",
+      "id": "contrib-1792307281954-33842",
+      "date": "2026-08-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "IIMPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33843",
       "date": "2026-03-20 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1859,7 +2395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11896",
+      "id": "contrib-1792307281954-33844",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Martin J Carbaugh",
@@ -1875,7 +2411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11897",
+      "id": "contrib-1792307281954-33845",
       "date": "2026-04-07 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -1891,7 +2427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11898",
+      "id": "contrib-1792307281954-33846",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1907,7 +2443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11899",
+      "id": "contrib-1792307281954-33847",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -1923,7 +2459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11900",
+      "id": "contrib-1792307281954-33848",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1939,7 +2475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11901",
+      "id": "contrib-1792307281954-33849",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1955,7 +2491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11902",
+      "id": "contrib-1792307281954-33850",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -1971,7 +2507,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11903",
+      "id": "contrib-1792307281954-33851",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana Emergency Medicine Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33852",
       "date": "2026-04-07 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -1987,7 +2539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11904",
+      "id": "contrib-1792307281954-33853",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -2003,7 +2555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11905",
+      "id": "contrib-1792307281954-33854",
       "date": "2026-04-07 00:00:00",
       "amount": 3000,
       "candidate_name": "Martin J Carbaugh",
@@ -2019,7 +2571,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11906",
+      "id": "contrib-1792307281954-33855",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33856",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -2035,7 +2603,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11907",
+      "id": "contrib-1792307281954-33857",
+      "date": "2026-04-28 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "IPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33858",
       "date": "2026-04-09 00:00:00",
       "amount": 200,
       "candidate_name": "Martin J Carbaugh",
@@ -2051,7 +2635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11908",
+      "id": "contrib-1792307281954-33859",
       "date": "2026-04-07 00:00:00",
       "amount": 350,
       "candidate_name": "Martin J Carbaugh",
@@ -2067,7 +2651,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11909",
+      "id": "contrib-1792307281954-33860",
+      "date": "2026-04-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Liberty Mutual Insurance Pac",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33861",
+      "date": "2026-08-24 00:00:00",
+      "amount": 200,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "MCN Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33862",
+      "date": "2026-05-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "NFIBIN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33863",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -2083,7 +2715,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11910",
+      "id": "contrib-1792307281954-33864",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Optometry's Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33865",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Rache Diagnostic Corp Pac",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33866",
       "date": "2026-04-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -2099,7 +2763,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11911",
+      "id": "contrib-1792307281954-33867",
+      "date": "2026-05-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "Shelter Insurance Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33868",
       "date": "2026-01-18 00:00:00",
       "amount": 250,
       "candidate_name": "Martin J Carbaugh",
@@ -2115,7 +2795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11912",
+      "id": "contrib-1792307281954-33869",
       "date": "2026-01-18 00:00:00",
       "amount": 500,
       "candidate_name": "Martin J Carbaugh",
@@ -2131,7 +2811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11913",
+      "id": "contrib-1792307281954-33870",
       "date": "2026-03-30 00:00:00",
       "amount": 750,
       "candidate_name": "Martin J Carbaugh",
@@ -2147,7 +2827,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11914",
+      "id": "contrib-1792307281954-33871",
+      "date": "2026-04-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Martin J Carbaugh",
+      "contributor_name": "The Travelers Coproation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hartford",
+      "address_state": "CT",
+      "address_zip": "06183",
+      "recipient_committee": "VoteCarbaugh.com",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33872",
       "date": "2026-01-18 00:00:00",
       "amount": 1500,
       "candidate_name": "Martin J Carbaugh",
@@ -2163,7 +2859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11915",
+      "id": "contrib-1792307281954-33873",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",

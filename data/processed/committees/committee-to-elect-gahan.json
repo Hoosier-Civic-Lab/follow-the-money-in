@@ -2,14 +2,14 @@
   "id": "committee-to-elect-gahan",
   "name": "Committee to Elect Gahan",
   "totals": {
-    "total_given": "750.00",
-    "total_contributions": 2,
-    "candidates_supported": 0
+    "total_given": "1250.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "750.00"
+      "count": 3,
+      "total": "1250.00"
     }
   },
   "by_month": {
@@ -20,12 +20,23 @@
     "2025-03": {
       "count": 1,
       "total": "100.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "nicholas-lamar-marshall",
+      "name": "Nicholas  Lamar Marshall",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-6874",
+      "id": "contrib-1792307281106-6874",
       "date": "2025-08-18 00:00:00",
       "amount": 650,
       "contributor_name": "Committee to Elect Gahan",
@@ -40,7 +51,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769360-34130",
+      "id": "contrib-1792307281153-34130",
       "date": "2025-03-01 00:00:00",
       "amount": 100,
       "contributor_name": "Committee to Elect Gahan",
@@ -52,6 +63,22 @@
       "address_state": "IN",
       "address_zip": "47150",
       "recipient_committee": "Floyd County Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58699",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Committee To Elect Gahan",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
       "source": "indiana"
     }
   ],

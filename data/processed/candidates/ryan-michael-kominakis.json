@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "27355.51",
-    "total_contributions": 210,
-    "total_itemized": 205,
-    "total_unitemized": 5
+    "total_raised": "197481.18",
+    "total_contributions": 447,
+    "total_itemized": 439,
+    "total_unitemized": 8
   },
   "by_contributor_type": {
     "individual": {
-      "count": 196,
-      "total": "23915.51"
+      "count": 419,
+      "total": "105695.24"
     },
     "self": {
-      "count": 5,
-      "total": "140.00"
+      "count": 11,
+      "total": "200.00"
     },
     "committee": {
-      "count": 4,
-      "total": "3100.00"
+      "count": 9,
+      "total": "77569.40"
     },
     "unitemized": {
-      "count": 5,
-      "total": "200.00"
+      "count": 8,
+      "total": "14016.54"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 131,
-      "total": "3906.99"
+      "count": 308,
+      "total": "8377.27"
     },
     "medium": {
-      "count": 71,
-      "total": "12948.52"
+      "count": 117,
+      "total": "21368.52"
     },
     "large": {
-      "count": 8,
-      "total": "10500.00"
+      "count": 17,
+      "total": "44905.00"
+    },
+    "mega": {
+      "count": 5,
+      "total": "122830.39"
     }
   },
   "by_month": {
@@ -56,26 +60,50 @@
       "count": 10,
       "total": "570.00"
     },
+    "2026-09": {
+      "count": 61,
+      "total": "60576.60"
+    },
     "2026-03": {
       "count": 70,
       "total": "4923.89"
     },
+    "2026-10": {
+      "count": 12,
+      "total": "17220.99"
+    },
     "2026-01": {
       "count": 25,
       "total": "4031.26"
+    },
+    "2026-06": {
+      "count": 38,
+      "total": "3072.96"
+    },
+    "2026-07": {
+      "count": 45,
+      "total": "8325.26"
     },
     "2026-02": {
       "count": 23,
       "total": "1613.84"
     },
     "2026-04": {
-      "count": 20,
-      "total": "2941.52"
+      "count": 34,
+      "total": "3649.02"
+    },
+    "2026-08": {
+      "count": 43,
+      "total": "78532.36"
+    },
+    "2026-05": {
+      "count": 24,
+      "total": "1690.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769446-101030",
+      "id": "contrib-1792307281241-101030",
       "date": "2025-11-17 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -91,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101031",
+      "id": "contrib-1792307281241-101031",
       "date": "2025-11-05 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -107,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101032",
+      "id": "contrib-1792307281241-101032",
       "date": "2025-11-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101033",
+      "id": "contrib-1792307281241-101033",
       "date": "2025-11-10 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101034",
+      "id": "contrib-1792307281241-101034",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -155,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101035",
+      "id": "contrib-1792307281241-101035",
       "date": "2025-11-24 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -171,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101036",
+      "id": "contrib-1792307281241-101036",
       "date": "2025-11-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -187,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101037",
+      "id": "contrib-1792307281241-101037",
       "date": "2025-12-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -203,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101038",
+      "id": "contrib-1792307281241-101038",
       "date": "2025-11-17 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -219,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101039",
+      "id": "contrib-1792307281241-101039",
       "date": "2025-10-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -235,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101040",
+      "id": "contrib-1792307281241-101040",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -251,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101041",
+      "id": "contrib-1792307281241-101041",
       "date": "2025-12-11 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -267,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101042",
+      "id": "contrib-1792307281241-101042",
       "date": "2025-11-24 00:00:00",
       "amount": 60,
       "candidate_name": "Ryan Michael Kominakis",
@@ -283,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101043",
+      "id": "contrib-1792307281241-101043",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -299,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101044",
+      "id": "contrib-1792307281241-101044",
       "date": "2025-12-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -315,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101045",
+      "id": "contrib-1792307281241-101045",
       "date": "2025-11-05 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -331,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101046",
+      "id": "contrib-1792307281241-101046",
       "date": "2025-11-10 00:00:00",
       "amount": 45,
       "candidate_name": "Ryan Michael Kominakis",
@@ -347,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101047",
+      "id": "contrib-1792307281241-101047",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -363,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101048",
+      "id": "contrib-1792307281241-101048",
       "date": "2025-10-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -379,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101049",
+      "id": "contrib-1792307281241-101049",
       "date": "2025-11-05 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -395,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101050",
+      "id": "contrib-1792307281241-101050",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -411,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101051",
+      "id": "contrib-1792307281241-101051",
       "date": "2025-12-11 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -427,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101052",
+      "id": "contrib-1792307281241-101052",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -443,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101053",
+      "id": "contrib-1792307281241-101053",
       "date": "2025-11-10 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -459,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101054",
+      "id": "contrib-1792307281241-101054",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -475,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101055",
+      "id": "contrib-1792307281241-101055",
       "date": "2025-11-24 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -491,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101056",
+      "id": "contrib-1792307281241-101056",
       "date": "2025-12-29 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan Michael Kominakis",
@@ -507,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101057",
+      "id": "contrib-1792307281241-101057",
       "date": "2025-12-29 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -523,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101058",
+      "id": "contrib-1792307281241-101058",
       "date": "2025-10-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -539,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101059",
+      "id": "contrib-1792307281241-101059",
       "date": "2025-10-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -555,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101060",
+      "id": "contrib-1792307281241-101060",
       "date": "2025-12-11 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -571,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101061",
+      "id": "contrib-1792307281241-101061",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -587,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101062",
+      "id": "contrib-1792307281241-101062",
       "date": "2025-10-29 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -603,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101063",
+      "id": "contrib-1792307281241-101063",
       "date": "2025-11-24 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -619,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101064",
+      "id": "contrib-1792307281241-101064",
       "date": "2025-11-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -635,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101065",
+      "id": "contrib-1792307281241-101065",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -651,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101066",
+      "id": "contrib-1792307281241-101066",
       "date": "2025-11-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -667,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101067",
+      "id": "contrib-1792307281241-101067",
       "date": "2025-12-29 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -683,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101068",
+      "id": "contrib-1792307281241-101068",
       "date": "2025-11-10 00:00:00",
       "amount": 5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -699,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101069",
+      "id": "contrib-1792307281241-101069",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -715,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101070",
+      "id": "contrib-1792307281241-101070",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -731,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101071",
+      "id": "contrib-1792307281241-101071",
       "date": "2025-11-17 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -747,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101072",
+      "id": "contrib-1792307281241-101072",
       "date": "2025-10-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -763,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101073",
+      "id": "contrib-1792307281241-101073",
       "date": "2025-10-29 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -779,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101074",
+      "id": "contrib-1792307281241-101074",
       "date": "2025-11-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -795,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101075",
+      "id": "contrib-1792307281241-101075",
       "date": "2025-10-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -811,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101076",
+      "id": "contrib-1792307281241-101076",
       "date": "2025-11-17 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -827,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101077",
+      "id": "contrib-1792307281241-101077",
       "date": "2025-12-29 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -843,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101078",
+      "id": "contrib-1792307281241-101078",
       "date": "2025-10-08 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -859,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101079",
+      "id": "contrib-1792307281241-101079",
       "date": "2025-12-29 00:00:00",
       "amount": 1500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -875,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101080",
+      "id": "contrib-1792307281241-101080",
       "date": "2025-12-11 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -891,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101081",
+      "id": "contrib-1792307281241-101081",
       "date": "2025-12-11 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -907,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101082",
+      "id": "contrib-1792307281241-101082",
       "date": "2025-11-24 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -923,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101083",
+      "id": "contrib-1792307281241-101083",
       "date": "2025-11-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -939,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101084",
+      "id": "contrib-1792307281241-101084",
       "date": "2025-12-11 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -955,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101085",
+      "id": "contrib-1792307281241-101085",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -971,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101086",
+      "id": "contrib-1792307281241-101086",
       "date": "2025-12-11 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -987,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101087",
+      "id": "contrib-1792307281241-101087",
       "date": "2025-12-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1003,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101088",
+      "id": "contrib-1792307281241-101088",
       "date": "2025-10-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1019,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101089",
+      "id": "contrib-1792307281241-101089",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1035,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101090",
+      "id": "contrib-1792307281241-101090",
       "date": "2025-11-10 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1051,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101091",
+      "id": "contrib-1792307281241-101091",
       "date": "2025-12-11 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1067,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101092",
+      "id": "contrib-1792307281241-101092",
       "date": "2025-12-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1083,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101093",
+      "id": "contrib-1792307281241-101093",
       "date": "2025-12-11 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1099,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101094",
+      "id": "contrib-1792307281241-101094",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1115,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101095",
+      "id": "contrib-1792307281241-101095",
       "date": "2025-11-17 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1131,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101096",
+      "id": "contrib-1792307281241-101096",
       "date": "2025-11-18 00:00:00",
       "amount": 3000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1147,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101097",
+      "id": "contrib-1792307281241-101097",
       "date": "2025-11-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1163,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101098",
+      "id": "contrib-1792307281241-101098",
       "date": "2025-12-11 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1179,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101099",
+      "id": "contrib-1792307281241-101099",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1195,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101100",
+      "id": "contrib-1792307281241-101100",
       "date": "2025-12-11 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1211,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101101",
+      "id": "contrib-1792307281241-101101",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1227,7 +1255,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28414",
+      "id": "contrib-1792307282015-77448",
+      "date": "2026-09-25 00:00:00",
+      "amount": 0.55,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77449",
       "date": "2026-03-09 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1243,7 +1287,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28415",
+      "id": "contrib-1792307282015-77450",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1455,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77451",
+      "date": "2026-10-07 00:00:00",
+      "amount": 12360.99,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77452",
       "date": "2026-03-31 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1259,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28416",
+      "id": "contrib-1792307282015-77453",
       "date": "2026-03-31 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1275,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28417",
+      "id": "contrib-1792307282015-77454",
       "date": "2026-01-30 00:00:00",
       "amount": 30,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1291,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28418",
+      "id": "contrib-1792307282015-77455",
       "date": "2026-01-30 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1307,7 +1383,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28419",
+      "id": "contrib-1792307282015-77456",
+      "date": "2026-06-11 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Aaron Gibson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77457",
       "date": "2026-03-29 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1323,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28420",
+      "id": "contrib-1792307282015-77458",
       "date": "2026-03-15 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1339,7 +1431,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28421",
+      "id": "contrib-1792307282015-77459",
+      "date": "2026-07-07 00:00:00",
+      "amount": 15,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Alan Winternheimer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77460",
       "date": "2026-02-22 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1355,7 +1463,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28422",
+      "id": "contrib-1792307282015-77461",
+      "date": "2026-04-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Alisa Cohen",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77462",
+      "date": "2026-09-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Alisa Deer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77463",
+      "date": "2026-08-28 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Alyse Kominakis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77464",
+      "date": "2026-05-02 00:00:00",
+      "amount": 90,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Amanda Hedges",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Winfield",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77465",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Amanda Mathews",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77466",
+      "date": "2026-08-21 00:00:00",
+      "amount": 120,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Amy Turner LaDow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77467",
+      "date": "2026-08-31 00:00:00",
+      "amount": 8.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Andrew Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77468",
+      "date": "2026-08-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Andrew Thomas",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77469",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1371,7 +1607,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28423",
+      "id": "contrib-1792307282015-77470",
+      "date": "2026-08-17 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Annemarie Marti",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77471",
+      "date": "2026-09-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ari Hodes",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77472",
       "date": "2026-03-29 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1387,7 +1655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28424",
+      "id": "contrib-1792307282015-77473",
       "date": "2026-03-15 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1403,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28425",
+      "id": "contrib-1792307282015-77474",
       "date": "2026-03-29 00:00:00",
       "amount": 125,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1419,7 +1687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28426",
+      "id": "contrib-1792307282015-77475",
       "date": "2026-02-01 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1435,7 +1703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28427",
+      "id": "contrib-1792307282015-77476",
       "date": "2026-01-30 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1451,7 +1719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28428",
+      "id": "contrib-1792307282015-77477",
       "date": "2026-03-29 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1467,7 +1735,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28429",
+      "id": "contrib-1792307282015-77478",
+      "date": "2026-09-16 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Beth Germann",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77479",
+      "date": "2026-06-21 00:00:00",
+      "amount": 800,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Blythe Potter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Bargersville",
+      "address_state": "IN",
+      "address_zip": "46106",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77480",
+      "date": "2026-09-25 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Bob DeRuntz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77481",
       "date": "2026-01-30 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1483,7 +1799,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28430",
+      "id": "contrib-1792307282015-77482",
+      "date": "2026-09-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Bradley Lucier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77483",
       "date": "2026-02-22 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1499,7 +1831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28431",
+      "id": "contrib-1792307282015-77484",
       "date": "2026-04-05 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1515,7 +1847,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28432",
+      "id": "contrib-1792307282015-77485",
+      "date": "2026-07-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Brittney Ann",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77486",
+      "date": "2026-05-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Bryce Pickering",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77487",
       "date": "2026-02-08 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1531,7 +1895,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28433",
+      "id": "contrib-1792307282015-77488",
+      "date": "2026-10-01 00:00:00",
+      "amount": 15,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cameron Harbrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77489",
+      "date": "2026-07-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cami Padilla",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Hinsdale",
+      "address_state": "IL",
+      "address_zip": "60521",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77490",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1547,7 +1943,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28434",
+      "id": "contrib-1792307282015-77491",
+      "date": "2026-07-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Carey Hamilton",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77492",
+      "date": "2026-06-21 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Carolyn lelek",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77493",
+      "date": "2026-10-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Carolyn Rodea",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77494",
       "date": "2026-04-05 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1563,7 +2007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28435",
+      "id": "contrib-1792307282015-77495",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1579,7 +2023,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28436",
+      "id": "contrib-1792307282015-77496",
+      "date": "2026-06-11 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Carrie Manago",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77497",
+      "date": "2026-10-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Catherine Thompson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77498",
+      "date": "2026-07-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cathy Greenawald",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77499",
+      "date": "2026-04-29 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cathy Greenawald",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77500",
+      "date": "2026-07-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Chandra Singh",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77501",
       "date": "2026-03-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1595,7 +2119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28437",
+      "id": "contrib-1792307282015-77502",
       "date": "2026-02-17 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1611,7 +2135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28438",
+      "id": "contrib-1792307282015-77503",
       "date": "2026-04-05 00:00:00",
       "amount": 1,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1627,7 +2151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28439",
+      "id": "contrib-1792307282015-77504",
       "date": "2026-04-05 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1643,7 +2167,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28440",
+      "id": "contrib-1792307282015-77505",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Christopher Nesper",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77506",
       "date": "2026-02-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1659,7 +2199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28441",
+      "id": "contrib-1792307282015-77507",
       "date": "2026-02-08 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1675,7 +2215,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28442",
+      "id": "contrib-1792307282015-77508",
+      "date": "2026-07-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Claudia Earls",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77509",
+      "date": "2026-06-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Clay Patton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77510",
+      "date": "2026-09-28 00:00:00",
+      "amount": 15,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Codey Mack",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77511",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Connie Mackley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77512",
+      "date": "2026-05-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Connie Mackley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77513",
       "date": "2026-01-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1691,7 +2311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28443",
+      "id": "contrib-1792307282015-77514",
       "date": "2026-01-18 00:00:00",
       "amount": 400,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1707,7 +2327,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28444",
+      "id": "contrib-1792307282015-77515",
+      "date": "2026-07-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Crystal Milsap",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77516",
+      "date": "2026-05-31 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cyndi Smith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77517",
+      "date": "2026-08-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Cynthia Wold",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46384",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77518",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Daniel Dunevant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77519",
+      "date": "2026-07-23 00:00:00",
+      "amount": 15,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Daniel Farrell",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77520",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Daniel Hudak",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77521",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1723,7 +2439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28445",
+      "id": "contrib-1792307282015-77522",
       "date": "2026-03-22 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1739,7 +2455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28446",
+      "id": "contrib-1792307282015-77523",
       "date": "2026-03-22 00:00:00",
       "amount": 70,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1755,7 +2471,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28447",
+      "id": "contrib-1792307282015-77524",
+      "date": "2026-07-03 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Carter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77525",
       "date": "2026-03-01 00:00:00",
       "amount": 5.89,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1771,7 +2503,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28448",
+      "id": "contrib-1792307282015-77526",
+      "date": "2026-07-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Crooks",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77527",
+      "date": "2026-05-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Gabovitch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77528",
+      "date": "2026-06-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Hinton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77529",
+      "date": "2026-06-21 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Howe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "94609",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77530",
+      "date": "2026-08-16 00:00:00",
+      "amount": 83.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "David Niezgodski",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46619",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77531",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1787,7 +2599,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28449",
+      "id": "contrib-1792307282015-77532",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Debora Porter",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77533",
+      "date": "2026-09-25 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Debora Porter",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77534",
+      "date": "2026-05-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Deborah Chelf",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77535",
+      "date": "2026-06-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Deborah Chelf",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77536",
+      "date": "2026-07-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Deborah Chelf",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77537",
+      "date": "2026-08-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Deborah Chelf",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77538",
+      "date": "2026-09-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Deborah Chelf",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77539",
       "date": "2026-01-25 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1803,7 +2727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28450",
+      "id": "contrib-1792307282015-77540",
       "date": "2026-03-22 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1819,7 +2743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28451",
+      "id": "contrib-1792307282015-77541",
       "date": "2026-01-11 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1835,7 +2759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28452",
+      "id": "contrib-1792307282015-77542",
       "date": "2026-02-08 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1851,7 +2775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28453",
+      "id": "contrib-1792307282015-77543",
       "date": "2026-03-08 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1867,7 +2791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28454",
+      "id": "contrib-1792307282015-77544",
       "date": "2026-03-01 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1883,7 +2807,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28455",
+      "id": "contrib-1792307282015-77545",
+      "date": "2026-07-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Derek Camp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77546",
       "date": "2026-03-01 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1899,7 +2839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28456",
+      "id": "contrib-1792307282015-77547",
       "date": "2026-02-01 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1915,7 +2855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28457",
+      "id": "contrib-1792307282015-77548",
       "date": "2026-03-29 00:00:00",
       "amount": 12.5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1931,7 +2871,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28458",
+      "id": "contrib-1792307282015-77549",
+      "date": "2026-09-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Donna Deruntz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77550",
+      "date": "2026-08-28 00:00:00",
+      "amount": 6.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Drew Ficociello",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77551",
+      "date": "2026-08-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Duncan McGuffie",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Bloomfield",
+      "address_state": "MI",
+      "address_zip": "48323",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77552",
+      "date": "2026-09-24 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Cook",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77553",
+      "date": "2026-05-26 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77554",
+      "date": "2026-06-26 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77555",
+      "date": "2026-07-26 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77556",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77557",
+      "date": "2026-09-26 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77558",
+      "date": "2026-04-26 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Dustin Rigdon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kouts",
+      "address_state": "IN",
+      "address_zip": "46347",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77559",
       "date": "2026-01-16 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1947,7 +3047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28459",
+      "id": "contrib-1792307282015-77560",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1963,7 +3063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28460",
+      "id": "contrib-1792307282015-77561",
       "date": "2026-03-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1979,7 +3079,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28461",
+      "id": "contrib-1792307282015-77562",
+      "date": "2026-06-30 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Elizabeth Bennett",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77563",
+      "date": "2026-10-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Elizabeth Bennett",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77564",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -1995,7 +3127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28462",
+      "id": "contrib-1792307282015-77565",
       "date": "2026-03-29 00:00:00",
       "amount": 2.5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2011,7 +3143,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28463",
+      "id": "contrib-1792307282015-77566",
+      "date": "2026-07-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Erica Betz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77567",
       "date": "2026-01-18 00:00:00",
       "amount": 20.26,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2027,7 +3175,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28464",
+      "id": "contrib-1792307282015-77568",
+      "date": "2026-06-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Erin Stojic",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77569",
+      "date": "2026-08-08 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Frances Kras",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77570",
+      "date": "2026-06-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Frank Pokrywczynski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Whiting",
+      "address_state": "IN",
+      "address_zip": "46394",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77571",
       "date": "2026-03-29 00:00:00",
       "amount": 2.5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2043,7 +3239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28465",
+      "id": "contrib-1792307282015-77572",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2059,7 +3255,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28466",
+      "id": "contrib-1792307282015-77573",
+      "date": "2026-08-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Greg Linden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "94602",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77574",
+      "date": "2026-09-15 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Greg Quartucci",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77575",
       "date": "2026-03-29 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2075,7 +3303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28467",
+      "id": "contrib-1792307282015-77576",
       "date": "2026-01-25 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2091,7 +3319,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28468",
+      "id": "contrib-1792307282015-77577",
+      "date": "2026-08-28 00:00:00",
+      "amount": 2.18,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Helen Darby",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Silver Spring",
+      "address_state": "MD",
+      "address_zip": "20905",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77578",
       "date": "2026-02-22 00:00:00",
       "amount": 2.95,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2107,7 +3351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28469",
+      "id": "contrib-1792307282015-77579",
       "date": "2026-02-22 00:00:00",
       "amount": 5.89,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2123,7 +3367,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28470",
+      "id": "contrib-1792307282015-77580",
+      "date": "2026-09-19 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Helen Steinbach",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77581",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Holly Walsh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Mining/Energy",
+      "occupation_category": "other",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77582",
+      "date": "2026-06-07 00:00:00",
+      "amount": 4,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ian Janke",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77583",
       "date": "2026-03-01 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2139,7 +3431,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28471",
+      "id": "contrib-1792307282015-77584",
+      "date": "2026-06-09 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "James Kocal",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77585",
       "date": "2026-03-29 00:00:00",
       "amount": 45,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2155,7 +3463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28472",
+      "id": "contrib-1792307282015-77586",
       "date": "2026-03-08 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2171,7 +3479,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28473",
+      "id": "contrib-1792307282015-77587",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Janice Ault",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77588",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2187,7 +3511,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28474",
+      "id": "contrib-1792307282015-77589",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jennifer Hora",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77590",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jennifer Hora",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77591",
+      "date": "2026-09-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jesse Hall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77592",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jessica Cummens",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77593",
+      "date": "2026-09-25 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jill Konieczny",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77594",
+      "date": "2026-08-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jim Berman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77595",
+      "date": "2026-09-26 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jim Berman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77596",
+      "date": "2026-08-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jim Berman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77597",
+      "date": "2026-08-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Joanne Sanders",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77598",
+      "date": "2026-09-27 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jocelyn Rolling",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77599",
+      "date": "2026-04-23 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "John Dewitt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77600",
+      "date": "2026-06-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "John Frantz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Needham",
+      "address_state": "MA",
+      "address_zip": "02492",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77601",
       "date": "2026-03-22 00:00:00",
       "amount": 290,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2203,7 +3719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28475",
+      "id": "contrib-1792307282015-77602",
       "date": "2026-03-29 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2219,7 +3735,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28476",
+      "id": "contrib-1792307282015-77603",
+      "date": "2026-07-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jonathan Groth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77604",
+      "date": "2026-07-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jonathan Groth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77605",
+      "date": "2026-09-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jonathan Groth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77606",
+      "date": "2026-05-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jonathan Groth",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77607",
       "date": "2026-01-16 00:00:00",
       "amount": 6,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2235,7 +3815,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28477",
+      "id": "contrib-1792307282015-77608",
+      "date": "2026-08-28 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Jorge Torres",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "East Chicago",
+      "address_state": "IN",
+      "address_zip": "46312",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77609",
       "date": "2026-01-25 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2251,7 +3847,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28478",
+      "id": "contrib-1792307282015-77610",
+      "date": "2026-09-27 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Judy Katz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77611",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Julia Storbek",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77612",
       "date": "2026-03-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2267,7 +3895,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28479",
+      "id": "contrib-1792307282015-77613",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Julie Smith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77614",
       "date": "2026-03-29 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2283,7 +3927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28480",
+      "id": "contrib-1792307282015-77615",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2299,7 +3943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28481",
+      "id": "contrib-1792307282015-77616",
       "date": "2026-03-22 00:00:00",
       "amount": 30,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2315,7 +3959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28482",
+      "id": "contrib-1792307282015-77617",
       "date": "2026-03-01 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2331,7 +3975,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28483",
+      "id": "contrib-1792307282015-77618",
+      "date": "2026-05-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Justin Haak",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77619",
+      "date": "2026-09-08 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kaleb Hagen",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77620",
+      "date": "2026-05-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kara Nikolski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77621",
+      "date": "2026-06-21 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Karen Land",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77622",
       "date": "2026-01-11 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2347,7 +4055,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28484",
+      "id": "contrib-1792307282015-77623",
+      "date": "2026-07-29 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Katherine Peters",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77624",
+      "date": "2026-09-04 00:00:00",
+      "amount": 40000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathleen Pettijohn",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elberfield",
+      "address_state": "IN",
+      "address_zip": "47613",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77625",
       "date": "2026-03-15 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2363,7 +4103,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28485",
+      "id": "contrib-1792307282015-77626",
+      "date": "2026-08-28 00:00:00",
+      "amount": 3.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathleen Watts",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77627",
+      "date": "2026-08-28 00:00:00",
+      "amount": 8.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathleen Watts",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77628",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathleen Watts",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77629",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathy Dewitt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77630",
+      "date": "2026-06-30 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kathy Groth",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77631",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2379,7 +4199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28486",
+      "id": "contrib-1792307282015-77632",
       "date": "2026-02-01 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2395,7 +4215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28487",
+      "id": "contrib-1792307282015-77633",
       "date": "2026-03-09 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2411,7 +4231,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28488",
+      "id": "contrib-1792307282015-77634",
+      "date": "2026-05-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kenneth Allen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77635",
+      "date": "2026-05-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kevin Goebbert",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77636",
       "date": "2026-01-11 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2427,7 +4279,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28489",
+      "id": "contrib-1792307282015-77637",
+      "date": "2026-09-20 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kim Alexander",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77638",
+      "date": "2026-09-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kim Alexander",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77639",
+      "date": "2026-07-01 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kim Cobban",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77640",
+      "date": "2026-09-12 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kristen Garrett",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77641",
       "date": "2026-03-29 00:00:00",
       "amount": 5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2443,7 +4359,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28490",
+      "id": "contrib-1792307282015-77642",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kristin Barney",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77643",
+      "date": "2026-05-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kristin Barney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77644",
+      "date": "2026-09-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kristin McMurtrey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77645",
       "date": "2026-03-22 00:00:00",
       "amount": 120,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2459,7 +4423,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28491",
+      "id": "contrib-1792307282015-77646",
+      "date": "2026-09-29 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kyle Holcomb",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77647",
+      "date": "2026-08-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Kyle Jaros",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77648",
+      "date": "2026-09-11 00:00:00",
+      "amount": 20.26,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Linda Bol",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77649",
+      "date": "2026-06-30 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Linda Hoshaw",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77650",
+      "date": "2026-06-11 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Linda Hoshaw",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77651",
+      "date": "2026-10-06 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Linda Hoshaw",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77652",
+      "date": "2026-07-05 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Lindsey Miller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Williamsburgh",
+      "address_state": "VA",
+      "address_zip": "23185",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77653",
       "date": "2026-04-06 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2475,7 +4551,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28492",
+      "id": "contrib-1792307282015-77654",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Lori Miller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77655",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Lou Donkle",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77656",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1450,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Louis Bain II",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Burns Harbor",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77657",
       "date": "2026-02-08 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2491,7 +4615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28493",
+      "id": "contrib-1792307282015-77658",
       "date": "2026-03-29 00:00:00",
       "amount": 5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2507,7 +4631,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28494",
+      "id": "contrib-1792307282015-77659",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Lynn Kowert",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77660",
+      "date": "2026-06-28 00:00:00",
+      "amount": 14,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Madison Foley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "McCordsville",
+      "address_state": "IN",
+      "address_zip": "46055",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77661",
+      "date": "2026-07-26 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Margaret Zimmerman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77662",
+      "date": "2026-09-29 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Maria Omeara",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02131",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77663",
+      "date": "2026-04-30 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Marilynn Uehling",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77664",
+      "date": "2026-06-30 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Marissa Barnes",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77665",
       "date": "2026-02-01 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2523,7 +4743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28495",
+      "id": "contrib-1792307282015-77666",
       "date": "2026-04-10 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2539,7 +4759,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28496",
+      "id": "contrib-1792307282015-77667",
+      "date": "2026-07-07 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark Costica",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Mining/Energy",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77668",
       "date": "2026-03-01 00:00:00",
       "amount": 60,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2555,7 +4791,151 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28497",
+      "id": "contrib-1792307282015-77669",
+      "date": "2026-06-13 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark Forszt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77670",
+      "date": "2026-09-16 00:00:00",
+      "amount": 33.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark Fortney",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77671",
+      "date": "2026-09-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark Fortney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77672",
+      "date": "2026-10-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark Mccolley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77673",
+      "date": "2026-09-25 00:00:00",
+      "amount": 66.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mark McMurtrey",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77674",
+      "date": "2026-07-31 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Jo Nuland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77675",
+      "date": "2026-08-27 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Jo Nuland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77676",
+      "date": "2026-09-25 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Jo Nuland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77677",
+      "date": "2026-06-25 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Jo Nuland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77678",
       "date": "2026-02-01 00:00:00",
       "amount": 45,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2571,7 +4951,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28498",
+      "id": "contrib-1792307282015-77679",
+      "date": "2026-06-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Kaczka",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77680",
+      "date": "2026-07-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Vollbrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77681",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mary Willis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77682",
+      "date": "2026-09-16 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Marylin Ahner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77683",
       "date": "2026-03-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2587,7 +5031,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28499",
+      "id": "contrib-1792307282015-77684",
+      "date": "2026-05-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Marylin Ahner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77685",
       "date": "2026-01-18 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2603,7 +5063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28500",
+      "id": "contrib-1792307282015-77686",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2619,7 +5079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28501",
+      "id": "contrib-1792307282015-77687",
       "date": "2026-03-29 00:00:00",
       "amount": 113,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2635,7 +5095,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28502",
+      "id": "contrib-1792307282015-77688",
+      "date": "2026-09-17 00:00:00",
+      "amount": 5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Melissa Cohen",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Porter",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77689",
+      "date": "2026-09-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Melissa Reed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77690",
       "date": "2026-01-16 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2651,7 +5143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28503",
+      "id": "contrib-1792307282015-77691",
       "date": "2026-02-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2667,7 +5159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28504",
+      "id": "contrib-1792307282015-77692",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2683,7 +5175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28505",
+      "id": "contrib-1792307282015-77693",
       "date": "2026-03-31 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2699,7 +5191,151 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28506",
+      "id": "contrib-1792307282015-77694",
+      "date": "2026-04-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77695",
+      "date": "2026-05-12 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77696",
+      "date": "2026-05-31 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77697",
+      "date": "2026-06-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77698",
+      "date": "2026-07-31 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77699",
+      "date": "2026-08-31 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77700",
+      "date": "2026-09-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77701",
+      "date": "2026-04-18 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Hughes",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77702",
+      "date": "2026-09-09 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Michael Oles",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77703",
       "date": "2026-03-09 00:00:00",
       "amount": 400,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2715,7 +5351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28507",
+      "id": "contrib-1792307282015-77704",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2731,7 +5367,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28508",
+      "id": "contrib-1792307282015-77705",
+      "date": "2026-06-29 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mindy Sweeney",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77706",
+      "date": "2026-06-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Mitchell Peters",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77707",
+      "date": "2026-07-09 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Moe M Farhat",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77708",
+      "date": "2026-09-29 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Moe M Farhat",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77709",
+      "date": "2026-07-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Molly Mooney",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77710",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Natalia Galvan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77711",
+      "date": "2026-06-08 00:00:00",
+      "amount": 75,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Natasha Evers",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Rockford",
+      "address_state": "MI",
+      "address_zip": "49341",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77712",
+      "date": "2026-09-25 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Pamela Saylor",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77713",
       "date": "2026-01-25 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2747,7 +5511,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28509",
+      "id": "contrib-1792307282015-77714",
+      "date": "2026-05-07 00:00:00",
+      "amount": 20,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Patrick Kovalan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77715",
+      "date": "2026-06-30 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Patrick Ruddick",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77716",
+      "date": "2026-07-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Paul Aguilera",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77717",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1.09,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Paul Arden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Olmstead",
+      "address_state": "OH",
+      "address_zip": "44138",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77718",
+      "date": "2026-04-17 00:00:00",
+      "amount": 37.5,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Perrin Caristi",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77719",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Preston Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77720",
+      "date": "2026-08-18 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Rachel Hulslander",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77721",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2763,7 +5639,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28510",
+      "id": "contrib-1792307282015-77722",
+      "date": "2026-08-25 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Reuben Rutland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77723",
+      "date": "2026-09-15 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Rhiannon Alobeid",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77724",
+      "date": "2026-10-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Rhonda Scott",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77725",
       "date": "2026-03-01 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2779,7 +5703,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28511",
+      "id": "contrib-1792307282015-77726",
+      "date": "2026-09-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Richard Hur",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Bothell",
+      "address_state": "WA",
+      "address_zip": "98012",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77727",
       "date": "2026-04-10 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2795,7 +5735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28512",
+      "id": "contrib-1792307282015-77728",
       "date": "2026-03-22 00:00:00",
       "amount": 40,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2811,7 +5751,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28513",
+      "id": "contrib-1792307282015-77729",
+      "date": "2026-08-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Dean",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77730",
       "date": "2026-01-18 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2827,7 +5783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28514",
+      "id": "contrib-1792307282015-77731",
       "date": "2026-02-22 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2843,7 +5799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28515",
+      "id": "contrib-1792307282015-77732",
       "date": "2026-03-22 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2859,7 +5815,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28516",
+      "id": "contrib-1792307282015-77733",
+      "date": "2026-04-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77734",
+      "date": "2026-05-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77735",
+      "date": "2026-06-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77736",
+      "date": "2026-07-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77737",
+      "date": "2026-08-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77738",
+      "date": "2026-09-16 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Michael Kominakis",
+      "contributor_type": "self",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77739",
       "date": "2026-02-08 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2875,7 +5927,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28517",
+      "id": "contrib-1792307282015-77740",
+      "date": "2026-07-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Ryan Sagar",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Littleton",
+      "address_state": "CO",
+      "address_zip": "80125",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77741",
       "date": "2026-03-01 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2891,7 +5959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28518",
+      "id": "contrib-1792307282015-77742",
       "date": "2026-03-22 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2907,7 +5975,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28519",
+      "id": "contrib-1792307282015-77743",
+      "date": "2026-10-05 00:00:00",
+      "amount": 30,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Sarah Holterhoff",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77744",
+      "date": "2026-08-28 00:00:00",
+      "amount": 6.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Scott Kingan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77745",
       "date": "2026-03-29 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2923,7 +6023,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28520",
+      "id": "contrib-1792307282015-77746",
+      "date": "2026-08-27 00:00:00",
+      "amount": 34.79,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Scott Watanabe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60615",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77747",
       "date": "2026-04-10 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2939,7 +6055,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28521",
+      "id": "contrib-1792307282015-77748",
+      "date": "2026-05-07 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77749",
+      "date": "2026-06-07 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77750",
+      "date": "2026-07-09 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77751",
+      "date": "2026-08-11 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77752",
+      "date": "2026-09-07 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77753",
+      "date": "2026-10-09 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Selina Rosales",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77754",
       "date": "2026-04-05 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2955,7 +6167,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28522",
+      "id": "contrib-1792307282015-77755",
+      "date": "2026-07-20 00:00:00",
+      "amount": 150,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Sharon Cruz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77756",
+      "date": "2026-09-27 00:00:00",
+      "amount": 16.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Sherdes Kubiak",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77757",
       "date": "2026-03-08 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2971,7 +6215,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28523",
+      "id": "contrib-1792307282015-77758",
+      "date": "2026-05-02 00:00:00",
+      "amount": 30,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Sherdes Kubiak",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77759",
+      "date": "2026-07-07 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Sherdes Kubiak",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77760",
+      "date": "2026-09-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Stephen Schnurr",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77761",
       "date": "2026-01-16 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Michael Kominakis",
@@ -2987,7 +6279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28524",
+      "id": "contrib-1792307282015-77762",
       "date": "2026-03-29 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3003,7 +6295,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28525",
+      "id": "contrib-1792307282015-77763",
+      "date": "2026-07-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Steven Ingram",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77764",
+      "date": "2026-05-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Susannah Larson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77765",
+      "date": "2026-06-29 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Susannah McClellan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77766",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3019,7 +6359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28526",
+      "id": "contrib-1792307282015-77767",
       "date": "2026-02-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3035,7 +6375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28527",
+      "id": "contrib-1792307282015-77768",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3051,7 +6391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28528",
+      "id": "contrib-1792307282015-77769",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3067,7 +6407,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28529",
+      "id": "contrib-1792307282015-77770",
+      "date": "2026-04-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77771",
+      "date": "2026-05-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77772",
+      "date": "2026-06-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77773",
+      "date": "2026-07-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77774",
+      "date": "2026-08-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77775",
+      "date": "2026-09-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77776",
+      "date": "2026-07-04 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77777",
+      "date": "2026-05-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77778",
       "date": "2026-02-01 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3083,7 +6551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28530",
+      "id": "contrib-1792307282015-77779",
       "date": "2026-01-25 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3099,7 +6567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28531",
+      "id": "contrib-1792307282015-77780",
       "date": "2026-02-22 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3115,7 +6583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28532",
+      "id": "contrib-1792307282015-77781",
       "date": "2026-03-22 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3131,7 +6599,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28533",
+      "id": "contrib-1792307282015-77782",
+      "date": "2026-04-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Teri Harrington",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77783",
+      "date": "2026-06-29 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Terry Eldred",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77784",
+      "date": "2026-04-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Terry Eldred",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77785",
+      "date": "2026-04-12 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Terry Eldred",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77786",
+      "date": "2026-04-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Terry Eldred",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77787",
+      "date": "2026-08-28 00:00:00",
+      "amount": 6.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Tessa Troutman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77788",
+      "date": "2026-06-19 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Tessa Troutman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77789",
       "date": "2026-01-18 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3147,7 +6727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28534",
+      "id": "contrib-1792307282015-77790",
       "date": "2026-04-05 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3163,7 +6743,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28535",
+      "id": "contrib-1792307282015-77791",
+      "date": "2026-06-03 00:00:00",
+      "amount": 2,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77792",
+      "date": "2026-06-18 00:00:00",
+      "amount": 2,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77793",
+      "date": "2026-08-12 00:00:00",
+      "amount": 2,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77794",
       "date": "2026-01-16 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3179,7 +6807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28536",
+      "id": "contrib-1792307282015-77795",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3195,7 +6823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28537",
+      "id": "contrib-1792307282015-77796",
       "date": "2026-03-29 00:00:00",
       "amount": 12.5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3211,7 +6839,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28538",
+      "id": "contrib-1792307282015-77797",
+      "date": "2026-05-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Todd Capouch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77798",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3227,7 +6871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28539",
+      "id": "contrib-1792307282015-77799",
       "date": "2026-01-18 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3243,7 +6887,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28540",
+      "id": "contrib-1792307282015-77800",
+      "date": "2026-08-28 00:00:00",
+      "amount": 8.34,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Tricia Reid",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77801",
+      "date": "2026-07-06 00:00:00",
+      "amount": 40,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Tyler Bridges",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Lowell",
+      "address_state": "IN",
+      "address_zip": "46356",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77802",
       "date": "2026-03-31 00:00:00",
       "amount": 160,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3259,7 +6935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28541",
+      "id": "contrib-1792307282015-77803",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3275,7 +6951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28542",
+      "id": "contrib-1792307282015-77804",
       "date": "2026-02-01 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3291,7 +6967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28543",
+      "id": "contrib-1792307282015-77805",
       "date": "2026-04-05 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3307,7 +6983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28544",
+      "id": "contrib-1792307282015-77806",
       "date": "2026-02-15 00:00:00",
       "amount": 5,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3323,7 +6999,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28545",
+      "id": "contrib-1792307282015-77807",
+      "date": "2026-09-27 00:00:00",
+      "amount": 66.67,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "William Durnell",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77808",
       "date": "2026-03-08 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3339,7 +7031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28546",
+      "id": "contrib-1792307282015-77809",
       "date": "2026-04-10 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3355,7 +7047,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28547",
+      "id": "contrib-1792307282015-77810",
+      "date": "2026-09-25 00:00:00",
+      "amount": 750,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "USW Local Union #12775 Non Federal 527 Account",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Porter",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77811",
+      "date": "2026-09-08 00:00:00",
+      "amount": 10469.4,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Indiana Democratic State Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77812",
+      "date": "2026-09-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "IN Power PAC, Inc.",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BARGERSVILLE",
+      "address_state": "IN",
+      "address_zip": "46106",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77813",
+      "date": "2026-10-07 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Indiana Political Action Committee for Education",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77814",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3371,7 +7127,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28548",
+      "id": "contrib-1792307282015-77815",
+      "date": "2026-08-31 00:00:00",
+      "amount": 7500,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77816",
+      "date": "2026-08-31 00:00:00",
+      "amount": 9000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77817",
+      "date": "2026-08-26 00:00:00",
+      "amount": 50000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "Indiana Political Action Committee for Education",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77818",
       "date": "2026-04-10 00:00:00",
       "amount": 140.52,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3387,7 +7191,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28549",
+      "id": "contrib-1792307282015-77819",
+      "date": "2026-08-26 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Ryan Michael Kominakis",
+      "contributor_name": "United Steel Workers Political Action Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pittsburgh",
+      "address_state": "PA",
+      "address_zip": "15222",
+      "recipient_committee": "Ryan Kominakis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77820",
       "date": "2026-04-06 00:00:00",
       "amount": 750,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3403,7 +7223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28550",
+      "id": "contrib-1792307282015-77821",
       "date": "2026-01-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",
@@ -3419,7 +7239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769736-28551",
+      "id": "contrib-1792307282015-77822",
       "date": "2026-03-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Kominakis",

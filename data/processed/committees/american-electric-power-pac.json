@@ -2,18 +2,18 @@
   "id": "american-electric-power-pac",
   "name": "American Electric Power PAC",
   "totals": {
-    "total_given": "3250.00",
-    "total_contributions": 4,
-    "candidates_supported": 4
+    "total_given": "5000.00",
+    "total_contributions": 6,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "1250.00"
+      "count": 3,
+      "total": "2000.00"
     },
     "large": {
-      "count": 2,
-      "total": "2000.00"
+      "count": 3,
+      "total": "3000.00"
     }
   },
   "by_month": {
@@ -24,9 +24,23 @@
     "2025-06": {
       "count": 2,
       "total": "1750.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "750.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "dave-allen-heine",
+      "name": "Dave Allen Heine",
+      "total": "1500.00",
+      "count": 2
+    },
     {
       "id": "elizabeth-marie-brown",
       "name": "Elizabeth  Marie Brown",
@@ -40,9 +54,9 @@
       "count": 1
     },
     {
-      "id": "dave-allen-heine",
-      "name": "Dave Allen Heine",
-      "total": "750.00",
+      "id": "timothy-wesco",
+      "name": "Timothy Wesco",
+      "total": "1000.00",
       "count": 1
     },
     {
@@ -54,7 +68,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769410-67051",
+      "id": "contrib-1792307281202-67051",
       "date": "2025-07-01 00:00:00",
       "amount": 500,
       "candidate_name": "C. Susan Glick",
@@ -70,7 +84,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79131",
+      "id": "contrib-1792307281213-79131",
       "date": "2025-07-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -86,7 +100,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80596",
+      "id": "contrib-1792307281215-80596",
       "date": "2025-06-24 00:00:00",
       "amount": 750,
       "candidate_name": "Dave Allen Heine",
@@ -102,7 +116,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83931",
+      "id": "contrib-1792307281218-83931",
       "date": "2025-06-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Justin Thomas Busch",
@@ -115,6 +129,38 @@
       "address_state": "OH",
       "address_zip": "43215",
       "recipient_committee": "Friends of Justin Busch",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281952-32460",
+      "date": "2026-07-31 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Timothy Wesco",
+      "contributor_name": "American Electric Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Wesco Victory Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45559",
+      "date": "2026-08-11 00:00:00",
+      "amount": 750,
+      "candidate_name": "Dave Allen Heine",
+      "contributor_name": "American Electric Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Citizens For Dave Heine",
       "source": "indiana"
     }
   ],

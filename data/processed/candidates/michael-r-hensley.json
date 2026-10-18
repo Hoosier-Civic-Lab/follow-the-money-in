@@ -6,38 +6,62 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "200.00",
-    "total_contributions": 1,
-    "total_itemized": 1,
+    "total_raised": "1210.00",
+    "total_contributions": 2,
+    "total_itemized": 2,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 1,
-      "total": "200.00"
+      "count": 2,
+      "total": "1210.00"
     }
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "200.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1010.00"
     }
   },
   "by_month": {
     "2026-01": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1010.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769748-33953",
+      "id": "contrib-1792307282044-91854",
       "date": "2026-01-31 00:00:00",
       "amount": 200,
       "candidate_name": "Michael R. Hensley",
       "contributor_name": "Michael R Hensley",
       "contributor_type": "individual",
       "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "North Manchester",
+      "address_state": "IN",
+      "address_zip": "46962",
+      "recipient_committee": "Michael Hensley Lady Liberty Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91855",
+      "date": "2026-04-21 00:00:00",
+      "amount": 1010,
+      "candidate_name": "Michael R. Hensley",
+      "contributor_name": "Michael R Hensley",
+      "contributor_type": "individual",
+      "contribution_size": "large",
       "occupation": "General Business",
       "occupation_category": "other",
       "address_city": "North Manchester",

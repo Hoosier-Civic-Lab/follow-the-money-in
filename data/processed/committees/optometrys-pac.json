@@ -2,14 +2,14 @@
   "id": "optometrys-pac",
   "name": "Optometry�s Pac",
   "totals": {
-    "total_given": "800.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "1800.00",
+    "total_contributions": 4,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "800.00"
+      "count": 4,
+      "total": "1800.00"
     }
   },
   "by_month": {
@@ -20,9 +20,23 @@
     "2025-08": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "lori-jo-goss-reaves",
+      "name": "Lori  Jo Goss-Reaves",
+      "total": "800.00",
+      "count": 2
+    },
     {
       "id": "jean-leising",
       "name": "Jean Leising",
@@ -30,15 +44,15 @@
       "count": 1
     },
     {
-      "id": "lori-jo-goss-reaves",
-      "name": "Lori  Jo Goss-Reaves",
-      "total": "300.00",
+      "id": "tyler-guthrie-johnson",
+      "name": "Tyler Guthrie Johnson",
+      "total": "500.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769404-64776",
+      "id": "contrib-1792307281197-64776",
       "date": "2025-12-31 00:00:00",
       "amount": 500,
       "candidate_name": "Jean Leising",
@@ -54,9 +68,41 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94783",
+      "id": "contrib-1792307281236-94783",
       "date": "2025-08-02 00:00:00",
       "amount": 300,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Optometry�s PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281984-55884",
+      "date": "2026-07-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tyler Guthrie Johnson",
+      "contributor_name": "Optometry�s PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62722",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
       "contributor_name": "Optometry�s PAC",
       "contributor_type": "committee",

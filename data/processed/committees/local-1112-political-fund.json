@@ -2,26 +2,51 @@
   "id": "local-1112-political-fund",
   "name": "Local 1112 Political Fund",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "12000.00",
+    "total_contributions": 4,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 4,
+      "total": "12000.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "j-andrew-dale",
+      "name": "J. Andrew Dale",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "kerry-joseph-forestal",
+      "name": "Kerry Joseph Forestal",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-415",
+      "id": "contrib-1792307281095-415",
       "date": "2025-07-10 00:00:00",
       "amount": 5000,
       "contributor_name": "Local 1112 Political Fund",
@@ -33,6 +58,53 @@
       "address_state": "IN",
       "address_zip": "47302",
       "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-455",
+      "date": "2026-08-13 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Local 1112 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88131",
+      "date": "2026-05-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "J. Andrew Dale",
+      "contributor_name": "Local 1112 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect Andrew Dale",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88440",
+      "date": "2026-09-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kerry Joseph Forestal",
+      "contributor_name": "Local 1112 Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Forestal for State Senate",
       "source": "indiana"
     }
   ],

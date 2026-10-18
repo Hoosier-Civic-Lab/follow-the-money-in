@@ -6,29 +6,29 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "1290.96",
-    "total_contributions": 16,
-    "total_itemized": 16,
+    "total_raised": "2141.95",
+    "total_contributions": 25,
+    "total_itemized": 25,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 15,
-      "total": "790.96"
+      "count": 23,
+      "total": "1341.95"
     },
     "committee": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 13,
-      "total": "185.99"
+      "count": 19,
+      "total": "290.13"
     },
     "medium": {
-      "count": 3,
-      "total": "1104.97"
+      "count": 6,
+      "total": "1851.82"
     }
   },
   "by_month": {
@@ -37,21 +37,37 @@
       "total": "617.34"
     },
     "2026-04": {
-      "count": 1,
-      "total": "5.56"
+      "count": 2,
+      "total": "80.56"
     },
     "2026-02": {
       "count": 6,
       "total": "305.28"
     },
+    "2026-09": {
+      "count": 4,
+      "total": "771.85"
+    },
     "2026-01": {
       "count": 1,
       "total": "362.78"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "2.14"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769756-34683",
+      "id": "contrib-1792307282048-94014",
       "date": "2026-03-10 00:00:00",
       "amount": 50,
       "candidate_name": "Austin David Meives",
@@ -67,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34684",
+      "id": "contrib-1792307282048-94015",
       "date": "2026-04-08 00:00:00",
       "amount": 5.56,
       "candidate_name": "Austin David Meives",
@@ -83,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34685",
+      "id": "contrib-1792307282048-94016",
       "date": "2026-02-27 00:00:00",
       "amount": 1,
       "candidate_name": "Austin David Meives",
@@ -99,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34686",
+      "id": "contrib-1792307282048-94017",
       "date": "2026-03-24 00:00:00",
       "amount": 25,
       "candidate_name": "Austin David Meives",
@@ -115,7 +131,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34687",
+      "id": "contrib-1792307282048-94018",
+      "date": "2026-09-10 00:00:00",
+      "amount": 196.85,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Austin Meives",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Peru",
+      "address_state": "IN",
+      "address_zip": "46970",
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94019",
       "date": "2026-02-07 00:00:00",
       "amount": 242.19,
       "candidate_name": "Austin David Meives",
@@ -131,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34688",
+      "id": "contrib-1792307282048-94020",
       "date": "2026-01-23 00:00:00",
       "amount": 362.78,
       "candidate_name": "Austin David Meives",
@@ -147,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34689",
+      "id": "contrib-1792307282048-94021",
       "date": "2026-03-07 00:00:00",
       "amount": 1.22,
       "candidate_name": "Austin David Meives",
@@ -163,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34690",
+      "id": "contrib-1792307282048-94022",
       "date": "2026-03-10 00:00:00",
       "amount": 10,
       "candidate_name": "Austin David Meives",
@@ -179,7 +211,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34691",
+      "id": "contrib-1792307282048-94023",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Dawn Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94024",
+      "date": "2026-09-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Duane Johansen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Peru",
+      "address_state": "IN",
+      "address_zip": "46970",
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94025",
+      "date": "2026-07-08 00:00:00",
+      "amount": 1,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Erin Braune",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94026",
       "date": "2026-02-21 00:00:00",
       "amount": 2.95,
       "candidate_name": "Austin David Meives",
@@ -195,7 +275,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34692",
+      "id": "contrib-1792307282048-94027",
+      "date": "2026-05-05 00:00:00",
+      "amount": 1.07,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Jessica escalante",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94028",
       "date": "2026-02-19 00:00:00",
       "amount": 7.82,
       "candidate_name": "Austin David Meives",
@@ -211,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34693",
+      "id": "contrib-1792307282048-94029",
       "date": "2026-03-19 00:00:00",
       "amount": 5,
       "candidate_name": "Austin David Meives",
@@ -227,7 +323,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34694",
+      "id": "contrib-1792307282048-94030",
+      "date": "2026-05-26 00:00:00",
+      "amount": 1.07,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Paul King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94031",
+      "date": "2026-09-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Ron Millar",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94032",
       "date": "2026-03-30 00:00:00",
       "amount": 1.12,
       "candidate_name": "Austin David Meives",
@@ -243,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34695",
+      "id": "contrib-1792307282048-94033",
       "date": "2026-03-07 00:00:00",
       "amount": 25,
       "candidate_name": "Austin David Meives",
@@ -259,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34696",
+      "id": "contrib-1792307282048-94034",
       "date": "2026-02-23 00:00:00",
       "amount": 1.32,
       "candidate_name": "Austin David Meives",
@@ -275,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34697",
+      "id": "contrib-1792307282048-94035",
       "date": "2026-02-09 00:00:00",
       "amount": 50,
       "candidate_name": "Austin David Meives",
@@ -291,7 +419,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34698",
+      "id": "contrib-1792307282048-94036",
+      "date": "2026-04-18 00:00:00",
+      "amount": 75,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "William Smith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94037",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "Austin David Meives",
@@ -303,6 +447,22 @@
       "address_city": "Logansport",
       "address_state": "IN",
       "address_zip": "46947",
+      "recipient_committee": "The Committee To Elect Austin Meives",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94038",
+      "date": "2026-09-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Austin David Meives",
+      "contributor_name": "Miami County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Peru",
+      "address_state": "IN",
+      "address_zip": "46970",
       "recipient_committee": "The Committee To Elect Austin Meives",
       "source": "indiana"
     }

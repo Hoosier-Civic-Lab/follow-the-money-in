@@ -3,35 +3,43 @@
   "office": "County Commissioner",
   "district": "Tipton",
   "totals": {
-    "total_raised": "101640.40",
-    "total_contributions": 2751
+    "total_raised": "207102.08",
+    "total_contributions": 4157
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 10,
-      "total": "23710.47"
+      "count": 21,
+      "total": "49785.47"
     },
     "individual": {
-      "count": 2741,
-      "total": "77929.93"
+      "count": 4108,
+      "total": "143773.86"
+    },
+    "unitemized": {
+      "count": 12,
+      "total": "37.50"
+    },
+    "committee": {
+      "count": 16,
+      "total": "13505.25"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 17,
-      "total": "27623.06"
+      "count": 42,
+      "total": "75785.35"
     },
     "mega": {
-      "count": 3,
-      "total": "40000.00"
+      "count": 5,
+      "total": "75000.00"
     },
     "small": {
-      "count": 2692,
-      "total": "25102.25"
+      "count": 4031,
+      "total": "32811.45"
     },
     "medium": {
-      "count": 39,
-      "total": "8915.09"
+      "count": 79,
+      "total": "23505.28"
     }
   },
   "by_month": {
@@ -59,6 +67,30 @@
       "count": 2,
       "total": "2041.02"
     },
+    "2026-05": {
+      "count": 374,
+      "total": "2503.59"
+    },
+    "2026-07": {
+      "count": 217,
+      "total": "1178.71"
+    },
+    "2026-06": {
+      "count": 87,
+      "total": "32239.37"
+    },
+    "2026-04": {
+      "count": 657,
+      "total": "27634.66"
+    },
+    "2026-09": {
+      "count": 186,
+      "total": "20630.45"
+    },
+    "2026-08": {
+      "count": 62,
+      "total": "8131.83"
+    },
     "2026-02": {
       "count": 1009,
       "total": "23654.65"
@@ -71,9 +103,9 @@
       "count": 56,
       "total": "3324.08"
     },
-    "2026-04": {
-      "count": 193,
-      "total": "852.78"
+    "2026-10": {
+      "count": 16,
+      "total": "13995.85"
     }
   },
   "candidates": [
@@ -82,8 +114,8 @@
       "name": "Tracey Bryan Powell",
       "party": "Republican",
       "totals": {
-        "total_raised": "101640.40",
-        "total_contributions": 2751
+        "total_raised": "207102.08",
+        "total_contributions": 4157
       },
       "by_month": {
         "2025-12": {
@@ -110,6 +142,30 @@
           "count": 2,
           "total": "2041.02"
         },
+        "2026-05": {
+          "count": 374,
+          "total": "2503.59"
+        },
+        "2026-07": {
+          "count": 217,
+          "total": "1178.71"
+        },
+        "2026-06": {
+          "count": 87,
+          "total": "32239.37"
+        },
+        "2026-04": {
+          "count": 657,
+          "total": "27634.66"
+        },
+        "2026-09": {
+          "count": 186,
+          "total": "20630.45"
+        },
+        "2026-08": {
+          "count": 62,
+          "total": "8131.83"
+        },
         "2026-02": {
           "count": 1009,
           "total": "23654.65"
@@ -122,9 +178,9 @@
           "count": 56,
           "total": "3324.08"
         },
-        "2026-04": {
-          "count": 193,
-          "total": "852.78"
+        "2026-10": {
+          "count": 16,
+          "total": "13995.85"
         }
       }
     }

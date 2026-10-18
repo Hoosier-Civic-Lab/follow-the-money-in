@@ -6,41 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "148845.42",
-    "total_contributions": 34,
-    "total_itemized": 34,
+    "total_raised": "178794.44",
+    "total_contributions": 54,
+    "total_itemized": 54,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 3,
-      "total": "1575.00"
+      "count": 5,
+      "total": "2215.99"
     },
     "individual": {
-      "count": 29,
-      "total": "134770.42"
+      "count": 40,
+      "total": "157328.45"
     },
     "committee": {
-      "count": 2,
-      "total": "12500.00"
+      "count": 9,
+      "total": "19250.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 17,
-      "total": "5535.50"
+      "count": 24,
+      "total": "8426.49"
     },
     "small": {
-      "count": 4,
-      "total": "152.62"
+      "count": 10,
+      "total": "162.09"
     },
     "large": {
-      "count": 7,
-      "total": "22100.00"
+      "count": 13,
+      "total": "36648.56"
     },
     "mega": {
-      "count": 6,
-      "total": "121057.30"
+      "count": 7,
+      "total": "133557.30"
     }
   },
   "by_month": {
@@ -48,18 +48,42 @@
       "count": 28,
       "total": "82728.78"
     },
+    "2026-10": {
+      "count": 6,
+      "total": "4700.00"
+    },
     "2026-02": {
       "count": 4,
       "total": "8616.64"
     },
     "2026-04": {
+      "count": 7,
+      "total": "63386.87"
+    },
+    "2026-09": {
       "count": 2,
-      "total": "57500.00"
+      "total": "341.26"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "0.21"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "0.22"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "750.26"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "18270.20"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769746-33228",
+      "id": "contrib-1792307282041-90138",
       "date": "2026-03-07 00:00:00",
       "amount": 500,
       "candidate_name": "Randall Lewis Retter",
@@ -75,7 +99,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33229",
+      "id": "contrib-1792307282041-90139",
+      "date": "2026-10-09 00:00:00",
+      "amount": 300,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "RJL Solutions, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90140",
       "date": "2026-03-26 00:00:00",
       "amount": 75,
       "candidate_name": "Randall Lewis Retter",
@@ -91,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33230",
+      "id": "contrib-1792307282041-90141",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lewis Retter",
@@ -107,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33231",
+      "id": "contrib-1792307282041-90142",
       "date": "2026-03-26 00:00:00",
       "amount": 250,
       "candidate_name": "Randall Lewis Retter",
@@ -123,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33232",
+      "id": "contrib-1792307282041-90143",
       "date": "2026-03-18 00:00:00",
       "amount": 500,
       "candidate_name": "Randall Lewis Retter",
@@ -139,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33233",
+      "id": "contrib-1792307282041-90144",
       "date": "2026-03-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Randall Lewis Retter",
@@ -155,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33234",
+      "id": "contrib-1792307282041-90145",
       "date": "2026-03-26 00:00:00",
       "amount": 276.94,
       "candidate_name": "Randall Lewis Retter",
@@ -171,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33235",
+      "id": "contrib-1792307282041-90146",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "Randall Lewis Retter",
@@ -187,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33236",
+      "id": "contrib-1792307282041-90147",
       "date": "2026-03-26 00:00:00",
       "amount": 817.09,
       "candidate_name": "Randall Lewis Retter",
@@ -203,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33237",
+      "id": "contrib-1792307282041-90148",
       "date": "2026-02-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Randall Lewis Retter",
@@ -219,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33238",
+      "id": "contrib-1792307282041-90149",
       "date": "2026-03-13 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lewis Retter",
@@ -235,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33239",
+      "id": "contrib-1792307282041-90150",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lewis Retter",
@@ -251,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33240",
+      "id": "contrib-1792307282041-90151",
       "date": "2026-03-26 00:00:00",
       "amount": 200,
       "candidate_name": "Randall Lewis Retter",
@@ -267,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33241",
+      "id": "contrib-1792307282041-90152",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lewis Retter",
@@ -283,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33242",
+      "id": "contrib-1792307282041-90153",
       "date": "2026-03-27 00:00:00",
       "amount": 400,
       "candidate_name": "Randall Lewis Retter",
@@ -299,7 +339,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33243",
+      "id": "contrib-1792307282041-90154",
+      "date": "2026-10-08 00:00:00",
+      "amount": 400,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Ron Jonas",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Hagerstown",
+      "address_state": "IN",
+      "address_zip": "47346",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90155",
+      "date": "2026-04-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Thomas A Brokamp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90156",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "Randall Lewis Retter",
@@ -315,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33244",
+      "id": "contrib-1792307282041-90157",
       "date": "2026-03-26 00:00:00",
       "amount": 475,
       "candidate_name": "Randall Lewis Retter",
@@ -331,7 +403,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33245",
+      "id": "contrib-1792307282041-90158",
+      "date": "2026-09-01 00:00:00",
+      "amount": 340.99,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Catalyst Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90159",
       "date": "2026-03-12 00:00:00",
       "amount": 100,
       "candidate_name": "Randall Lewis Retter",
@@ -347,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33246",
+      "id": "contrib-1792307282041-90160",
       "date": "2026-03-26 00:00:00",
       "amount": 75,
       "candidate_name": "Randall Lewis Retter",
@@ -363,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33247",
+      "id": "contrib-1792307282041-90161",
       "date": "2026-02-28 00:00:00",
       "amount": 0.17,
       "candidate_name": "Randall Lewis Retter",
@@ -379,7 +467,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33248",
+      "id": "contrib-1792307282041-90162",
+      "date": "2026-06-30 00:00:00",
+      "amount": 0.21,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90163",
+      "date": "2026-07-31 00:00:00",
+      "amount": 0.22,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90164",
+      "date": "2026-08-31 00:00:00",
+      "amount": 0.26,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90165",
+      "date": "2026-09-30 00:00:00",
+      "amount": 0.27,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90166",
       "date": "2026-03-31 00:00:00",
       "amount": 2.45,
       "candidate_name": "Randall Lewis Retter",
@@ -395,7 +547,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33249",
+      "id": "contrib-1792307282041-90167",
+      "date": "2026-05-31 00:00:00",
+      "amount": 2.85,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90168",
+      "date": "2026-04-30 00:00:00",
+      "amount": 5.66,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "First Bank Richmond",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47374",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90169",
       "date": "2026-02-23 00:00:00",
       "amount": 7500,
       "candidate_name": "Randall Lewis Retter",
@@ -411,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33250",
+      "id": "contrib-1792307282041-90170",
       "date": "2026-03-16 00:00:00",
       "amount": 7500,
       "candidate_name": "Randall Lewis Retter",
@@ -427,7 +611,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33251",
+      "id": "contrib-1792307282041-90171",
+      "date": "2026-05-04 00:00:00",
+      "amount": 12500,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90172",
       "date": "2026-04-06 00:00:00",
       "amount": 55000,
       "candidate_name": "Randall Lewis Retter",
@@ -443,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33252",
+      "id": "contrib-1792307282041-90173",
       "date": "2026-03-04 00:00:00",
       "amount": 10000,
       "candidate_name": "Randall Lewis Retter",
@@ -459,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33253",
+      "id": "contrib-1792307282041-90174",
       "date": "2026-03-17 00:00:00",
       "amount": 1600,
       "candidate_name": "Randall Lewis Retter",
@@ -475,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33254",
+      "id": "contrib-1792307282041-90175",
       "date": "2026-03-06 00:00:00",
       "amount": 21450,
       "candidate_name": "Randall Lewis Retter",
@@ -491,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33255",
+      "id": "contrib-1792307282041-90176",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "Randall Lewis Retter",
@@ -507,7 +707,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33256",
+      "id": "contrib-1792307282041-90177",
+      "date": "2026-04-29 00:00:00",
+      "amount": 3781.21,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90178",
+      "date": "2026-05-05 00:00:00",
+      "amount": 5767.35,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "HRCC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90179",
       "date": "2026-03-23 00:00:00",
       "amount": 14607.3,
       "candidate_name": "Randall Lewis Retter",
@@ -523,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33257",
+      "id": "contrib-1792307282041-90180",
       "date": "2026-02-22 00:00:00",
       "amount": 116.47,
       "candidate_name": "Randall Lewis Retter",
@@ -539,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33258",
+      "id": "contrib-1792307282041-90181",
       "date": "2026-03-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Randall Lewis Retter",
@@ -555,7 +787,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33259",
+      "id": "contrib-1792307282041-90182",
+      "date": "2026-04-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Frost Brown Todd PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90183",
       "date": "2026-03-20 00:00:00",
       "amount": 10000,
       "candidate_name": "Randall Lewis Retter",
@@ -571,7 +819,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33260",
+      "id": "contrib-1792307282041-90184",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Hoosiers for Quality Education Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90185",
       "date": "2026-03-30 00:00:00",
       "amount": 10000,
       "candidate_name": "Randall Lewis Retter",
@@ -587,7 +851,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33261",
+      "id": "contrib-1792307282041-90186",
+      "date": "2026-08-07 00:00:00",
+      "amount": 750,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Indiana Bankers Association PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90187",
+      "date": "2026-04-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90188",
+      "date": "2026-10-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90189",
+      "date": "2026-10-09 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Indiana Merit - Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90190",
       "date": "2026-04-01 00:00:00",
       "amount": 2500,
       "candidate_name": "Randall Lewis Retter",
@@ -599,6 +927,22 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Randy Retter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-90191",
+      "date": "2026-10-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Randall Lewis Retter",
+      "contributor_name": "Indiana Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
       "recipient_committee": "Committee to Elect Randy Retter",
       "source": "indiana"
     }

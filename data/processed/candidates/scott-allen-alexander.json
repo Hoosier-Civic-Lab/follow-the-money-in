@@ -6,37 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "45288.40",
-    "total_contributions": 68,
-    "total_itemized": 68,
-    "total_unitemized": 0
+    "total_raised": "174280.68",
+    "total_contributions": 121,
+    "total_itemized": 120,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "individual": {
-      "count": 38,
-      "total": "11440.44"
+      "count": 80,
+      "total": "55467.04"
     },
     "committee": {
-      "count": 28,
-      "total": "33247.96"
+      "count": 36,
+      "total": "115625.64"
     },
     "corporate": {
-      "count": 2,
-      "total": "600.00"
+      "count": 4,
+      "total": "1900.00"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "1288.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 10,
-      "total": "620.08"
+      "count": 17,
+      "total": "924.13"
     },
     "medium": {
-      "count": 45,
-      "total": "15720.36"
+      "count": 74,
+      "total": "21942.91"
     },
     "large": {
-      "count": 13,
-      "total": "28947.96"
+      "count": 27,
+      "total": "69735.96"
+    },
+    "mega": {
+      "count": 3,
+      "total": "81677.68"
     }
   },
   "by_month": {
@@ -64,26 +72,50 @@
       "count": 5,
       "total": "2350.00"
     },
+    "2026-09": {
+      "count": 4,
+      "total": "72077.68"
+    },
     "2026-01": {
       "count": 1,
       "total": "50.00"
     },
+    "2026-07": {
+      "count": 28,
+      "total": "43002.30"
+    },
+    "2026-08": {
+      "count": 8,
+      "total": "4258.20"
+    },
     "2026-03": {
       "count": 5,
       "total": "2446.66"
+    },
+    "2026-10": {
+      "count": 4,
+      "total": "2700.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "304.10"
     },
     "2026-02": {
       "count": 3,
       "total": "2500.00"
     },
     "2026-04": {
-      "count": 14,
-      "total": "20297.96"
+      "count": 20,
+      "total": "26647.96"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769438-91534",
+      "id": "contrib-1792307281233-91534",
       "date": "2025-12-29 00:00:00",
       "amount": 30,
       "candidate_name": "Scott Allen Alexander",
@@ -99,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91535",
+      "id": "contrib-1792307281233-91535",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -115,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91536",
+      "id": "contrib-1792307281233-91536",
       "date": "2025-12-16 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -131,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91537",
+      "id": "contrib-1792307281233-91537",
       "date": "2025-12-29 00:00:00",
       "amount": 200,
       "candidate_name": "Scott Allen Alexander",
@@ -147,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91538",
+      "id": "contrib-1792307281233-91538",
       "date": "2025-12-17 00:00:00",
       "amount": 96.06,
       "candidate_name": "Scott Allen Alexander",
@@ -163,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91539",
+      "id": "contrib-1792307281233-91539",
       "date": "2025-12-29 00:00:00",
       "amount": 25,
       "candidate_name": "Scott Allen Alexander",
@@ -179,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91540",
+      "id": "contrib-1792307281233-91540",
       "date": "2025-12-29 00:00:00",
       "amount": 75,
       "candidate_name": "Scott Allen Alexander",
@@ -195,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91541",
+      "id": "contrib-1792307281233-91541",
       "date": "2025-11-28 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -211,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91542",
+      "id": "contrib-1792307281233-91542",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -227,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91543",
+      "id": "contrib-1792307281233-91543",
       "date": "2025-11-24 00:00:00",
       "amount": 96.06,
       "candidate_name": "Scott Allen Alexander",
@@ -243,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91544",
+      "id": "contrib-1792307281233-91544",
       "date": "2025-12-29 00:00:00",
       "amount": 50,
       "candidate_name": "Scott Allen Alexander",
@@ -259,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91545",
+      "id": "contrib-1792307281233-91545",
       "date": "2025-08-26 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -275,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91546",
+      "id": "contrib-1792307281233-91546",
       "date": "2025-12-24 00:00:00",
       "amount": 192.12,
       "candidate_name": "Scott Allen Alexander",
@@ -291,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91547",
+      "id": "contrib-1792307281233-91547",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -307,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91548",
+      "id": "contrib-1792307281233-91548",
       "date": "2025-12-22 00:00:00",
       "amount": 96.06,
       "candidate_name": "Scott Allen Alexander",
@@ -323,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91549",
+      "id": "contrib-1792307281233-91549",
       "date": "2025-11-26 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -339,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91550",
+      "id": "contrib-1792307281233-91550",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -355,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91551",
+      "id": "contrib-1792307281233-91551",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Scott Allen Alexander",
@@ -371,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91552",
+      "id": "contrib-1792307281233-91552",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -387,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91553",
+      "id": "contrib-1792307281233-91553",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -403,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91554",
+      "id": "contrib-1792307281233-91554",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -419,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91555",
+      "id": "contrib-1792307281233-91555",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -435,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91556",
+      "id": "contrib-1792307281233-91556",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -451,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91557",
+      "id": "contrib-1792307281233-91557",
       "date": "2025-11-17 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -467,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91558",
+      "id": "contrib-1792307281233-91558",
       "date": "2025-07-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -483,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91559",
+      "id": "contrib-1792307281233-91559",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -499,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91560",
+      "id": "contrib-1792307281233-91560",
       "date": "2025-11-24 00:00:00",
       "amount": 350,
       "candidate_name": "Scott Allen Alexander",
@@ -515,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91561",
+      "id": "contrib-1792307281233-91561",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -531,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91562",
+      "id": "contrib-1792307281233-91562",
       "date": "2025-09-08 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -547,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91563",
+      "id": "contrib-1792307281233-91563",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -563,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91564",
+      "id": "contrib-1792307281233-91564",
       "date": "2025-09-08 00:00:00",
       "amount": 750,
       "candidate_name": "Scott Allen Alexander",
@@ -579,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91565",
+      "id": "contrib-1792307281233-91565",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -595,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91566",
+      "id": "contrib-1792307281233-91566",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -611,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91567",
+      "id": "contrib-1792307281233-91567",
       "date": "2025-09-08 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -627,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91568",
+      "id": "contrib-1792307281233-91568",
       "date": "2025-12-29 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -643,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91569",
+      "id": "contrib-1792307281233-91569",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -659,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91570",
+      "id": "contrib-1792307281233-91570",
       "date": "2025-08-26 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -675,7 +707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91571",
+      "id": "contrib-1792307281233-91571",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -691,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91572",
+      "id": "contrib-1792307281233-91572",
       "date": "2025-08-22 00:00:00",
       "amount": 3000,
       "candidate_name": "Scott Allen Alexander",
@@ -707,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91573",
+      "id": "contrib-1792307281233-91573",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -723,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91574",
+      "id": "contrib-1792307281233-91574",
       "date": "2025-08-21 00:00:00",
       "amount": 103.8,
       "candidate_name": "Scott Allen Alexander",
@@ -739,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91575",
+      "id": "contrib-1792307281233-91575",
       "date": "2025-08-21 00:00:00",
       "amount": 429.68,
       "candidate_name": "Scott Allen Alexander",
@@ -755,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91576",
+      "id": "contrib-1792307281233-91576",
       "date": "2025-08-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Scott Allen Alexander",
@@ -771,7 +803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91577",
+      "id": "contrib-1792307281233-91577",
       "date": "2025-10-24 00:00:00",
       "amount": 1500,
       "candidate_name": "Scott Allen Alexander",
@@ -787,7 +819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91578",
+      "id": "contrib-1792307281233-91578",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -803,7 +835,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22021",
+      "id": "contrib-1792307281988-59636",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "ANDREA L BAXTER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59637",
       "date": "2026-01-12 00:00:00",
       "amount": 50,
       "candidate_name": "Scott Allen Alexander",
@@ -819,7 +867,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22022",
+      "id": "contrib-1792307281988-59638",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "BELINDA M MUNSON",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59639",
+      "date": "2026-07-10 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "BILL WALTERS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59640",
+      "date": "2026-07-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "CHRIS HIATT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59641",
+      "date": "2026-07-06 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "CHRIS JENSEN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "NOBLESVILLE",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59642",
+      "date": "2026-08-13 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "COREY A REASON",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "YORKTOWN",
+      "address_state": "IN",
+      "address_zip": "47396",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59643",
+      "date": "2026-07-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "DALE BASHAM",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59644",
+      "date": "2026-08-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "DAN RIDENOUR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59645",
       "date": "2026-03-04 00:00:00",
       "amount": 50,
       "candidate_name": "Scott Allen Alexander",
@@ -835,7 +995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22023",
+      "id": "contrib-1792307281988-59646",
       "date": "2026-03-04 00:00:00",
       "amount": 200,
       "candidate_name": "Scott Allen Alexander",
@@ -851,7 +1011,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22024",
+      "id": "contrib-1792307281988-59647",
+      "date": "2026-10-09 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "JACK PECKINPAUGH",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "MUNCIE, IN",
+      "address_state": "IN",
+      "address_zip": "47302",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59648",
+      "date": "2026-09-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "JAMES R SCHRECONGOST",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59649",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "JANELLE REBER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59650",
+      "date": "2026-05-04 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "JEREMY  GARD",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ALBANY",
+      "address_state": "IN",
+      "address_zip": "47320",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59651",
       "date": "2026-02-13 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -867,7 +1091,359 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22025",
+      "id": "contrib-1792307281988-59652",
+      "date": "2026-08-13 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "JO R BOYCE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59653",
+      "date": "2026-07-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "KELCEY D ENGLING",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CICERO",
+      "address_state": "IN",
+      "address_zip": "46034",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59654",
+      "date": "2026-07-16 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LEON DIXON",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46226-1412",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59655",
+      "date": "2026-07-13 00:00:00",
+      "amount": 6000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LEON DIXON",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46226-1412",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59656",
+      "date": "2026-07-10 00:00:00",
+      "amount": 8000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LEON DIXON",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46226-1412",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59657",
+      "date": "2026-08-10 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LINDA GRAY",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59658",
+      "date": "2026-07-07 00:00:00",
+      "amount": 150,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LINDA MARDELLE",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59659",
+      "date": "2026-04-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LOYAL M & FLORAMAE CUTFORTH",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GASTON",
+      "address_state": "IN",
+      "address_zip": "47342-8937",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59660",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "MICHAEL ASHMAN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59661",
+      "date": "2026-08-13 00:00:00",
+      "amount": 400,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "PETER DRUMM",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59662",
+      "date": "2026-07-13 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "RICHARD IVY",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47303",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59663",
+      "date": "2026-08-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "ROBERT E RATCHFORD",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59664",
+      "date": "2026-07-10 00:00:00",
+      "amount": 350,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "RONALD L RABENSTEIN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304-5972",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59665",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "RONDA K ECKERTY",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "GASTON",
+      "address_state": "IN",
+      "address_zip": "47342-8951",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59666",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "SHANNON HENRY",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ALBANY",
+      "address_state": "IN",
+      "address_zip": "47320",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59667",
+      "date": "2026-08-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "STEPHEN D BRAND",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47302-9437",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59668",
+      "date": "2026-07-10 00:00:00",
+      "amount": 12,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "STEVEN M JUSTUS",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BERNE",
+      "address_state": "IN",
+      "address_zip": "46711",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59669",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "THEODORE A BAKER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59670",
+      "date": "2026-07-10 00:00:00",
+      "amount": 1288,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "UNITEMIZED UNITEMIZED",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59671",
+      "date": "2026-08-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "WHITNEY FREEMAN",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ALBANY",
+      "address_state": "IN",
+      "address_zip": "47320",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59672",
+      "date": "2026-07-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "WILLIAM  G FRAZIER",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47303-9491",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59673",
+      "date": "2026-07-10 00:00:00",
+      "amount": 40,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "ZACHARY Q CRAIG",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59674",
       "date": "2026-04-01 00:00:00",
       "amount": 750,
       "candidate_name": "Scott Allen Alexander",
@@ -883,7 +1459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22026",
+      "id": "contrib-1792307281988-59675",
       "date": "2026-04-01 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -899,7 +1475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22027",
+      "id": "contrib-1792307281988-59676",
       "date": "2026-04-01 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -915,7 +1491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22028",
+      "id": "contrib-1792307281988-59677",
       "date": "2026-02-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -931,7 +1507,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22029",
+      "id": "contrib-1792307281988-59678",
+      "date": "2026-07-27 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "FRIENDS OF CHRIS GARTEN",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HENRYVILLE",
+      "address_state": "IN",
+      "address_zip": "47126",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59679",
       "date": "2026-03-26 00:00:00",
       "amount": 51.9,
       "candidate_name": "Scott Allen Alexander",
@@ -947,7 +1539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22030",
+      "id": "contrib-1792307281988-59680",
       "date": "2026-03-05 00:00:00",
       "amount": 644.76,
       "candidate_name": "Scott Allen Alexander",
@@ -963,7 +1555,151 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22031",
+      "id": "contrib-1792307281988-59681",
+      "date": "2026-04-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "Indiana Farm Bureau AG Elect",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59682",
+      "date": "2026-09-29 00:00:00",
+      "amount": 50077.68,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "INDIANA REPUBLICAN STATE COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59683",
+      "date": "2026-04-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "INVENERGY LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CHICAGO",
+      "address_state": "IL",
+      "address_zip": "60606",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59684",
+      "date": "2026-07-10 00:00:00",
+      "amount": 150,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "J D PRESCOTT FOR STATE REPRESENTATIVE",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "UNION CITY",
+      "address_state": "IN",
+      "address_zip": "47390",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59685",
+      "date": "2026-07-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "KISHEL PHOTOGRAPHY",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47305",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59686",
+      "date": "2026-07-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "KISHEL PHOTOGRAPHY",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MUNCIE",
+      "address_state": "IN",
+      "address_zip": "47305",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59687",
+      "date": "2026-07-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "MICAH FOR LT. GOVERNOR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "NOBLESVILLE",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59688",
+      "date": "2026-04-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "NEW MILLENNIUM BUILDING SYSTEMS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "FORT WAYNE",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59689",
+      "date": "2026-07-10 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "RODRIC D BRAY FOR STATE SENATE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "MARTINSVILLE",
+      "address_state": "IN",
+      "address_zip": "46151-1141",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59690",
       "date": "2026-03-27 00:00:00",
       "amount": 1500,
       "candidate_name": "Scott Allen Alexander",
@@ -979,7 +1715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22032",
+      "id": "contrib-1792307281988-59691",
       "date": "2026-04-07 00:00:00",
       "amount": 7447.96,
       "candidate_name": "Scott Allen Alexander",
@@ -995,7 +1731,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22033",
+      "id": "contrib-1792307281988-59692",
+      "date": "2026-09-08 00:00:00",
+      "amount": 21600,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "SENATE MAJORITY CAMPAIGN COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59693",
+      "date": "2026-06-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "SIDE BY SIDE SERVICES LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "YORKTOWN",
+      "address_state": "IN",
+      "address_zip": "47396",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59694",
       "date": "2026-04-01 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -1011,7 +1779,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22034",
+      "id": "contrib-1792307281988-59695",
+      "date": "2026-04-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "ASSOCIATION OF BEVERAGE RETAILERS",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59696",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "BUILD INDIANA POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59697",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -1027,7 +1827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22035",
+      "id": "contrib-1792307281988-59698",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -1043,7 +1843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22036",
+      "id": "contrib-1792307281988-59699",
       "date": "2026-04-01 00:00:00",
       "amount": 300,
       "candidate_name": "Scott Allen Alexander",
@@ -1059,7 +1859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22037",
+      "id": "contrib-1792307281988-59700",
       "date": "2026-04-01 00:00:00",
       "amount": 600,
       "candidate_name": "Scott Allen Alexander",
@@ -1075,7 +1875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22038",
+      "id": "contrib-1792307281988-59701",
       "date": "2026-04-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -1091,7 +1891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22039",
+      "id": "contrib-1792307281988-59702",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -1107,7 +1907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22040",
+      "id": "contrib-1792307281988-59703",
       "date": "2026-04-01 00:00:00",
       "amount": 2000,
       "candidate_name": "Scott Allen Alexander",
@@ -1123,7 +1923,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22041",
+      "id": "contrib-1792307281988-59704",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "INDIANA MERIT-CONSTRUCTION PAC OF ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59705",
       "date": "2026-04-01 00:00:00",
       "amount": 5000,
       "candidate_name": "Scott Allen Alexander",
@@ -1139,7 +1955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22042",
+      "id": "contrib-1792307281988-59706",
       "date": "2026-02-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -1155,7 +1971,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22043",
+      "id": "contrib-1792307281988-59707",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "INDIANA STATE BUILDING & CONSTRUCTION TRADES COUNCIL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59708",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott Allen Alexander",
@@ -1167,6 +1999,54 @@
       "address_city": "INDIANAPOLIS",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59709",
+      "date": "2026-04-29 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "LAWYERS POLITICAL ACTION COMMITTEE OF INDIANA",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59710",
+      "date": "2026-05-22 00:00:00",
+      "amount": 200,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "NFIB INDIANA POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "NASHVILLE",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59711",
+      "date": "2026-07-10 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "OORAH! POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46082",
       "recipient_committee": "Committee to Elect Scott Alexander",
       "source": "indiana"
     }

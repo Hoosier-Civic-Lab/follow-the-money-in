@@ -2,14 +2,14 @@
   "id": "aci-pac",
   "name": "ACI PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "1750.00",
+    "total_contributions": 6,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1000.00"
+      "count": 6,
+      "total": "1750.00"
     }
   },
   "by_month": {
@@ -20,14 +20,28 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "250.00"
     }
   },
   "top_recipients": [
     {
       "id": "jacob-louis-teshka",
       "name": "Jacob Louis Teshka",
+      "total": "750.00",
+      "count": 2
+    },
+    {
+      "id": "maureen-anne-bauer",
+      "name": "Maureen Anne Bauer",
       "total": "500.00",
-      "count": 1
+      "count": 2
     },
     {
       "id": "david-lee-niezgodski",
@@ -36,15 +50,15 @@
       "count": 1
     },
     {
-      "id": "maureen-anne-bauer",
-      "name": "Maureen Anne Bauer",
+      "id": "dale-r-devon",
+      "name": "Dale R DeVon",
       "total": "250.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769423-80791",
+      "id": "contrib-1792307281215-80791",
       "date": "2025-08-29 00:00:00",
       "amount": 250,
       "candidate_name": "David Lee Niezgodski",
@@ -60,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84405",
+      "id": "contrib-1792307281218-84405",
       "date": "2025-11-24 00:00:00",
       "amount": 500,
       "candidate_name": "Jacob Louis Teshka",
@@ -76,8 +90,56 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85001",
+      "id": "contrib-1792307281219-85001",
       "date": "2025-08-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Maureen Anne Bauer",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Maureen Bauer for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33586",
+      "date": "2026-08-28 00:00:00",
+      "amount": 250,
+      "candidate_name": "Dale R DeVon",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Dale DeVon for State Rep",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50145",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "ACI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46601",
+      "recipient_committee": "Committee to Elect Jake Teshka",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50642",
+      "date": "2026-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Maureen Anne Bauer",
       "contributor_name": "ACI PAC",
@@ -93,26 +155,26 @@
     }
   ],
   "receipts": {
-    "total_raised": "17000.00",
-    "total_contributions": 2,
+    "total_raised": "39000.00",
+    "total_contributions": 4,
     "unique_donors": 1,
     "by_contributor_type": {
       "individual": {
-        "count": 2,
-        "total": "17000.00"
+        "count": 4,
+        "total": "39000.00"
       }
     },
     "top_donors": [
       {
         "name": "Daryl S Knip",
         "type": "individual",
-        "total": "17000.00",
-        "count": 2
+        "total": "39000.00",
+        "count": 4
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769426-85208",
+        "id": "contrib-1792307281219-85208",
         "date": "2025-10-28 00:00:00",
         "amount": 5000,
         "contributor_name": "Daryl S Knip",
@@ -127,7 +189,37 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769700-17735",
+        "id": "contrib-1792307281975-50832",
+        "date": "2026-05-26 00:00:00",
+        "amount": 12000,
+        "contributor_name": "Daryl S Knip",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46601",
+        "recipient_committee": "ACI PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50833",
+        "date": "2026-09-30 00:00:00",
+        "amount": 10000,
+        "contributor_name": "Daryl S Knip",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46601",
+        "recipient_committee": "ACI PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50834",
         "date": "2026-01-27 00:00:00",
         "amount": 12000,
         "contributor_name": "Daryl S Knip",

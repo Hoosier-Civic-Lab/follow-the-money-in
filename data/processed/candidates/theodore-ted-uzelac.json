@@ -6,33 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "42860.19",
-    "total_contributions": 9,
-    "total_itemized": 9,
+    "total_raised": "183207.33",
+    "total_contributions": 36,
+    "total_itemized": 36,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 5,
-      "total": "5010.74"
+      "count": 19,
+      "total": "6444.89"
     },
     "committee": {
-      "count": 4,
-      "total": "37849.45"
+      "count": 15,
+      "total": "176747.13"
+    },
+    "corporate": {
+      "count": 2,
+      "total": "15.31"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "908.20"
+      "count": 12,
+      "total": "2715.14"
     },
     "mega": {
-      "count": 2,
-      "total": "35250.00"
+      "count": 7,
+      "total": "154171.28"
     },
     "large": {
-      "count": 4,
-      "total": "6701.99"
+      "count": 10,
+      "total": "28183.75"
+    },
+    "small": {
+      "count": 7,
+      "total": "-1862.84"
     }
   },
   "by_month": {
@@ -52,14 +60,38 @@
       "count": 1,
       "total": "1599.45"
     },
+    "2026-09": {
+      "count": 10,
+      "total": "32972.33"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "15.00"
+    },
+    "2026-10": {
+      "count": 7,
+      "total": "73984.81"
+    },
     "2026-01": {
       "count": 1,
       "total": "2602.54"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "28750.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-04": {
+      "count": 6,
+      "total": "4375.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769446-100624",
+      "id": "contrib-1792307281241-100624",
       "date": "2025-11-15 00:00:00",
       "amount": 208.2,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -75,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100625",
+      "id": "contrib-1792307281241-100625",
       "date": "2025-11-14 00:00:00",
       "amount": 500,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -91,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100626",
+      "id": "contrib-1792307281241-100626",
       "date": "2025-08-21 00:00:00",
       "amount": 200,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -107,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100627",
+      "id": "contrib-1792307281241-100627",
       "date": "2025-11-24 00:00:00",
       "amount": 20000,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -123,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100628",
+      "id": "contrib-1792307281241-100628",
       "date": "2025-09-29 00:00:00",
       "amount": 15250,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -139,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100629",
+      "id": "contrib-1792307281241-100629",
       "date": "2025-10-03 00:00:00",
       "amount": 1599.45,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -155,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100630",
+      "id": "contrib-1792307281241-100630",
       "date": "2025-11-25 00:00:00",
       "amount": 1500,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -171,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100631",
+      "id": "contrib-1792307281241-100631",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -187,7 +219,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769734-27943",
+      "id": "contrib-1792307282013-75901",
+      "date": "2026-09-09 00:00:00",
+      "amount": 0.31,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Arena Mail & Digital",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Salt Lake City",
+      "address_state": "UT",
+      "address_zip": "84106",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75902",
+      "date": "2026-05-04 00:00:00",
+      "amount": 15,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "BMO Harris Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75903",
+      "date": "2026-10-05 00:00:00",
+      "amount": 26.03,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Andrew Rios",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75904",
       "date": "2026-01-27 00:00:00",
       "amount": 2602.54,
       "candidate_name": "Theodore (Ted) Uzelac",
@@ -199,6 +279,390 @@
       "address_city": "Valparaiso",
       "address_state": "IN",
       "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75905",
+      "date": "2026-06-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Edward Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75906",
+      "date": "2026-07-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Edward Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75907",
+      "date": "2026-10-04 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "John Bernbom",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75908",
+      "date": "2026-04-13 00:00:00",
+      "amount": 75,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Kenneth Miller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75909",
+      "date": "2026-09-23 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Martin Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Orleans",
+      "address_state": "LA",
+      "address_zip": "70124",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75910",
+      "date": "2026-09-16 00:00:00",
+      "amount": 20.82,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Tyler Rettig",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75911",
+      "date": "2026-10-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Victoria Vasquez",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75912",
+      "date": "2026-09-19 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "William Mesich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75913",
+      "date": "2026-04-30 00:00:00",
+      "amount": -1000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "International Longshoremans Association Local 1969",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75914",
+      "date": "2026-04-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "International Longshoremans Association Local 1969",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75915",
+      "date": "2026-04-30 00:00:00",
+      "amount": -1000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "International Longshoremans Association Local 2038",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75916",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "International Longshoremans Association Local 2038",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75917",
+      "date": "2026-04-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "United Steel Workers Local 6103",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75918",
+      "date": "2026-10-04 00:00:00",
+      "amount": 233.4,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Committee To Elect Pat Clem",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75919",
+      "date": "2026-04-13 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75920",
+      "date": "2026-09-08 00:00:00",
+      "amount": 8000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75921",
+      "date": "2026-10-09 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75922",
+      "date": "2026-09-14 00:00:00",
+      "amount": 17000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75923",
+      "date": "2026-10-04 00:00:00",
+      "amount": 32500,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75924",
+      "date": "2026-09-09 00:00:00",
+      "amount": 261.24,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75925",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1481.76,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75926",
+      "date": "2026-06-26 00:00:00",
+      "amount": 28550,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75927",
+      "date": "2026-10-08 00:00:00",
+      "amount": 30871.28,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Ted Uzelac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75928",
+      "date": "2026-09-17 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Theodore (Ted) Uzelac",
+      "contributor_name": "Northern Indiana Operators Joint Labor Management PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Countryside",
+      "address_state": "IL",
+      "address_zip": "60525",
       "recipient_committee": "Committee to Elect Ted Uzelac",
       "source": "indiana"
     }

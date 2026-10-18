@@ -6,33 +6,33 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "8200.00",
-    "total_contributions": 10,
-    "total_itemized": 10,
+    "total_raised": "22550.00",
+    "total_contributions": 20,
+    "total_itemized": 20,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "600.00"
     },
     "committee": {
-      "count": 7,
-      "total": "7100.00"
+      "count": 13,
+      "total": "19700.00"
     },
     "individual": {
-      "count": 2,
-      "total": "800.00"
+      "count": 5,
+      "total": "2250.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 7,
-      "total": "2700.00"
+      "count": 13,
+      "total": "4650.00"
     },
     "large": {
-      "count": 3,
-      "total": "5500.00"
+      "count": 7,
+      "total": "17900.00"
     }
   },
   "by_month": {
@@ -44,6 +44,18 @@
       "count": 4,
       "total": "1600.00"
     },
+    "2026-09": {
+      "count": 7,
+      "total": "4450.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "6400.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "3500.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "2500.00"
@@ -51,7 +63,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769358-31825",
+      "id": "contrib-1792307281151-31825",
       "date": "2025-11-26 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan Michael Dvorak",
@@ -67,7 +79,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31826",
+      "id": "contrib-1792307281151-31826",
       "date": "2025-11-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Ryan Michael Dvorak",
@@ -83,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31827",
+      "id": "contrib-1792307281151-31827",
       "date": "2025-11-26 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Dvorak",
@@ -99,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31828",
+      "id": "contrib-1792307281151-31828",
       "date": "2025-12-22 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan Michael Dvorak",
@@ -115,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31829",
+      "id": "contrib-1792307281151-31829",
       "date": "2025-11-26 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan Michael Dvorak",
@@ -131,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31830",
+      "id": "contrib-1792307281151-31830",
       "date": "2025-12-19 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan Michael Dvorak",
@@ -147,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31831",
+      "id": "contrib-1792307281151-31831",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Dvorak",
@@ -163,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31832",
+      "id": "contrib-1792307281151-31832",
       "date": "2025-11-26 00:00:00",
       "amount": 2000,
       "candidate_name": "Ryan Michael Dvorak",
@@ -179,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31833",
+      "id": "contrib-1792307281151-31833",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Michael Dvorak",
@@ -195,7 +207,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9744",
+      "id": "contrib-1792307281940-26207",
+      "date": "2026-09-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Clinton  McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26208",
+      "date": "2026-10-07 00:00:00",
+      "amount": 6400,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Indiana Democratic State Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26209",
+      "date": "2026-09-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26210",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26211",
       "date": "2026-02-02 00:00:00",
       "amount": 2500,
       "candidate_name": "Ryan Michael Dvorak",
@@ -207,6 +283,102 @@
       "address_city": "Washington",
       "address_state": "DC",
       "address_zip": "20001",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26212",
+      "date": "2026-08-03 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "IBEW PAC Voluntary Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26213",
+      "date": "2026-09-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26214",
+      "date": "2026-09-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26215",
+      "date": "2026-09-21 00:00:00",
+      "amount": 400,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26216",
+      "date": "2026-09-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "Indiana Firefighter's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Ryan Dvorak for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26217",
+      "date": "2026-09-21 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Ryan Michael Dvorak",
+      "contributor_name": "LAWYERS POLITICAL ACTION COMMITTEE OF INDIANA",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Ryan Dvorak for State Representative",
       "source": "indiana"
     }

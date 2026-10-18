@@ -2,18 +2,22 @@
   "id": "indiana-iron-workers-pac",
   "name": "Indiana Iron Workers PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "1000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-11": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
       "count": 1,
       "total": "500.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "joanna-king",
       "name": "Joanna King",
-      "total": "500.00",
-      "count": 1
+      "total": "1000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769422-80277",
+      "id": "contrib-1792307281215-80277",
       "date": "2025-11-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Joanna King",
+      "contributor_name": "Indiana Iron Workers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Joanna King for the People",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45250",
+      "date": "2026-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Joanna King",
       "contributor_name": "Indiana Iron Workers PAC",

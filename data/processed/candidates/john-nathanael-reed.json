@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "7508.68",
-    "total_contributions": 33,
-    "total_itemized": 27,
+    "total_raised": "16393.92",
+    "total_contributions": 47,
+    "total_itemized": 41,
     "total_unitemized": 6
   },
   "by_contributor_type": {
@@ -16,37 +16,45 @@
       "count": 6,
       "total": "550.00"
     },
-    "individual": {
-      "count": 25,
-      "total": "6358.68"
-    },
-    "committee": {
+    "corporate": {
       "count": 2,
       "total": "600.00"
+    },
+    "individual": {
+      "count": 32,
+      "total": "7843.92"
+    },
+    "committee": {
+      "count": 7,
+      "total": "7400.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 4,
-      "total": "204.10"
+      "count": 6,
+      "total": "306.15"
     },
     "medium": {
-      "count": 28,
-      "total": "6304.58"
+      "count": 38,
+      "total": "9587.77"
     },
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 3,
+      "total": "6500.00"
     }
   },
   "by_month": {
     "2026-04": {
-      "count": 12,
-      "total": "1304.10"
+      "count": 16,
+      "total": "1974.10"
     },
     "2026-03": {
       "count": 8,
       "total": "1882.81"
+    },
+    "2026-09": {
+      "count": 4,
+      "total": "6100.00"
     },
     "2026-02": {
       "count": 6,
@@ -55,11 +63,23 @@
     "2026-01": {
       "count": 7,
       "total": "2488.96"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "763.19"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "52.05"
+    },
+    "2026-08": {
+      "count": 3,
+      "total": "1300.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769745-32666",
+      "id": "contrib-1792307282039-88842",
       "date": "2026-04-04 00:00:00",
       "amount": 50,
       "candidate_name": "John Nathanael Reed",
@@ -75,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32667",
+      "id": "contrib-1792307282039-88843",
       "date": "2026-03-21 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -91,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32668",
+      "id": "contrib-1792307282039-88844",
       "date": "2026-04-02 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -107,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32669",
+      "id": "contrib-1792307282039-88845",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -123,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32670",
+      "id": "contrib-1792307282039-88846",
       "date": "2026-04-05 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -139,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32671",
+      "id": "contrib-1792307282039-88847",
       "date": "2026-04-07 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -155,7 +175,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32672",
+      "id": "contrib-1792307282039-88848",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88849",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88850",
       "date": "2026-04-04 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Nathanael Reed",
@@ -171,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32673",
+      "id": "contrib-1792307282039-88851",
       "date": "2026-02-09 00:00:00",
       "amount": 728.71,
       "candidate_name": "John Nathanael Reed",
@@ -187,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32674",
+      "id": "contrib-1792307282039-88852",
       "date": "2026-04-04 00:00:00",
       "amount": 50,
       "candidate_name": "John Nathanael Reed",
@@ -203,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32675",
+      "id": "contrib-1792307282039-88853",
       "date": "2026-04-07 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -219,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32676",
+      "id": "contrib-1792307282039-88854",
       "date": "2026-01-26 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Nathanael Reed",
@@ -235,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32677",
+      "id": "contrib-1792307282039-88855",
       "date": "2026-03-03 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Nathanael Reed",
@@ -251,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32678",
+      "id": "contrib-1792307282039-88856",
       "date": "2026-01-22 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Nathanael Reed",
@@ -267,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32679",
+      "id": "contrib-1792307282039-88857",
       "date": "2026-02-25 00:00:00",
       "amount": 400,
       "candidate_name": "John Nathanael Reed",
@@ -283,7 +335,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32680",
+      "id": "contrib-1792307282039-88858",
+      "date": "2026-04-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Howard Cottengim",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88859",
       "date": "2026-04-05 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -299,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32681",
+      "id": "contrib-1792307282039-88860",
       "date": "2026-02-14 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Nathanael Reed",
@@ -315,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32682",
+      "id": "contrib-1792307282039-88861",
       "date": "2026-01-20 00:00:00",
       "amount": 52.05,
       "candidate_name": "John Nathanael Reed",
@@ -331,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32683",
+      "id": "contrib-1792307282039-88862",
       "date": "2026-03-22 00:00:00",
       "amount": 150,
       "candidate_name": "John Nathanael Reed",
@@ -347,7 +415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32684",
+      "id": "contrib-1792307282039-88863",
       "date": "2026-04-04 00:00:00",
       "amount": 200,
       "candidate_name": "John Nathanael Reed",
@@ -363,7 +431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32685",
+      "id": "contrib-1792307282039-88864",
       "date": "2026-01-18 00:00:00",
       "amount": 52.05,
       "candidate_name": "John Nathanael Reed",
@@ -379,7 +447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32686",
+      "id": "contrib-1792307282039-88865",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -395,7 +463,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32687",
+      "id": "contrib-1792307282039-88866",
+      "date": "2026-04-30 00:00:00",
+      "amount": 420,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "John N Reed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88867",
       "date": "2026-01-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Nathanael Reed",
@@ -411,7 +495,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32688",
+      "id": "contrib-1792307282039-88868",
+      "date": "2026-07-05 00:00:00",
+      "amount": 663.19,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "John N Reed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88869",
+      "date": "2026-05-02 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Joshua Covert",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88870",
       "date": "2026-03-31 00:00:00",
       "amount": 200,
       "candidate_name": "John Nathanael Reed",
@@ -427,7 +543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32689",
+      "id": "contrib-1792307282039-88871",
       "date": "2026-01-20 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Nathanael Reed",
@@ -443,7 +559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32690",
+      "id": "contrib-1792307282039-88872",
       "date": "2026-03-12 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Nathanael Reed",
@@ -459,7 +575,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32691",
+      "id": "contrib-1792307282039-88873",
+      "date": "2026-07-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Renee Olibo",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88874",
       "date": "2026-02-04 00:00:00",
       "amount": 300,
       "candidate_name": "John Nathanael Reed",
@@ -475,7 +607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32692",
+      "id": "contrib-1792307282039-88875",
       "date": "2026-03-11 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -491,7 +623,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32693",
+      "id": "contrib-1792307282039-88876",
+      "date": "2026-04-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Ron & Donna  Bates",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88877",
       "date": "2026-02-11 00:00:00",
       "amount": 200,
       "candidate_name": "John Nathanael Reed",
@@ -507,7 +655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32694",
+      "id": "contrib-1792307282039-88878",
       "date": "2026-04-05 00:00:00",
       "amount": 200,
       "candidate_name": "John Nathanael Reed",
@@ -523,7 +671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32695",
+      "id": "contrib-1792307282039-88879",
       "date": "2026-01-07 00:00:00",
       "amount": 1000,
       "candidate_name": "John Nathanael Reed",
@@ -539,7 +687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32696",
+      "id": "contrib-1792307282039-88880",
       "date": "2026-03-11 00:00:00",
       "amount": 208.2,
       "candidate_name": "John Nathanael Reed",
@@ -555,7 +703,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32697",
+      "id": "contrib-1792307282039-88881",
+      "date": "2026-04-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Wayne & Deanna Denton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88882",
       "date": "2026-02-28 00:00:00",
       "amount": 100,
       "candidate_name": "John Nathanael Reed",
@@ -571,7 +735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32698",
+      "id": "contrib-1792307282039-88883",
       "date": "2026-03-10 00:00:00",
       "amount": 500,
       "candidate_name": "John Nathanael Reed",
@@ -583,6 +747,86 @@
       "address_city": "Osceola",
       "address_state": "IN",
       "address_zip": "46561",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88884",
+      "date": "2026-09-01 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Hoosiers for Quality Education Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88885",
+      "date": "2026-09-20 00:00:00",
+      "amount": 3000,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Indiana Merit Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88886",
+      "date": "2026-08-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88887",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect John Reed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88888",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Nathanael Reed",
+      "contributor_name": "Indiana Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
       "recipient_committee": "Committee to Elect John Reed",
       "source": "indiana"
     }

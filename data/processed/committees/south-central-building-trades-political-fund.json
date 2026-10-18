@@ -2,28 +2,47 @@
   "id": "south-central-building-trades-political-fund",
   "name": "South Central Building Trades Political Fund",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 1,
+    "total_given": "4500.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 2,
+      "total": "4500.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769305-420",
+      "id": "contrib-1792307281095-420",
       "date": "2025-07-30 00:00:00",
       "amount": 2000,
+      "contributor_name": "South Central Building Trades Political Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-460",
+      "date": "2026-07-13 00:00:00",
+      "amount": 2500,
       "contributor_name": "South Central Building Trades Political Fund",
       "contributor_type": "committee",
       "contribution_size": "large",

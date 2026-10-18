@@ -6,29 +6,33 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "13554.91",
-    "total_contributions": 62,
-    "total_itemized": 62,
+    "total_raised": "25155.73",
+    "total_contributions": 138,
+    "total_itemized": 138,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 62,
-      "total": "13554.91"
+      "count": 136,
+      "total": "23655.73"
+    },
+    "committee": {
+      "count": 2,
+      "total": "1500.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 37,
-      "total": "10309.35"
+      "count": 98,
+      "total": "20530.17"
     },
     "small": {
-      "count": 23,
-      "total": "1043.18"
+      "count": 37,
+      "total": "1423.18"
     },
     "large": {
-      "count": 2,
-      "total": "2202.38"
+      "count": 3,
+      "total": "3202.38"
     }
   },
   "by_month": {
@@ -68,6 +72,34 @@
       "count": 3,
       "total": "2228.32"
     },
+    "2026-07": {
+      "count": 27,
+      "total": "3975.00"
+    },
+    "2026-04": {
+      "count": 5,
+      "total": "331.70"
+    },
+    "2026-05": {
+      "count": 5,
+      "total": "475.00"
+    },
+    "2026-06": {
+      "count": 4,
+      "total": "650.00"
+    },
+    "2026-08": {
+      "count": 20,
+      "total": "2920.82"
+    },
+    "2026-09": {
+      "count": 8,
+      "total": "680.00"
+    },
+    "2026-10": {
+      "count": 9,
+      "total": "2675.00"
+    },
     "2026-03": {
       "count": 4,
       "total": "563.68"
@@ -79,15 +111,11 @@
     "2026-02": {
       "count": 3,
       "total": "205.56"
-    },
-    "2026-04": {
-      "count": 2,
-      "total": "106.70"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769438-90953",
+      "id": "contrib-1792307281232-90953",
       "date": "2025-10-27 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -103,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90954",
+      "id": "contrib-1792307281232-90954",
       "date": "2025-10-08 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -119,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90955",
+      "id": "contrib-1792307281232-90955",
       "date": "2025-06-09 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -135,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90956",
+      "id": "contrib-1792307281232-90956",
       "date": "2025-12-31 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -151,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90957",
+      "id": "contrib-1792307281232-90957",
       "date": "2025-12-31 00:00:00",
       "amount": 25,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -167,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90958",
+      "id": "contrib-1792307281232-90958",
       "date": "2025-12-18 00:00:00",
       "amount": 250,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -183,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90959",
+      "id": "contrib-1792307281232-90959",
       "date": "2025-10-08 00:00:00",
       "amount": 25,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -199,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90960",
+      "id": "contrib-1792307281232-90960",
       "date": "2025-12-31 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -215,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90961",
+      "id": "contrib-1792307281232-90961",
       "date": "2025-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -231,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90962",
+      "id": "contrib-1792307281232-90962",
       "date": "2025-08-12 00:00:00",
       "amount": 250,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -247,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90963",
+      "id": "contrib-1792307281232-90963",
       "date": "2025-10-08 00:00:00",
       "amount": 500,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -263,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90964",
+      "id": "contrib-1792307281232-90964",
       "date": "2025-10-08 00:00:00",
       "amount": 50,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -279,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90965",
+      "id": "contrib-1792307281232-90965",
       "date": "2025-10-08 00:00:00",
       "amount": 150,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -295,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90966",
+      "id": "contrib-1792307281232-90966",
       "date": "2025-09-22 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -311,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90967",
+      "id": "contrib-1792307281232-90967",
       "date": "2025-01-25 00:00:00",
       "amount": 123,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -327,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90968",
+      "id": "contrib-1792307281232-90968",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -343,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90969",
+      "id": "contrib-1792307281232-90969",
       "date": "2025-10-08 00:00:00",
       "amount": 25,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -359,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90970",
+      "id": "contrib-1792307281232-90970",
       "date": "2025-10-08 00:00:00",
       "amount": 150,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -375,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90971",
+      "id": "contrib-1792307281232-90971",
       "date": "2025-07-08 00:00:00",
       "amount": 110,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -391,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90972",
+      "id": "contrib-1792307281232-90972",
       "date": "2025-10-08 00:00:00",
       "amount": 100,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -407,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90973",
+      "id": "contrib-1792307281232-90973",
       "date": "2025-06-03 00:00:00",
       "amount": 28.81,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -423,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90974",
+      "id": "contrib-1792307281232-90974",
       "date": "2025-06-18 00:00:00",
       "amount": 38.42,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -439,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90975",
+      "id": "contrib-1792307281232-90975",
       "date": "2025-06-25 00:00:00",
       "amount": 43.22,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -455,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90976",
+      "id": "contrib-1792307281232-90976",
       "date": "2025-10-29 00:00:00",
       "amount": 48.02,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -471,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90977",
+      "id": "contrib-1792307281232-90977",
       "date": "2025-12-10 00:00:00",
       "amount": 48.02,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -487,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90978",
+      "id": "contrib-1792307281232-90978",
       "date": "2025-07-02 00:00:00",
       "amount": 72.03,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -503,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90979",
+      "id": "contrib-1792307281232-90979",
       "date": "2025-12-17 00:00:00",
       "amount": 72.03,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -519,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90980",
+      "id": "contrib-1792307281232-90980",
       "date": "2025-06-11 00:00:00",
       "amount": 96.05,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -535,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90981",
+      "id": "contrib-1792307281232-90981",
       "date": "2025-10-01 00:00:00",
       "amount": 96.05,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -551,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90982",
+      "id": "contrib-1792307281232-90982",
       "date": "2025-11-19 00:00:00",
       "amount": 96.05,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -567,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90983",
+      "id": "contrib-1792307281232-90983",
       "date": "2025-08-27 00:00:00",
       "amount": 120.06,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -583,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90984",
+      "id": "contrib-1792307281232-90984",
       "date": "2025-07-09 00:00:00",
       "amount": 144.07,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -599,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90985",
+      "id": "contrib-1792307281232-90985",
       "date": "2025-11-26 00:00:00",
       "amount": 144.07,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -615,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90986",
+      "id": "contrib-1792307281232-90986",
       "date": "2025-08-20 00:00:00",
       "amount": 163.28,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -631,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90987",
+      "id": "contrib-1792307281232-90987",
       "date": "2025-07-16 00:00:00",
       "amount": 192.1,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -647,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90988",
+      "id": "contrib-1792307281232-90988",
       "date": "2025-07-30 00:00:00",
       "amount": 240.12,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -663,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90989",
+      "id": "contrib-1792307281232-90989",
       "date": "2025-08-06 00:00:00",
       "amount": 240.12,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -679,7 +707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90990",
+      "id": "contrib-1792307281232-90990",
       "date": "2025-09-24 00:00:00",
       "amount": 286.21,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -695,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90991",
+      "id": "contrib-1792307281232-90991",
       "date": "2025-10-03 00:00:00",
       "amount": 336.17,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -711,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90992",
+      "id": "contrib-1792307281232-90992",
       "date": "2025-05-20 00:00:00",
       "amount": 379.39,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -727,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90993",
+      "id": "contrib-1792307281232-90993",
       "date": "2025-12-31 00:00:00",
       "amount": 382.22,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -743,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90994",
+      "id": "contrib-1792307281232-90994",
       "date": "2025-10-08 00:00:00",
       "amount": 441.82,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -759,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90995",
+      "id": "contrib-1792307281232-90995",
       "date": "2025-12-24 00:00:00",
       "amount": 504.26,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -775,7 +803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90996",
+      "id": "contrib-1792307281232-90996",
       "date": "2025-10-16 00:00:00",
       "amount": 576.29,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -791,7 +819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90997",
+      "id": "contrib-1792307281232-90997",
       "date": "2025-06-04 00:00:00",
       "amount": 648.33,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -807,7 +835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90998",
+      "id": "contrib-1792307281232-90998",
       "date": "2025-05-27 00:00:00",
       "amount": 768.4,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -823,7 +851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90999",
+      "id": "contrib-1792307281232-90999",
       "date": "2025-11-13 00:00:00",
       "amount": 960.5,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -839,7 +867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91000",
+      "id": "contrib-1792307281232-91000",
       "date": "2025-05-13 00:00:00",
       "amount": 1080.53,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -855,7 +883,711 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21598",
+      "id": "contrib-1792307281986-58625",
+      "date": "2026-07-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Adam & April  Dickey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58626",
+      "date": "2026-04-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58627",
+      "date": "2026-05-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58628",
+      "date": "2026-06-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58629",
+      "date": "2026-07-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58630",
+      "date": "2026-08-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58631",
+      "date": "2026-09-16 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58632",
+      "date": "2026-07-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Barry Bitzegaio",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58633",
+      "date": "2026-07-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Benita  G Pate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58634",
+      "date": "2026-07-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Carol  C  Flynn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58635",
+      "date": "2026-07-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Carol Mooney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58636",
+      "date": "2026-08-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Catherine  Tegart",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58637",
+      "date": "2026-07-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Christopher FitzGerald",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58638",
+      "date": "2026-10-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Cornelia  S Wright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58639",
+      "date": "2026-08-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Cory  Cochran",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Floyds Knobs",
+      "address_state": "IN",
+      "address_zip": "47119",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58640",
+      "date": "2026-08-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "David Henry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47403",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58641",
+      "date": "2026-07-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deann  Jo  Bryant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58642",
+      "date": "2026-08-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deann  Jo  Bryant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58643",
+      "date": "2026-09-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deann  Jo  Bryant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58644",
+      "date": "2026-10-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deann  Jo  Bryant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58645",
+      "date": "2026-07-24 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deann  Jo  Bryant",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58646",
+      "date": "2026-07-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Deborah Tanner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58647",
+      "date": "2026-08-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Derek Camp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58648",
+      "date": "2026-10-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Diana Jenkins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58649",
+      "date": "2026-04-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Diane\t Stepro",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58650",
+      "date": "2026-07-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Donna Ennis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58651",
+      "date": "2026-05-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Edward Bowen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Seymour",
+      "address_state": "IN",
+      "address_zip": "47274",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58652",
+      "date": "2026-07-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Edward J Ryan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Floyds Knobs",
+      "address_state": "IN",
+      "address_zip": "47119",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58653",
+      "date": "2026-07-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Edward J Wilkinson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58654",
+      "date": "2026-05-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Jack Wesson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Watson",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58655",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "James H Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58656",
+      "date": "2026-04-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "James Webb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58657",
+      "date": "2026-07-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Jason  Applegate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58658",
+      "date": "2026-05-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Jason Stephens",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58659",
+      "date": "2026-10-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Jay Wilcurt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58660",
+      "date": "2026-07-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Joseph & Lisa Weber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58661",
+      "date": "2026-05-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Kathleen & Robert Andrew",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "IN",
+      "address_zip": "47448",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58662",
+      "date": "2026-08-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Keith Freeman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58663",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Kent Yeager",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mauckport",
+      "address_state": "IN",
+      "address_zip": "47142",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58664",
+      "date": "2026-07-27 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Linda & Allen Moeller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58665",
+      "date": "2026-08-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Matt\t McNally",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58666",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Michele\t Henry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58667",
+      "date": "2026-08-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Mitch Gore",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46239",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58668",
+      "date": "2026-07-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Nancy Macpherson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130 ",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58669",
       "date": "2026-03-14 00:00:00",
       "amount": 402.8,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -871,7 +1603,503 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21599",
+      "id": "contrib-1792307281986-58670",
+      "date": "2026-08-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Nick  Stein",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58671",
+      "date": "2026-08-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Nick Roberts",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58672",
+      "date": "2026-08-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Nick Siler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Milltown",
+      "address_state": "IN",
+      "address_zip": "47145",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58673",
+      "date": "2026-09-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Patricia M Riemann",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Broden",
+      "address_state": "IN",
+      "address_zip": "47106",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58674",
+      "date": "2026-08-28 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Rick\t Kelley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "IN",
+      "address_zip": "47488",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58675",
+      "date": "2026-08-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Ronald & Ann Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58676",
+      "date": "2026-08-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Ryan Huber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Irmo",
+      "address_state": "SC",
+      "address_zip": "29063",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58677",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Samantha Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58678",
+      "date": "2026-08-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Scott Houldieson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Highland",
+      "address_state": "IN",
+      "address_zip": "46322",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58679",
+      "date": "2026-10-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Sharon Cruz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58680",
+      "date": "2026-07-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Sharon L  Neal",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Otisco",
+      "address_state": "IN",
+      "address_zip": "47163",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58681",
+      "date": "2026-09-23 00:00:00",
+      "amount": 30,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Susan  Popp",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58682",
+      "date": "2026-07-23 00:00:00",
+      "amount": 50,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Susan  Popp",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58683",
+      "date": "2026-10-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Susan DeVoe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58684",
+      "date": "2026-10-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Susan Luther",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58685",
+      "date": "2026-07-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Teah  Williams-Hampton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58686",
+      "date": "2026-07-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Tom  Galligan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58687",
+      "date": "2026-06-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Tonya Stone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58688",
+      "date": "2026-07-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Tracey \tFawcett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58689",
+      "date": "2026-09-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Trish Whitcomb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58690",
+      "date": "2026-07-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Vicki Carmichael",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47131",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58691",
+      "date": "2026-09-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Vicki Carmichael",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47131",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58692",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Vicki McCombs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58693",
+      "date": "2026-06-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Virginia Peck",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58694",
+      "date": "2026-07-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Virginia Peck",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58695",
+      "date": "2026-07-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Virginia Peck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58696",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Virginia Peck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58697",
+      "date": "2026-08-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Wendy  J  Chesser",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58698",
+      "date": "2026-08-28 00:00:00",
+      "amount": 470.82,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Clark County Democrat Alliance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58699",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Committee To Elect Gahan",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58700",
+      "date": "2026-10-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Friends of Shelli Yoder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58701",
       "date": "2026-03-18 00:00:00",
       "amount": 1.17,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -887,7 +2115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21600",
+      "id": "contrib-1792307281987-58702",
       "date": "2026-01-06 00:00:00",
       "amount": 9.6,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -903,7 +2131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21601",
+      "id": "contrib-1792307281987-58703",
       "date": "2026-02-04 00:00:00",
       "amount": 9.6,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -919,7 +2147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21602",
+      "id": "contrib-1792307281987-58704",
       "date": "2026-03-04 00:00:00",
       "amount": 10.85,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -935,7 +2163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21603",
+      "id": "contrib-1792307281987-58705",
       "date": "2026-01-07 00:00:00",
       "amount": 24.01,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -951,7 +2179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21604",
+      "id": "contrib-1792307281987-58706",
       "date": "2026-04-03 00:00:00",
       "amount": 25.07,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -967,7 +2195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21605",
+      "id": "contrib-1792307281987-58707",
       "date": "2026-01-26 00:00:00",
       "amount": 48.02,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -983,7 +2211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21606",
+      "id": "contrib-1792307281987-58708",
       "date": "2026-02-25 00:00:00",
       "amount": 69.53,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -999,7 +2227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21607",
+      "id": "contrib-1792307281987-58709",
       "date": "2026-04-01 00:00:00",
       "amount": 81.63,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -1015,7 +2243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21608",
+      "id": "contrib-1792307281987-58710",
       "date": "2026-02-19 00:00:00",
       "amount": 126.43,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -1031,7 +2259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21609",
+      "id": "contrib-1792307281987-58711",
       "date": "2026-03-25 00:00:00",
       "amount": 148.86,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -1047,7 +2275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21610",
+      "id": "contrib-1792307281987-58712",
       "date": "2026-01-14 00:00:00",
       "amount": 270.85,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -1063,7 +2291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21611",
+      "id": "contrib-1792307281987-58713",
       "date": "2026-01-22 00:00:00",
       "amount": 1121.85,
       "candidate_name": "Nicholas  Lamar Marshall",
@@ -1075,6 +2303,22 @@
       "address_city": "BOSTON",
       "address_state": "MA",
       "address_zip": "02196",
+      "recipient_committee": "Hoosiers For Nick Marshall",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58714",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Nicholas  Lamar Marshall",
+      "contributor_name": "Indiana Black Legislative Caucus PAC IN",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
       "recipient_committee": "Hoosiers For Nick Marshall",
       "source": "indiana"
     }

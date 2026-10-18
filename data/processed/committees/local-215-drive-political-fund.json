@@ -2,14 +2,18 @@
   "id": "local-215-drive-political-fund",
   "name": "LOCAL 215 DRIVE POLITICAL FUND",
   "totals": {
-    "total_given": "4000.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "9600.00",
+    "total_contributions": 8,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "4000.00"
+      "count": 6,
+      "total": "9000.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "600.00"
     }
   },
   "by_month": {
@@ -24,9 +28,33 @@
     "2026-03": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "1100.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "3000.00",
+      "count": 1
+    },
+    {
+      "id": "cindy-lynn-ledbetter",
+      "name": "Cindy Lynn Ledbetter",
+      "total": "2000.00",
+      "count": 2
+    },
     {
       "id": "james-andrew-tomes",
       "name": "James Andrew Tomes",
@@ -34,21 +62,21 @@
       "count": 1
     },
     {
-      "id": "cindy-lynn-ledbetter",
-      "name": "Cindy Lynn Ledbetter",
+      "id": "sarah-monroe-busby",
+      "name": "Sarah Monroe Busby",
       "total": "1000.00",
       "count": 1
     },
     {
-      "id": "sarah-monroe-busby",
-      "name": "Sarah Monroe Busby",
-      "total": "1000.00",
+      "id": "charles-alva-moseley",
+      "name": "Charles Alva Moseley",
+      "total": "100.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769426-84913",
+      "id": "contrib-1792307281219-84913",
       "date": "2025-05-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Cindy Lynn Ledbetter",
@@ -64,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98757",
+      "id": "contrib-1792307281239-98757",
       "date": "2025-06-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Sarah Monroe Busby",
@@ -80,7 +108,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9953",
+      "id": "contrib-1792307281940-27073",
       "date": "2026-03-18 00:00:00",
       "amount": 2000,
       "candidate_name": "James Andrew Tomes",
@@ -94,29 +122,107 @@
       "address_zip": "47706",
       "recipient_committee": "Committee to Elect Jim Tomes",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31599",
+      "date": "2026-08-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Charles Alva Moseley",
+      "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "EVANSVILLE",
+      "address_state": "IN",
+      "address_zip": "47706",
+      "recipient_committee": "Citizens for Chuck Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50457",
+      "date": "2026-06-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Cindy Lynn Ledbetter",
+      "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "EVANSVILLE",
+      "address_state": "IN",
+      "address_zip": "47706",
+      "recipient_committee": "Ledbetter For State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80969",
+      "date": "2026-07-27 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "EVANSVILLE",
+      "address_state": "IN",
+      "address_zip": "47706",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282053-96741",
+      "date": "2026-07-09 00:00:00",
+      "amount": 500,
+      "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "EVANSVILLE",
+      "address_state": "IN",
+      "address_zip": "47706",
+      "recipient_committee": "Vanderburgh County Democratic Party",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282053-96742",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1000,
+      "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "EVANSVILLE",
+      "address_state": "IN",
+      "address_zip": "47706",
+      "recipient_committee": "Vanderburgh County Democratic Party",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "121434.83",
-    "total_contributions": 2,
+    "total_raised": "170056.69",
+    "total_contributions": 3,
     "unique_donors": 0,
     "by_contributor_type": {
       "unitemized": {
-        "count": 2,
-        "total": "121434.83"
+        "count": 3,
+        "total": "170056.69"
       }
     },
     "top_donors": [
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "121434.83",
-        "count": 2
+        "total": "170056.69",
+        "count": 3
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769355-27080",
+        "id": "contrib-1792307281147-27080",
         "date": "2025-12-31 00:00:00",
         "amount": 94792.4,
         "contributor_name": "",
@@ -131,9 +237,24 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769685-7577",
+        "id": "contrib-1792307281936-22167",
         "date": "2026-04-10 00:00:00",
         "amount": 26642.43,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "LOCAL 215 DRIVE POLITICAL FUND",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281936-22168",
+        "date": "2026-10-09 00:00:00",
+        "amount": 48621.86,
         "contributor_name": "",
         "contributor_type": "unitemized",
         "contribution_size": "mega",

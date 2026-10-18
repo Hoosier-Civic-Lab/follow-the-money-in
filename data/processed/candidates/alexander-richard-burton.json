@@ -6,33 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "23620.06",
-    "total_contributions": 37,
-    "total_itemized": 37,
+    "total_raised": "66220.06",
+    "total_contributions": 85,
+    "total_itemized": 85,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 16,
-      "total": "7370.06"
+      "count": 36,
+      "total": "31520.06"
     },
     "committee": {
-      "count": 21,
-      "total": "16250.00"
+      "count": 44,
+      "total": "33000.00"
+    },
+    "corporate": {
+      "count": 5,
+      "total": "1700.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 29,
-      "total": "11500.00"
+      "count": 68,
+      "total": "26250.00"
     },
     "large": {
-      "count": 6,
-      "total": "12000.00"
+      "count": 13,
+      "total": "22800.00"
     },
     "small": {
-      "count": 2,
-      "total": "120.06"
+      "count": 3,
+      "total": "170.06"
+    },
+    "mega": {
+      "count": 1,
+      "total": "17000.00"
     }
   },
   "by_month": {
@@ -53,8 +61,20 @@
       "total": "500.00"
     },
     "2026-04": {
-      "count": 1,
-      "total": "24.01"
+      "count": 14,
+      "total": "5774.01"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "1100.00"
+    },
+    "2026-09": {
+      "count": 17,
+      "total": "24250.00"
+    },
+    "2026-08": {
+      "count": 10,
+      "total": "8300.00"
     },
     "2026-03": {
       "count": 5,
@@ -63,11 +83,23 @@
     "2026-01": {
       "count": 1,
       "total": "96.05"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "400.00"
+    },
+    "2026-07": {
+      "count": 3,
+      "total": "1800.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769443-96533",
+      "id": "contrib-1792307281237-96533",
       "date": "2025-08-14 00:00:00",
       "amount": 250,
       "candidate_name": "Alexander Richard Burton",
@@ -83,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96534",
+      "id": "contrib-1792307281237-96534",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -99,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96535",
+      "id": "contrib-1792307281237-96535",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -115,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96536",
+      "id": "contrib-1792307281237-96536",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -131,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96537",
+      "id": "contrib-1792307281237-96537",
       "date": "2025-08-14 00:00:00",
       "amount": 2000,
       "candidate_name": "Alexander Richard Burton",
@@ -147,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96538",
+      "id": "contrib-1792307281237-96538",
       "date": "2025-12-30 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -163,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96539",
+      "id": "contrib-1792307281237-96539",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -179,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96540",
+      "id": "contrib-1792307281237-96540",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -195,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96541",
+      "id": "contrib-1792307281237-96541",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -211,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96542",
+      "id": "contrib-1792307281238-96542",
       "date": "2025-08-14 00:00:00",
       "amount": 150,
       "candidate_name": "Alexander Richard Burton",
@@ -227,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96543",
+      "id": "contrib-1792307281238-96543",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -243,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96544",
+      "id": "contrib-1792307281238-96544",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Alexander Richard Burton",
@@ -259,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96545",
+      "id": "contrib-1792307281238-96545",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -275,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96546",
+      "id": "contrib-1792307281238-96546",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -291,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96547",
+      "id": "contrib-1792307281238-96547",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -307,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96548",
+      "id": "contrib-1792307281238-96548",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Alexander Richard Burton",
@@ -323,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96549",
+      "id": "contrib-1792307281238-96549",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -339,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96550",
+      "id": "contrib-1792307281238-96550",
       "date": "2025-12-30 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -355,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96551",
+      "id": "contrib-1792307281238-96551",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -371,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96552",
+      "id": "contrib-1792307281238-96552",
       "date": "2025-09-30 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -387,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96553",
+      "id": "contrib-1792307281238-96553",
       "date": "2025-08-14 00:00:00",
       "amount": 4000,
       "candidate_name": "Alexander Richard Burton",
@@ -403,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96554",
+      "id": "contrib-1792307281238-96554",
       "date": "2025-08-14 00:00:00",
       "amount": 2000,
       "candidate_name": "Alexander Richard Burton",
@@ -419,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96555",
+      "id": "contrib-1792307281238-96555",
       "date": "2025-12-30 00:00:00",
       "amount": 750,
       "candidate_name": "Alexander Richard Burton",
@@ -435,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96556",
+      "id": "contrib-1792307281238-96556",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -451,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96557",
+      "id": "contrib-1792307281238-96557",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -467,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96558",
+      "id": "contrib-1792307281238-96558",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -483,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96559",
+      "id": "contrib-1792307281238-96559",
       "date": "2025-12-29 00:00:00",
       "amount": 2000,
       "candidate_name": "Alexander Richard Burton",
@@ -499,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96560",
+      "id": "contrib-1792307281238-96560",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -515,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96561",
+      "id": "contrib-1792307281238-96561",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -531,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96562",
+      "id": "contrib-1792307281238-96562",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -547,7 +579,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23769",
+      "id": "contrib-1792307282002-66711",
+      "date": "2026-04-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "DUKE Energy",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66712",
+      "date": "2026-05-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Faegre Drinker Biddle & Reath",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "MN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66713",
+      "date": "2026-04-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66714",
       "date": "2026-04-03 00:00:00",
       "amount": 24.01,
       "candidate_name": "Alexander Richard Burton",
@@ -563,7 +643,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23770",
+      "id": "contrib-1792307282002-66715",
+      "date": "2026-09-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Charles Farmer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66716",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Clint Lamb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sullivan",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66717",
+      "date": "2026-04-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Clinton McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66718",
+      "date": "2026-08-13 00:00:00",
+      "amount": 150,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Clinton McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66719",
       "date": "2026-03-03 00:00:00",
       "amount": 100,
       "candidate_name": "Alexander Richard Burton",
@@ -579,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23771",
+      "id": "contrib-1792307282002-66720",
       "date": "2026-01-05 00:00:00",
       "amount": 96.05,
       "candidate_name": "Alexander Richard Burton",
@@ -595,7 +739,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23772",
+      "id": "contrib-1792307282002-66721",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Gregory Hahn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66722",
+      "date": "2026-08-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Joseph Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66723",
       "date": "2026-03-03 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -611,7 +787,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23773",
+      "id": "contrib-1792307282002-66724",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Scott Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66725",
+      "date": "2026-09-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "William Muller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66726",
+      "date": "2026-09-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana Stonewall Democrats",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66727",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Laborers International Union of North America Local 561",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "47710",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66728",
       "date": "2026-03-03 00:00:00",
       "amount": 650,
       "candidate_name": "Alexander Richard Burton",
@@ -627,7 +867,263 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23774",
+      "id": "contrib-1792307282002-66729",
+      "date": "2026-06-10 00:00:00",
+      "amount": 400,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Millwrights Local Union 1076",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66730",
+      "date": "2026-09-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "United Mine Workers of America",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Triangle",
+      "address_state": "VA",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66731",
+      "date": "2026-05-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66732",
+      "date": "2026-08-20 00:00:00",
+      "amount": 2300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Charlie for Mayor Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66733",
+      "date": "2026-09-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Committee to Elect Mitch Gore",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66734",
+      "date": "2026-07-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Hatfield Law Office LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66735",
+      "date": "2026-09-09 00:00:00",
+      "amount": 17000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "OLD NATIONAL BANK",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66736",
+      "date": "2026-09-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Warrick Co Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66737",
+      "date": "2026-08-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66738",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66739",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Egis Stronger Future PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66740",
+      "date": "2026-08-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66741",
+      "date": "2026-08-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "United Mine Workers of America Coal Miners Pac",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "TRIANGLE",
+      "address_state": "VA",
+      "address_zip": "22172",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66742",
+      "date": "2026-08-20 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "IBEW PAC Voluntary Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66743",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "ICE  MILLER PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66744",
+      "date": "2026-05-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "ICE  MILLER PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66745",
       "date": "2026-03-03 00:00:00",
       "amount": 150,
       "candidate_name": "Alexander Richard Burton",
@@ -643,7 +1139,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769720-23775",
+      "id": "contrib-1792307282002-66746",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "IN Firefighers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66747",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66748",
+      "date": "2026-04-21 00:00:00",
+      "amount": 750,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "indiana bankpac",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66749",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66750",
+      "date": "2026-04-21 00:00:00",
+      "amount": 400,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66751",
       "date": "2026-03-03 00:00:00",
       "amount": 750,
       "candidate_name": "Alexander Richard Burton",
@@ -655,6 +1231,230 @@
       "address_city": null,
       "address_state": "IN",
       "address_zip": "46032",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66752",
+      "date": "2026-08-19 00:00:00",
+      "amount": 350,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana Manufacturers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66753",
+      "date": "2026-07-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana PAC for Education",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66754",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana Realtors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66755",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana State Building & Construction Trades Council",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66756",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana State Iron Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66757",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Iron Workers Local 103",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66758",
+      "date": "2026-09-30 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Lawyers PAC of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66759",
+      "date": "2026-09-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "OPCMIA Local Union 692 PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66760",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Plumbers & Steamfitters Local 136",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66761",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Southwestern Indiana Building & Construction Trades Council",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66762",
+      "date": "2026-04-21 00:00:00",
+      "amount": 350,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "TELPAC Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66763",
+      "date": "2026-04-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "The AES IN POWER PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66764",
+      "date": "2026-09-01 00:00:00",
+      "amount": 400,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "United Brotherhood of Carpenters and Joiners Local 224",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47710",
+      "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66765",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "UNITED MINE WORKERS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
       "recipient_committee": "Alex Burton for Indiana",
       "source": "indiana"
     }

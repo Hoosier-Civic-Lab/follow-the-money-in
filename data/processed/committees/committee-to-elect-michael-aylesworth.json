@@ -2,18 +2,18 @@
   "id": "committee-to-elect-michael-aylesworth",
   "name": "Committee to Elect Michael Aylesworth",
   "totals": {
-    "total_given": "6680.92",
-    "total_contributions": 3,
-    "candidates_supported": 0
+    "total_given": "13180.92",
+    "total_contributions": 5,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "680.92"
+      "count": 3,
+      "total": "1180.92"
     },
     "large": {
-      "count": 1,
-      "total": "6000.00"
+      "count": 2,
+      "total": "12000.00"
     }
   },
   "by_month": {
@@ -28,12 +28,27 @@
     "2025-04": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "6000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6005",
+      "id": "contrib-1792307281104-6005",
       "date": "2025-12-17 00:00:00",
       "amount": 380.92,
       "contributor_name": "Committee to Elect Michael Aylesworth",
@@ -48,7 +63,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-6006",
+      "id": "contrib-1792307281104-6006",
       "date": "2025-10-15 00:00:00",
       "amount": 6000,
       "contributor_name": "Committee to Elect Michael Aylesworth",
@@ -63,7 +78,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769322-10904",
+      "id": "contrib-1792307281111-10904",
       "date": "2025-04-29 00:00:00",
       "amount": 300,
       "contributor_name": "Committee to Elect Michael Aylesworth",
@@ -76,32 +91,75 @@
       "address_zip": "46341",
       "recipient_committee": "INDIANA BUSINESS FOR RESPONSIVE GOVERNMENT",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3434",
+      "date": "2026-09-29 00:00:00",
+      "amount": 6000,
+      "contributor_name": "Committee to Elect Michael Aylesworth",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48068",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Committee to Elect Michael Aylesworth",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "10700.00",
-    "total_contributions": 24,
-    "unique_donors": 24,
+    "total_raised": "16475.00",
+    "total_contributions": 39,
+    "unique_donors": 29,
     "by_contributor_type": {
       "corporate": {
-        "count": 3,
-        "total": "600.00"
+        "count": 4,
+        "total": "900.00"
       },
       "individual": {
-        "count": 9,
-        "total": "4050.00"
+        "count": 15,
+        "total": "6525.00"
       },
       "committee": {
-        "count": 12,
-        "total": "6050.00"
+        "count": 20,
+        "total": "9050.00"
       }
     },
     "top_donors": [
       {
         "name": "Taft Stettinius & Holister",
         "type": "individual",
+        "total": "2000.00",
+        "count": 2
+      },
+      {
+        "name": "Indiana Firefighters PAC",
+        "type": "committee",
         "total": "1000.00",
-        "count": 1
+        "count": 2
+      },
+      {
+        "name": "Indiana Multi-Family Housing PAC",
+        "type": "committee",
+        "total": "1000.00",
+        "count": 2
       },
       {
         "name": "Indiana Pork PAC",
@@ -110,57 +168,45 @@
         "count": 1
       },
       {
+        "name": "Indiana Builders PAC",
+        "type": "committee",
+        "total": "800.00",
+        "count": 2
+      },
+      {
         "name": "NiSource Inc PAC",
         "type": "committee",
         "total": "750.00",
         "count": 1
       },
       {
-        "name": "Corteva Agriscience",
+        "name": "IMHA/RVIC PAC",
+        "type": "committee",
+        "total": "700.00",
+        "count": 2
+      },
+      {
+        "name": "TELPAC Indiana",
         "type": "individual",
-        "total": "500.00",
-        "count": 1
+        "total": "700.00",
+        "count": 2
       },
       {
-        "name": "Delivering the Difference for Indiana",
+        "name": "Scott D Yanover",
         "type": "individual",
-        "total": "500.00",
-        "count": 1
+        "total": "625.00",
+        "count": 2
       },
       {
-        "name": "Indiana Farm Bureau Elect - PAC",
-        "type": "committee",
-        "total": "500.00",
-        "count": 1
-      },
-      {
-        "name": "NITCO",
+        "name": "Bose Public Affairs Group",
         "type": "individual",
-        "total": "500.00",
-        "count": 1
-      },
-      {
-        "name": "Beer Industry PAC",
-        "type": "committee",
-        "total": "500.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Builders PAC",
-        "type": "committee",
-        "total": "500.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Firefighters PAC",
-        "type": "committee",
-        "total": "500.00",
-        "count": 1
+        "total": "600.00",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769421-79478",
+        "id": "contrib-1792307281214-79478",
         "date": "2025-08-18 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -176,7 +222,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79479",
+        "id": "contrib-1792307281214-79479",
         "date": "2025-09-02 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -192,7 +238,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79480",
+        "id": "contrib-1792307281214-79480",
         "date": "2025-01-09 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -208,7 +254,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79481",
+        "id": "contrib-1792307281214-79481",
         "date": "2025-09-02 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -224,7 +270,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79482",
+        "id": "contrib-1792307281214-79482",
         "date": "2025-12-31 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -240,7 +286,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79483",
+        "id": "contrib-1792307281214-79483",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -256,7 +302,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79484",
+        "id": "contrib-1792307281214-79484",
         "date": "2025-10-21 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -272,7 +318,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79485",
+        "id": "contrib-1792307281214-79485",
         "date": "2025-12-23 00:00:00",
         "amount": 150,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -288,7 +334,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79486",
+        "id": "contrib-1792307281214-79486",
         "date": "2025-09-02 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -304,7 +350,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79487",
+        "id": "contrib-1792307281214-79487",
         "date": "2025-09-24 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -320,7 +366,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79488",
+        "id": "contrib-1792307281214-79488",
         "date": "2025-12-23 00:00:00",
         "amount": 150,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -336,7 +382,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79489",
+        "id": "contrib-1792307281214-79489",
         "date": "2025-09-02 00:00:00",
         "amount": 1000,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -352,7 +398,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79490",
+        "id": "contrib-1792307281214-79490",
         "date": "2025-09-22 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -368,7 +414,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79491",
+        "id": "contrib-1792307281214-79491",
         "date": "2025-09-02 00:00:00",
         "amount": 400,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -384,7 +430,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79492",
+        "id": "contrib-1792307281214-79492",
         "date": "2025-09-15 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -400,7 +446,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79493",
+        "id": "contrib-1792307281214-79493",
         "date": "2025-11-20 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -416,7 +462,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79494",
+        "id": "contrib-1792307281214-79494",
         "date": "2025-09-02 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -432,7 +478,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79495",
+        "id": "contrib-1792307281214-79495",
         "date": "2025-09-13 00:00:00",
         "amount": 300,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -448,7 +494,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79496",
+        "id": "contrib-1792307281214-79496",
         "date": "2025-09-02 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -464,7 +510,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79497",
+        "id": "contrib-1792307281214-79497",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -480,7 +526,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79498",
+        "id": "contrib-1792307281214-79498",
         "date": "2025-09-02 00:00:00",
         "amount": 500,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -496,7 +542,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79499",
+        "id": "contrib-1792307281214-79499",
         "date": "2025-12-19 00:00:00",
         "amount": 1000,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -512,7 +558,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79500",
+        "id": "contrib-1792307281214-79500",
         "date": "2025-12-31 00:00:00",
         "amount": 750,
         "candidate_name": "Michael Jerome Aylesworth",
@@ -528,8 +574,248 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79501",
+        "id": "contrib-1792307281214-79501",
         "date": "2025-09-24 00:00:00",
+        "amount": 350,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "TELPAC Indiana",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Brownsburg",
+        "address_state": "IN",
+        "address_zip": "46112",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44736",
+        "date": "2026-07-10 00:00:00",
+        "amount": 325,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Scott D Yanover",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Chicago",
+        "address_state": "IN",
+        "address_zip": "60611",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44737",
+        "date": "2026-07-13 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Bose Public Affairs Group",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44738",
+        "date": "2026-06-08 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Indiana Horsemen Benevolent & Protective Association Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fairland",
+        "address_state": "IN",
+        "address_zip": "46126",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44739",
+        "date": "2026-07-13 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Krieg Devault LLP",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44740",
+        "date": "2026-07-08 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Taft Stettinius & Holister",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44741",
+        "date": "2026-07-20 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "American Water PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenwood",
+        "address_state": "IN",
+        "address_zip": "46143",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44742",
+        "date": "2026-07-21 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Hoosiers for Quality Edcation Inc. PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44743",
+        "date": "2026-07-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "IHLA PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44744",
+        "date": "2026-07-16 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "IMHA/RVIC PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44745",
+        "date": "2026-07-02 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Indiana Bank PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44746",
+        "date": "2026-07-09 00:00:00",
+        "amount": 300,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Indiana Builders PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indinapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44747",
+        "date": "2026-07-08 00:00:00",
+        "amount": 500,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Indiana Firefighters PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Ft Wayne",
+        "address_state": "IN",
+        "address_zip": "46885",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44748",
+        "date": "2026-07-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "Indiana Multi-Family Housing PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis ",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44749",
+        "date": "2026-09-09 00:00:00",
+        "amount": 200,
+        "candidate_name": "Michael Jerome Aylesworth",
+        "contributor_name": "NFIB",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Nashville",
+        "address_state": "TN",
+        "address_zip": "37214",
+        "recipient_committee": "Committee to Elect Michael Aylesworth",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44750",
+        "date": "2026-08-04 00:00:00",
         "amount": 350,
         "candidate_name": "Michael Jerome Aylesworth",
         "contributor_name": "TELPAC Indiana",

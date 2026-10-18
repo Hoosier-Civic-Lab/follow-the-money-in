@@ -2,26 +2,41 @@
   "id": "committee-to-elect-bob-cherry",
   "name": "Committee to Elect Bob Cherry",
   "totals": {
-    "total_given": "1500.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "1500.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "ethan-j-lawson",
+      "name": "ETHAN J LAWSON",
+      "total": "500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769437-90423",
+      "id": "contrib-1792307281232-90423",
       "date": "2025-08-11 00:00:00",
       "amount": 1500,
       "contributor_name": "Committee to Elect Bob Cherry",
@@ -33,6 +48,22 @@
       "address_state": "IN",
       "address_zip": "46163",
       "recipient_committee": "Hancock County Republican Party",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64374",
+      "date": "2026-05-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "ETHAN J LAWSON",
+      "contributor_name": "Committee to Elect Bob Cherry",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Palestine",
+      "address_state": "IN",
+      "address_zip": "46163",
+      "recipient_committee": "ETHAN LAWSON FOR INDIANA",
       "source": "indiana"
     }
   ],
@@ -56,7 +87,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769356-28623",
+        "id": "contrib-1792307281149-28623",
         "date": "2025-12-31 00:00:00",
         "amount": 0.97,
         "candidate_name": "ROBERT W. CHERRY",

@@ -6,36 +6,60 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "600.00",
-    "total_contributions": 2,
+    "total_raised": "628.26",
+    "total_contributions": 3,
     "total_itemized": 2,
-    "total_unitemized": 0
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "28.26"
+    },
     "individual": {
       "count": 2,
       "total": "600.00"
     }
   },
   "by_contribution_size": {
+    "small": {
+      "count": 1,
+      "total": "28.26"
+    },
     "medium": {
       "count": 2,
       "total": "600.00"
     }
   },
   "by_month": {
+    "2026-04": {
+      "count": 2,
+      "total": "528.26"
+    },
     "2026-03": {
       "count": 1,
       "total": "100.00"
-    },
-    "2026-04": {
-      "count": 1,
-      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769749-34244",
+      "id": "contrib-1792307282046-92833",
+      "date": "2026-04-20 00:00:00",
+      "amount": 28.26,
+      "candidate_name": "Mark J Wehrle",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Wehrle",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282046-92834",
       "date": "2026-03-24 00:00:00",
       "amount": 100,
       "candidate_name": "Mark J Wehrle",
@@ -51,7 +75,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769749-34245",
+      "id": "contrib-1792307282046-92835",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Mark J Wehrle",

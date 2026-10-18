@@ -3,30 +3,46 @@
   "office": "State Senator",
   "district": "36",
   "totals": {
-    "total_raised": "1432.60",
-    "total_contributions": 15
+    "total_raised": "7507.60",
+    "total_contributions": 57
   },
   "by_contributor_type": {
     "individual": {
-      "count": 14,
-      "total": "932.60"
+      "count": 54,
+      "total": "5707.60"
     },
     "self": {
       "count": 1,
       "total": "500.00"
+    },
+    "committee": {
+      "count": 2,
+      "total": "1300.00"
     }
   },
   "by_contribution_size": {
-    "small": {
-      "count": 11,
-      "total": "58.73"
-    },
     "medium": {
-      "count": 4,
-      "total": "1373.87"
+      "count": 20,
+      "total": "4523.87"
+    },
+    "small": {
+      "count": 35,
+      "total": "983.73"
+    },
+    "large": {
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
+    "2026-09": {
+      "count": 26,
+      "total": "2885.00"
+    },
+    "2026-10": {
+      "count": 14,
+      "total": "1890.00"
+    },
     "2026-02": {
       "count": 10,
       "total": "156.40"
@@ -35,6 +51,10 @@
       "count": 2,
       "total": "2.33"
     },
+    "2026-08": {
+      "count": 1,
+      "total": "1000.00"
+    },
     "2026-04": {
       "count": 2,
       "total": "800.00"
@@ -42,6 +62,10 @@
     "2026-01": {
       "count": 1,
       "total": "473.87"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "candidates": [
@@ -50,10 +74,18 @@
       "name": "Suzanne Fortenberry",
       "party": "Democratic",
       "totals": {
-        "total_raised": "1432.60",
-        "total_contributions": 15
+        "total_raised": "7507.60",
+        "total_contributions": 57
       },
       "by_month": {
+        "2026-09": {
+          "count": 26,
+          "total": "2885.00"
+        },
+        "2026-10": {
+          "count": 14,
+          "total": "1890.00"
+        },
         "2026-02": {
           "count": 10,
           "total": "156.40"
@@ -62,6 +94,10 @@
           "count": 2,
           "total": "2.33"
         },
+        "2026-08": {
+          "count": 1,
+          "total": "1000.00"
+        },
         "2026-04": {
           "count": 2,
           "total": "800.00"
@@ -69,6 +105,10 @@
         "2026-01": {
           "count": 1,
           "total": "473.87"
+        },
+        "2026-07": {
+          "count": 1,
+          "total": "300.00"
         }
       }
     }

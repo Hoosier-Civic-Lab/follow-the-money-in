@@ -2,18 +2,18 @@
   "id": "committee-to-elect-matt-commons",
   "name": "Committee to Elect Matt Commons",
   "totals": {
-    "total_given": "6518.50",
-    "total_contributions": 5,
-    "candidates_supported": 1
+    "total_given": "13018.50",
+    "total_contributions": 8,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "518.50"
+      "count": 3,
+      "total": "1018.50"
     },
     "large": {
-      "count": 3,
-      "total": "6000.00"
+      "count": 5,
+      "total": "12000.00"
     }
   },
   "by_month": {
@@ -32,9 +32,27 @@
     "2025-12": {
       "count": 2,
       "total": "3250.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "3000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "3000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "laura-michelle-davis",
+      "name": "Laura Michelle Davis",
+      "total": "500.00",
+      "count": 1
+    },
     {
       "id": "david-w-shelton",
       "name": "David W Shelton",
@@ -44,7 +62,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6001",
+      "id": "contrib-1792307281104-6001",
       "date": "2025-09-03 00:00:00",
       "amount": 268.5,
       "contributor_name": "Committee to Elect Matt Commons",
@@ -59,7 +77,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-6002",
+      "id": "contrib-1792307281104-6002",
       "date": "2025-07-24 00:00:00",
       "amount": 1500,
       "contributor_name": "Committee to Elect Matt Commons",
@@ -74,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-6003",
+      "id": "contrib-1792307281104-6003",
       "date": "2025-10-15 00:00:00",
       "amount": 1500,
       "contributor_name": "Committee to Elect Matt Commons",
@@ -89,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-6004",
+      "id": "contrib-1792307281104-6004",
       "date": "2025-12-17 00:00:00",
       "amount": 3000,
       "contributor_name": "Committee to Elect Matt Commons",
@@ -104,7 +122,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98685",
+      "id": "contrib-1792307281239-98685",
       "date": "2025-12-10 00:00:00",
       "amount": 250,
       "candidate_name": "David W Shelton",
@@ -118,42 +136,100 @@
       "address_zip": "47993",
       "recipient_committee": "Shelton for Indiana",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3432",
+      "date": "2026-07-15 00:00:00",
+      "amount": 3000,
+      "contributor_name": "Committee to Elect Matt Commons",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williamsport",
+      "address_state": "IN",
+      "address_zip": "47993",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3433",
+      "date": "2026-10-08 00:00:00",
+      "amount": 3000,
+      "contributor_name": "Committee to Elect Matt Commons",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williamsport",
+      "address_state": "IN",
+      "address_zip": "47993",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50270",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Michelle Davis",
+      "contributor_name": "Committee to Elect Matt Commons",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williamsport ",
+      "address_state": "IN",
+      "address_zip": "47993",
+      "recipient_committee": "Friends of Michelle Davis",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "47755.39",
-    "total_contributions": 77,
-    "unique_donors": 72,
+    "total_raised": "78540.64",
+    "total_contributions": 138,
+    "unique_donors": 106,
     "by_contributor_type": {
       "unitemized": {
-        "count": 4,
-        "total": "5705.00"
+        "count": 5,
+        "total": "6280.00"
       },
       "corporate": {
-        "count": 19,
-        "total": "15900.00"
+        "count": 29,
+        "total": "20750.00"
       },
       "individual": {
-        "count": 41,
-        "total": "19000.39"
+        "count": 73,
+        "total": "32410.64"
       },
       "committee": {
-        "count": 13,
-        "total": "7150.00"
+        "count": 31,
+        "total": "19100.00"
       }
     },
     "top_donors": [
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "5705.00",
-        "count": 4
+        "total": "6280.00",
+        "count": 5
       },
       {
         "name": "Carbondale Tavern LLC",
         "type": "corporate",
         "total": "3500.00",
         "count": 1
+      },
+      {
+        "name": "Zach Mitton",
+        "type": "individual",
+        "total": "3500.00",
+        "count": 1
+      },
+      {
+        "name": "Allen Buchanan",
+        "type": "individual",
+        "total": "2500.00",
+        "count": 2
       },
       {
         "name": "Quentin Overbeck",
@@ -168,45 +244,33 @@
         "count": 1
       },
       {
-        "name": "FOR Systems",
+        "name": "Michael & Tina Pitts",
         "type": "individual",
-        "total": "1324.00",
-        "count": 1
+        "total": "2250.00",
+        "count": 2
       },
       {
-        "name": "Accuburn",
+        "name": "Indiana Realtors Political Action Committee",
+        "type": "committee",
+        "total": "2000.00",
+        "count": 2
+      },
+      {
+        "name": "Tippecanoe County Commissioner PAC",
+        "type": "committee",
+        "total": "2000.00",
+        "count": 2
+      },
+      {
+        "name": "Gillum Machine & Tool",
         "type": "corporate",
-        "total": "1250.00",
-        "count": 1
-      },
-      {
-        "name": "Attica Motor Sports Inc.",
-        "type": "corporate",
-        "total": "1250.00",
-        "count": 1
-      },
-      {
-        "name": "Badlands Offroad Park",
-        "type": "corporate",
-        "total": "1250.00",
-        "count": 1
-      },
-      {
-        "name": "Davis Drugs",
-        "type": "corporate",
-        "total": "1250.00",
-        "count": 1
-      },
-      {
-        "name": "Allen Buchanan",
-        "type": "individual",
-        "total": "1250.00",
-        "count": 1
+        "total": "1500.00",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769441-94586",
+        "id": "contrib-1792307281236-94586",
         "date": "2025-08-23 00:00:00",
         "amount": 1710,
         "candidate_name": "Matthew Scott Commons",
@@ -222,7 +286,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94587",
+        "id": "contrib-1792307281236-94587",
         "date": "2025-08-23 00:00:00",
         "amount": 480,
         "candidate_name": "Matthew Scott Commons",
@@ -238,7 +302,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94588",
+        "id": "contrib-1792307281236-94588",
         "date": "2025-10-28 00:00:00",
         "amount": 660,
         "candidate_name": "Matthew Scott Commons",
@@ -254,7 +318,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94589",
+        "id": "contrib-1792307281236-94589",
         "date": "2025-10-24 00:00:00",
         "amount": 2855,
         "candidate_name": "Matthew Scott Commons",
@@ -270,7 +334,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94590",
+        "id": "contrib-1792307281236-94590",
         "date": "2025-08-23 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -286,7 +350,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94591",
+        "id": "contrib-1792307281236-94591",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -302,7 +366,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94592",
+        "id": "contrib-1792307281236-94592",
         "date": "2025-08-23 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -318,7 +382,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94593",
+        "id": "contrib-1792307281236-94593",
         "date": "2025-06-16 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -334,7 +398,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94594",
+        "id": "contrib-1792307281236-94594",
         "date": "2025-06-16 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -350,7 +414,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94595",
+        "id": "contrib-1792307281236-94595",
         "date": "2025-06-03 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -366,7 +430,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94596",
+        "id": "contrib-1792307281236-94596",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -382,7 +446,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94597",
+        "id": "contrib-1792307281236-94597",
         "date": "2025-08-03 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -398,7 +462,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94598",
+        "id": "contrib-1792307281236-94598",
         "date": "2025-06-03 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -414,7 +478,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94599",
+        "id": "contrib-1792307281236-94599",
         "date": "2025-06-23 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -430,7 +494,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94600",
+        "id": "contrib-1792307281236-94600",
         "date": "2025-06-03 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -446,7 +510,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94601",
+        "id": "contrib-1792307281236-94601",
         "date": "2025-06-03 00:00:00",
         "amount": 100,
         "candidate_name": "Matthew Scott Commons",
@@ -462,7 +526,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94602",
+        "id": "contrib-1792307281236-94602",
         "date": "2025-07-25 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -478,7 +542,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94603",
+        "id": "contrib-1792307281236-94603",
         "date": "2025-08-23 00:00:00",
         "amount": 200,
         "candidate_name": "Matthew Scott Commons",
@@ -494,7 +558,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94604",
+        "id": "contrib-1792307281236-94604",
         "date": "2025-08-23 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -510,7 +574,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94605",
+        "id": "contrib-1792307281236-94605",
         "date": "2025-08-23 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -526,7 +590,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94606",
+        "id": "contrib-1792307281236-94606",
         "date": "2025-08-23 00:00:00",
         "amount": 250,
         "candidate_name": "Matthew Scott Commons",
@@ -542,7 +606,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94607",
+        "id": "contrib-1792307281236-94607",
         "date": "2025-08-05 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -558,7 +622,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94608",
+        "id": "contrib-1792307281236-94608",
         "date": "2025-08-23 00:00:00",
         "amount": 120,
         "candidate_name": "Matthew Scott Commons",
@@ -574,7 +638,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94609",
+        "id": "contrib-1792307281236-94609",
         "date": "2025-08-23 00:00:00",
         "amount": 5.21,
         "candidate_name": "Matthew Scott Commons",
@@ -590,7 +654,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94610",
+        "id": "contrib-1792307281236-94610",
         "date": "2025-10-20 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -606,7 +670,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94611",
+        "id": "contrib-1792307281236-94611",
         "date": "2025-10-20 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -622,7 +686,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94612",
+        "id": "contrib-1792307281236-94612",
         "date": "2025-08-23 00:00:00",
         "amount": 400.02,
         "candidate_name": "Matthew Scott Commons",
@@ -638,7 +702,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94613",
+        "id": "contrib-1792307281236-94613",
         "date": "2025-08-23 00:00:00",
         "amount": 200,
         "candidate_name": "Matthew Scott Commons",
@@ -654,7 +718,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94614",
+        "id": "contrib-1792307281236-94614",
         "date": "2025-08-23 00:00:00",
         "amount": 100,
         "candidate_name": "Matthew Scott Commons",
@@ -670,7 +734,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94615",
+        "id": "contrib-1792307281236-94615",
         "date": "2025-08-23 00:00:00",
         "amount": 52.05,
         "candidate_name": "Matthew Scott Commons",
@@ -686,7 +750,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94616",
+        "id": "contrib-1792307281236-94616",
         "date": "2025-12-29 00:00:00",
         "amount": 100,
         "candidate_name": "Matthew Scott Commons",
@@ -702,7 +766,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94617",
+        "id": "contrib-1792307281236-94617",
         "date": "2025-07-14 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -718,7 +782,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94618",
+        "id": "contrib-1792307281236-94618",
         "date": "2025-08-23 00:00:00",
         "amount": 50,
         "candidate_name": "Matthew Scott Commons",
@@ -734,7 +798,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94619",
+        "id": "contrib-1792307281236-94619",
         "date": "2025-10-20 00:00:00",
         "amount": 308.2,
         "candidate_name": "Matthew Scott Commons",
@@ -750,7 +814,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94620",
+        "id": "contrib-1792307281236-94620",
         "date": "2025-08-23 00:00:00",
         "amount": 150,
         "candidate_name": "Matthew Scott Commons",
@@ -766,7 +830,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94621",
+        "id": "contrib-1792307281236-94621",
         "date": "2025-11-09 00:00:00",
         "amount": 40,
         "candidate_name": "Matthew Scott Commons",
@@ -782,7 +846,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94622",
+        "id": "contrib-1792307281236-94622",
         "date": "2025-08-23 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -798,7 +862,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94623",
+        "id": "contrib-1792307281236-94623",
         "date": "2025-09-15 00:00:00",
         "amount": 52.05,
         "candidate_name": "Matthew Scott Commons",
@@ -814,7 +878,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94624",
+        "id": "contrib-1792307281236-94624",
         "date": "2025-12-29 00:00:00",
         "amount": 100,
         "candidate_name": "Matthew Scott Commons",
@@ -830,7 +894,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94625",
+        "id": "contrib-1792307281236-94625",
         "date": "2025-08-23 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -846,7 +910,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94626",
+        "id": "contrib-1792307281236-94626",
         "date": "2025-10-20 00:00:00",
         "amount": 62.46,
         "candidate_name": "Matthew Scott Commons",
@@ -862,7 +926,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94627",
+        "id": "contrib-1792307281236-94627",
         "date": "2025-08-03 00:00:00",
         "amount": 1250,
         "candidate_name": "Matthew Scott Commons",
@@ -878,7 +942,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94628",
+        "id": "contrib-1792307281236-94628",
         "date": "2025-08-23 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -894,7 +958,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94629",
+        "id": "contrib-1792307281236-94629",
         "date": "2025-08-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Matthew Scott Commons",
@@ -910,7 +974,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94630",
+        "id": "contrib-1792307281236-94630",
         "date": "2025-10-07 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -926,7 +990,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94631",
+        "id": "contrib-1792307281236-94631",
         "date": "2025-06-25 00:00:00",
         "amount": 2500,
         "candidate_name": "Matthew Scott Commons",
@@ -942,7 +1006,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94632",
+        "id": "contrib-1792307281236-94632",
         "date": "2025-08-23 00:00:00",
         "amount": 52.05,
         "candidate_name": "Matthew Scott Commons",
@@ -958,7 +1022,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94633",
+        "id": "contrib-1792307281236-94633",
         "date": "2025-11-01 00:00:00",
         "amount": 120,
         "candidate_name": "Matthew Scott Commons",
@@ -974,7 +1038,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94634",
+        "id": "contrib-1792307281236-94634",
         "date": "2025-10-20 00:00:00",
         "amount": 104.1,
         "candidate_name": "Matthew Scott Commons",
@@ -990,7 +1054,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94635",
+        "id": "contrib-1792307281236-94635",
         "date": "2025-08-23 00:00:00",
         "amount": 1000,
         "candidate_name": "Matthew Scott Commons",
@@ -1006,7 +1070,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94636",
+        "id": "contrib-1792307281236-94636",
         "date": "2025-12-29 00:00:00",
         "amount": 1000,
         "candidate_name": "Matthew Scott Commons",
@@ -1022,7 +1086,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94637",
+        "id": "contrib-1792307281236-94637",
         "date": "2025-06-25 00:00:00",
         "amount": 2500,
         "candidate_name": "Matthew Scott Commons",
@@ -1038,7 +1102,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94638",
+        "id": "contrib-1792307281236-94638",
         "date": "2025-08-23 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1054,7 +1118,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94639",
+        "id": "contrib-1792307281236-94639",
         "date": "2025-08-23 00:00:00",
         "amount": 3500,
         "candidate_name": "Matthew Scott Commons",
@@ -1070,7 +1134,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94640",
+        "id": "contrib-1792307281236-94640",
         "date": "2025-08-23 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1086,7 +1150,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94641",
+        "id": "contrib-1792307281236-94641",
         "date": "2025-06-15 00:00:00",
         "amount": 1324,
         "candidate_name": "Matthew Scott Commons",
@@ -1102,7 +1166,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94642",
+        "id": "contrib-1792307281236-94642",
         "date": "2025-08-23 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -1118,7 +1182,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94643",
+        "id": "contrib-1792307281236-94643",
         "date": "2025-12-29 00:00:00",
         "amount": 150,
         "candidate_name": "Matthew Scott Commons",
@@ -1134,7 +1198,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94644",
+        "id": "contrib-1792307281236-94644",
         "date": "2025-12-29 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -1150,7 +1214,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94645",
+        "id": "contrib-1792307281236-94645",
         "date": "2025-12-29 00:00:00",
         "amount": 150,
         "candidate_name": "Matthew Scott Commons",
@@ -1166,7 +1230,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94646",
+        "id": "contrib-1792307281236-94646",
         "date": "2025-06-15 00:00:00",
         "amount": 989.75,
         "candidate_name": "Matthew Scott Commons",
@@ -1182,7 +1246,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94647",
+        "id": "contrib-1792307281236-94647",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1198,7 +1262,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94648",
+        "id": "contrib-1792307281236-94648",
         "date": "2025-08-23 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1214,7 +1278,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94649",
+        "id": "contrib-1792307281236-94649",
         "date": "2025-11-30 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1230,7 +1294,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94650",
+        "id": "contrib-1792307281236-94650",
         "date": "2025-06-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Matthew Scott Commons",
@@ -1246,7 +1310,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94651",
+        "id": "contrib-1792307281236-94651",
         "date": "2025-06-03 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -1262,7 +1326,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94652",
+        "id": "contrib-1792307281236-94652",
         "date": "2025-06-05 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -1278,7 +1342,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94653",
+        "id": "contrib-1792307281236-94653",
         "date": "2025-06-10 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1294,7 +1358,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94654",
+        "id": "contrib-1792307281236-94654",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1310,7 +1374,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94655",
+        "id": "contrib-1792307281236-94655",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1326,7 +1390,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94656",
+        "id": "contrib-1792307281236-94656",
         "date": "2025-06-03 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1342,7 +1406,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94657",
+        "id": "contrib-1792307281236-94657",
         "date": "2025-08-29 00:00:00",
         "amount": 1000,
         "candidate_name": "Matthew Scott Commons",
@@ -1358,7 +1422,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94658",
+        "id": "contrib-1792307281236-94658",
         "date": "2025-10-20 00:00:00",
         "amount": 500,
         "candidate_name": "Matthew Scott Commons",
@@ -1374,7 +1438,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94659",
+        "id": "contrib-1792307281236-94659",
         "date": "2025-06-03 00:00:00",
         "amount": 300,
         "candidate_name": "Matthew Scott Commons",
@@ -1390,7 +1454,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-94660",
+        "id": "contrib-1792307281236-94660",
         "date": "2025-08-05 00:00:00",
         "amount": 750,
         "candidate_name": "Matthew Scott Commons",
@@ -1406,7 +1470,359 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22727",
+        "id": "contrib-1792307281996-62521",
+        "date": "2026-09-19 00:00:00",
+        "amount": 575,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62522",
+        "date": "2026-07-30 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Bose Public Affairs Group LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62523",
+        "date": "2026-08-20 00:00:00",
+        "amount": 1250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "BT Reynolds LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62524",
+        "date": "2026-08-24 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Catalyst Public Affairs Group LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62525",
+        "date": "2026-08-24 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Minneapolis",
+        "address_state": "MN",
+        "address_zip": "55402",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62526",
+        "date": "2026-09-01 00:00:00",
+        "amount": 750,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Gillum Machine & Tool",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lebanon",
+        "address_state": "IN",
+        "address_zip": "47991",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62527",
+        "date": "2026-08-25 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Kroger Gardis and Regas, LLP",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62528",
+        "date": "2026-09-22 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Pure Pharmacy Fishers LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62529",
+        "date": "2026-08-25 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "RJL Solutions, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "47807",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62530",
+        "date": "2026-08-28 00:00:00",
+        "amount": 150,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Sycamore Consulting  Group, LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62531",
+        "date": "2026-08-25 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Zarich Consulting LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46234",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62532",
+        "date": "2026-09-01 00:00:00",
+        "amount": 1250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Allen Buchanan",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Agriculture",
+        "occupation_category": "agriculture",
+        "address_city": "Fowler",
+        "address_state": "IN",
+        "address_zip": "47944",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62533",
+        "date": "2026-09-18 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Bryan Berry",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Agriculture",
+        "occupation_category": "agriculture",
+        "address_city": "Fowler",
+        "address_state": "IN",
+        "address_zip": "47944",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62534",
+        "date": "2026-09-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Clay Andrews",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Agriculture",
+        "occupation_category": "agriculture",
+        "address_city": "West Lebanon",
+        "address_state": "IN",
+        "address_zip": "47991",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62535",
+        "date": "2026-09-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Darin Odle",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62536",
+        "date": "2026-09-08 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Darin Odle",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62537",
+        "date": "2026-08-30 00:00:00",
+        "amount": 850,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Dennis & Karen Hogue",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Ambia",
+        "address_state": "IN",
+        "address_zip": "47917",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62538",
+        "date": "2026-09-19 00:00:00",
+        "amount": 150,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Derek Puterbaugh",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Willaimsport",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62539",
+        "date": "2026-09-19 00:00:00",
+        "amount": 350,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Derek Puterbaugh",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Williamsport",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62540",
+        "date": "2026-09-18 00:00:00",
+        "amount": 200,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Donald Harris",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Kentland",
+        "address_state": "IN",
+        "address_zip": "47951",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62541",
+        "date": "2026-09-02 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Dudley  Cruea",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Covington",
+        "address_state": "IN",
+        "address_zip": "47932",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62542",
+        "date": "2026-08-27 00:00:00",
+        "amount": 50,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Francis Hannan",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lafayette",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62543",
         "date": "2026-04-03 00:00:00",
         "amount": 100,
         "candidate_name": "Matthew Scott Commons",
@@ -1422,7 +1838,103 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22728",
+        "id": "contrib-1792307281996-62544",
+        "date": "2026-09-15 00:00:00",
+        "amount": 75,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Greg Maroska",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62545",
+        "date": "2026-09-19 00:00:00",
+        "amount": 250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "James Powell",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Earl Park",
+        "address_state": "IN",
+        "address_zip": "47942",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62546",
+        "date": "2026-09-19 00:00:00",
+        "amount": 250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Jeff Troike",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62547",
+        "date": "2026-09-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "John Comer",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Pine Village",
+        "address_state": "IN",
+        "address_zip": "47975",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62548",
+        "date": "2026-08-25 00:00:00",
+        "amount": 75,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "John Nally",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fowler",
+        "address_state": "IN",
+        "address_zip": "47944",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62549",
+        "date": "2026-09-19 00:00:00",
+        "amount": 50,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Mark DeGolyer",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Williamsport",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62550",
         "date": "2026-03-13 00:00:00",
         "amount": 150,
         "candidate_name": "Matthew Scott Commons",
@@ -1434,6 +1946,534 @@
         "address_city": "Williamsport",
         "address_state": "IN",
         "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62551",
+        "date": "2026-09-08 00:00:00",
+        "amount": 1250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Michael & Tina Pitts",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Agriculture",
+        "occupation_category": "agriculture",
+        "address_city": "Ambia",
+        "address_state": "IN",
+        "address_zip": "47917",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62552",
+        "date": "2026-08-26 00:00:00",
+        "amount": 250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Neil Ellis",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lebanon",
+        "address_state": "IN",
+        "address_zip": "47991",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62553",
+        "date": "2026-09-27 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Patrick  Mulligan",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Kentland",
+        "address_state": "IN",
+        "address_zip": "47951",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62554",
+        "date": "2026-09-28 00:00:00",
+        "amount": 1250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Quentin  Overbeck",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Agriculture",
+        "occupation_category": "agriculture",
+        "address_city": "Remington",
+        "address_state": "IN",
+        "address_zip": "47977",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62555",
+        "date": "2026-09-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Randall Head",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Logansport",
+        "address_state": "IN",
+        "address_zip": "46947",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62556",
+        "date": "2026-09-19 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Rick Straw",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46040",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62557",
+        "date": "2026-08-26 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Ronald Glotzbach",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fowler",
+        "address_state": "IN",
+        "address_zip": "47994",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62558",
+        "date": "2026-09-25 00:00:00",
+        "amount": 50,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Shelley Lane",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Covington",
+        "address_state": "IN",
+        "address_zip": "47932",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62559",
+        "date": "2026-10-07 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Steve Eberly",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Pine Village",
+        "address_state": "IN",
+        "address_zip": "47975",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62560",
+        "date": "2026-08-03 00:00:00",
+        "amount": 100,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Ted Commons",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lebanon",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62561",
+        "date": "2026-09-03 00:00:00",
+        "amount": 150,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Ted Commons",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lebanon",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62562",
+        "date": "2026-09-11 00:00:00",
+        "amount": 260.25,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Tim Kemple",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Attica",
+        "address_state": "IN",
+        "address_zip": "47918",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62563",
+        "date": "2026-09-10 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "William Otehman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Otterbein",
+        "address_state": "IN",
+        "address_zip": "47970",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281996-62564",
+        "date": "2026-09-19 00:00:00",
+        "amount": 3500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Zach Mitton",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "General Business",
+        "occupation_category": "other",
+        "address_city": "Williamsport",
+        "address_state": "IN",
+        "address_zip": "47993",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62565",
+        "date": "2026-09-28 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Beer Indusrty Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Brownsburg",
+        "address_state": "IN",
+        "address_zip": "46112",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62566",
+        "date": "2026-09-19 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Builders Association of Greater Lafayette PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62567",
+        "date": "2026-07-23 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Duke Energy PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62568",
+        "date": "2026-08-25 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Hoosiers for a Quality Education PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62569",
+        "date": "2026-08-05 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "IHLA PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62570",
+        "date": "2026-07-20 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana American Water Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Greenwood",
+        "address_state": "IN",
+        "address_zip": "46143",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62571",
+        "date": "2026-07-02 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Bank PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62572",
+        "date": "2026-07-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Builders PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62573",
+        "date": "2026-06-11 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Electric Cooperatives State PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62574",
+        "date": "2026-07-27 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Firefighters PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianpolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62575",
+        "date": "2026-08-25 00:00:00",
+        "amount": 500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Manufactures Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62576",
+        "date": "2026-08-11 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Merit- Construction PAC of ABC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62577",
+        "date": "2026-08-14 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Multi-Family  Housing PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "42640",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62578",
+        "date": "2026-10-07 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Indiana Realtors Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62579",
+        "date": "2026-09-09 00:00:00",
+        "amount": 200,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "NFIB Indiana  Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Nashville",
+        "address_state": "TN",
+        "address_zip": "37214",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62580",
+        "date": "2026-08-25 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62581",
+        "date": "2026-08-25 00:00:00",
+        "amount": 300,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "The AES Indiana Power PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62582",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "Tippecanoe County Commissioner PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Committee to Elect Matt Commons",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-62583",
+        "date": "2026-09-08 00:00:00",
+        "amount": 250,
+        "candidate_name": "Matthew Scott Commons",
+        "contributor_name": "White County GOP",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Monticello",
+        "address_state": "IN",
+        "address_zip": "47960",
         "recipient_committee": "Committee to Elect Matt Commons",
         "source": "indiana"
       }

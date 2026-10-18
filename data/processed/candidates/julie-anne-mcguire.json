@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "24824.00",
-    "total_contributions": 52,
-    "total_itemized": 52,
+    "total_raised": "67019.19",
+    "total_contributions": 105,
+    "total_itemized": 105,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 30,
-      "total": "10724.00"
+      "count": 48,
+      "total": "19478.86"
     },
     "corporate": {
-      "count": 6,
-      "total": "3100.00"
+      "count": 19,
+      "total": "8075.15"
     },
     "committee": {
-      "count": 16,
-      "total": "11000.00"
+      "count": 38,
+      "total": "39465.18"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 4,
-      "total": "274.00"
+      "count": 11,
+      "total": "774.00"
     },
     "medium": {
-      "count": 38,
-      "total": "12550.00"
+      "count": 74,
+      "total": "28115.15"
     },
     "large": {
-      "count": 10,
-      "total": "12000.00"
+      "count": 19,
+      "total": "21614.86"
+    },
+    "mega": {
+      "count": 1,
+      "total": "16515.18"
     }
   },
   "by_month": {
@@ -71,11 +75,39 @@
     "2026-02": {
       "count": 2,
       "total": "600.00"
+    },
+    "2026-08": {
+      "count": 34,
+      "total": "15215.15"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "1300.00"
+    },
+    "2026-09": {
+      "count": 5,
+      "total": "3114.86"
+    },
+    "2026-10": {
+      "count": 3,
+      "total": "17765.18"
+    },
+    "2026-06": {
+      "count": 4,
+      "total": "1800.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "1000.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769438-91733",
+      "id": "contrib-1792307281233-91733",
       "date": "2025-11-24 00:00:00",
       "amount": 75,
       "candidate_name": "Julie Anne McGuire",
@@ -91,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91734",
+      "id": "contrib-1792307281233-91734",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -107,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91735",
+      "id": "contrib-1792307281233-91735",
       "date": "2025-11-26 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -123,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91736",
+      "id": "contrib-1792307281233-91736",
       "date": "2025-11-24 00:00:00",
       "amount": 50,
       "candidate_name": "Julie Anne McGuire",
@@ -139,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91737",
+      "id": "contrib-1792307281233-91737",
       "date": "2025-11-13 00:00:00",
       "amount": 99,
       "candidate_name": "Julie Anne McGuire",
@@ -155,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91738",
+      "id": "contrib-1792307281233-91738",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -171,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91739",
+      "id": "contrib-1792307281233-91739",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -187,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91740",
+      "id": "contrib-1792307281233-91740",
       "date": "2025-11-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -203,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91741",
+      "id": "contrib-1792307281233-91741",
       "date": "2025-11-27 00:00:00",
       "amount": 200,
       "candidate_name": "Julie Anne McGuire",
@@ -219,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91742",
+      "id": "contrib-1792307281233-91742",
       "date": "2025-11-23 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -235,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91743",
+      "id": "contrib-1792307281233-91743",
       "date": "2025-11-26 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -251,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91744",
+      "id": "contrib-1792307281233-91744",
       "date": "2025-11-06 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -267,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91745",
+      "id": "contrib-1792307281233-91745",
       "date": "2025-11-24 00:00:00",
       "amount": 200,
       "candidate_name": "Julie Anne McGuire",
@@ -283,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91746",
+      "id": "contrib-1792307281233-91746",
       "date": "2025-08-19 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -299,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91747",
+      "id": "contrib-1792307281233-91747",
       "date": "2025-11-24 00:00:00",
       "amount": 50,
       "candidate_name": "Julie Anne McGuire",
@@ -315,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91748",
+      "id": "contrib-1792307281233-91748",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -331,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91749",
+      "id": "contrib-1792307281233-91749",
       "date": "2025-11-24 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Anne McGuire",
@@ -347,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91750",
+      "id": "contrib-1792307281233-91750",
       "date": "2025-11-24 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -363,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91751",
+      "id": "contrib-1792307281233-91751",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -379,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91752",
+      "id": "contrib-1792307281233-91752",
       "date": "2025-08-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -395,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91753",
+      "id": "contrib-1792307281233-91753",
       "date": "2025-08-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -411,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91754",
+      "id": "contrib-1792307281233-91754",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -427,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91755",
+      "id": "contrib-1792307281233-91755",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -443,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91756",
+      "id": "contrib-1792307281233-91756",
       "date": "2025-08-19 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -459,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91757",
+      "id": "contrib-1792307281233-91757",
       "date": "2025-08-15 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -475,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91758",
+      "id": "contrib-1792307281233-91758",
       "date": "2025-08-19 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -491,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91759",
+      "id": "contrib-1792307281233-91759",
       "date": "2025-08-01 00:00:00",
       "amount": 250,
       "candidate_name": "Julie Anne McGuire",
@@ -507,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91760",
+      "id": "contrib-1792307281233-91760",
       "date": "2025-08-12 00:00:00",
       "amount": 250,
       "candidate_name": "Julie Anne McGuire",
@@ -523,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91761",
+      "id": "contrib-1792307281233-91761",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -539,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91762",
+      "id": "contrib-1792307281233-91762",
       "date": "2025-06-12 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -555,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91763",
+      "id": "contrib-1792307281233-91763",
       "date": "2025-09-15 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -571,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91764",
+      "id": "contrib-1792307281233-91764",
       "date": "2025-08-19 00:00:00",
       "amount": 1500,
       "candidate_name": "Julie Anne McGuire",
@@ -587,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91765",
+      "id": "contrib-1792307281233-91765",
       "date": "2025-08-15 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -603,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91766",
+      "id": "contrib-1792307281233-91766",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -619,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91767",
+      "id": "contrib-1792307281233-91767",
       "date": "2025-08-05 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -635,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91768",
+      "id": "contrib-1792307281233-91768",
       "date": "2025-08-07 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -651,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91769",
+      "id": "contrib-1792307281233-91769",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -667,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91770",
+      "id": "contrib-1792307281233-91770",
       "date": "2025-10-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -683,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91771",
+      "id": "contrib-1792307281233-91771",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -699,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91772",
+      "id": "contrib-1792307281233-91772",
       "date": "2025-11-17 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -715,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91773",
+      "id": "contrib-1792307281233-91773",
       "date": "2025-08-15 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -731,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91774",
+      "id": "contrib-1792307281233-91774",
       "date": "2025-07-03 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -747,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91775",
+      "id": "contrib-1792307281233-91775",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -763,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91776",
+      "id": "contrib-1792307281233-91776",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "Julie Anne McGuire",
@@ -779,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91777",
+      "id": "contrib-1792307281233-91777",
       "date": "2025-07-10 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -795,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91778",
+      "id": "contrib-1792307281233-91778",
       "date": "2025-08-15 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Anne McGuire",
@@ -811,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91779",
+      "id": "contrib-1792307281233-91779",
       "date": "2025-08-18 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -827,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91780",
+      "id": "contrib-1792307281233-91780",
       "date": "2025-06-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Anne McGuire",
@@ -843,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22136",
+      "id": "contrib-1792307281988-59813",
       "date": "2026-01-15 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -859,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22137",
+      "id": "contrib-1792307281988-59814",
       "date": "2026-02-17 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -875,7 +907,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22138",
+      "id": "contrib-1792307281988-59815",
+      "date": "2026-08-17 00:00:00",
+      "amount": 400,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59816",
+      "date": "2026-05-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Anthem Blue Cross Blue Shield",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Conconnati",
+      "address_state": "OH",
+      "address_zip": "45209",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59817",
+      "date": "2026-08-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Bose Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59818",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Catalyst Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59819",
+      "date": "2026-08-04 00:00:00",
+      "amount": 515.15,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Catalyst Public Affairs Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59820",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Dupont Hospital LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59821",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55402",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59822",
+      "date": "2026-05-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Friends of Indiana Hospitals Restricted",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59823",
+      "date": "2026-08-12 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Hollowell Consulting, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59824",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1114.86,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "House Republican Campaign Contribution",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59825",
+      "date": "2026-09-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59826",
       "date": "2026-02-17 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Anne McGuire",
@@ -891,7 +1099,615 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22139",
+      "id": "contrib-1792307281988-59827",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Fine Wine & Spirits LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "MD",
+      "address_zip": "20817",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59828",
+      "date": "2026-10-08 00:00:00",
+      "amount": 16515.18,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59829",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "IOM Health System, L.P.",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59830",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Krieg DeVault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59831",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Kroger Gardis and Regas LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59832",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "LaPorte Hospital Company",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59833",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Lutheran Musculoskeletal Center, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59834",
+      "date": "2026-08-27 00:00:00",
+      "amount": 80,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Porter Hospital, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59835",
+      "date": "2026-06-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Pur Pharmacy Fishers LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59836",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "St. Joseph Health System, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59837",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59838",
+      "date": "2026-08-05 00:00:00",
+      "amount": 400,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "The Indiana Refreshment Providers Association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59839",
+      "date": "2026-08-27 00:00:00",
+      "amount": 70,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Warsaw Health System",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59840",
+      "date": "2026-09-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Beer Industry Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59841",
+      "date": "2026-06-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "CAPNI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59842",
+      "date": "2026-08-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Cummins Inc. Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59843",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59844",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Duke Energy Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59845",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "DukePAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washigton",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59846",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Elevance Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washigton",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59847",
+      "date": "2026-08-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Eli Lilly and Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59848",
+      "date": "2026-06-30 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Foot Support PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59849",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Hoosiers for Quality Education Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59850",
+      "date": "2026-10-01 00:00:00",
+      "amount": 750,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Hygienists of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Osceola",
+      "address_state": "IN",
+      "address_zip": "46561",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59851",
+      "date": "2026-08-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Ice Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59852",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "IMHA/RVIC Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59853",
+      "date": "2026-08-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "IN Dental Political Action Com",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59854",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "INAPTA Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Whitestown",
+      "address_state": "IN",
+      "address_zip": "46075",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59855",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana American Water Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59856",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59857",
+      "date": "2026-07-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59858",
+      "date": "2026-08-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59859",
+      "date": "2026-08-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Health Care Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59860",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59861",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Multi-Family Housing",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59862",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59863",
+      "date": "2026-08-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Society of Anesthesiologists of Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59864",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59865",
       "date": "2026-01-15 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Anne McGuire",
@@ -903,6 +1719,70 @@
       "address_city": "Washington",
       "address_state": "DC",
       "address_zip": "20005",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59866",
+      "date": "2026-09-15 00:00:00",
+      "amount": 200,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59867",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Optometry's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59868",
+      "date": "2026-05-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Roche Diagnostics Corporation PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Little Falls",
+      "address_state": "NJ",
+      "address_zip": "07424",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59869",
+      "date": "2026-07-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "WALPAC for Responsible Government",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716",
       "recipient_committee": "Julie McGuire for State Representative",
       "source": "indiana"
     }

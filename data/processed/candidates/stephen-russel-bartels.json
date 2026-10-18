@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "53403.00",
-    "total_contributions": 55,
-    "total_itemized": 55,
+    "total_raised": "96653.00",
+    "total_contributions": 114,
+    "total_itemized": 114,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 13,
-      "total": "7350.00"
+      "count": 36,
+      "total": "22280.00"
     },
     "individual": {
-      "count": 15,
-      "total": "18753.00"
+      "count": 25,
+      "total": "23573.00"
     },
     "committee": {
-      "count": 27,
-      "total": "27300.00"
+      "count": 53,
+      "total": "50800.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 20,
-      "total": "30500.00"
+      "count": 43,
+      "total": "61500.00"
     },
     "medium": {
-      "count": 34,
-      "total": "12903.00"
+      "count": 63,
+      "total": "24653.00"
     },
     "mega": {
       "count": 1,
       "total": "10000.00"
+    },
+    "small": {
+      "count": 7,
+      "total": "500.00"
     }
   },
   "by_month": {
@@ -72,22 +76,46 @@
       "count": 1,
       "total": "300.00"
     },
+    "2026-09": {
+      "count": 4,
+      "total": "3700.00"
+    },
+    "2026-06": {
+      "count": 27,
+      "total": "22450.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "900.00"
+    },
+    "2026-10": {
+      "count": 14,
+      "total": "7300.00"
+    },
     "2026-01": {
       "count": 4,
       "total": "1150.00"
+    },
+    "2026-08": {
+      "count": 4,
+      "total": "2150.00"
     },
     "2026-03": {
       "count": 2,
       "total": "15000.00"
     },
+    "2026-07": {
+      "count": 7,
+      "total": "5250.00"
+    },
     "2026-04": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769425-83229",
+      "id": "contrib-1792307281217-83229",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -103,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83230",
+      "id": "contrib-1792307281217-83230",
       "date": "2025-09-23 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -119,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83231",
+      "id": "contrib-1792307281217-83231",
       "date": "2025-06-10 00:00:00",
       "amount": 400,
       "candidate_name": "Stephen Russel Bartels",
@@ -135,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83232",
+      "id": "contrib-1792307281217-83232",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -151,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83233",
+      "id": "contrib-1792307281217-83233",
       "date": "2025-07-24 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -167,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83234",
+      "id": "contrib-1792307281217-83234",
       "date": "2025-07-24 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -183,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83235",
+      "id": "contrib-1792307281217-83235",
       "date": "2025-08-12 00:00:00",
       "amount": 303,
       "candidate_name": "Stephen Russel Bartels",
@@ -199,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83236",
+      "id": "contrib-1792307281217-83236",
       "date": "2025-09-23 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -215,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83237",
+      "id": "contrib-1792307281217-83237",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -231,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83238",
+      "id": "contrib-1792307281217-83238",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -247,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83239",
+      "id": "contrib-1792307281217-83239",
       "date": "2025-09-23 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -263,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83240",
+      "id": "contrib-1792307281217-83240",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -279,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83241",
+      "id": "contrib-1792307281217-83241",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -295,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83242",
+      "id": "contrib-1792307281217-83242",
       "date": "2025-12-23 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -311,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83243",
+      "id": "contrib-1792307281217-83243",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -327,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83244",
+      "id": "contrib-1792307281217-83244",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -343,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83245",
+      "id": "contrib-1792307281217-83245",
       "date": "2025-07-24 00:00:00",
       "amount": 200,
       "candidate_name": "Stephen Russel Bartels",
@@ -359,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83246",
+      "id": "contrib-1792307281217-83246",
       "date": "2025-12-23 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -375,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83247",
+      "id": "contrib-1792307281217-83247",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -391,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83248",
+      "id": "contrib-1792307281217-83248",
       "date": "2025-09-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -407,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83249",
+      "id": "contrib-1792307281217-83249",
       "date": "2025-07-24 00:00:00",
       "amount": 1500,
       "candidate_name": "Stephen Russel Bartels",
@@ -423,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83250",
+      "id": "contrib-1792307281217-83250",
       "date": "2025-07-24 00:00:00",
       "amount": 1500,
       "candidate_name": "Stephen Russel Bartels",
@@ -439,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83251",
+      "id": "contrib-1792307281217-83251",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -455,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83252",
+      "id": "contrib-1792307281217-83252",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -471,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83253",
+      "id": "contrib-1792307281217-83253",
       "date": "2025-09-16 00:00:00",
       "amount": 350,
       "candidate_name": "Stephen Russel Bartels",
@@ -487,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83254",
+      "id": "contrib-1792307281217-83254",
       "date": "2025-06-26 00:00:00",
       "amount": 3000,
       "candidate_name": "Stephen Russel Bartels",
@@ -503,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83255",
+      "id": "contrib-1792307281217-83255",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -519,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83256",
+      "id": "contrib-1792307281217-83256",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -535,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83257",
+      "id": "contrib-1792307281217-83257",
       "date": "2025-06-10 00:00:00",
       "amount": 2000,
       "candidate_name": "Stephen Russel Bartels",
@@ -551,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83258",
+      "id": "contrib-1792307281217-83258",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -567,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83259",
+      "id": "contrib-1792307281217-83259",
       "date": "2025-07-24 00:00:00",
       "amount": 750,
       "candidate_name": "Stephen Russel Bartels",
@@ -583,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83260",
+      "id": "contrib-1792307281217-83260",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -599,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83261",
+      "id": "contrib-1792307281217-83261",
       "date": "2025-07-24 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -615,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83262",
+      "id": "contrib-1792307281217-83262",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -631,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83263",
+      "id": "contrib-1792307281217-83263",
       "date": "2025-07-24 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -647,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83264",
+      "id": "contrib-1792307281217-83264",
       "date": "2025-12-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -663,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83265",
+      "id": "contrib-1792307281217-83265",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -679,7 +707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83266",
+      "id": "contrib-1792307281217-83266",
       "date": "2025-07-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -695,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83267",
+      "id": "contrib-1792307281217-83267",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -711,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83268",
+      "id": "contrib-1792307281217-83268",
       "date": "2025-07-24 00:00:00",
       "amount": 1500,
       "candidate_name": "Stephen Russel Bartels",
@@ -727,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83269",
+      "id": "contrib-1792307281217-83269",
       "date": "2025-12-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -743,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83270",
+      "id": "contrib-1792307281217-83270",
       "date": "2025-07-28 00:00:00",
       "amount": 2000,
       "candidate_name": "Stephen Russel Bartels",
@@ -759,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83271",
+      "id": "contrib-1792307281217-83271",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -775,7 +803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83272",
+      "id": "contrib-1792307281217-83272",
       "date": "2025-08-12 00:00:00",
       "amount": 100,
       "candidate_name": "Stephen Russel Bartels",
@@ -791,7 +819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83273",
+      "id": "contrib-1792307281217-83273",
       "date": "2025-01-02 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -807,7 +835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83274",
+      "id": "contrib-1792307281217-83274",
       "date": "2025-07-24 00:00:00",
       "amount": 300,
       "candidate_name": "Stephen Russel Bartels",
@@ -823,7 +851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83275",
+      "id": "contrib-1792307281217-83275",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Stephen Russel Bartels",
@@ -839,7 +867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83276",
+      "id": "contrib-1792307281217-83276",
       "date": "2025-08-12 00:00:00",
       "amount": 500,
       "candidate_name": "Stephen Russel Bartels",
@@ -855,7 +883,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17270",
+      "id": "contrib-1792307281973-48985",
+      "date": "2026-09-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Anheuser Busch",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St Louis ",
+      "address_state": "MO",
+      "address_zip": "63118",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48986",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Diageo North America Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York",
+      "address_state": "NY",
+      "address_zip": "10007",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48987",
+      "date": "2026-05-04 00:00:00",
+      "amount": 400,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "DoorDash Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94105",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48988",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Hightower Services Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48989",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Leibering & Sons Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lamar",
+      "address_state": "IN",
+      "address_zip": "47550",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48990",
       "date": "2026-01-12 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -871,7 +979,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17271",
+      "id": "contrib-1792307281973-48991",
+      "date": "2026-09-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Molson Coors Beverage Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Milwaukee",
+      "address_state": "WI",
+      "address_zip": "53201",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48992",
       "date": "2026-01-02 00:00:00",
       "amount": 400,
       "candidate_name": "Stephen Russel Bartels",
@@ -887,7 +1011,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17272",
+      "id": "contrib-1792307281973-48993",
+      "date": "2026-08-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Orange County Beverage Co., Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "French Lick",
+      "address_state": "IN",
+      "address_zip": "47432",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48994",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Templeton Coal Company Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48995",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Zink Distributing Company",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48996",
       "date": "2026-03-30 00:00:00",
       "amount": 10000,
       "candidate_name": "Stephen Russel Bartels",
@@ -903,7 +1075,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17273",
+      "id": "contrib-1792307281973-48997",
+      "date": "2026-07-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Mark Shublak",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48998",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48999",
       "date": "2026-04-07 00:00:00",
       "amount": 2000,
       "candidate_name": "Stephen Russel Bartels",
@@ -919,7 +1123,519 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17274",
+      "id": "contrib-1792307281973-49000",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "19th Star State Solutions LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49001",
+      "date": "2026-06-26 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49002",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49003",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Dupont Hospital LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49004",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55402",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49005",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Flint Consulting LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49006",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Fine Wine & Spirits, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "MD",
+      "address_zip": "20817",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49007",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IOM Health System LP",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49008",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49009",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Kroger Gardis and Regas LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49010",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "La Porte Hospital Company LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49011",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Lutheran Musculoskeletal Center LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49012",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Obvion Consulting Group",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49013",
+      "date": "2026-10-08 00:00:00",
+      "amount": 80,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Porter Hospital LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49014",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "RJL Solutions LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49015",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "St Joseph Health System LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49016",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "The Corydon Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49017",
+      "date": "2026-06-26 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "VanceMitchem Public Affairs LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46259",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49018",
+      "date": "2026-05-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Volt Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49019",
+      "date": "2026-10-08 00:00:00",
+      "amount": 70,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Warsaw Health Systems LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "TN",
+      "address_zip": "37068",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49020",
+      "date": "2026-07-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49021",
+      "date": "2026-07-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49022",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "INDIANA MEDICAL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49023",
+      "date": "2026-07-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49024",
+      "date": "2026-08-19 00:00:00",
+      "amount": 350,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "TELPAC INDIANA",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49025",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "1816 Public Affairs Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49026",
+      "date": "2026-04-14 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "American Electric Power Committee for Responsible Government PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49027",
+      "date": "2026-09-01 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "ARCH PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49028",
+      "date": "2026-08-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "AT & T Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49029",
+      "date": "2026-07-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "CAPNI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49030",
+      "date": "2026-06-26 00:00:00",
+      "amount": 350,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "CenterPoint Energy Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49031",
+      "date": "2026-10-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49032",
       "date": "2026-01-21 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -935,7 +1651,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17275",
+      "id": "contrib-1792307281973-49033",
+      "date": "2026-08-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Duke Energy Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49034",
       "date": "2026-03-16 00:00:00",
       "amount": 5000,
       "candidate_name": "Stephen Russel Bartels",
@@ -951,7 +1683,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17276",
+      "id": "contrib-1792307281973-49035",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49036",
       "date": "2026-01-12 00:00:00",
       "amount": 250,
       "candidate_name": "Stephen Russel Bartels",
@@ -963,6 +1711,230 @@
       "address_city": "Camby",
       "address_state": "IN",
       "address_zip": "46113",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49037",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IFCA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49038",
+      "date": "2026-07-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IHLA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49039",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "IMHA/RVIC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49040",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "In",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49041",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49042",
+      "date": "2026-06-26 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49043",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Dental PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49044",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49045",
+      "date": "2026-06-26 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Multi-Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49046",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Outdoor Management Alliance DBA IOMA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49047",
+      "date": "2026-10-08 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49048",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49049",
+      "date": "2026-06-26 00:00:00",
+      "amount": 300,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "The AES Indiana Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Stephen Bartels",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49050",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Stephen Russel Bartels",
+      "contributor_name": "Wine and Spirits Wholesalers of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Friends of Stephen Bartels",
       "source": "indiana"
     }

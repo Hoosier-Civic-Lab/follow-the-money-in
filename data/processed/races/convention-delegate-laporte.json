@@ -3,39 +3,43 @@
   "office": "Convention Delegate",
   "district": "LaPorte",
   "totals": {
-    "total_raised": "93520.87",
-    "total_contributions": 50
+    "total_raised": "142835.27",
+    "total_contributions": 97
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "1199.55"
+      "count": 2,
+      "total": "1514.55"
     },
     "individual": {
-      "count": 33,
-      "total": "29991.55"
+      "count": 77,
+      "total": "73747.25"
     },
     "self": {
       "count": 16,
       "total": "62329.77"
+    },
+    "committee": {
+      "count": 2,
+      "total": "5243.70"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 10,
-      "total": "33302.09"
+      "count": 15,
+      "total": "48836.81"
     },
     "medium": {
-      "count": 34,
-      "total": "10075.05"
+      "count": 68,
+      "total": "18626.65"
     },
     "mega": {
-      "count": 1,
-      "total": "50000.00"
+      "count": 2,
+      "total": "75000.00"
     },
     "small": {
-      "count": 5,
-      "total": "143.73"
+      "count": 12,
+      "total": "371.81"
     }
   },
   "by_month": {
@@ -59,9 +63,29 @@
       "count": 3,
       "total": "220.21"
     },
+    "2026-08": {
+      "count": 22,
+      "total": "9052.02"
+    },
+    "2026-05": {
+      "count": 4,
+      "total": "1787.32"
+    },
+    "2026-07": {
+      "count": 6,
+      "total": "5612.77"
+    },
     "2026-01": {
       "count": 4,
       "total": "4259.93"
+    },
+    "2026-09": {
+      "count": 6,
+      "total": "26434.81"
+    },
+    "2026-10": {
+      "count": 5,
+      "total": "5764.20"
     },
     "2026-02": {
       "count": 1,
@@ -70,6 +94,14 @@
     "2026-03": {
       "count": 1,
       "total": "192.36"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "216.66"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "446.62"
     }
   },
   "candidates": [
@@ -78,8 +110,8 @@
       "name": "Chris Cleveland",
       "party": "Republican",
       "totals": {
-        "total_raised": "93520.87",
-        "total_contributions": 50
+        "total_raised": "142835.27",
+        "total_contributions": 97
       },
       "by_month": {
         "2025-12": {
@@ -102,9 +134,29 @@
           "count": 3,
           "total": "220.21"
         },
+        "2026-08": {
+          "count": 22,
+          "total": "9052.02"
+        },
+        "2026-05": {
+          "count": 4,
+          "total": "1787.32"
+        },
+        "2026-07": {
+          "count": 6,
+          "total": "5612.77"
+        },
         "2026-01": {
           "count": 4,
           "total": "4259.93"
+        },
+        "2026-09": {
+          "count": 6,
+          "total": "26434.81"
+        },
+        "2026-10": {
+          "count": 5,
+          "total": "5764.20"
         },
         "2026-02": {
           "count": 1,
@@ -113,6 +165,14 @@
         "2026-03": {
           "count": 1,
           "total": "192.36"
+        },
+        "2026-06": {
+          "count": 2,
+          "total": "216.66"
+        },
+        "2026-04": {
+          "count": 2,
+          "total": "446.62"
         }
       }
     }

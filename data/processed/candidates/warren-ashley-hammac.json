@@ -6,15 +6,15 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "1214.34",
-    "total_contributions": 11,
+    "total_raised": "1502.33",
+    "total_contributions": 21,
     "total_itemized": 2,
-    "total_unitemized": 9
+    "total_unitemized": 19
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 9,
-      "total": "864.34"
+      "count": 19,
+      "total": "1152.33"
     },
     "individual": {
       "count": 2,
@@ -23,22 +23,42 @@
   },
   "by_contribution_size": {
     "small": {
-      "count": 6,
-      "total": "219.12"
+      "count": 15,
+      "total": "407.11"
     },
     "medium": {
-      "count": 5,
-      "total": "995.22"
+      "count": 6,
+      "total": "1095.22"
     }
   },
   "by_month": {
+    "2026-07": {
+      "count": 1,
+      "total": "0.96"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "0.96"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "123.29"
+    },
     "2026-03": {
       "count": 2,
       "total": "3.40"
     },
     "2026-04": {
+      "count": 3,
+      "total": "54.68"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "114.00"
+    },
+    "2026-06": {
       "count": 1,
-      "total": "25.20"
+      "total": "19.30"
     },
     "2026-02": {
       "count": 6,
@@ -51,7 +71,55 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769745-32650",
+      "id": "contrib-1792307282039-88816",
+      "date": "2026-07-22 00:00:00",
+      "amount": 0.96,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88817",
+      "date": "2026-08-12 00:00:00",
+      "amount": 0.96,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88818",
+      "date": "2026-05-08 00:00:00",
+      "amount": 1.03,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88819",
       "date": "2026-03-18 00:00:00",
       "amount": 1.17,
       "candidate_name": "Warren Ashley Hammac",
@@ -67,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32651",
+      "id": "contrib-1792307282039-88820",
       "date": "2026-03-04 00:00:00",
       "amount": 2.23,
       "candidate_name": "Warren Ashley Hammac",
@@ -83,7 +151,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32652",
+      "id": "contrib-1792307282039-88821",
+      "date": "2026-04-15 00:00:00",
+      "amount": 5.36,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88822",
+      "date": "2026-09-30 00:00:00",
+      "amount": 14,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88823",
+      "date": "2026-06-03 00:00:00",
+      "amount": 19.3,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88824",
+      "date": "2026-04-29 00:00:00",
+      "amount": 24.12,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88825",
       "date": "2026-04-03 00:00:00",
       "amount": 25.2,
       "candidate_name": "Warren Ashley Hammac",
@@ -99,7 +231,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32653",
+      "id": "contrib-1792307282039-88826",
+      "date": "2026-05-28 00:00:00",
+      "amount": 25.76,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88827",
       "date": "2026-02-25 00:00:00",
       "amount": 45.77,
       "candidate_name": "Warren Ashley Hammac",
@@ -115,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32654",
+      "id": "contrib-1792307282039-88828",
       "date": "2026-02-04 00:00:00",
       "amount": 48.25,
       "candidate_name": "Warren Ashley Hammac",
@@ -131,7 +279,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32655",
+      "id": "contrib-1792307282039-88829",
+      "date": "2026-05-13 00:00:00",
+      "amount": 96.5,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88830",
+      "date": "2026-09-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Warren Ashley Hammac",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Ashley Hammac",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88831",
       "date": "2026-01-30 00:00:00",
       "amount": 353.16,
       "candidate_name": "Warren Ashley Hammac",
@@ -147,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32656",
+      "id": "contrib-1792307282039-88832",
       "date": "2026-02-11 00:00:00",
       "amount": 96.5,
       "candidate_name": "Warren Ashley Hammac",
@@ -163,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32657",
+      "id": "contrib-1792307282039-88833",
       "date": "2026-02-19 00:00:00",
       "amount": 176.27,
       "candidate_name": "Warren Ashley Hammac",
@@ -179,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32658",
+      "id": "contrib-1792307282039-88834",
       "date": "2026-02-04 00:00:00",
       "amount": 115.79,
       "candidate_name": "Warren Ashley Hammac",
@@ -195,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32659",
+      "id": "contrib-1792307282039-88835",
       "date": "2026-02-17 00:00:00",
       "amount": 250,
       "candidate_name": "Warren Ashley Hammac",
@@ -211,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32660",
+      "id": "contrib-1792307282039-88836",
       "date": "2026-01-12 00:00:00",
       "amount": 100,
       "candidate_name": "Warren Ashley Hammac",

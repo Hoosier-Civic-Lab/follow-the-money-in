@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "89841.38",
-    "total_contributions": 122,
-    "total_itemized": 120,
+    "total_raised": "121910.16",
+    "total_contributions": 148,
+    "total_itemized": 146,
     "total_unitemized": 2
   },
   "by_contributor_type": {
@@ -17,16 +17,16 @@
       "total": "75.00"
     },
     "corporate": {
-      "count": 18,
-      "total": "11050.00"
+      "count": 22,
+      "total": "13050.00"
     },
     "individual": {
-      "count": 48,
-      "total": "21972.24"
+      "count": 55,
+      "total": "27718.08"
     },
     "committee": {
-      "count": 54,
-      "total": "56744.14"
+      "count": 69,
+      "total": "81067.08"
     }
   },
   "by_contribution_size": {
@@ -35,16 +35,16 @@
       "total": "75.00"
     },
     "large": {
-      "count": 36,
-      "total": "52875.32"
+      "count": 45,
+      "total": "68794.10"
     },
     "medium": {
-      "count": 83,
-      "total": "26891.06"
+      "count": 99,
+      "total": "33041.06"
     },
     "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 2,
+      "total": "20000.00"
     }
   },
   "by_month": {
@@ -80,22 +80,46 @@
       "count": 1,
       "total": "300.00"
     },
+    "2026-08": {
+      "count": 5,
+      "total": "1350.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "2550.00"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "1500.00"
+    },
     "2026-03": {
       "count": 8,
       "total": "9444.14"
     },
     "2026-04": {
-      "count": 25,
-      "total": "27540.92"
+      "count": 36,
+      "total": "45759.64"
+    },
+    "2026-10": {
+      "count": 3,
+      "total": "2845.84"
     },
     "2026-01": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "5304.22"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769403-64549",
+      "id": "contrib-1792307281196-64549",
       "date": "2025-11-06 00:00:00",
       "amount": 25,
       "candidate_name": "Robert Allen Heaton",
@@ -111,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64550",
+      "id": "contrib-1792307281196-64550",
       "date": "2025-11-06 00:00:00",
       "amount": 50,
       "candidate_name": "Robert Allen Heaton",
@@ -127,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64551",
+      "id": "contrib-1792307281196-64551",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -143,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64552",
+      "id": "contrib-1792307281196-64552",
       "date": "2025-10-30 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -159,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64553",
+      "id": "contrib-1792307281196-64553",
       "date": "2025-10-24 00:00:00",
       "amount": 200,
       "candidate_name": "Robert Allen Heaton",
@@ -175,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64554",
+      "id": "contrib-1792307281196-64554",
       "date": "2025-11-06 00:00:00",
       "amount": 1150,
       "candidate_name": "Robert Allen Heaton",
@@ -191,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64555",
+      "id": "contrib-1792307281196-64555",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -207,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64556",
+      "id": "contrib-1792307281196-64556",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -223,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64557",
+      "id": "contrib-1792307281196-64557",
       "date": "2025-10-31 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -239,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64558",
+      "id": "contrib-1792307281196-64558",
       "date": "2025-10-31 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -255,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64559",
+      "id": "contrib-1792307281196-64559",
       "date": "2025-10-30 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -271,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64560",
+      "id": "contrib-1792307281196-64560",
       "date": "2025-11-06 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -287,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64561",
+      "id": "contrib-1792307281196-64561",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -303,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64562",
+      "id": "contrib-1792307281196-64562",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -319,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64563",
+      "id": "contrib-1792307281196-64563",
       "date": "2025-10-24 00:00:00",
       "amount": 356,
       "candidate_name": "Robert Allen Heaton",
@@ -335,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64564",
+      "id": "contrib-1792307281196-64564",
       "date": "2025-10-20 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -351,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64565",
+      "id": "contrib-1792307281196-64565",
       "date": "2025-11-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -367,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64566",
+      "id": "contrib-1792307281196-64566",
       "date": "2025-10-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -383,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64567",
+      "id": "contrib-1792307281197-64567",
       "date": "2025-10-30 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -399,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64568",
+      "id": "contrib-1792307281197-64568",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -415,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64569",
+      "id": "contrib-1792307281197-64569",
       "date": "2025-10-31 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -431,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64570",
+      "id": "contrib-1792307281197-64570",
       "date": "2025-10-24 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -447,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64571",
+      "id": "contrib-1792307281197-64571",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -463,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64572",
+      "id": "contrib-1792307281197-64572",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -479,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64573",
+      "id": "contrib-1792307281197-64573",
       "date": "2025-10-31 00:00:00",
       "amount": 2500,
       "candidate_name": "Robert Allen Heaton",
@@ -495,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64574",
+      "id": "contrib-1792307281197-64574",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -511,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64575",
+      "id": "contrib-1792307281197-64575",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -527,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64576",
+      "id": "contrib-1792307281197-64576",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -543,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64577",
+      "id": "contrib-1792307281197-64577",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -559,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64578",
+      "id": "contrib-1792307281197-64578",
       "date": "2025-11-06 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Allen Heaton",
@@ -575,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64579",
+      "id": "contrib-1792307281197-64579",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -591,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64580",
+      "id": "contrib-1792307281197-64580",
       "date": "2025-11-06 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -607,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64581",
+      "id": "contrib-1792307281197-64581",
       "date": "2025-10-31 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -623,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64582",
+      "id": "contrib-1792307281197-64582",
       "date": "2025-10-31 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -639,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64583",
+      "id": "contrib-1792307281197-64583",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -655,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64584",
+      "id": "contrib-1792307281197-64584",
       "date": "2025-12-08 00:00:00",
       "amount": 200,
       "candidate_name": "Robert Allen Heaton",
@@ -671,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64585",
+      "id": "contrib-1792307281197-64585",
       "date": "2025-10-31 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -687,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64586",
+      "id": "contrib-1792307281197-64586",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -703,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64587",
+      "id": "contrib-1792307281197-64587",
       "date": "2025-10-24 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -719,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64588",
+      "id": "contrib-1792307281197-64588",
       "date": "2025-10-31 00:00:00",
       "amount": 200,
       "candidate_name": "Robert Allen Heaton",
@@ -735,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64589",
+      "id": "contrib-1792307281197-64589",
       "date": "2025-11-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -751,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64590",
+      "id": "contrib-1792307281197-64590",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -767,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64591",
+      "id": "contrib-1792307281197-64591",
       "date": "2025-10-30 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -783,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64592",
+      "id": "contrib-1792307281197-64592",
       "date": "2025-10-24 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -799,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64593",
+      "id": "contrib-1792307281197-64593",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -815,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64594",
+      "id": "contrib-1792307281197-64594",
       "date": "2025-10-15 00:00:00",
       "amount": 150,
       "candidate_name": "Robert Allen Heaton",
@@ -831,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64595",
+      "id": "contrib-1792307281197-64595",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -847,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64596",
+      "id": "contrib-1792307281197-64596",
       "date": "2025-10-24 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -863,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64597",
+      "id": "contrib-1792307281197-64597",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -879,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64598",
+      "id": "contrib-1792307281197-64598",
       "date": "2025-09-17 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -895,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64599",
+      "id": "contrib-1792307281197-64599",
       "date": "2025-11-06 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -911,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64600",
+      "id": "contrib-1792307281197-64600",
       "date": "2025-10-31 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -927,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64601",
+      "id": "contrib-1792307281197-64601",
       "date": "2025-10-31 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -943,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64602",
+      "id": "contrib-1792307281197-64602",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -959,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64603",
+      "id": "contrib-1792307281197-64603",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -975,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64604",
+      "id": "contrib-1792307281197-64604",
       "date": "2025-09-17 00:00:00",
       "amount": 200,
       "candidate_name": "Robert Allen Heaton",
@@ -991,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64605",
+      "id": "contrib-1792307281197-64605",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1007,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64606",
+      "id": "contrib-1792307281197-64606",
       "date": "2025-11-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1023,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64607",
+      "id": "contrib-1792307281197-64607",
       "date": "2025-10-30 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1039,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64608",
+      "id": "contrib-1792307281197-64608",
       "date": "2025-12-31 00:00:00",
       "amount": 2225.32,
       "candidate_name": "Robert Allen Heaton",
@@ -1055,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64609",
+      "id": "contrib-1792307281197-64609",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1071,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64610",
+      "id": "contrib-1792307281197-64610",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1087,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64611",
+      "id": "contrib-1792307281197-64611",
       "date": "2025-09-17 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Allen Heaton",
@@ -1103,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64612",
+      "id": "contrib-1792307281197-64612",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1119,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64613",
+      "id": "contrib-1792307281197-64613",
       "date": "2025-09-17 00:00:00",
       "amount": 400,
       "candidate_name": "Robert Allen Heaton",
@@ -1135,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64614",
+      "id": "contrib-1792307281197-64614",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1151,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64615",
+      "id": "contrib-1792307281197-64615",
       "date": "2025-09-17 00:00:00",
       "amount": 750,
       "candidate_name": "Robert Allen Heaton",
@@ -1167,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64616",
+      "id": "contrib-1792307281197-64616",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1183,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64617",
+      "id": "contrib-1792307281197-64617",
       "date": "2025-08-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1199,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64618",
+      "id": "contrib-1792307281197-64618",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1215,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64619",
+      "id": "contrib-1792307281197-64619",
       "date": "2025-07-02 00:00:00",
       "amount": 350,
       "candidate_name": "Robert Allen Heaton",
@@ -1231,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64620",
+      "id": "contrib-1792307281197-64620",
       "date": "2025-09-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1247,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64621",
+      "id": "contrib-1792307281197-64621",
       "date": "2025-09-17 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1263,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64622",
+      "id": "contrib-1792307281197-64622",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1279,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64623",
+      "id": "contrib-1792307281197-64623",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1295,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64624",
+      "id": "contrib-1792307281197-64624",
       "date": "2025-10-03 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1311,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64625",
+      "id": "contrib-1792307281197-64625",
       "date": "2025-09-17 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1327,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64626",
+      "id": "contrib-1792307281197-64626",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1343,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64627",
+      "id": "contrib-1792307281197-64627",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1359,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64628",
+      "id": "contrib-1792307281197-64628",
       "date": "2025-09-17 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1375,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64629",
+      "id": "contrib-1792307281197-64629",
       "date": "2025-06-03 00:00:00",
       "amount": 2500,
       "candidate_name": "Robert Allen Heaton",
@@ -1391,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64630",
+      "id": "contrib-1792307281197-64630",
       "date": "2025-09-17 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1407,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64631",
+      "id": "contrib-1792307281197-64631",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1423,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64632",
+      "id": "contrib-1792307281197-64632",
       "date": "2025-10-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Robert Allen Heaton",
@@ -1439,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64633",
+      "id": "contrib-1792307281197-64633",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -1455,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64634",
+      "id": "contrib-1792307281197-64634",
       "date": "2025-09-26 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1471,7 +1495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64635",
+      "id": "contrib-1792307281197-64635",
       "date": "2025-01-03 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1487,7 +1511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64636",
+      "id": "contrib-1792307281197-64636",
       "date": "2025-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1503,7 +1527,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11088",
+      "id": "contrib-1792307281946-31613",
+      "date": "2026-08-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Allstate Vehicle and Property Ins Co",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Northbrook",
+      "address_state": "IL",
+      "address_zip": "60062",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31614",
+      "date": "2026-09-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Nationwide Mutual Insurance Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "OH",
+      "address_zip": "43215",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31615",
+      "date": "2026-06-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Phillips and Associates, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31616",
       "date": "2026-03-16 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Allen Heaton",
@@ -1519,7 +1591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11089",
+      "id": "contrib-1792307281946-31617",
       "date": "2026-04-08 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1535,7 +1607,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11090",
+      "id": "contrib-1792307281946-31618",
+      "date": "2026-09-16 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Brian Dorsett",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31619",
+      "date": "2026-10-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Jon Nicoson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Cory",
+      "address_state": "IN",
+      "address_zip": "47846",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31620",
+      "date": "2026-08-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Robyn Crosson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31621",
       "date": "2026-03-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1551,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11091",
+      "id": "contrib-1792307281946-31622",
       "date": "2026-03-18 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -1567,7 +1687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11092",
+      "id": "contrib-1792307281946-31623",
       "date": "2026-04-08 00:00:00",
       "amount": 350,
       "candidate_name": "Robert Allen Heaton",
@@ -1583,7 +1703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11093",
+      "id": "contrib-1792307281946-31624",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1599,7 +1719,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11094",
+      "id": "contrib-1792307281946-31625",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1345.84,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Terre Haute Savings Bank",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31626",
       "date": "2026-04-10 00:00:00",
       "amount": 640.92,
       "candidate_name": "Robert Allen Heaton",
@@ -1615,7 +1751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11095",
+      "id": "contrib-1792307281946-31627",
       "date": "2026-01-07 00:00:00",
       "amount": 2000,
       "candidate_name": "Robert Allen Heaton",
@@ -1631,7 +1767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11096",
+      "id": "contrib-1792307281946-31628",
       "date": "2026-03-18 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Allen Heaton",
@@ -1647,7 +1783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11097",
+      "id": "contrib-1792307281946-31629",
       "date": "2026-04-08 00:00:00",
       "amount": 1500,
       "candidate_name": "Robert Allen Heaton",
@@ -1663,7 +1799,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11098",
+      "id": "contrib-1792307281946-31630",
+      "date": "2026-04-28 00:00:00",
+      "amount": 600,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "INDIANA CREDIT UNION POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31631",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1679,7 +1831,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11099",
+      "id": "contrib-1792307281946-31632",
+      "date": "2026-06-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Farm Bureau AgELECT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31633",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1695,7 +1863,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11100",
+      "id": "contrib-1792307281946-31634",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31635",
+      "date": "2026-04-21 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31636",
       "date": "2026-04-09 00:00:00",
       "amount": 10000,
       "candidate_name": "Robert Allen Heaton",
@@ -1711,7 +1911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11101",
+      "id": "contrib-1792307281946-31637",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1727,7 +1927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11102",
+      "id": "contrib-1792307281946-31638",
       "date": "2026-03-16 00:00:00",
       "amount": 350,
       "candidate_name": "Robert Allen Heaton",
@@ -1743,7 +1943,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11103",
+      "id": "contrib-1792307281946-31639",
+      "date": "2026-08-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "American Property Casualty Insurance Association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31640",
       "date": "2026-04-09 00:00:00",
       "amount": 2000,
       "candidate_name": "Robert Allen Heaton",
@@ -1759,7 +1975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11104",
+      "id": "contrib-1792307281946-31641",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1775,7 +1991,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11105",
+      "id": "contrib-1792307281946-31642",
+      "date": "2026-04-17 00:00:00",
+      "amount": 350,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Centerpoint Energy, Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31643",
+      "date": "2026-04-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Duke Energy Corporation Employee Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31644",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1791,7 +2039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11106",
+      "id": "contrib-1792307281946-31645",
       "date": "2026-04-08 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -1807,7 +2055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11107",
+      "id": "contrib-1792307281946-31646",
       "date": "2026-04-09 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -1823,7 +2071,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11108",
+      "id": "contrib-1792307281946-31647",
+      "date": "2026-07-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "IHLA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31648",
       "date": "2026-04-08 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1839,7 +2103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11109",
+      "id": "contrib-1792307281946-31649",
       "date": "2026-04-09 00:00:00",
       "amount": 250,
       "candidate_name": "Robert Allen Heaton",
@@ -1855,7 +2119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11110",
+      "id": "contrib-1792307281946-31650",
       "date": "2026-04-08 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -1871,7 +2135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11111",
+      "id": "contrib-1792307281946-31651",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1887,7 +2151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11112",
+      "id": "contrib-1792307281946-31652",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Robert Allen Heaton",
@@ -1903,7 +2167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11113",
+      "id": "contrib-1792307281946-31653",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1919,7 +2183,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11114",
+      "id": "contrib-1792307281946-31654",
+      "date": "2026-04-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana CRNA-Dream Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Springfield",
+      "address_state": "IL",
+      "address_zip": "62701",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31655",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Dental PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31656",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -1935,7 +2231,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11115",
+      "id": "contrib-1792307281946-31657",
+      "date": "2026-05-05 00:00:00",
+      "amount": 5304.22,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31658",
       "date": "2026-03-23 00:00:00",
       "amount": 868.15,
       "candidate_name": "Robert Allen Heaton",
@@ -1951,7 +2263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11116",
+      "id": "contrib-1792307281946-31659",
       "date": "2026-03-31 00:00:00",
       "amount": 975.99,
       "candidate_name": "Robert Allen Heaton",
@@ -1967,7 +2279,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11117",
+      "id": "contrib-1792307281946-31660",
+      "date": "2026-04-20 00:00:00",
+      "amount": 2268.72,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31661",
       "date": "2026-03-27 00:00:00",
       "amount": 3000,
       "candidate_name": "Robert Allen Heaton",
@@ -1983,7 +2311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11118",
+      "id": "contrib-1792307281946-31662",
       "date": "2026-04-08 00:00:00",
       "amount": 3000,
       "candidate_name": "Robert Allen Heaton",
@@ -1999,7 +2327,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11119",
+      "id": "contrib-1792307281946-31663",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Indiana Political Action Committee #3451 - Political",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Falls",
+      "address_state": "IA",
+      "address_zip": "50613",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31664",
+      "date": "2026-04-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "IPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31665",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Robert Allen Heaton",
@@ -2015,7 +2375,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11120",
+      "id": "contrib-1792307281946-31666",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Liberty Mutual Insurance Co PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02117",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31667",
+      "date": "2026-08-12 00:00:00",
+      "amount": 200,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "MICAI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31668",
+      "date": "2026-09-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "Optometry's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31669",
       "date": "2026-04-08 00:00:00",
       "amount": 300,
       "candidate_name": "Robert Allen Heaton",
@@ -2031,7 +2439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11121",
+      "id": "contrib-1792307281946-31670",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Robert Allen Heaton",
@@ -2043,6 +2451,38 @@
       "address_city": "Branchville",
       "address_state": "NJ",
       "address_zip": "07890",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31671",
+      "date": "2026-08-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "The Travelers Companies Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hartford",
+      "address_state": "CT",
+      "address_zip": "06183",
+      "recipient_committee": "Bob Heaton for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31672",
+      "date": "2026-04-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Robert Allen Heaton",
+      "contributor_name": "The Travelers Companies Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hartford",
+      "address_state": "CT",
+      "address_zip": "06183",
       "recipient_committee": "Bob Heaton for State Representative Committee",
       "source": "indiana"
     }

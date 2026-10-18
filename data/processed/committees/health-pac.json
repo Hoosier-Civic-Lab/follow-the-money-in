@@ -2,23 +2,37 @@
   "id": "health-pac",
   "name": "Health PAC",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "3800.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "300.00"
+    },
+    "large": {
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "edward-o-delaney",
+      "name": "Edward O DeLaney",
+      "total": "1000.00",
+      "count": 1
+    },
     {
       "id": "jean-leising",
       "name": "Jean Leising",
@@ -28,7 +42,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769404-64762",
+      "id": "contrib-1792307281197-64762",
       "date": "2025-12-22 00:00:00",
       "amount": 300,
       "candidate_name": "Jean Leising",
@@ -41,6 +55,37 @@
       "address_state": "IN",
       "address_zip": "46244",
       "recipient_committee": "Jean Leising for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5679",
+      "date": "2026-10-06 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31812",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Edward O DeLaney",
+      "contributor_name": "Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Ed DeLaney For Our House",
       "source": "indiana"
     }
   ],

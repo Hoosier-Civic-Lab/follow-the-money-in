@@ -2,18 +2,18 @@
   "id": "committee-to-elect-ben-smaltz",
   "name": "Committee To Elect Ben Smaltz",
   "totals": {
-    "total_given": "10557.31",
-    "total_contributions": 3,
-    "candidates_supported": 0
+    "total_given": "17069.50",
+    "total_contributions": 6,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "557.31"
+      "count": 2,
+      "total": "1069.50"
     },
     "large": {
-      "count": 2,
-      "total": "10000.00"
+      "count": 4,
+      "total": "16000.00"
     }
   },
   "by_month": {
@@ -28,12 +28,31 @@
     "2025-10": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "512.19"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "matthew-scott-lehman",
+      "name": "Matthew Scott Lehman",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-5983",
+      "id": "contrib-1792307281104-5983",
       "date": "2025-11-13 00:00:00",
       "amount": 557.31,
       "contributor_name": "Committee To Elect Ben Smaltz",
@@ -48,7 +67,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5984",
+      "id": "contrib-1792307281104-5984",
       "date": "2025-07-24 00:00:00",
       "amount": 5000,
       "contributor_name": "Committee To Elect Ben Smaltz",
@@ -63,7 +82,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5985",
+      "id": "contrib-1792307281104-5985",
       "date": "2025-10-30 00:00:00",
       "amount": 5000,
       "contributor_name": "Committee To Elect Ben Smaltz",
@@ -76,27 +95,79 @@
       "address_zip": "46706",
       "recipient_committee": "House Republican Campaign Committee",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3425",
+      "date": "2026-06-22 00:00:00",
+      "amount": 512.19,
+      "contributor_name": "Committee To Elect Ben Smaltz",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3426",
+      "date": "2026-07-15 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Committee To Elect Ben Smaltz",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31864",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Matthew Scott Lehman",
+      "contributor_name": "Committee to Elect Ben Smaltz",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "60836.86",
-    "total_contributions": 71,
-    "unique_donors": 57,
+    "total_raised": "89555.58",
+    "total_contributions": 128,
+    "unique_donors": 110,
     "by_contributor_type": {
       "individual": {
-        "count": 19,
-        "total": "13350.00"
+        "count": 67,
+        "total": "20700.00"
       },
       "corporate": {
         "count": 12,
         "total": "11192.86"
       },
       "committee": {
-        "count": 40,
-        "total": "36294.00"
+        "count": 49,
+        "total": "57662.72"
       }
     },
     "top_donors": [
+      {
+        "name": "Indiana Realtors PAC",
+        "type": "committee",
+        "total": "16000.00",
+        "count": 2
+      },
       {
         "name": "Indiana Multi-Family Housing PAC",
         "type": "committee",
@@ -122,6 +193,12 @@
         "count": 1
       },
       {
+        "name": "House Republican Campaign Committee",
+        "type": "committee",
+        "total": "3162.72",
+        "count": 3
+      },
+      {
         "name": "Taft Stettinius & Hollister Better Government Fund",
         "type": "committee",
         "total": "2000.00",
@@ -144,23 +221,11 @@
         "type": "committee",
         "total": "2000.00",
         "count": 1
-      },
-      {
-        "name": "Catalyst Public Affairs Group LLC",
-        "type": "corporate",
-        "total": "1500.00",
-        "count": 2
-      },
-      {
-        "name": "Trucking Industry PAC",
-        "type": "committee",
-        "total": "1500.00",
-        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769420-78066",
+        "id": "contrib-1792307281212-78066",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -176,7 +241,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78067",
+        "id": "contrib-1792307281212-78067",
         "date": "2025-09-16 00:00:00",
         "amount": 2500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -192,7 +257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78068",
+        "id": "contrib-1792307281212-78068",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -208,7 +273,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78069",
+        "id": "contrib-1792307281212-78069",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -224,7 +289,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78070",
+        "id": "contrib-1792307281212-78070",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -240,7 +305,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78071",
+        "id": "contrib-1792307281212-78071",
         "date": "2025-09-16 00:00:00",
         "amount": 200,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -256,7 +321,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78072",
+        "id": "contrib-1792307281212-78072",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -272,7 +337,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78073",
+        "id": "contrib-1792307281212-78073",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -288,7 +353,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78074",
+        "id": "contrib-1792307281212-78074",
         "date": "2025-10-25 00:00:00",
         "amount": 1361.26,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -304,7 +369,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78075",
+        "id": "contrib-1792307281212-78075",
         "date": "2025-10-22 00:00:00",
         "amount": 728.6,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -320,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78076",
+        "id": "contrib-1792307281212-78076",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -336,7 +401,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78077",
+        "id": "contrib-1792307281212-78077",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -352,7 +417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78078",
+        "id": "contrib-1792307281212-78078",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -368,7 +433,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78079",
+        "id": "contrib-1792307281212-78079",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -384,7 +449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78080",
+        "id": "contrib-1792307281212-78080",
         "date": "2025-09-16 00:00:00",
         "amount": 2000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -400,7 +465,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78081",
+        "id": "contrib-1792307281212-78081",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -416,7 +481,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78082",
+        "id": "contrib-1792307281212-78082",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -432,7 +497,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78083",
+        "id": "contrib-1792307281212-78083",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -448,7 +513,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78084",
+        "id": "contrib-1792307281212-78084",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -464,7 +529,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78085",
+        "id": "contrib-1792307281212-78085",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -480,7 +545,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78086",
+        "id": "contrib-1792307281212-78086",
         "date": "2025-09-16 00:00:00",
         "amount": 350,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -496,7 +561,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78087",
+        "id": "contrib-1792307281212-78087",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -512,7 +577,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78088",
+        "id": "contrib-1792307281212-78088",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -528,7 +593,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78089",
+        "id": "contrib-1792307281212-78089",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -544,7 +609,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78090",
+        "id": "contrib-1792307281212-78090",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -560,7 +625,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78091",
+        "id": "contrib-1792307281212-78091",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -576,7 +641,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78092",
+        "id": "contrib-1792307281212-78092",
         "date": "2025-09-16 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -592,7 +657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78093",
+        "id": "contrib-1792307281212-78093",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -608,7 +673,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78094",
+        "id": "contrib-1792307281212-78094",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -624,7 +689,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78095",
+        "id": "contrib-1792307281212-78095",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -640,7 +705,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78096",
+        "id": "contrib-1792307281212-78096",
         "date": "2025-09-16 00:00:00",
         "amount": 2000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -656,7 +721,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78097",
+        "id": "contrib-1792307281212-78097",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -672,7 +737,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78098",
+        "id": "contrib-1792307281212-78098",
         "date": "2025-06-12 00:00:00",
         "amount": 750,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -688,7 +753,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78099",
+        "id": "contrib-1792307281212-78099",
         "date": "2025-09-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -704,7 +769,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769420-78100",
+        "id": "contrib-1792307281212-78100",
         "date": "2025-09-16 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -720,7 +785,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15376",
+        "id": "contrib-1792307281967-43703",
         "date": "2026-01-22 00:00:00",
         "amount": 303,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -736,7 +801,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15377",
+        "id": "contrib-1792307281967-43704",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Aimee and Dave Clark",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43705",
         "date": "2026-04-07 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -752,7 +833,711 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15378",
+        "id": "contrib-1792307281967-43706",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Austin Macy",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43707",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Brandon Warner",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Huntertown",
+        "address_state": "IN",
+        "address_zip": "46248",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43708",
+        "date": "2026-10-08 00:00:00",
+        "amount": 25,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Brent Schackow",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43709",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Brent Warfield",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Garrett",
+        "address_state": "IN",
+        "address_zip": "46738",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43710",
+        "date": "2026-10-07 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Dana Berghorn",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43711",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Derek Eisman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "North Salem",
+        "address_state": "IN",
+        "address_zip": "46165",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43712",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Don DeWitt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46835",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43713",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Doug Norrick",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43714",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Emily Drayna",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43715",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Eric Prall",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Angola",
+        "address_state": "IN",
+        "address_zip": "46703",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43716",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Glen Bailey",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43717",
+        "date": "2026-10-07 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Henry Smaltz",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Westfield",
+        "address_state": "IN",
+        "address_zip": "46074",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43718",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Herb Horrom",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43719",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Jacob DeWitt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43720",
+        "date": "2026-10-09 00:00:00",
+        "amount": 300,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Jacob Good",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43721",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "James Lucas",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Seymour",
+        "address_state": "IN",
+        "address_zip": "47274",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43722",
+        "date": "2026-10-08 00:00:00",
+        "amount": 200,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Jarrett Furr",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Westfield",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43723",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Jeff Roberts",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Ft Wayne",
+        "address_state": "IN",
+        "address_zip": "46845",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43724",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Jim Wacker",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Albion",
+        "address_state": "IN",
+        "address_zip": "46701",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43725",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Joel Grimm",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Waterloo",
+        "address_state": "IN",
+        "address_zip": "46793",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43726",
+        "date": "2026-10-09 00:00:00",
+        "amount": 300,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "John Good",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43727",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Kevin Malott",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Pittsboro",
+        "address_state": "IN",
+        "address_zip": "46167",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43728",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Kyle Pierce",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Anderson",
+        "address_state": "IN",
+        "address_zip": "46016",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43729",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Lance Waters",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Kendallville",
+        "address_state": "IN",
+        "address_zip": "46755",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43730",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Laurie Learned",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43731",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Lisa Hutcheson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Lebanon",
+        "address_state": "IN",
+        "address_zip": "46052",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43732",
+        "date": "2026-10-08 00:00:00",
+        "amount": 200,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Loren Shubert",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43733",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Mark Smith",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Coruna",
+        "address_state": "IN",
+        "address_zip": "46730",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43734",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Mary Smaltz",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43735",
+        "date": "2026-05-04 00:00:00",
+        "amount": 200,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Mary Smaltz",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43736",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Matt Bishop",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Auburn",
+        "address_state": "IN",
+        "address_zip": "46706",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43737",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Matt Lehman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Berne",
+        "address_state": "IN",
+        "address_zip": "46711",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43738",
+        "date": "2026-10-06 00:00:00",
+        "amount": 25,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Matt Malott",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Garrett",
+        "address_state": "IN",
+        "address_zip": "46738",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43739",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Melissa Smith",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Garrett",
+        "address_state": "IN",
+        "address_zip": "46738",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43740",
+        "date": "2026-10-07 00:00:00",
+        "amount": 25,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Mike Day",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Huntertown",
+        "address_state": "IN",
+        "address_zip": "46248",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43741",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Renee Carper",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Hamilton",
+        "address_state": "IN",
+        "address_zip": "46742",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43742",
+        "date": "2026-10-07 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Ryan Render",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Monroeville",
+        "address_state": "IN",
+        "address_zip": "46773",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43743",
+        "date": "2026-10-08 00:00:00",
+        "amount": 25,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Ryan Sholll",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Kendallville",
+        "address_state": "IN",
+        "address_zip": "46755",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43744",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Steve Bartels",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Eckerty",
+        "address_state": "IN",
+        "address_zip": "47116",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43745",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Tim O'Brien",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Evansville",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43746",
+        "date": "2026-10-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Tom Maynard",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Kendallville",
+        "address_state": "IN",
+        "address_zip": "46755",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43747",
+        "date": "2026-10-09 00:00:00",
+        "amount": 50,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Travis Quick",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Huntertown",
+        "address_state": "IN",
+        "address_zip": "46248",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43748",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Will Howard",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Hamilton",
+        "address_state": "IN",
+        "address_zip": "46742",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43749",
+        "date": "2026-10-09 00:00:00",
+        "amount": 100,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Win Fisher",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Garrett",
+        "address_state": "IN",
+        "address_zip": "46738",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43750",
         "date": "2026-04-03 00:00:00",
         "amount": 2500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -768,7 +1553,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15379",
+        "id": "contrib-1792307281967-43751",
         "date": "2026-04-07 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -784,7 +1569,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15380",
+        "id": "contrib-1792307281967-43752",
+        "date": "2026-06-29 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Charter Communications",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "St. Louis",
+        "address_state": "MO",
+        "address_zip": "63131",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43753",
         "date": "2026-03-04 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -800,7 +1601,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15381",
+        "id": "contrib-1792307281967-43754",
         "date": "2026-01-07 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -816,7 +1617,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15382",
+        "id": "contrib-1792307281967-43755",
         "date": "2026-03-16 00:00:00",
         "amount": 45.98,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -832,7 +1633,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15383",
+        "id": "contrib-1792307281967-43756",
         "date": "2026-04-07 00:00:00",
         "amount": 848.02,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -848,7 +1649,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15384",
+        "id": "contrib-1792307281967-43757",
+        "date": "2026-04-20 00:00:00",
+        "amount": 2268.72,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "House Republican Campaign Committee",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46206",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43758",
         "date": "2026-03-24 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -864,7 +1681,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15385",
+        "id": "contrib-1792307281967-43759",
         "date": "2026-01-07 00:00:00",
         "amount": 150,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -880,7 +1697,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15386",
+        "id": "contrib-1792307281967-43760",
         "date": "2026-01-07 00:00:00",
         "amount": 150,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -896,7 +1713,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15387",
+        "id": "contrib-1792307281967-43761",
         "date": "2026-03-30 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -912,7 +1729,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15388",
+        "id": "contrib-1792307281967-43762",
         "date": "2026-04-06 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -928,7 +1745,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15389",
+        "id": "contrib-1792307281967-43763",
         "date": "2026-01-07 00:00:00",
         "amount": 1500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -944,7 +1761,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15390",
+        "id": "contrib-1792307281967-43764",
         "date": "2026-04-01 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -960,7 +1777,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15391",
+        "id": "contrib-1792307281967-43765",
+        "date": "2026-05-01 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Indiana Farm Bureau AgELECT",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46206",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43766",
         "date": "2026-04-01 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -976,7 +1809,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15392",
+        "id": "contrib-1792307281967-43767",
         "date": "2026-03-06 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -992,7 +1825,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15393",
+        "id": "contrib-1792307281967-43768",
+        "date": "2026-07-27 00:00:00",
+        "amount": 300,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "CAPNI Pac",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43769",
+        "date": "2026-04-20 00:00:00",
+        "amount": 500,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Duke Energy Corporation Employee PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43770",
+        "date": "2026-09-24 00:00:00",
+        "amount": 500,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Eli Lilly and Company PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46285",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43771",
         "date": "2026-04-10 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1008,7 +1889,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15394",
+        "id": "contrib-1792307281967-43772",
+        "date": "2026-05-08 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Grow Indiana Together PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43773",
         "date": "2026-04-07 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1024,7 +1921,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15395",
+        "id": "contrib-1792307281967-43774",
         "date": "2026-04-02 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1040,7 +1937,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15396",
+        "id": "contrib-1792307281967-43775",
         "date": "2026-03-24 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1056,7 +1953,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15397",
+        "id": "contrib-1792307281967-43776",
         "date": "2026-01-07 00:00:00",
         "amount": 5000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1072,7 +1969,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15398",
+        "id": "contrib-1792307281967-43777",
         "date": "2026-04-07 00:00:00",
         "amount": 5000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1088,7 +1985,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15399",
+        "id": "contrib-1792307281967-43778",
         "date": "2026-04-02 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1104,7 +2001,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15400",
+        "id": "contrib-1792307281967-43779",
         "date": "2026-03-10 00:00:00",
         "amount": 2000,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1120,7 +2017,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15401",
+        "id": "contrib-1792307281967-43780",
+        "date": "2026-04-22 00:00:00",
+        "amount": 500,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Indiana CRNA-Dream PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Springfield",
+        "address_state": "IL",
+        "address_zip": "67201",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43781",
         "date": "2026-03-25 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1136,7 +2049,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15402",
+        "id": "contrib-1792307281967-43782",
+        "date": "2026-05-14 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Indiana Farm Bureau AgElect PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46206",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43783",
         "date": "2026-03-26 00:00:00",
         "amount": 1500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1152,7 +2081,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15403",
+        "id": "contrib-1792307281967-43784",
         "date": "2026-03-12 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1168,7 +2097,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15404",
+        "id": "contrib-1792307281967-43785",
         "date": "2026-04-01 00:00:00",
         "amount": 3500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1184,7 +2113,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15405",
+        "id": "contrib-1792307281967-43786",
+        "date": "2026-04-22 00:00:00",
+        "amount": 15000,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Indiana Realtors PAC",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43787",
+        "date": "2026-09-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "National Shooting Sports Foundation",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Shelton",
+        "address_state": "CT",
+        "address_zip": "06484",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43788",
         "date": "2026-03-19 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1200,7 +2161,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15406",
+        "id": "contrib-1792307281967-43789",
         "date": "2026-01-07 00:00:00",
         "amount": 750,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1216,7 +2177,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15407",
+        "id": "contrib-1792307281967-43790",
         "date": "2026-01-07 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1232,7 +2193,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15408",
+        "id": "contrib-1792307281967-43791",
+        "date": "2026-04-17 00:00:00",
+        "amount": 300,
+        "candidate_name": "Benjamin Charles Smaltz",
+        "contributor_name": "Nucor PAC of Indiana",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "St. Joe",
+        "address_state": "IN",
+        "address_zip": "46785",
+        "recipient_committee": "Committee to Elect Ben Smaltz",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281967-43792",
         "date": "2026-03-09 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1248,7 +2225,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15409",
+        "id": "contrib-1792307281967-43793",
         "date": "2026-03-31 00:00:00",
         "amount": 300,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1264,7 +2241,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15410",
+        "id": "contrib-1792307281967-43794",
         "date": "2026-04-02 00:00:00",
         "amount": 500,
         "candidate_name": "Benjamin Charles Smaltz",
@@ -1280,7 +2257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769691-15411",
+        "id": "contrib-1792307281967-43795",
         "date": "2026-04-06 00:00:00",
         "amount": 1000,
         "candidate_name": "Benjamin Charles Smaltz",

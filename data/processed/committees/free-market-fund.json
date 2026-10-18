@@ -2,14 +2,18 @@
   "id": "free-market-fund",
   "name": "Free Market Fund",
   "totals": {
-    "total_given": "9500.00",
-    "total_contributions": 3,
-    "candidates_supported": 2
+    "total_given": "18500.00",
+    "total_contributions": 6,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "9500.00"
+      "count": 5,
+      "total": "18000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_month": {
@@ -20,6 +24,14 @@
     "2025-10": {
       "count": 2,
       "total": "2000.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "1500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "7500.00"
     }
   },
   "top_recipients": [
@@ -34,11 +46,17 @@
       "name": "Rebecca Anne Cash",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "paula-marie-davis",
+      "name": "Paula Marie Davis",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769358-31109",
+      "id": "contrib-1792307281150-31109",
       "date": "2025-03-31 00:00:00",
       "amount": 7500,
       "contributor_name": "Free Market Fund",
@@ -53,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-79982",
+      "id": "contrib-1792307281214-79982",
       "date": "2025-10-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Andy R Zay",
@@ -69,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90560",
+      "id": "contrib-1792307281232-90560",
       "date": "2025-10-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Rebecca Anne Cash",
@@ -82,6 +100,52 @@
       "address_state": "GA",
       "address_zip": "30605",
       "recipient_committee": "Friends of Becky Cash",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281911-8109",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Free Market Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Athens",
+      "address_state": "GA",
+      "address_zip": "30605",
+      "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281939-25545",
+      "date": "2026-05-19 00:00:00",
+      "amount": 7500,
+      "contributor_name": "Free Market Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Athens",
+      "address_state": "GA",
+      "address_zip": "30605",
+      "recipient_committee": "Hamilton County Republican Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84629",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Free Market Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Athens",
+      "address_state": "GA",
+      "address_zip": "30605",
+      "recipient_committee": "Committee to Elect Paula Davis",
       "source": "indiana"
     }
   ],

@@ -6,37 +6,45 @@
   "district": "16",
   "party": "Republican",
   "totals": {
-    "total_raised": "86310.87",
-    "total_contributions": 89,
-    "total_itemized": 89,
-    "total_unitemized": 0
+    "total_raised": "157821.05",
+    "total_contributions": 179,
+    "total_itemized": 178,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 22,
-      "total": "29085.29"
+      "count": 38,
+      "total": "33357.40"
     },
     "individual": {
-      "count": 42,
-      "total": "27975.58"
+      "count": 82,
+      "total": "52760.58"
     },
     "committee": {
-      "count": 25,
-      "total": "29250.00"
+      "count": 58,
+      "total": "71403.07"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 59,
-      "total": "22197.03"
+      "count": 128,
+      "total": "44852.03"
     },
     "large": {
-      "count": 27,
-      "total": "64000.00"
+      "count": 45,
+      "total": "101700.00"
     },
     "small": {
-      "count": 3,
-      "total": "113.84"
+      "count": 5,
+      "total": "215.95"
+    },
+    "mega": {
+      "count": 1,
+      "total": "11053.07"
     }
   },
   "by_month": {
@@ -60,14 +68,38 @@
       "count": 5,
       "total": "3300.00"
     },
+    "2026-08": {
+      "count": 42,
+      "total": "26175.00"
+    },
     "2026-03": {
       "count": 2,
       "total": "110.29"
+    },
+    "2026-09": {
+      "count": 12,
+      "total": "3772.11"
+    },
+    "2026-07": {
+      "count": 16,
+      "total": "7385.00"
+    },
+    "2026-10": {
+      "count": 8,
+      "total": "17853.07"
+    },
+    "2026-06": {
+      "count": 9,
+      "total": "14325.00"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "2000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769437-90866",
+      "id": "contrib-1792307281232-90866",
       "date": "2025-08-11 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -83,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90867",
+      "id": "contrib-1792307281232-90867",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -99,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90868",
+      "id": "contrib-1792307281232-90868",
       "date": "2025-08-11 00:00:00",
       "amount": 250,
       "candidate_name": "KENDELL CULP",
@@ -115,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90869",
+      "id": "contrib-1792307281232-90869",
       "date": "2025-12-09 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -131,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90870",
+      "id": "contrib-1792307281232-90870",
       "date": "2025-08-11 00:00:00",
       "amount": 125,
       "candidate_name": "KENDELL CULP",
@@ -147,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90871",
+      "id": "contrib-1792307281232-90871",
       "date": "2025-12-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -163,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90872",
+      "id": "contrib-1792307281232-90872",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -179,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90873",
+      "id": "contrib-1792307281232-90873",
       "date": "2025-06-25 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -195,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90874",
+      "id": "contrib-1792307281232-90874",
       "date": "2025-08-11 00:00:00",
       "amount": 700,
       "candidate_name": "KENDELL CULP",
@@ -211,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90875",
+      "id": "contrib-1792307281232-90875",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -227,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90876",
+      "id": "contrib-1792307281232-90876",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -243,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90877",
+      "id": "contrib-1792307281232-90877",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -259,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90878",
+      "id": "contrib-1792307281232-90878",
       "date": "2025-08-11 00:00:00",
       "amount": 80,
       "candidate_name": "KENDELL CULP",
@@ -275,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90879",
+      "id": "contrib-1792307281232-90879",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -291,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90880",
+      "id": "contrib-1792307281232-90880",
       "date": "2025-08-11 00:00:00",
       "amount": 5000,
       "candidate_name": "KENDELL CULP",
@@ -307,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90881",
+      "id": "contrib-1792307281232-90881",
       "date": "2025-08-11 00:00:00",
       "amount": 250,
       "candidate_name": "KENDELL CULP",
@@ -323,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90882",
+      "id": "contrib-1792307281232-90882",
       "date": "2025-12-26 00:00:00",
       "amount": 1300,
       "candidate_name": "KENDELL CULP",
@@ -339,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90883",
+      "id": "contrib-1792307281232-90883",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -355,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90884",
+      "id": "contrib-1792307281232-90884",
       "date": "2025-08-11 00:00:00",
       "amount": 125,
       "candidate_name": "KENDELL CULP",
@@ -371,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90885",
+      "id": "contrib-1792307281232-90885",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -387,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90886",
+      "id": "contrib-1792307281232-90886",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -403,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90887",
+      "id": "contrib-1792307281232-90887",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -419,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90888",
+      "id": "contrib-1792307281232-90888",
       "date": "2025-08-11 00:00:00",
       "amount": 150,
       "candidate_name": "KENDELL CULP",
@@ -435,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90889",
+      "id": "contrib-1792307281232-90889",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -451,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90890",
+      "id": "contrib-1792307281232-90890",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -467,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90891",
+      "id": "contrib-1792307281232-90891",
       "date": "2025-08-11 00:00:00",
       "amount": 2500,
       "candidate_name": "KENDELL CULP",
@@ -483,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90892",
+      "id": "contrib-1792307281232-90892",
       "date": "2025-08-11 00:00:00",
       "amount": 100,
       "candidate_name": "KENDELL CULP",
@@ -499,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90893",
+      "id": "contrib-1792307281232-90893",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -515,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90894",
+      "id": "contrib-1792307281232-90894",
       "date": "2025-08-11 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -531,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90895",
+      "id": "contrib-1792307281232-90895",
       "date": "2025-12-31 00:00:00",
       "amount": 23.55,
       "candidate_name": "KENDELL CULP",
@@ -547,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90896",
+      "id": "contrib-1792307281232-90896",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -563,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90897",
+      "id": "contrib-1792307281232-90897",
       "date": "2025-12-26 00:00:00",
       "amount": 1900,
       "candidate_name": "KENDELL CULP",
@@ -579,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90898",
+      "id": "contrib-1792307281232-90898",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -595,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90899",
+      "id": "contrib-1792307281232-90899",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -611,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90900",
+      "id": "contrib-1792307281232-90900",
       "date": "2025-12-26 00:00:00",
       "amount": 8000,
       "candidate_name": "KENDELL CULP",
@@ -627,7 +659,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90901",
+      "id": "contrib-1792307281232-90901",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -643,7 +675,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90902",
+      "id": "contrib-1792307281232-90902",
       "date": "2025-12-26 00:00:00",
       "amount": 2200,
       "candidate_name": "KENDELL CULP",
@@ -659,7 +691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90903",
+      "id": "contrib-1792307281232-90903",
       "date": "2025-12-26 00:00:00",
       "amount": 2700,
       "candidate_name": "KENDELL CULP",
@@ -675,7 +707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90904",
+      "id": "contrib-1792307281232-90904",
       "date": "2025-08-11 00:00:00",
       "amount": 100,
       "candidate_name": "KENDELL CULP",
@@ -691,7 +723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90905",
+      "id": "contrib-1792307281232-90905",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -707,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90906",
+      "id": "contrib-1792307281232-90906",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -723,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90907",
+      "id": "contrib-1792307281232-90907",
       "date": "2025-08-11 00:00:00",
       "amount": 1500,
       "candidate_name": "KENDELL CULP",
@@ -739,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90908",
+      "id": "contrib-1792307281232-90908",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -755,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90909",
+      "id": "contrib-1792307281232-90909",
       "date": "2025-12-26 00:00:00",
       "amount": 1900,
       "candidate_name": "KENDELL CULP",
@@ -771,7 +803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90910",
+      "id": "contrib-1792307281232-90910",
       "date": "2025-12-26 00:00:00",
       "amount": 1900,
       "candidate_name": "KENDELL CULP",
@@ -787,7 +819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90911",
+      "id": "contrib-1792307281232-90911",
       "date": "2025-10-30 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -803,7 +835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90912",
+      "id": "contrib-1792307281232-90912",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -819,7 +851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90913",
+      "id": "contrib-1792307281232-90913",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -835,7 +867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90914",
+      "id": "contrib-1792307281232-90914",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -851,7 +883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90915",
+      "id": "contrib-1792307281232-90915",
       "date": "2025-12-26 00:00:00",
       "amount": 1900,
       "candidate_name": "KENDELL CULP",
@@ -867,7 +899,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90916",
+      "id": "contrib-1792307281232-90916",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -883,7 +915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90917",
+      "id": "contrib-1792307281232-90917",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "candidate_name": "KENDELL CULP",
@@ -899,7 +931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90918",
+      "id": "contrib-1792307281232-90918",
       "date": "2025-12-26 00:00:00",
       "amount": 3200,
       "candidate_name": "KENDELL CULP",
@@ -915,7 +947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90919",
+      "id": "contrib-1792307281232-90919",
       "date": "2025-09-10 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -931,7 +963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90920",
+      "id": "contrib-1792307281232-90920",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -947,7 +979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90921",
+      "id": "contrib-1792307281232-90921",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -963,7 +995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90922",
+      "id": "contrib-1792307281232-90922",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -979,7 +1011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90923",
+      "id": "contrib-1792307281232-90923",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -995,7 +1027,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90924",
+      "id": "contrib-1792307281232-90924",
       "date": "2025-09-10 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1011,7 +1043,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90925",
+      "id": "contrib-1792307281232-90925",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1027,7 +1059,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90926",
+      "id": "contrib-1792307281232-90926",
       "date": "2025-08-04 00:00:00",
       "amount": 4000,
       "candidate_name": "KENDELL CULP",
@@ -1043,7 +1075,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90927",
+      "id": "contrib-1792307281232-90927",
       "date": "2025-10-15 00:00:00",
       "amount": 4000,
       "candidate_name": "KENDELL CULP",
@@ -1059,7 +1091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90928",
+      "id": "contrib-1792307281232-90928",
       "date": "2025-08-17 00:00:00",
       "amount": 2500,
       "candidate_name": "KENDELL CULP",
@@ -1075,7 +1107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90929",
+      "id": "contrib-1792307281232-90929",
       "date": "2025-08-11 00:00:00",
       "amount": 450,
       "candidate_name": "KENDELL CULP",
@@ -1091,7 +1123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90930",
+      "id": "contrib-1792307281232-90930",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1107,7 +1139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90931",
+      "id": "contrib-1792307281232-90931",
       "date": "2025-10-30 00:00:00",
       "amount": 447.03,
       "candidate_name": "KENDELL CULP",
@@ -1123,7 +1155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90932",
+      "id": "contrib-1792307281232-90932",
       "date": "2025-09-10 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -1139,7 +1171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90933",
+      "id": "contrib-1792307281232-90933",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1155,7 +1187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90934",
+      "id": "contrib-1792307281232-90934",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -1171,7 +1203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90935",
+      "id": "contrib-1792307281232-90935",
       "date": "2025-10-15 00:00:00",
       "amount": 750,
       "candidate_name": "KENDELL CULP",
@@ -1187,7 +1219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90936",
+      "id": "contrib-1792307281232-90936",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1203,7 +1235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90937",
+      "id": "contrib-1792307281232-90937",
       "date": "2025-08-17 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -1219,7 +1251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90938",
+      "id": "contrib-1792307281232-90938",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1235,7 +1267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90939",
+      "id": "contrib-1792307281232-90939",
       "date": "2025-06-25 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1251,7 +1283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90940",
+      "id": "contrib-1792307281232-90940",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1267,7 +1299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90941",
+      "id": "contrib-1792307281232-90941",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "KENDELL CULP",
@@ -1283,7 +1315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90942",
+      "id": "contrib-1792307281232-90942",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1299,7 +1331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90943",
+      "id": "contrib-1792307281232-90943",
       "date": "2025-12-09 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1315,7 +1347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90944",
+      "id": "contrib-1792307281232-90944",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -1331,7 +1363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90945",
+      "id": "contrib-1792307281232-90945",
       "date": "2025-08-11 00:00:00",
       "amount": 3000,
       "candidate_name": "KENDELL CULP",
@@ -1347,7 +1379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90946",
+      "id": "contrib-1792307281232-90946",
       "date": "2025-09-10 00:00:00",
       "amount": 1000,
       "candidate_name": "KENDELL CULP",
@@ -1363,7 +1395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90947",
+      "id": "contrib-1792307281232-90947",
       "date": "2025-08-11 00:00:00",
       "amount": 5000,
       "candidate_name": "KENDELL CULP",
@@ -1379,7 +1411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90948",
+      "id": "contrib-1792307281232-90948",
       "date": "2025-08-17 00:00:00",
       "amount": 1500,
       "candidate_name": "KENDELL CULP",
@@ -1395,7 +1427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90949",
+      "id": "contrib-1792307281232-90949",
       "date": "2025-08-11 00:00:00",
       "amount": 2000,
       "candidate_name": "KENDELL CULP",
@@ -1411,7 +1443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90950",
+      "id": "contrib-1792307281232-90950",
       "date": "2025-10-15 00:00:00",
       "amount": 350,
       "candidate_name": "KENDELL CULP",
@@ -1427,7 +1459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90951",
+      "id": "contrib-1792307281232-90951",
       "date": "2025-09-10 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1443,7 +1475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-90952",
+      "id": "contrib-1792307281232-90952",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -1459,7 +1491,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21596",
+      "id": "contrib-1792307281986-58533",
+      "date": "2026-08-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58534",
       "date": "2026-03-31 00:00:00",
       "amount": 10.29,
       "candidate_name": "KENDELL CULP",
@@ -1475,7 +1523,455 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21597",
+      "id": "contrib-1792307281986-58535",
+      "date": "2026-09-30 00:00:00",
+      "amount": 22.11,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Alliance Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58536",
+      "date": "2026-08-20 00:00:00",
+      "amount": 250,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Allstate Insurance Co",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Northbrood",
+      "address_state": "IL",
+      "address_zip": "60062",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58537",
+      "date": "2026-07-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Carroll White REMC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47960",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58538",
+      "date": "2026-07-31 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Central Paving, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Logansport",
+      "address_state": "IN",
+      "address_zip": "46947",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58539",
+      "date": "2026-08-08 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Frain Mortuary Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Winamac",
+      "address_state": "IN",
+      "address_zip": "46996",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58540",
+      "date": "2026-07-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Fratco, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58541",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Jasper County REMC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58542",
+      "date": "2026-09-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Midwest Contractor Services, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58543",
+      "date": "2026-09-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Nationwide Mutual Insurance Co",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "43215",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58544",
+      "date": "2026-08-08 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Ronald Gann Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "DeMotte",
+      "address_state": "IN",
+      "address_zip": "46310",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58545",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Alan Kemper",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58546",
+      "date": "2026-07-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Anthony Briles",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47960",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58547",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Anthony Samuel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58548",
+      "date": "2026-07-18 00:00:00",
+      "amount": 80,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Bradley/Deborah Denton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47960",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58549",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Brandon/Kayla Neibert",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Morocco",
+      "address_state": "IN",
+      "address_zip": "47963",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58550",
+      "date": "2026-08-15 00:00:00",
+      "amount": 2500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Brian Furrer",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Reynolds",
+      "address_state": "IN",
+      "address_zip": "47980",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58551",
+      "date": "2026-07-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Chad/Roberta Gutwein",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58552",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Christopher Kennedy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58553",
+      "date": "2026-09-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Donald Shelmon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58554",
+      "date": "2026-08-08 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Eric/Madeline Nowlin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58555",
+      "date": "2026-10-05 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Gary/Renee Braasch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58556",
+      "date": "2026-07-30 00:00:00",
+      "amount": 205,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Greg/Kara Fishburn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58557",
+      "date": "2026-07-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Jacob Dammarell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58558",
+      "date": "2026-07-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Jeff/Kristina Phillips",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58559",
+      "date": "2026-06-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Jeremy/Amanda Scheitlin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Remington",
+      "address_state": "IN",
+      "address_zip": "47977",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58560",
+      "date": "2026-06-20 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Joe Canaday",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58561",
+      "date": "2026-06-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Joe Horstman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58562",
+      "date": "2026-08-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Larry Storm",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47960",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58563",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "KENDELL CULP",
@@ -1487,6 +1983,982 @@
       "address_city": "Rensselaer",
       "address_state": "IN",
       "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58564",
+      "date": "2026-09-22 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Michael Beard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Frankfort",
+      "address_state": "IN",
+      "address_zip": "46041",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58565",
+      "date": "2026-07-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Quentin/Renee Overbeck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Remington",
+      "address_state": "IN",
+      "address_zip": "47977",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58566",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Richard/Shelli Maxwell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58567",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Robyn/Jarett Crosson/Chaiken",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58568",
+      "date": "2026-07-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Sanjay/Cathy Patel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58569",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58570",
+      "date": "2026-07-29 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Stanley Haines",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58571",
+      "date": "2026-06-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Terry/Cheryl Baker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58572",
+      "date": "2026-04-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "AMERICAN PROPERTY CASUALTY INS ASSN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CHICAGO",
+      "address_state": "IL",
+      "address_zip": "60631",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58573",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58574",
+      "date": "2026-10-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "CEFCO Stores, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Temple",
+      "address_state": "TX",
+      "address_zip": "76503",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58575",
+      "date": "2026-09-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Charter Communications",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58576",
+      "date": "2026-08-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Committee to Elect Aaron Sims for Mayor",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47960",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58577",
+      "date": "2026-07-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Debco Metal Culverts",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Francesville",
+      "address_state": "IN",
+      "address_zip": "47946",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58578",
+      "date": "2026-10-08 00:00:00",
+      "amount": 5000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Doral",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60606",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58579",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Flint Consulting",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58580",
+      "date": "2026-07-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Good Holding",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Winamac",
+      "address_state": "IN",
+      "address_zip": "46996",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58581",
+      "date": "2026-09-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Harvestone",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58582",
+      "date": "2026-09-16 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "HRM Enterprises, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58583",
+      "date": "2026-10-08 00:00:00",
+      "amount": 11053.07,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58584",
+      "date": "2026-08-08 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "J&M Kosta Farms LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58585",
+      "date": "2026-06-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Kankakee Valley REMC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wanatah",
+      "address_state": "IN",
+      "address_zip": "46390",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58586",
+      "date": "2026-10-05 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Lone Pine, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Remington",
+      "address_state": "IN",
+      "address_zip": "47977",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58587",
+      "date": "2026-09-16 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Lyons Sights Ag Solutions",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58588",
+      "date": "2026-08-20 00:00:00",
+      "amount": 125,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Scheurich Bros",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rensselaer",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58589",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Taft, Stettinius & Hollister Better Gov't Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58590",
+      "date": "2026-06-20 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "White Co GOP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IN",
+      "address_zip": "47978",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58591",
+      "date": "2026-07-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Wide Open Spaces Mgt LLC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Remington",
+      "address_state": "IN",
+      "address_zip": "47977",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58592",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "The Travelers Companies, Inc. Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HARTFORD",
+      "address_state": "CT",
+      "address_zip": "06183",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58593",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "AES IN Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58594",
+      "date": "2026-09-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "American Electric Power",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58595",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Beer Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58596",
+      "date": "2026-07-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Center Point Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58597",
+      "date": "2026-09-22 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58598",
+      "date": "2026-08-13 00:00:00",
+      "amount": 5000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "EDP Renewables N America LLC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77010",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58599",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Erie Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Erie",
+      "address_state": "PA",
+      "address_zip": "16530",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58600",
+      "date": "2026-08-08 00:00:00",
+      "amount": 700,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Heritage Build PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58601",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Ice PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58602",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IEA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58603",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IHLA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58604",
+      "date": "2026-08-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Agribusiness PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58605",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58606",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58607",
+      "date": "2026-06-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58608",
+      "date": "2026-08-01 00:00:00",
+      "amount": 1500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58609",
+      "date": "2026-08-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46885",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58610",
+      "date": "2026-08-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58611",
+      "date": "2026-08-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN State Building & Construction PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58612",
+      "date": "2026-08-13 00:00:00",
+      "amount": 750,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58613",
+      "date": "2026-08-08 00:00:00",
+      "amount": 2500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Insurance PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58614",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58615",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Liberty Mutual Insurance Co. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58616",
+      "date": "2026-08-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "MICAI PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58617",
+      "date": "2026-06-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "NextEra PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Juno Beach",
+      "address_state": "FL",
+      "address_zip": "33408",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58618",
+      "date": "2026-09-22 00:00:00",
+      "amount": 200,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58619",
+      "date": "2026-06-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Northern IN Operators PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Countryside",
+      "address_state": "IL",
+      "address_zip": "60525",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58620",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Northwest IN Contractors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58621",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "OORAH! PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58622",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Selective Ins Co of America PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Branchville",
+      "address_state": "NJ",
+      "address_zip": "7890",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58623",
+      "date": "2026-08-20 00:00:00",
+      "amount": 350,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "TEL PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58624",
+      "date": "2026-10-07 00:00:00",
+      "amount": 300,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Valero PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "TX",
+      "address_zip": "78269",
       "recipient_committee": "ELECT KENDELL CULP",
       "source": "indiana"
     }

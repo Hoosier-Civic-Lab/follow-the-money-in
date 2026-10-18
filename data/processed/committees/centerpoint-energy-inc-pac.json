@@ -2,18 +2,18 @@
   "id": "centerpoint-energy-inc-pac",
   "name": "CENTERPOINT ENERGY INC PAC",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "8700.00",
+    "total_contributions": 8,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2500.00"
+      "count": 3,
+      "total": "6500.00"
     },
     "medium": {
-      "count": 2,
-      "total": "1000.00"
+      "count": 5,
+      "total": "2200.00"
     }
   },
   "by_month": {
@@ -28,31 +28,61 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "3000.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "850.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "1350.00"
     }
   },
   "top_recipients": [
     {
       "id": "edmond-lewis-soliday",
       "name": "Edmond Lewis Soliday",
-      "total": "2500.00",
+      "total": "5500.00",
+      "count": 2
+    },
+    {
+      "id": "wesley-ray-bennett",
+      "name": "Wesley Ray Bennett",
+      "total": "1000.00",
       "count": 1
     },
     {
       "id": "cindy-lynn-ledbetter",
       "name": "Cindy Lynn Ledbetter",
-      "total": "500.00",
-      "count": 1
+      "total": "850.00",
+      "count": 2
     },
     {
       "id": "andrea-m-hunley",
       "name": "Andrea M Hunley",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "wendy-j-dant-chesser",
+      "name": "Wendy J Dant Chesser",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-david-may",
+      "name": "Christopher David May",
+      "total": "350.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769400-63503",
+      "id": "contrib-1792307281194-63503",
       "date": "2025-10-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Edmond Lewis Soliday",
@@ -68,7 +98,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84917",
+      "id": "contrib-1792307281219-84917",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Cindy Lynn Ledbetter",
@@ -84,7 +114,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91401",
+      "id": "contrib-1792307281233-91401",
       "date": "2025-11-17 00:00:00",
       "amount": 500,
       "candidate_name": "Andrea M Hunley",
@@ -97,6 +127,86 @@
       "address_state": "TX",
       "address_zip": "77210",
       "recipient_committee": "Andrea Hunley for Indy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281945-30577",
+      "date": "2026-10-09 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Edmond Lewis Soliday",
+      "contributor_name": "CENTERPOINT ENERGY INC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HOUSTON",
+      "address_state": "TX",
+      "address_zip": "77201",
+      "recipient_committee": "Friends of Ed Soliday Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45619",
+      "date": "2026-07-14 00:00:00",
+      "amount": 350,
+      "candidate_name": "Christopher David May",
+      "contributor_name": "Centerpoint Energy Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Chris May for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50462",
+      "date": "2026-09-18 00:00:00",
+      "amount": 350,
+      "candidate_name": "Cindy Lynn Ledbetter",
+      "contributor_name": "Centerpoint Energy INC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Ledbetter For State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68640",
+      "date": "2026-07-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Centerpoint Energy Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282023-82667",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wesley Ray Bennett",
+      "contributor_name": "CENTERPOINT ENERGY INC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "HOUSTON",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Friends of Wes Bennett",
       "source": "indiana"
     }
   ],

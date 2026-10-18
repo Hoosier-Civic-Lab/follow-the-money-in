@@ -6,33 +6,37 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "17900.00",
-    "total_contributions": 30,
-    "total_itemized": 30,
+    "total_raised": "53081.35",
+    "total_contributions": 76,
+    "total_itemized": 76,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 5,
-      "total": "1900.00"
+      "count": 11,
+      "total": "6000.00"
     },
     "individual": {
-      "count": 7,
-      "total": "7250.00"
+      "count": 26,
+      "total": "13470.51"
     },
     "committee": {
-      "count": 18,
-      "total": "8750.00"
+      "count": 39,
+      "total": "33610.84"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 27,
-      "total": "10900.00"
+      "count": 66,
+      "total": "23570.51"
     },
     "large": {
-      "count": 3,
-      "total": "7000.00"
+      "count": 9,
+      "total": "17000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "12510.84"
     }
   },
   "by_month": {
@@ -61,13 +65,29 @@
       "total": "1100.00"
     },
     "2026-04": {
+      "count": 4,
+      "total": "2450.00"
+    },
+    "2026-09": {
+      "count": 13,
+      "total": "5070.51"
+    },
+    "2026-08": {
+      "count": 19,
+      "total": "11300.00"
+    },
+    "2026-10": {
+      "count": 10,
+      "total": "15960.84"
+    },
+    "2026-06": {
       "count": 1,
-      "total": "100.00"
+      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769444-98272",
+      "id": "contrib-1792307281239-98272",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -83,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98273",
+      "id": "contrib-1792307281239-98273",
       "date": "2025-09-05 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -99,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98274",
+      "id": "contrib-1792307281239-98274",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -115,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98275",
+      "id": "contrib-1792307281239-98275",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -131,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98276",
+      "id": "contrib-1792307281239-98276",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -147,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98277",
+      "id": "contrib-1792307281239-98277",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -163,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98278",
+      "id": "contrib-1792307281239-98278",
       "date": "2025-08-06 00:00:00",
       "amount": 5000,
       "candidate_name": "Daryl Lee Schmitt",
@@ -179,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98279",
+      "id": "contrib-1792307281239-98279",
       "date": "2025-08-21 00:00:00",
       "amount": 750,
       "candidate_name": "Daryl Lee Schmitt",
@@ -195,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98280",
+      "id": "contrib-1792307281239-98280",
       "date": "2025-10-09 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -211,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98281",
+      "id": "contrib-1792307281239-98281",
       "date": "2025-06-21 00:00:00",
       "amount": 750,
       "candidate_name": "Daryl Lee Schmitt",
@@ -227,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98282",
+      "id": "contrib-1792307281239-98282",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -243,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98283",
+      "id": "contrib-1792307281239-98283",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -259,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98284",
+      "id": "contrib-1792307281239-98284",
       "date": "2025-11-11 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -275,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98285",
+      "id": "contrib-1792307281239-98285",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Daryl Lee Schmitt",
@@ -291,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98286",
+      "id": "contrib-1792307281239-98286",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -307,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98287",
+      "id": "contrib-1792307281239-98287",
       "date": "2025-09-05 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -323,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98288",
+      "id": "contrib-1792307281239-98288",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -339,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98289",
+      "id": "contrib-1792307281239-98289",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -355,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98290",
+      "id": "contrib-1792307281239-98290",
       "date": "2025-09-18 00:00:00",
       "amount": 400,
       "candidate_name": "Daryl Lee Schmitt",
@@ -371,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98291",
+      "id": "contrib-1792307281239-98291",
       "date": "2025-11-05 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -387,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98292",
+      "id": "contrib-1792307281239-98292",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -403,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98293",
+      "id": "contrib-1792307281239-98293",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -419,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98294",
+      "id": "contrib-1792307281239-98294",
       "date": "2025-12-17 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -435,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98295",
+      "id": "contrib-1792307281239-98295",
       "date": "2025-08-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Daryl Lee Schmitt",
@@ -451,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98296",
+      "id": "contrib-1792307281239-98296",
       "date": "2025-08-14 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -467,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98297",
+      "id": "contrib-1792307281239-98297",
       "date": "2025-12-04 00:00:00",
       "amount": 500,
       "candidate_name": "Daryl Lee Schmitt",
@@ -483,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98298",
+      "id": "contrib-1792307281239-98298",
       "date": "2025-12-30 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -499,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98299",
+      "id": "contrib-1792307281239-98299",
       "date": "2025-09-30 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -515,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98300",
+      "id": "contrib-1792307281239-98300",
       "date": "2025-09-23 00:00:00",
       "amount": 300,
       "candidate_name": "Daryl Lee Schmitt",
@@ -531,7 +551,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769722-24540",
+      "id": "contrib-1792307282005-69190",
+      "date": "2026-04-15 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "American Electric Power",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69191",
+      "date": "2026-09-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69192",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Kroger, Gardis and Regas, LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69193",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Leibering & Sons, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lamar",
+      "address_state": "IN",
+      "address_zip": "47550",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69194",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Alan Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richland",
+      "address_state": "IN",
+      "address_zip": "47634",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69195",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Alan Meunier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Dale",
+      "address_state": "IN",
+      "address_zip": "47523",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69196",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Bradford Schumacher",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rockport",
+      "address_state": "IN",
+      "address_zip": "47635",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69197",
+      "date": "2026-09-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Bruce Cissna",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Santa Claus",
+      "address_state": "IN",
+      "address_zip": "47579",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69198",
+      "date": "2026-10-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Clyde Leonard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69199",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "D.T. Daming",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richland",
+      "address_state": "IN",
+      "address_zip": "47634-0161",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69200",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Danny Kincaid",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rockport",
+      "address_state": "IN",
+      "address_zip": "47635",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69201",
+      "date": "2026-09-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Gil Eckerle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69202",
       "date": "2026-04-06 00:00:00",
       "amount": 100,
       "candidate_name": "Daryl Lee Schmitt",
@@ -543,6 +755,550 @@
       "address_city": "Jasper",
       "address_state": "IN",
       "address_zip": "47546",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69203",
+      "date": "2026-10-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Larry Wira",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69204",
+      "date": "2026-10-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Scott Garrett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69205",
+      "date": "2026-10-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Steve   Uebelhor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69206",
+      "date": "2026-10-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Steve & Linda Luegers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69207",
+      "date": "2026-09-06 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Terry Seitz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69208",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "William Weinberg",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69209",
+      "date": "2026-08-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Boeglin Farms",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69210",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69211",
+      "date": "2026-10-08 00:00:00",
+      "amount": 12510.84,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69212",
+      "date": "2026-04-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "St. Patrick Development Group, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rockport",
+      "address_state": "IN",
+      "address_zip": "47635",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69213",
+      "date": "2026-09-30 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Sue Glick for Senate Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lagrange",
+      "address_state": "IN",
+      "address_zip": "46761",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69214",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69215",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Vincennes Township Volunteer Fire Department",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Vincennes",
+      "address_state": "IN",
+      "address_zip": "47591",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69216",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "AES Indiana Power PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69217",
+      "date": "2026-06-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69218",
+      "date": "2026-08-30 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "INDIANA HARDWOOD LUMBERMEN'S POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "FISHERS",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69219",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "American Electric Power",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69220",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Beer Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69221",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Catalyst Public Affairs Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69222",
+      "date": "2026-04-15 00:00:00",
+      "amount": 350,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "CenterPoint Energy, Inc. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69223",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "CVS Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69224",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Duke Energy Corporation Employee PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69225",
+      "date": "2026-08-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Ice Miller PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69226",
+      "date": "2026-08-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "IMHA/RVIC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69227",
+      "date": "2026-08-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69228",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69229",
+      "date": "2026-09-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69230",
+      "date": "2026-08-19 00:00:00",
+      "amount": 400,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69231",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69232",
+      "date": "2026-08-13 00:00:00",
+      "amount": 3500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69233",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Indiana State Building & Construction Trades Council - PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69234",
+      "date": "2026-09-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "NFIB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69235",
+      "date": "2026-10-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Optometry's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Daryl Schmitt for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282005-69236",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daryl Lee Schmitt",
+      "contributor_name": "Trucking Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Daryl Schmitt for Indiana",
       "source": "indiana"
     }

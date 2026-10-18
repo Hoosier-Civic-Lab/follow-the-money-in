@@ -2,18 +2,22 @@
   "id": "indiana-cpa-political-action-fund",
   "name": "Indiana CPA Political Action Fund",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "1000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-10": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
       "count": 1,
       "total": "500.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "philip-kelly-giaquinta",
       "name": "Philip Kelly GiaQuinta",
-      "total": "500.00",
-      "count": 1
+      "total": "1000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769361-34420",
+      "id": "contrib-1792307281153-34420",
       "date": "2025-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "Indiana CPA Political Action Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28918",
+      "date": "2026-09-11 00:00:00",
       "amount": 500,
       "candidate_name": "Philip Kelly GiaQuinta",
       "contributor_name": "Indiana CPA Political Action Fund",

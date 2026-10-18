@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7358",
+      "id": "contrib-1792307281106-7358",
       "date": "2025-11-05 00:00:00",
       "amount": 500,
       "contributor_name": "INDIANA RADIOLOGICAL POLITICAL ACTION COMMITTEE",
@@ -36,5 +36,55 @@
       "source": "indiana"
     }
   ],
-  "receipts": null
+  "receipts": {
+    "total_raised": "3500.00",
+    "total_contributions": 2,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "corporate": {
+        "count": 2,
+        "total": "3500.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Radiology, Inc.",
+        "type": "corporate",
+        "total": "3500.00",
+        "count": 2
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1792307281938-23825",
+        "date": "2026-06-02 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Radiology, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Mishawaka",
+        "address_state": "IN",
+        "address_zip": "46545",
+        "recipient_committee": "INDIANA RADIOLOGICAL POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281938-23826",
+        "date": "2026-06-12 00:00:00",
+        "amount": 2500,
+        "contributor_name": "Radiology, Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Mishawaka",
+        "address_state": "IN",
+        "address_zip": "46545",
+        "recipient_committee": "INDIANA RADIOLOGICAL POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      }
+    ]
+  }
 }

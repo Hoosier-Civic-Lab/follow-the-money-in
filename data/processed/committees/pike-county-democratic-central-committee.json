@@ -1,0 +1,67 @@
+{
+  "id": "pike-county-democratic-central-committee",
+  "name": "Pike County Democratic Central Committee",
+  "totals": {
+    "total_given": "495.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 2,
+      "total": "495.00"
+    }
+  },
+  "by_month": {
+    "2026-05": {
+      "count": 1,
+      "total": "245.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "250.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "jessica-amy-bailey",
+      "name": "Jessica Amy Bailey",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281897-616",
+      "date": "2026-05-15 00:00:00",
+      "amount": 245,
+      "contributor_name": "Pike County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282055-97670",
+      "date": "2026-09-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jessica Amy Bailey",
+      "contributor_name": "Pike County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Committee to Elect Jessica Bailey",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

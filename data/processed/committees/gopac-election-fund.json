@@ -2,18 +2,18 @@
   "id": "gopac-election-fund",
   "name": "GOPAC Election Fund",
   "totals": {
-    "total_given": "752500.00",
-    "total_contributions": 9,
-    "candidates_supported": 5
+    "total_given": "1732500.00",
+    "total_contributions": 14,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "mega": {
-      "count": 5,
-      "total": "742500.00"
+      "count": 9,
+      "total": "1717500.00"
     },
     "large": {
-      "count": 4,
-      "total": "10000.00"
+      "count": 5,
+      "total": "15000.00"
     }
   },
   "by_month": {
@@ -32,9 +32,27 @@
     "2026-03": {
       "count": 1,
       "total": "500000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "120000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "130000.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "730000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "975000.00",
+      "count": 4
+    },
     {
       "id": "michael-k-braun",
       "name": "MICHAEL K BRAUN",
@@ -42,14 +60,14 @@
       "count": 1
     },
     {
-      "id": "gregory-earl-steuerwald",
-      "name": "Gregory Earl Steuerwald",
-      "total": "2500.00",
-      "count": 1
-    },
-    {
       "id": "jacob-louis-teshka",
       "name": "Jacob Louis Teshka",
+      "total": "7500.00",
+      "count": 2
+    },
+    {
+      "id": "gregory-earl-steuerwald",
+      "name": "Gregory Earl Steuerwald",
       "total": "2500.00",
       "count": 1
     },
@@ -68,7 +86,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769323-12415",
+      "id": "contrib-1792307281112-12415",
       "date": "2025-04-28 00:00:00",
       "amount": 30000,
       "contributor_name": "GOPAC Election Fund",
@@ -83,7 +101,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12416",
+      "id": "contrib-1792307281112-12416",
       "date": "2025-09-25 00:00:00",
       "amount": 100000,
       "contributor_name": "GOPAC Election Fund",
@@ -98,7 +116,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769403-64502",
+      "id": "contrib-1792307281196-64502",
       "date": "2025-10-28 00:00:00",
       "amount": 2500,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -114,7 +132,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769407-65928",
+      "id": "contrib-1792307281201-65928",
       "date": "2025-09-23 00:00:00",
       "amount": 62500,
       "contributor_name": "GOPAC ELECTION FUND",
@@ -129,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84411",
+      "id": "contrib-1792307281218-84411",
       "date": "2025-09-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Jacob Louis Teshka",
@@ -145,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94231",
+      "id": "contrib-1792307281235-94231",
       "date": "2025-09-26 00:00:00",
       "amount": 50000,
       "candidate_name": "MICHAEL K BRAUN",
@@ -161,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95261",
+      "id": "contrib-1792307281236-95261",
       "date": "2025-10-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -177,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-96077",
+      "id": "contrib-1792307281237-96077",
       "date": "2025-09-25 00:00:00",
       "amount": 2500,
       "candidate_name": "ETHAN J LAWSON",
@@ -193,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769675-1060",
+      "id": "contrib-1792307281903-3569",
       "date": "2026-03-27 00:00:00",
       "amount": 500000,
       "contributor_name": "GOPAC Election Fund",
@@ -205,6 +223,86 @@
       "address_state": "VA",
       "address_zip": "22209",
       "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48129",
+      "date": "2026-10-01 00:00:00",
+      "amount": 120000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48130",
+      "date": "2026-06-29 00:00:00",
+      "amount": 130000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48131",
+      "date": "2026-09-22 00:00:00",
+      "amount": 225000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48132",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50157",
+      "date": "2026-09-15 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Jacob Louis Teshka",
+      "contributor_name": "GOPAC Election Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22209",
+      "recipient_committee": "Committee to Elect Jake Teshka",
       "source": "indiana"
     }
   ],

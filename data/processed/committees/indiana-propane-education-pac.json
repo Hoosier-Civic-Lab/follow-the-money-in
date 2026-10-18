@@ -2,18 +2,18 @@
   "id": "indiana-propane-education-pac",
   "name": "Indiana Propane Education PAC",
   "totals": {
-    "total_given": "5500.00",
-    "total_contributions": 8,
+    "total_given": "7000.00",
+    "total_contributions": 10,
     "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "3000.00"
+      "count": 4,
+      "total": "4000.00"
     },
     "medium": {
-      "count": 5,
-      "total": "2500.00"
+      "count": 6,
+      "total": "3000.00"
     }
   },
   "by_month": {
@@ -37,7 +37,15 @@
       "count": 1,
       "total": "500.00"
     },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
+    },
     "2026-01": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-10": {
       "count": 1,
       "total": "500.00"
     }
@@ -48,6 +56,12 @@
       "name": "MICHAEL K BRAUN",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "edmond-lewis-soliday",
+      "name": "Edmond Lewis Soliday",
+      "total": "1000.00",
+      "count": 2
     },
     {
       "id": "eric-allan-koch",
@@ -72,17 +86,11 @@
       "name": "Rodric D Bray",
       "total": "500.00",
       "count": 1
-    },
-    {
-      "id": "edmond-lewis-soliday",
-      "name": "Edmond Lewis Soliday",
-      "total": "500.00",
-      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6308",
+      "id": "contrib-1792307281105-6308",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana Propane Education PAC",
@@ -97,7 +105,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12465",
+      "id": "contrib-1792307281112-12465",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana Propane Education PAC",
@@ -112,7 +120,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31767",
+      "id": "contrib-1792307281151-31767",
       "date": "2025-12-18 00:00:00",
       "amount": 500,
       "candidate_name": "Eric Allan Koch",
@@ -128,7 +136,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769411-67408",
+      "id": "contrib-1792307281203-67408",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "Todd Michael Huston",
@@ -144,7 +152,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769411-67513",
+      "id": "contrib-1792307281203-67513",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "Michael Ray Crider`",
@@ -160,7 +168,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-68003",
+      "id": "contrib-1792307281204-68003",
       "date": "2025-06-12 00:00:00",
       "amount": 500,
       "candidate_name": "Rodric D Bray",
@@ -176,7 +184,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94236",
+      "id": "contrib-1792307281235-94236",
       "date": "2025-10-20 00:00:00",
       "amount": 1000,
       "candidate_name": "MICHAEL K BRAUN",
@@ -192,8 +200,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-10816",
+      "id": "contrib-1792307281913-9650",
+      "date": "2026-04-24 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Indiana Propane Education PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281945-30598",
       "date": "2026-01-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Edmond Lewis Soliday",
+      "contributor_name": "INDIANA PROPANE EDUCATION PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Friends of Ed Soliday Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281945-30599",
+      "date": "2026-10-08 00:00:00",
       "amount": 500,
       "candidate_name": "Edmond Lewis Soliday",
       "contributor_name": "INDIANA PROPANE EDUCATION PAC",

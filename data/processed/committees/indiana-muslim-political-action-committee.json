@@ -2,14 +2,18 @@
   "id": "indiana-muslim-political-action-committee",
   "name": "Indiana Muslim Political Action Committee",
   "totals": {
-    "total_given": "10000.00",
-    "total_contributions": 4,
-    "candidates_supported": 0
+    "total_given": "19500.00",
+    "total_contributions": 10,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "10000.00"
+      "count": 9,
+      "total": "19000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_month": {
@@ -25,15 +29,54 @@
       "count": 1,
       "total": "4000.00"
     },
+    "2026-05": {
+      "count": 2,
+      "total": "5000.00"
+    },
     "2026-03": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "2000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "kristina-marie-moorhead",
+      "name": "Kristina Marie Moorhead",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "kerry-joseph-forestal",
+      "name": "Kerry Joseph Forestal",
+      "total": "1500.00",
+      "count": 2
+    },
+    {
+      "id": "scott-eugene-houldieson",
+      "name": "Scott Eugene Houldieson",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769358-31118",
+      "id": "contrib-1792307281150-31118",
       "date": "2025-04-10 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana Muslim Political Action Committee",
@@ -48,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-84198",
+      "id": "contrib-1792307281218-84198",
       "date": "2025-05-20 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana Muslim Political Action Committee",
@@ -63,7 +106,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-84206",
+      "id": "contrib-1792307281218-84206",
       "date": "2025-10-22 00:00:00",
       "amount": 4000,
       "contributor_name": "Indiana Muslim Political Action Committee",
@@ -78,7 +121,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17531",
+      "id": "contrib-1792307281944-30423",
+      "date": "2026-05-07 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Hamilton County Democratic Party Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-49957",
       "date": "2026-03-11 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana Muslim Political Action Committee",
@@ -91,23 +149,118 @@
       "address_zip": "46288",
       "recipient_committee": "Supporting Friends of Fady",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-49958",
+      "date": "2026-05-01 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Supporting Friends of Fady",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85400",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88429",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kerry Joseph Forestal",
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Forestal for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88430",
+      "date": "2026-08-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kerry Joseph Forestal",
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Forestal for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89680",
+      "date": "2026-09-01 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Kristina Marie Moorhead",
+      "contributor_name": "Indiana Muslim Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46288",
+      "recipient_committee": "Friends of Kristina Moorhead",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "60833.00",
-    "total_contributions": 35,
-    "unique_donors": 35,
+    "total_raised": "72333.00",
+    "total_contributions": 39,
+    "unique_donors": 36,
     "by_contributor_type": {
       "corporate": {
         "count": 4,
         "total": "8000.00"
       },
       "individual": {
-        "count": 31,
-        "total": "52833.00"
+        "count": 34,
+        "total": "63833.00"
+      },
+      "committee": {
+        "count": 1,
+        "total": "500.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Syed Ali  Saeed",
+        "type": "individual",
+        "total": "10000.00",
+        "count": 2
+      },
+      {
+        "name": "Kashif Khan",
+        "type": "individual",
+        "total": "9500.00",
+        "count": 2
+      },
       {
         "name": "Azher Khan",
         "type": "individual",
@@ -115,27 +268,15 @@
         "count": 1
       },
       {
+        "name": "Mohammad  Alhaddad",
+        "type": "individual",
+        "total": "5000.00",
+        "count": 2
+      },
+      {
         "name": "Omar A Khan",
         "type": "individual",
         "total": "5000.00",
-        "count": 1
-      },
-      {
-        "name": "Syed Ali  Saeed",
-        "type": "individual",
-        "total": "5000.00",
-        "count": 1
-      },
-      {
-        "name": "Kashif Khan",
-        "type": "individual",
-        "total": "4500.00",
-        "count": 1
-      },
-      {
-        "name": "Mohammad  Alhaddad",
-        "type": "individual",
-        "total": "4000.00",
         "count": 1
       },
       {
@@ -171,7 +312,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769426-85219",
+        "id": "contrib-1792307281219-85219",
         "date": "2025-11-28 00:00:00",
         "amount": 1000,
         "contributor_name": "Greenwood Internal Medicine",
@@ -186,7 +327,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85220",
+        "id": "contrib-1792307281219-85220",
         "date": "2025-11-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Indiana Neurology and Pain Center",
@@ -201,7 +342,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85221",
+        "id": "contrib-1792307281219-85221",
         "date": "2025-11-22 00:00:00",
         "amount": 3000,
         "contributor_name": "Rekaz Home Remodelling LLC",
@@ -216,7 +357,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85222",
+        "id": "contrib-1792307281219-85222",
         "date": "2025-12-29 00:00:00",
         "amount": 3000,
         "contributor_name": "Yar Associates, LLC",
@@ -231,7 +372,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85223",
+        "id": "contrib-1792307281219-85223",
         "date": "2025-12-18 00:00:00",
         "amount": 1000,
         "contributor_name": "Akram  Al-Makki",
@@ -246,7 +387,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85224",
+        "id": "contrib-1792307281219-85224",
         "date": "2025-11-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Altaf Hussain",
@@ -261,7 +402,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85225",
+        "id": "contrib-1792307281219-85225",
         "date": "2025-12-14 00:00:00",
         "amount": 1000,
         "contributor_name": "Arif M.  Kheiri",
@@ -276,7 +417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85226",
+        "id": "contrib-1792307281219-85226",
         "date": "2025-12-11 00:00:00",
         "amount": 500,
         "contributor_name": "Ashhar Madni",
@@ -291,7 +432,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85227",
+        "id": "contrib-1792307281219-85227",
         "date": "2025-11-06 00:00:00",
         "amount": 3000,
         "contributor_name": "Asif  Ansari",
@@ -306,7 +447,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85228",
+        "id": "contrib-1792307281219-85228",
         "date": "2025-11-04 00:00:00",
         "amount": 1000,
         "contributor_name": "Ayman Allian",
@@ -321,7 +462,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85229",
+        "id": "contrib-1792307281219-85229",
         "date": "2025-11-28 00:00:00",
         "amount": 5000,
         "contributor_name": "Azher Khan",
@@ -336,7 +477,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85230",
+        "id": "contrib-1792307281219-85230",
         "date": "2025-11-05 00:00:00",
         "amount": 1500,
         "contributor_name": "Bashar  Mourad",
@@ -351,7 +492,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85231",
+        "id": "contrib-1792307281219-85231",
         "date": "2025-11-28 00:00:00",
         "amount": 2000,
         "contributor_name": "Eyas Raddad",
@@ -366,7 +507,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85232",
+        "id": "contrib-1792307281219-85232",
         "date": "2025-11-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Faisal Khan",
@@ -381,7 +522,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85233",
+        "id": "contrib-1792307281219-85233",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "contributor_name": "Ferass Safadi",
@@ -396,7 +537,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85234",
+        "id": "contrib-1792307281219-85234",
         "date": "2025-11-04 00:00:00",
         "amount": 1000,
         "contributor_name": "Ghaith M.  Nahlawi",
@@ -411,7 +552,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85235",
+        "id": "contrib-1792307281219-85235",
         "date": "2025-12-31 00:00:00",
         "amount": 4500,
         "contributor_name": "Kashif Khan",
@@ -426,7 +567,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85236",
+        "id": "contrib-1792307281219-85236",
         "date": "2025-11-04 00:00:00",
         "amount": 1000,
         "contributor_name": "Moayyed  Moallem",
@@ -441,7 +582,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85237",
+        "id": "contrib-1792307281219-85237",
         "date": "2025-10-20 00:00:00",
         "amount": 500,
         "contributor_name": "Mohammad  A.  Badar",
@@ -456,7 +597,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85238",
+        "id": "contrib-1792307281219-85238",
         "date": "2025-12-09 00:00:00",
         "amount": 4000,
         "contributor_name": "Mohammad  Alhaddad",
@@ -471,7 +612,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85239",
+        "id": "contrib-1792307281219-85239",
         "date": "2025-11-06 00:00:00",
         "amount": 1500,
         "contributor_name": "Mohsin A. Khan",
@@ -486,7 +627,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85240",
+        "id": "contrib-1792307281219-85240",
         "date": "2025-11-05 00:00:00",
         "amount": 2000,
         "contributor_name": "Nadeem Siddiki",
@@ -501,7 +642,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85241",
+        "id": "contrib-1792307281219-85241",
         "date": "2025-11-05 00:00:00",
         "amount": 1500,
         "contributor_name": "Nazli R.  Khan",
@@ -516,7 +657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85242",
+        "id": "contrib-1792307281219-85242",
         "date": "2025-11-05 00:00:00",
         "amount": 5000,
         "contributor_name": "Omar A Khan",
@@ -531,7 +672,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85243",
+        "id": "contrib-1792307281219-85243",
         "date": "2025-10-14 00:00:00",
         "amount": 250,
         "contributor_name": "Omar B.  Estwani",
@@ -546,7 +687,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85244",
+        "id": "contrib-1792307281219-85244",
         "date": "2025-03-13 00:00:00",
         "amount": 1000,
         "contributor_name": "Saimir Qalliu",
@@ -561,7 +702,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85245",
+        "id": "contrib-1792307281219-85245",
         "date": "2025-10-14 00:00:00",
         "amount": 500,
         "contributor_name": "Sami  Khorbotly",
@@ -576,7 +717,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85246",
+        "id": "contrib-1792307281219-85246",
         "date": "2025-12-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Sara Hindi",
@@ -591,7 +732,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85247",
+        "id": "contrib-1792307281219-85247",
         "date": "2025-12-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Sobia  Shakeel",
@@ -606,7 +747,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85248",
+        "id": "contrib-1792307281219-85248",
         "date": "2025-12-03 00:00:00",
         "amount": 5000,
         "contributor_name": "Syed Ali  Saeed",
@@ -621,7 +762,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85249",
+        "id": "contrib-1792307281219-85249",
         "date": "2025-10-14 00:00:00",
         "amount": 250,
         "contributor_name": "Tarek  H.  Safadi",
@@ -636,7 +777,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85250",
+        "id": "contrib-1792307281219-85250",
         "date": "2025-11-28 00:00:00",
         "amount": 3000,
         "contributor_name": "Usman Ahmad",
@@ -651,7 +792,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769426-85251",
+        "id": "contrib-1792307281219-85251",
         "date": "2025-11-04 00:00:00",
         "amount": 1000,
         "contributor_name": "Ziad A.  Jaradat",
@@ -666,7 +807,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769700-17737",
+        "id": "contrib-1792307281975-50839",
         "date": "2026-01-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Faraz J. Khan",
@@ -681,11 +822,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769700-17738",
+        "id": "contrib-1792307281975-50840",
+        "date": "2026-09-24 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Kashif Khan",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Indiana Muslim Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50841",
+        "date": "2026-09-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Mohammad  Alhaddad",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Healthcare/Medical",
+        "occupation_category": "medical",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Indiana Muslim Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50842",
         "date": "2026-02-25 00:00:00",
         "amount": 333,
         "contributor_name": "Sameer Habib",
         "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Indiana Muslim Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50843",
+        "date": "2026-09-24 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Syed Ali  Saeed",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Westfield",
+        "address_state": "IN",
+        "address_zip": "46074",
+        "recipient_committee": "Indiana Muslim Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281975-50844",
+        "date": "2026-08-18 00:00:00",
+        "amount": 500,
+        "contributor_name": "Friends of Fady PAC",
+        "contributor_type": "committee",
         "contribution_size": "medium",
         "occupation": null,
         "occupation_category": "unknown",

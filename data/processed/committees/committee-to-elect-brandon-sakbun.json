@@ -2,14 +2,14 @@
   "id": "committee-to-elect-brandon-sakbun",
   "name": "Committee to Elect Brandon Sakbun",
   "totals": {
-    "total_given": "20500.00",
-    "total_contributions": 5,
+    "total_given": "30500.00",
+    "total_contributions": 8,
     "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "10500.00"
+      "count": 7,
+      "total": "20500.00"
     },
     "mega": {
       "count": 1,
@@ -29,21 +29,29 @@
       "count": 1,
       "total": "5000.00"
     },
+    "2026-06": {
+      "count": 2,
+      "total": "5000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "2500.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "10000.00"
     },
-    "2026-06": {
+    "2026-05": {
       "count": 1,
-      "total": "2500.00"
+      "total": "5000.00"
     }
   },
   "top_recipients": [
     {
       "id": "tonya-marie-pfaff",
       "name": "Tonya Marie Pfaff",
-      "total": "5000.00",
-      "count": 1
+      "total": "10000.00",
+      "count": 2
     },
     {
       "id": "beau-bayh",
@@ -54,7 +62,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-436",
+      "id": "contrib-1792307281095-436",
       "date": "2025-09-21 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -69,7 +77,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769305-437",
+      "id": "contrib-1792307281095-437",
       "date": "2025-05-12 00:00:00",
       "amount": 2000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -84,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83424",
+      "id": "contrib-1792307281217-83424",
       "date": "2025-08-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -100,7 +108,37 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769675-1488",
+      "id": "contrib-1792307281897-488",
+      "date": "2026-06-29 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-489",
+      "date": "2026-09-25 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5626",
       "date": "2026-02-05 00:00:00",
       "amount": 10000,
       "contributor_name": "Committee to Elect Brandon Sakbun",
@@ -115,7 +153,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30018",
+      "id": "contrib-1792307281973-49222",
+      "date": "2026-05-29 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80865",
       "date": "2026-06-17 00:00:00",
       "amount": 2500,
       "candidate_name": "Beau Bayh",

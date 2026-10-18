@@ -1,18 +1,22 @@
 {
   "id": "rise-indy-pac",
-  "name": "Rise Indy PAC",
+  "name": "RISE INDY PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
+    "total_given": "6000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "6000.00"
     }
   },
   "by_month": {
+    "2026-10": {
+      "count": 1,
+      "total": "5000.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "1000.00"
@@ -28,7 +32,22 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769718-23094",
+      "id": "contrib-1792307281900-2184",
+      "date": "2026-10-05 00:00:00",
+      "amount": 5000,
+      "contributor_name": "RISE INDY PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63757",
       "date": "2026-04-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Justin Goode",
@@ -45,21 +64,21 @@
     }
   ],
   "receipts": {
-    "total_raised": "277145.60",
-    "total_contributions": 22,
-    "unique_donors": 10,
+    "total_raised": "282104.11",
+    "total_contributions": 35,
+    "unique_donors": 17,
     "by_contributor_type": {
       "individual": {
-        "count": 19,
-        "total": "255143.60"
+        "count": 31,
+        "total": "259602.11"
       },
       "committee": {
         "count": 2,
         "total": "2.00"
       },
       "corporate": {
-        "count": 1,
-        "total": "22000.00"
+        "count": 2,
+        "total": "22500.00"
       }
     },
     "top_donors": [
@@ -76,6 +95,12 @@
         "count": 1
       },
       {
+        "name": "Jessica Cortwright",
+        "type": "individual",
+        "total": "3700.00",
+        "count": 1
+      },
+      {
         "name": "Brenda Shaheed",
         "type": "individual",
         "total": "3000.00",
@@ -88,16 +113,22 @@
         "count": 1
       },
       {
+        "name": "Jodie Harper",
+        "type": "individual",
+        "total": "757.50",
+        "count": 15
+      },
+      {
         "name": "Reid Litwack",
         "type": "individual",
         "total": "500.00",
         "count": 1
       },
       {
-        "name": "Jodie Harper",
-        "type": "individual",
-        "total": "454.50",
-        "count": 9
+        "name": "Key Bank",
+        "type": "corporate",
+        "total": "500.00",
+        "count": 1
       },
       {
         "name": "Chintan Bhimani",
@@ -106,27 +137,15 @@
         "count": 1
       },
       {
-        "name": "Keeanna Warren",
+        "name": "Kayla McIntire",
         "type": "individual",
-        "total": "60.00",
-        "count": 4
-      },
-      {
-        "name": "Katherin Chi",
-        "type": "individual",
-        "total": "5.00",
+        "total": "102.01",
         "count": 1
-      },
-      {
-        "name": "Bloomerang Fundraising",
-        "type": "committee",
-        "total": "2.00",
-        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769425-83883",
+        "id": "contrib-1792307281218-83883",
         "date": "2025-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Ann Stack",
@@ -141,7 +160,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83884",
+        "id": "contrib-1792307281218-83884",
         "date": "2025-01-14 00:00:00",
         "amount": 124.1,
         "contributor_name": "Chintan Bhimani",
@@ -156,7 +175,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83885",
+        "id": "contrib-1792307281218-83885",
         "date": "2025-08-08 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -171,7 +190,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83886",
+        "id": "contrib-1792307281218-83886",
         "date": "2025-09-09 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -186,7 +205,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83887",
+        "id": "contrib-1792307281218-83887",
         "date": "2025-10-08 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -201,7 +220,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83888",
+        "id": "contrib-1792307281218-83888",
         "date": "2025-11-10 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -216,7 +235,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83889",
+        "id": "contrib-1792307281218-83889",
         "date": "2025-12-09 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -231,7 +250,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83890",
+        "id": "contrib-1792307281218-83890",
         "date": "2025-01-08 00:00:00",
         "amount": 5,
         "contributor_name": "Katherin Chi",
@@ -246,7 +265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83891",
+        "id": "contrib-1792307281218-83891",
         "date": "2025-01-23 00:00:00",
         "amount": 15,
         "contributor_name": "Keeanna Warren",
@@ -261,7 +280,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83892",
+        "id": "contrib-1792307281218-83892",
         "date": "2025-02-24 00:00:00",
         "amount": 15,
         "contributor_name": "Keeanna Warren",
@@ -276,7 +295,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83893",
+        "id": "contrib-1792307281218-83893",
         "date": "2025-03-25 00:00:00",
         "amount": 15,
         "contributor_name": "Keeanna Warren",
@@ -291,7 +310,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83894",
+        "id": "contrib-1792307281218-83894",
         "date": "2025-04-23 00:00:00",
         "amount": 15,
         "contributor_name": "Keeanna Warren",
@@ -306,7 +325,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83895",
+        "id": "contrib-1792307281218-83895",
         "date": "2025-03-10 00:00:00",
         "amount": 250000,
         "contributor_name": "Michael Bloomberg",
@@ -321,7 +340,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83896",
+        "id": "contrib-1792307281218-83896",
         "date": "2025-01-10 00:00:00",
         "amount": 500,
         "contributor_name": "Reid Litwack",
@@ -336,7 +355,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83897",
+        "id": "contrib-1792307281218-83897",
         "date": "2025-04-17 00:00:00",
         "amount": 1,
         "contributor_name": "Bloomerang Fundraising",
@@ -351,7 +370,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83898",
+        "id": "contrib-1792307281218-83898",
         "date": "2025-04-24 00:00:00",
         "amount": 1,
         "contributor_name": "Bloomerang Fundraising",
@@ -366,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17404",
+        "id": "contrib-1792307281974-49747",
         "date": "2026-02-18 00:00:00",
         "amount": 22000,
         "contributor_name": "Great Public Schools for Indy, Inc.",
@@ -381,7 +400,37 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17405",
+        "id": "contrib-1792307281974-49748",
+        "date": "2026-05-26 00:00:00",
+        "amount": 500,
+        "contributor_name": "Key Bank",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49749",
+        "date": "2026-08-12 00:00:00",
+        "amount": 101,
+        "contributor_name": "Aissatou Balde",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Plainfield",
+        "address_state": "IN",
+        "address_zip": "46168",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49750",
         "date": "2026-04-06 00:00:00",
         "amount": 3000,
         "contributor_name": "Brenda Shaheed",
@@ -396,7 +445,52 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17406",
+        "id": "contrib-1792307281974-49751",
+        "date": "2026-10-02 00:00:00",
+        "amount": 101,
+        "contributor_name": "Devin Wright",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46250",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49752",
+        "date": "2026-09-30 00:00:00",
+        "amount": 101,
+        "contributor_name": "Jasmine Jackson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46037",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49753",
+        "date": "2026-08-06 00:00:00",
+        "amount": 3700,
+        "contributor_name": "Jessica Cortwright",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Carmel",
+        "address_state": "IN",
+        "address_zip": "46033",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49754",
         "date": "2026-01-08 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -411,7 +505,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17407",
+        "id": "contrib-1792307281974-49755",
         "date": "2026-02-10 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -426,7 +520,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17408",
+        "id": "contrib-1792307281974-49756",
         "date": "2026-03-10 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -441,7 +535,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17409",
+        "id": "contrib-1792307281974-49757",
         "date": "2026-04-08 00:00:00",
         "amount": 50.5,
         "contributor_name": "Jodie Harper",
@@ -452,6 +546,126 @@
         "address_city": "Noblesville",
         "address_state": "IN",
         "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49758",
+        "date": "2026-05-08 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49759",
+        "date": "2026-06-09 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49760",
+        "date": "2026-07-08 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49761",
+        "date": "2026-08-10 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49762",
+        "date": "2026-09-09 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49763",
+        "date": "2026-10-08 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Jodie Harper",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Noblesville",
+        "address_state": "IN",
+        "address_zip": "46062",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49764",
+        "date": "2026-10-08 00:00:00",
+        "amount": 50.5,
+        "contributor_name": "Kamilah Hatcher",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46226",
+        "recipient_committee": "RISE INDY PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281974-49765",
+        "date": "2026-10-01 00:00:00",
+        "amount": 102.01,
+        "contributor_name": "Kayla McIntire",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
         "recipient_committee": "RISE INDY PAC",
         "source": "indiana"
       }

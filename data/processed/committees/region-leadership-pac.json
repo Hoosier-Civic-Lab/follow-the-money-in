@@ -2,26 +2,87 @@
   "id": "region-leadership-pac",
   "name": "Region Leadership PAC",
   "totals": {
-    "total_given": "2500.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "6675.00",
+    "total_contributions": 8,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2500.00"
+      "count": 2,
+      "total": "5000.00"
+    },
+    "medium": {
+      "count": 6,
+      "total": "1675.00"
     }
   },
   "by_month": {
     "2026-03": {
       "count": 1,
       "total": "2500.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "2500.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "550.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "225.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "400.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "miguel-a-andrade",
+      "name": "Miguel A Andrade",
+      "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "tyler-thomas-bridges",
+      "name": "Tyler Thomas  Bridges",
+      "total": "250.00",
+      "count": 1
+    },
+    {
+      "id": "scott-eugene-houldieson",
+      "name": "Scott Eugene Houldieson",
+      "total": "225.00",
+      "count": 1
+    },
+    {
+      "id": "kate-lynn-donna-holley",
+      "name": "Kate-Lynn Donna Holley",
+      "total": "200.00",
+      "count": 1
+    },
+    {
+      "id": "anthony-nicholas-oberman",
+      "name": "Anthony Nicholas Oberman",
+      "total": "200.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769675-1158",
+      "id": "contrib-1792307281904-3919",
       "date": "2026-03-12 00:00:00",
       "amount": 2500,
       "contributor_name": "Region Leadership PAC",
@@ -33,6 +94,117 @@
       "address_state": "IN",
       "address_zip": "46308",
       "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5725",
+      "date": "2026-06-17 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50585",
+      "date": "2026-08-06 00:00:00",
+      "amount": 300,
+      "candidate_name": "Miguel A Andrade",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Citizens For Mike Andrade",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59128",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46306",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85418",
+      "date": "2026-09-03 00:00:00",
+      "amount": 225,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point ",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282028-86531",
+      "date": "2026-08-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tyler Thomas  Bridges",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Bridges For D11",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90529",
+      "date": "2026-07-01 00:00:00",
+      "amount": 200,
+      "candidate_name": "Kate-Lynn Donna Holley",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20003",
+      "recipient_committee": "Kate-Lynn Holley for IN State Senate District 6",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282045-92488",
+      "date": "2026-07-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Anthony Nicholas Oberman",
+      "contributor_name": "Region Leadership PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Committee to Elect Anthony Oberman",
       "source": "indiana"
     }
   ],

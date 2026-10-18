@@ -2,28 +2,47 @@
   "id": "committee-to-elect-beau-baird",
   "name": "Committee to Elect Beau Baird",
   "totals": {
-    "total_given": "100.00",
-    "total_contributions": 1,
+    "total_given": "550.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "100.00"
+      "count": 2,
+      "total": "550.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "100.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "450.00"
     }
   },
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769304-120",
+      "id": "contrib-1792307281094-120",
       "date": "2025-10-13 00:00:00",
       "amount": 100,
+      "contributor_name": "Committee to Elect Beau Baird",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46135",
+      "recipient_committee": "Indiana Republican State Committee, Inc",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281896-136",
+      "date": "2026-05-26 00:00:00",
+      "amount": 450,
       "contributor_name": "Committee to Elect Beau Baird",
       "contributor_type": "committee",
       "contribution_size": "medium",
@@ -37,24 +56,42 @@
     }
   ],
   "receipts": {
-    "total_raised": "27970.00",
-    "total_contributions": 45,
-    "unique_donors": 42,
+    "total_raised": "77070.00",
+    "total_contributions": 62,
+    "unique_donors": 52,
     "by_contributor_type": {
       "individual": {
-        "count": 10,
-        "total": "3550.00"
+        "count": 18,
+        "total": "38850.00"
       },
       "corporate": {
-        "count": 9,
-        "total": "5350.00"
+        "count": 13,
+        "total": "7100.00"
       },
       "committee": {
-        "count": 26,
-        "total": "19070.00"
+        "count": 31,
+        "total": "31120.00"
       }
     },
     "top_donors": [
+      {
+        "name": " HRCC",
+        "type": "individual",
+        "total": "18000.00",
+        "count": 2
+      },
+      {
+        "name": "HRCC",
+        "type": "individual",
+        "total": "15000.00",
+        "count": 2
+      },
+      {
+        "name": "Indiana Realtors Political Action Committee",
+        "type": "committee",
+        "total": "11000.00",
+        "count": 2
+      },
       {
         "name": "Indiana Multi Family Housing Political Action Committee",
         "type": "committee",
@@ -63,6 +100,12 @@
       },
       {
         "name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+        "type": "committee",
+        "total": "1500.00",
+        "count": 2
+      },
+      {
+        "name": "Indiana BANKPAC - State Fund",
         "type": "committee",
         "total": "1500.00",
         "count": 2
@@ -90,35 +133,11 @@
         "type": "committee",
         "total": "1000.00",
         "count": 1
-      },
-      {
-        "name": "Arcwood Environmental Political Action Committee",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Hoosiers for Quality Education Political Action Committee",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Builders Political Action Committee",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Electric Cooperatives State PAC",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769425-83632",
+        "id": "contrib-1792307281217-83632",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -134,7 +153,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83633",
+        "id": "contrib-1792307281217-83633",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -150,7 +169,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83634",
+        "id": "contrib-1792307281217-83634",
         "date": "2025-12-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -166,7 +185,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83635",
+        "id": "contrib-1792307281217-83635",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -182,7 +201,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83636",
+        "id": "contrib-1792307281217-83636",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -198,7 +217,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83637",
+        "id": "contrib-1792307281217-83637",
         "date": "2025-12-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -214,7 +233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83638",
+        "id": "contrib-1792307281217-83638",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -230,7 +249,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83639",
+        "id": "contrib-1792307281217-83639",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -246,7 +265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83640",
+        "id": "contrib-1792307281217-83640",
         "date": "2025-12-17 00:00:00",
         "amount": 250,
         "candidate_name": "Jason Beau Baird",
@@ -262,7 +281,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83641",
+        "id": "contrib-1792307281217-83641",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -278,7 +297,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83642",
+        "id": "contrib-1792307281217-83642",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -294,7 +313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83643",
+        "id": "contrib-1792307281217-83643",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -310,7 +329,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83644",
+        "id": "contrib-1792307281217-83644",
         "date": "2025-12-17 00:00:00",
         "amount": 250,
         "candidate_name": "Jason Beau Baird",
@@ -326,7 +345,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83645",
+        "id": "contrib-1792307281217-83645",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -342,7 +361,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83646",
+        "id": "contrib-1792307281217-83646",
         "date": "2025-11-24 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -358,7 +377,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83647",
+        "id": "contrib-1792307281217-83647",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -374,7 +393,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83648",
+        "id": "contrib-1792307281217-83648",
         "date": "2025-10-31 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -390,7 +409,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83649",
+        "id": "contrib-1792307281217-83649",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -406,7 +425,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83650",
+        "id": "contrib-1792307281217-83650",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -422,7 +441,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83651",
+        "id": "contrib-1792307281217-83651",
         "date": "2025-10-03 00:00:00",
         "amount": 750,
         "candidate_name": "Jason Beau Baird",
@@ -438,7 +457,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83652",
+        "id": "contrib-1792307281217-83652",
         "date": "2025-10-03 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -454,7 +473,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83653",
+        "id": "contrib-1792307281217-83653",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -470,7 +489,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83654",
+        "id": "contrib-1792307281217-83654",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -486,7 +505,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83655",
+        "id": "contrib-1792307281217-83655",
         "date": "2025-10-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -502,7 +521,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83656",
+        "id": "contrib-1792307281217-83656",
         "date": "2025-10-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -518,7 +537,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83657",
+        "id": "contrib-1792307281217-83657",
         "date": "2025-10-03 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -534,7 +553,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83658",
+        "id": "contrib-1792307281217-83658",
         "date": "2025-10-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -550,7 +569,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83659",
+        "id": "contrib-1792307281217-83659",
         "date": "2025-10-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -566,7 +585,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83660",
+        "id": "contrib-1792307281217-83660",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -582,7 +601,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83661",
+        "id": "contrib-1792307281217-83661",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -598,7 +617,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83662",
+        "id": "contrib-1792307281217-83662",
         "date": "2025-12-26 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -614,7 +633,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83663",
+        "id": "contrib-1792307281217-83663",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -630,7 +649,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83664",
+        "id": "contrib-1792307281217-83664",
         "date": "2025-10-03 00:00:00",
         "amount": 400,
         "candidate_name": "Jason Beau Baird",
@@ -646,7 +665,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83665",
+        "id": "contrib-1792307281217-83665",
         "date": "2025-10-03 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -662,7 +681,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83666",
+        "id": "contrib-1792307281217-83666",
         "date": "2025-10-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -678,7 +697,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83667",
+        "id": "contrib-1792307281217-83667",
         "date": "2025-10-15 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -694,7 +713,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83668",
+        "id": "contrib-1792307281217-83668",
         "date": "2025-01-04 00:00:00",
         "amount": 320,
         "candidate_name": "Jason Beau Baird",
@@ -710,7 +729,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17325",
+        "id": "contrib-1792307281973-49317",
+        "date": "2026-09-29 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "AMERICAN CHEMISTRY COUNCIL",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WASHINGTON",
+        "address_state": "DC",
+        "address_zip": "20001",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49318",
+        "date": "2026-04-28 00:00:00",
+        "amount": 250,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "THE INDIANA RAIL ROAD COMPANY",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46225",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49319",
+        "date": "2026-09-03 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "VANCEMITCHEM PUBLIC AFFAIRS",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46259",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49320",
         "date": "2026-03-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -726,7 +793,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17326",
+        "id": "contrib-1792307281973-49321",
+        "date": "2026-05-02 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "ANTHONY  A SAMUEL",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ZIONSVILLE",
+        "address_state": "IN",
+        "address_zip": "46077",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49322",
+        "date": "2026-05-05 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "Anthony Samuel",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46278",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49323",
         "date": "2026-03-30 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -742,7 +841,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17327",
+        "id": "contrib-1792307281973-49324",
         "date": "2026-03-25 00:00:00",
         "amount": 300,
         "candidate_name": "Jason Beau Baird",
@@ -758,7 +857,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17328",
+        "id": "contrib-1792307281973-49325",
+        "date": "2026-06-03 00:00:00",
+        "amount": 5000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "HRCC",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49326",
+        "date": "2026-04-28 00:00:00",
+        "amount": 10000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "HRCC",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49327",
+        "date": "2026-04-21 00:00:00",
+        "amount": 300,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "NEW MILLENNIUM BUILDING SYSTEMS",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "FT. WAYNE",
+        "address_state": "IN",
+        "address_zip": "46804",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49328",
         "date": "2026-03-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Jason Beau Baird",
@@ -774,7 +921,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17329",
+        "id": "contrib-1792307281973-49329",
+        "date": "2026-09-28 00:00:00",
+        "amount": 300,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "CVS Health PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WASHINGTON",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49330",
+        "date": "2026-04-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "Eli Lilly and Company Political Action Committee",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46285",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49331",
+        "date": "2026-04-21 00:00:00",
+        "amount": 750,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "Indiana BANKPAC - State Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49332",
         "date": "2026-03-23 00:00:00",
         "amount": 2500,
         "candidate_name": "Jason Beau Baird",
@@ -790,7 +985,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17330",
+        "id": "contrib-1792307281973-49333",
+        "date": "2026-05-02 00:00:00",
+        "amount": 10000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "Indiana Realtors Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49334",
+        "date": "2026-05-04 00:00:00",
+        "amount": 8000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": " HRCC",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49335",
+        "date": "2026-04-27 00:00:00",
+        "amount": 10000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": " HRCC",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49336",
+        "date": "2026-08-05 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "ACEC INDIANA",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49337",
         "date": "2026-03-25 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -806,7 +1065,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17331",
+        "id": "contrib-1792307281973-49338",
+        "date": "2026-04-21 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "GROW INDIANA TOGETHER PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49339",
+        "date": "2026-06-16 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jason Beau Baird",
+        "contributor_name": "IHLA PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fishers",
+        "address_state": "IN",
+        "address_zip": "46038",
+        "recipient_committee": "Committee to Elect Beau Baird",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281973-49340",
         "date": "2026-04-01 00:00:00",
         "amount": 500,
         "candidate_name": "Jason Beau Baird",
@@ -822,7 +1113,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769699-17332",
+        "id": "contrib-1792307281973-49341",
         "date": "2026-04-01 00:00:00",
         "amount": 1500,
         "candidate_name": "Jason Beau Baird",

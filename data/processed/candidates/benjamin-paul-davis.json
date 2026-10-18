@@ -6,25 +6,25 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "19220.44",
-    "total_contributions": 88,
-    "total_itemized": 88,
+    "total_raised": "23514.26",
+    "total_contributions": 128,
+    "total_itemized": 128,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 88,
-      "total": "19220.44"
+      "count": 128,
+      "total": "23514.26"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 37,
-      "total": "9136.65"
+      "count": 50,
+      "total": "12626.09"
     },
     "small": {
-      "count": 48,
-      "total": "1766.27"
+      "count": 75,
+      "total": "2570.65"
     },
     "large": {
       "count": 3,
@@ -44,9 +44,13 @@
       "count": 2,
       "total": "916.75"
     },
+    "2026-09": {
+      "count": 19,
+      "total": "2080.99"
+    },
     "2026-07": {
-      "count": 68,
-      "total": "10435.80"
+      "count": 70,
+      "total": "10568.23"
     },
     "2026-01": {
       "count": 4,
@@ -55,6 +59,10 @@
     "2026-04": {
       "count": 2,
       "total": "126.68"
+    },
+    "2026-08": {
+      "count": 19,
+      "total": "2080.40"
     },
     "2026-06": {
       "count": 4,
@@ -71,7 +79,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769447-101998",
+      "id": "contrib-1792307281242-101998",
       "date": "2025-09-25 00:00:00",
       "amount": 100,
       "candidate_name": "Benjamin Paul Davis",
@@ -87,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-101999",
+      "id": "contrib-1792307281242-101999",
       "date": "2025-09-16 00:00:00",
       "amount": 95,
       "candidate_name": "Benjamin Paul Davis",
@@ -103,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102000",
+      "id": "contrib-1792307281242-102000",
       "date": "2025-11-18 00:00:00",
       "amount": 100,
       "candidate_name": "Benjamin Paul Davis",
@@ -119,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102001",
+      "id": "contrib-1792307281242-102001",
       "date": "2025-10-29 00:00:00",
       "amount": 48.25,
       "candidate_name": "Benjamin Paul Davis",
@@ -135,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102002",
+      "id": "contrib-1792307281242-102002",
       "date": "2025-11-05 00:00:00",
       "amount": 241.25,
       "candidate_name": "Benjamin Paul Davis",
@@ -151,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102003",
+      "id": "contrib-1792307281242-102003",
       "date": "2025-11-19 00:00:00",
       "amount": 289.5,
       "candidate_name": "Benjamin Paul Davis",
@@ -167,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102004",
+      "id": "contrib-1792307281242-102004",
       "date": "2025-10-22 00:00:00",
       "amount": 868.5,
       "candidate_name": "Benjamin Paul Davis",
@@ -183,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769447-102005",
+      "id": "contrib-1792307281242-102005",
       "date": "2025-11-13 00:00:00",
       "amount": 1158,
       "candidate_name": "Benjamin Paul Davis",
@@ -199,7 +207,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30071",
+      "id": "contrib-1792307282020-81004",
+      "date": "2026-09-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Aaron Moralina",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81005",
       "date": "2026-07-08 00:00:00",
       "amount": 10.86,
       "candidate_name": "Benjamin Paul Davis",
@@ -215,7 +239,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30072",
+      "id": "contrib-1792307282020-81006",
+      "date": "2026-09-21 00:00:00",
+      "amount": 5.59,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Addison Beshears",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williamsport",
+      "address_state": "IN",
+      "address_zip": "47993",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81007",
       "date": "2026-01-10 00:00:00",
       "amount": 263.9,
       "candidate_name": "Benjamin Paul Davis",
@@ -231,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30073",
+      "id": "contrib-1792307282020-81008",
       "date": "2026-07-09 00:00:00",
       "amount": 200,
       "candidate_name": "Benjamin Paul Davis",
@@ -247,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30074",
+      "id": "contrib-1792307282020-81009",
       "date": "2026-07-24 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -263,7 +303,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30075",
+      "id": "contrib-1792307282020-81010",
+      "date": "2026-09-20 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Alex Stark",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81011",
       "date": "2026-07-11 00:00:00",
       "amount": 527.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -279,7 +335,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30076",
+      "id": "contrib-1792307282020-81012",
+      "date": "2026-09-08 00:00:00",
+      "amount": 527.47,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Alexander Francis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81013",
       "date": "2026-07-09 00:00:00",
       "amount": 75,
       "candidate_name": "Benjamin Paul Davis",
@@ -295,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30077",
+      "id": "contrib-1792307282020-81014",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Benjamin Paul Davis",
@@ -311,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30078",
+      "id": "contrib-1792307282020-81015",
       "date": "2026-07-06 00:00:00",
       "amount": 50,
       "candidate_name": "Benjamin Paul Davis",
@@ -327,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30079",
+      "id": "contrib-1792307282020-81016",
       "date": "2026-07-06 00:00:00",
       "amount": 158.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -343,7 +415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30080",
+      "id": "contrib-1792307282020-81017",
       "date": "2026-07-15 00:00:00",
       "amount": 25,
       "candidate_name": "Benjamin Paul Davis",
@@ -359,7 +431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30081",
+      "id": "contrib-1792307282020-81018",
       "date": "2026-07-14 00:00:00",
       "amount": 10.86,
       "candidate_name": "Benjamin Paul Davis",
@@ -375,7 +447,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30082",
+      "id": "contrib-1792307282020-81019",
+      "date": "2026-08-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Bertha Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81020",
       "date": "2026-06-29 00:00:00",
       "amount": 5000,
       "candidate_name": "Benjamin Paul Davis",
@@ -391,7 +479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30083",
+      "id": "contrib-1792307282020-81021",
       "date": "2026-01-19 00:00:00",
       "amount": 21.41,
       "candidate_name": "Benjamin Paul Davis",
@@ -407,7 +495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30084",
+      "id": "contrib-1792307282020-81022",
       "date": "2026-06-09 00:00:00",
       "amount": 105.75,
       "candidate_name": "Benjamin Paul Davis",
@@ -423,7 +511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30085",
+      "id": "contrib-1792307282020-81023",
       "date": "2026-07-12 00:00:00",
       "amount": 5.59,
       "candidate_name": "Benjamin Paul Davis",
@@ -439,7 +527,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30086",
+      "id": "contrib-1792307282020-81024",
+      "date": "2026-09-30 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Brantly McCord",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81025",
+      "date": "2026-08-28 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Brian Flory",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81026",
       "date": "2026-07-17 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -455,7 +575,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30087",
+      "id": "contrib-1792307282020-81027",
+      "date": "2026-08-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Briana Barger",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Vernon",
+      "address_state": "IN",
+      "address_zip": "47265",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81028",
+      "date": "2026-09-25 00:00:00",
+      "amount": 10.86,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Bridget Farren",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60640",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81029",
+      "date": "2026-08-28 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Caleb New",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81030",
+      "date": "2026-09-26 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Caleb New",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81031",
       "date": "2026-01-16 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -471,7 +655,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30088",
+      "id": "contrib-1792307282020-81032",
+      "date": "2026-09-20 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Carolyn Bridge",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oxford",
+      "address_state": "IN",
+      "address_zip": "47971",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81033",
       "date": "2026-07-12 00:00:00",
       "amount": 5,
       "candidate_name": "Benjamin Paul Davis",
@@ -487,7 +687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30089",
+      "id": "contrib-1792307282020-81034",
       "date": "2026-07-09 00:00:00",
       "amount": 158.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -503,7 +703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30090",
+      "id": "contrib-1792307282020-81035",
       "date": "2026-07-18 00:00:00",
       "amount": 150,
       "candidate_name": "Benjamin Paul Davis",
@@ -519,7 +719,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30091",
+      "id": "contrib-1792307282020-81036",
+      "date": "2026-09-22 00:00:00",
+      "amount": 25,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Christopher Hedges",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55407",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81037",
+      "date": "2026-08-06 00:00:00",
+      "amount": 10.39,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Clorissa Morgan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81038",
       "date": "2026-07-16 00:00:00",
       "amount": 76.23,
       "candidate_name": "Benjamin Paul Davis",
@@ -535,7 +767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30092",
+      "id": "contrib-1792307282020-81039",
       "date": "2026-07-20 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -551,7 +783,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30093",
+      "id": "contrib-1792307282020-81040",
+      "date": "2026-09-26 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Danny Harris",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81041",
       "date": "2026-07-20 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -567,7 +815,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30094",
+      "id": "contrib-1792307282020-81042",
+      "date": "2026-08-20 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "David Wetterer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81043",
       "date": "2026-07-08 00:00:00",
       "amount": 25,
       "candidate_name": "Benjamin Paul Davis",
@@ -583,7 +847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30095",
+      "id": "contrib-1792307282020-81044",
       "date": "2026-07-10 00:00:00",
       "amount": 150,
       "candidate_name": "Benjamin Paul Davis",
@@ -599,7 +863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30096",
+      "id": "contrib-1792307282020-81045",
       "date": "2026-07-17 00:00:00",
       "amount": 21.41,
       "candidate_name": "Benjamin Paul Davis",
@@ -615,7 +879,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30097",
+      "id": "contrib-1792307282020-81046",
+      "date": "2026-08-18 00:00:00",
+      "amount": 21.41,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Desmine Robinson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81047",
+      "date": "2026-09-18 00:00:00",
+      "amount": 21.41,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Desmine Robinson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81048",
       "date": "2026-07-06 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -631,7 +927,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30098",
+      "id": "contrib-1792307282020-81049",
+      "date": "2026-08-03 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Emma Fletcher",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55408",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81050",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Benjamin Paul Davis",
@@ -647,7 +959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30099",
+      "id": "contrib-1792307282020-81051",
       "date": "2026-07-29 00:00:00",
       "amount": 158.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -663,7 +975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30100",
+      "id": "contrib-1792307282020-81052",
       "date": "2026-06-21 00:00:00",
       "amount": 10,
       "candidate_name": "Benjamin Paul Davis",
@@ -679,7 +991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30101",
+      "id": "contrib-1792307282020-81053",
       "date": "2026-07-21 00:00:00",
       "amount": 10,
       "candidate_name": "Benjamin Paul Davis",
@@ -695,7 +1007,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30102",
+      "id": "contrib-1792307282020-81054",
+      "date": "2026-08-21 00:00:00",
+      "amount": 10,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Erin Charpentier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81055",
+      "date": "2026-09-21 00:00:00",
+      "amount": 10,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Erin Charpentier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81056",
       "date": "2026-02-16 00:00:00",
       "amount": 50,
       "candidate_name": "Benjamin Paul Davis",
@@ -711,7 +1055,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30103",
+      "id": "contrib-1792307282020-81057",
+      "date": "2026-09-20 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Fran Quigley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81058",
       "date": "2026-07-10 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -727,7 +1087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30104",
+      "id": "contrib-1792307282020-81059",
       "date": "2026-07-22 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -743,7 +1103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30105",
+      "id": "contrib-1792307282020-81060",
       "date": "2026-01-15 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -759,7 +1119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30106",
+      "id": "contrib-1792307282020-81061",
       "date": "2026-07-08 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -775,7 +1135,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30107",
+      "id": "contrib-1792307282020-81062",
+      "date": "2026-08-26 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Jack Novozinsky",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81063",
       "date": "2026-07-17 00:00:00",
       "amount": 10.86,
       "candidate_name": "Benjamin Paul Davis",
@@ -791,7 +1167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30108",
+      "id": "contrib-1792307282020-81064",
       "date": "2026-07-09 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -807,7 +1183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30109",
+      "id": "contrib-1792307282020-81065",
       "date": "2026-07-23 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -823,7 +1199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30110",
+      "id": "contrib-1792307282020-81066",
       "date": "2026-07-27 00:00:00",
       "amount": 316.61,
       "candidate_name": "Benjamin Paul Davis",
@@ -839,7 +1215,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30111",
+      "id": "contrib-1792307282020-81067",
+      "date": "2026-09-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Jesse Brown",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46218",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81068",
       "date": "2026-07-20 00:00:00",
       "amount": 527.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -855,7 +1247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30112",
+      "id": "contrib-1792307282020-81069",
       "date": "2026-07-09 00:00:00",
       "amount": 42.49,
       "candidate_name": "Benjamin Paul Davis",
@@ -871,7 +1263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30113",
+      "id": "contrib-1792307282020-81070",
       "date": "2026-07-12 00:00:00",
       "amount": 316.61,
       "candidate_name": "Benjamin Paul Davis",
@@ -887,7 +1279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30114",
+      "id": "contrib-1792307282020-81071",
       "date": "2026-07-20 00:00:00",
       "amount": 527.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -903,7 +1295,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30115",
+      "id": "contrib-1792307282020-81072",
+      "date": "2026-07-30 00:00:00",
+      "amount": 26.68,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "John Harden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81073",
       "date": "2026-07-20 00:00:00",
       "amount": 2159.52,
       "candidate_name": "Benjamin Paul Davis",
@@ -919,7 +1327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30116",
+      "id": "contrib-1792307282020-81074",
       "date": "2026-03-12 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -935,7 +1343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30117",
+      "id": "contrib-1792307282020-81075",
       "date": "2026-07-22 00:00:00",
       "amount": 105.75,
       "candidate_name": "Benjamin Paul Davis",
@@ -951,7 +1359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30118",
+      "id": "contrib-1792307282020-81076",
       "date": "2026-07-04 00:00:00",
       "amount": 20,
       "candidate_name": "Benjamin Paul Davis",
@@ -967,7 +1375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30119",
+      "id": "contrib-1792307282020-81077",
       "date": "2026-07-18 00:00:00",
       "amount": 316.61,
       "candidate_name": "Benjamin Paul Davis",
@@ -983,7 +1391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30120",
+      "id": "contrib-1792307282020-81078",
       "date": "2026-07-13 00:00:00",
       "amount": 21.41,
       "candidate_name": "Benjamin Paul Davis",
@@ -999,7 +1407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30121",
+      "id": "contrib-1792307282020-81079",
       "date": "2026-07-04 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1015,7 +1423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30122",
+      "id": "contrib-1792307282020-81080",
       "date": "2026-07-23 00:00:00",
       "amount": 5.59,
       "candidate_name": "Benjamin Paul Davis",
@@ -1031,7 +1439,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30123",
+      "id": "contrib-1792307282020-81081",
+      "date": "2026-08-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Kyle Strait",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81082",
       "date": "2026-07-10 00:00:00",
       "amount": 211.18,
       "candidate_name": "Benjamin Paul Davis",
@@ -1047,7 +1471,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30124",
+      "id": "contrib-1792307282020-81083",
+      "date": "2026-08-17 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Lucas Waterfill",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81084",
+      "date": "2026-07-30 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Maggie Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Turners Falls",
+      "address_state": "MA",
+      "address_zip": "01376",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81085",
+      "date": "2026-08-02 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Malkah Bird",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81086",
       "date": "2026-07-13 00:00:00",
       "amount": 527.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -1063,7 +1535,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30125",
+      "id": "contrib-1792307282020-81087",
+      "date": "2026-08-25 00:00:00",
+      "amount": 527.47,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Margy Deverall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Otterbein",
+      "address_state": "IN",
+      "address_zip": "47970",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81088",
       "date": "2026-07-10 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1079,7 +1567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30126",
+      "id": "contrib-1792307282020-81089",
       "date": "2026-07-24 00:00:00",
       "amount": 158.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -1095,7 +1583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30127",
+      "id": "contrib-1792307282020-81090",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Benjamin Paul Davis",
@@ -1111,7 +1599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30128",
+      "id": "contrib-1792307282020-81091",
       "date": "2026-07-13 00:00:00",
       "amount": 105.75,
       "candidate_name": "Benjamin Paul Davis",
@@ -1127,7 +1615,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30129",
+      "id": "contrib-1792307282020-81092",
+      "date": "2026-08-25 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Michael Torres",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46218",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81093",
       "date": "2026-07-10 00:00:00",
       "amount": 158.47,
       "candidate_name": "Benjamin Paul Davis",
@@ -1143,7 +1647,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30130",
+      "id": "contrib-1792307282020-81094",
+      "date": "2026-08-23 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Nicholas Wegela",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westland",
+      "address_state": "MI",
+      "address_zip": "48185",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81095",
       "date": "2026-07-13 00:00:00",
       "amount": 5.59,
       "candidate_name": "Benjamin Paul Davis",
@@ -1159,7 +1679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30131",
+      "id": "contrib-1792307282020-81096",
       "date": "2026-07-23 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -1175,7 +1695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30132",
+      "id": "contrib-1792307282020-81097",
       "date": "2026-07-15 00:00:00",
       "amount": 316.61,
       "candidate_name": "Benjamin Paul Davis",
@@ -1191,7 +1711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30133",
+      "id": "contrib-1792307282020-81098",
       "date": "2026-07-13 00:00:00",
       "amount": 105.75,
       "candidate_name": "Benjamin Paul Davis",
@@ -1207,7 +1727,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30134",
+      "id": "contrib-1792307282020-81099",
+      "date": "2026-08-15 00:00:00",
+      "amount": 300,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Quinnel Gutwein",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81100",
       "date": "2026-06-27 00:00:00",
       "amount": 200,
       "candidate_name": "Benjamin Paul Davis",
@@ -1223,7 +1759,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30135",
+      "id": "contrib-1792307282020-81101",
+      "date": "2026-09-22 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Rachel James-Dolan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81102",
       "date": "2026-07-09 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1239,7 +1791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30136",
+      "id": "contrib-1792307282020-81103",
       "date": "2026-07-11 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -1255,7 +1807,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30137",
+      "id": "contrib-1792307282020-81104",
+      "date": "2026-08-08 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Renu Bhatia",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81105",
       "date": "2026-07-16 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1271,7 +1839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30138",
+      "id": "contrib-1792307282020-81106",
       "date": "2026-07-09 00:00:00",
       "amount": 150,
       "candidate_name": "Benjamin Paul Davis",
@@ -1287,7 +1855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30139",
+      "id": "contrib-1792307282020-81107",
       "date": "2026-07-10 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1303,7 +1871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30140",
+      "id": "contrib-1792307282020-81108",
       "date": "2026-04-17 00:00:00",
       "amount": 26.68,
       "candidate_name": "Benjamin Paul Davis",
@@ -1319,7 +1887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30141",
+      "id": "contrib-1792307282020-81109",
       "date": "2026-07-19 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1335,7 +1903,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30142",
+      "id": "contrib-1792307282020-81110",
+      "date": "2026-09-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Spencer Murphy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81111",
       "date": "2026-07-15 00:00:00",
       "amount": 301,
       "candidate_name": "Benjamin Paul Davis",
@@ -1351,7 +1935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30143",
+      "id": "contrib-1792307282020-81112",
       "date": "2026-07-24 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1367,7 +1951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30144",
+      "id": "contrib-1792307282020-81113",
       "date": "2026-07-04 00:00:00",
       "amount": 60,
       "candidate_name": "Benjamin Paul Davis",
@@ -1383,7 +1967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30145",
+      "id": "contrib-1792307282020-81114",
       "date": "2026-07-15 00:00:00",
       "amount": 263.9,
       "candidate_name": "Benjamin Paul Davis",
@@ -1399,7 +1983,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30146",
+      "id": "contrib-1792307282020-81115",
+      "date": "2026-09-12 00:00:00",
+      "amount": 10,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Tamecia Exum",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81116",
       "date": "2026-07-18 00:00:00",
       "amount": 105.75,
       "candidate_name": "Benjamin Paul Davis",
@@ -1415,7 +2015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30147",
+      "id": "contrib-1792307282020-81117",
       "date": "2026-07-15 00:00:00",
       "amount": 53.04,
       "candidate_name": "Benjamin Paul Davis",
@@ -1431,7 +2031,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30148",
+      "id": "contrib-1792307282020-81118",
+      "date": "2026-09-13 00:00:00",
+      "amount": 20,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Tina Staley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81119",
+      "date": "2026-09-19 00:00:00",
+      "amount": 53.04,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Tyler DeBusk",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Attica",
+      "address_state": "IN",
+      "address_zip": "47918",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81120",
       "date": "2026-07-09 00:00:00",
       "amount": 25,
       "candidate_name": "Benjamin Paul Davis",
@@ -1447,7 +2079,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30149",
+      "id": "contrib-1792307282020-81121",
+      "date": "2026-08-26 00:00:00",
+      "amount": 105.75,
+      "candidate_name": "Benjamin Paul Davis",
+      "contributor_name": "Zach Schalk",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Ben Davis for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-81122",
       "date": "2026-07-17 00:00:00",
       "amount": 250,
       "candidate_name": "Benjamin Paul Davis",
@@ -1463,7 +2111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769739-30150",
+      "id": "contrib-1792307282020-81123",
       "date": "2026-07-21 00:00:00",
       "amount": 400,
       "candidate_name": "Benjamin Paul Davis",

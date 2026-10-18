@@ -2,18 +2,22 @@
   "id": "indiana-state-ironworkers-political-action-committee",
   "name": "Indiana State Ironworkers Political Action Committee",
   "totals": {
-    "total_given": "17500.00",
-    "total_contributions": 11,
-    "candidates_supported": 9
+    "total_given": "50000.00",
+    "total_contributions": 16,
+    "candidates_supported": 13
   },
   "by_contribution_size": {
     "large": {
-      "count": 5,
-      "total": "14500.00"
+      "count": 8,
+      "total": "21500.00"
     },
     "medium": {
-      "count": 6,
-      "total": "3000.00"
+      "count": 7,
+      "total": "3500.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "25000.00"
     }
   },
   "by_month": {
@@ -44,14 +48,32 @@
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "6000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "25500.00"
     }
   },
   "top_recipients": [
     {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "25000.00",
+      "count": 1
+    },
+    {
       "id": "todd-michael-huston",
       "name": "Todd Michael Huston",
-      "total": "5000.00",
-      "count": 1
+      "total": "10000.00",
+      "count": 2
     },
     {
       "id": "daniel-edward-dernulc",
@@ -62,6 +84,18 @@
     {
       "id": "linda-lee-rogers",
       "name": "Linda Lee Rogers",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "julie-ann-olthoff",
+      "name": "Julie Ann Olthoff",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "rebecca-anne-cash",
+      "name": "Rebecca Anne Cash",
       "total": "1000.00",
       "count": 1
     },
@@ -100,11 +134,17 @@
       "name": "Andrew James Ireland",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "cindy-lynn-ledbetter",
+      "name": "Cindy Lynn Ledbetter",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6244",
+      "id": "contrib-1792307281105-6244",
       "date": "2025-10-15 00:00:00",
       "amount": 5000,
       "contributor_name": "Indiana State Ironworkers Political Action Committee",
@@ -119,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65266",
+      "id": "contrib-1792307281199-65266",
       "date": "2025-06-30 00:00:00",
       "amount": 500,
       "candidate_name": "Travis Linn Holdman",
@@ -135,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769411-67374",
+      "id": "contrib-1792307281203-67374",
       "date": "2025-06-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Todd Michael Huston",
@@ -151,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80679",
+      "id": "contrib-1792307281215-80679",
       "date": "2025-12-16 00:00:00",
       "amount": 500,
       "candidate_name": "Aaron Michael Freeman",
@@ -167,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-82229",
+      "id": "contrib-1792307281216-82229",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "Linda Lee Rogers",
@@ -183,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84613",
+      "id": "contrib-1792307281218-84613",
       "date": "2025-07-07 00:00:00",
       "amount": 500,
       "candidate_name": "Shelli Renee Yoder",
@@ -199,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91293",
+      "id": "contrib-1792307281233-91293",
       "date": "2025-08-21 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -215,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91709",
+      "id": "contrib-1792307281233-91709",
       "date": "2025-09-17 00:00:00",
       "amount": 1000,
       "candidate_name": "DANIEL EDWARD DERNULC",
@@ -231,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91710",
+      "id": "contrib-1792307281233-91710",
       "date": "2025-12-01 00:00:00",
       "amount": 2500,
       "candidate_name": "DANIEL EDWARD DERNULC",
@@ -247,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95065",
+      "id": "contrib-1792307281236-95065",
       "date": "2025-07-18 00:00:00",
       "amount": 500,
       "candidate_name": "James A Zimmerman",
@@ -263,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96432",
+      "id": "contrib-1792307281237-96432",
       "date": "2025-10-20 00:00:00",
       "amount": 500,
       "candidate_name": "Andrew James Ireland",
@@ -277,40 +317,120 @@
       "address_zip": "46368",
       "recipient_committee": "Ireland for Indiana Inc.",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33506",
+      "date": "2026-06-23 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44724",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50456",
+      "date": "2026-09-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Cindy Lynn Ledbetter",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Ledbetter For State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281984-55831",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rebecca Anne Cash",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Friends of Becky Cash",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80941",
+      "date": "2026-09-24 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "161696.91",
-    "total_contributions": 70,
+    "total_raised": "236592.22",
+    "total_contributions": 95,
     "unique_donors": 7,
     "by_contributor_type": {
       "individual": {
-        "count": 29,
-        "total": "63018.76"
+        "count": 41,
+        "total": "97792.32"
       },
       "committee": {
-        "count": 41,
-        "total": "98678.15"
+        "count": 54,
+        "total": "138799.90"
       }
     },
     "top_donors": [
       {
         "name": "Iron Workers Local 22 IPAL Fund",
         "type": "committee",
-        "total": "65470.23",
-        "count": 14
+        "total": "100041.14",
+        "count": 20
       },
       {
         "name": "Ironworkers Local 395 Political Action League",
         "type": "individual",
-        "total": "40767.52",
-        "count": 13
+        "total": "64681.32",
+        "count": 19
       },
       {
         "name": "Iron Workers Local #103 Indiana Political Action Leaque",
         "type": "individual",
-        "total": "22251.24",
-        "count": 16
+        "total": "33111.00",
+        "count": 22
       },
       {
         "name": "Iron Workers Local 292 IPAL Fund",
@@ -319,27 +439,27 @@
         "count": 14
       },
       {
-        "name": "Ironworkers Local 147 PAC",
-        "type": "committee",
-        "total": "10190.65",
-        "count": 6
-      },
-      {
         "name": "Iron Workers Local 147 IPAL Fund",
         "type": "committee",
-        "total": "7389.39",
-        "count": 5
+        "total": "11047.58",
+        "count": 9
+      },
+      {
+        "name": "Ironworkers Local 147 PAC",
+        "type": "committee",
+        "total": "10718.56",
+        "count": 7
       },
       {
         "name": "IronWorkers Local 292 PAC Fund",
         "type": "committee",
-        "total": "1629.71",
-        "count": 2
+        "total": "2994.45",
+        "count": 4
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769411-67661",
+        "id": "contrib-1792307281203-67661",
         "date": "2025-05-20 00:00:00",
         "amount": 916.69,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -354,7 +474,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67662",
+        "id": "contrib-1792307281203-67662",
         "date": "2025-03-18 00:00:00",
         "amount": 1009.32,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -369,7 +489,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67663",
+        "id": "contrib-1792307281203-67663",
         "date": "2025-05-06 00:00:00",
         "amount": 1011.57,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -384,7 +504,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67664",
+        "id": "contrib-1792307281203-67664",
         "date": "2025-02-25 00:00:00",
         "amount": 1179.75,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -399,7 +519,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67665",
+        "id": "contrib-1792307281203-67665",
         "date": "2025-06-26 00:00:00",
         "amount": 1240.96,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -414,7 +534,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67666",
+        "id": "contrib-1792307281203-67666",
         "date": "2025-08-26 00:00:00",
         "amount": 1443.9,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -429,7 +549,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67667",
+        "id": "contrib-1792307281203-67667",
         "date": "2025-09-23 00:00:00",
         "amount": 1478.8,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -444,7 +564,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67668",
+        "id": "contrib-1792307281203-67668",
         "date": "2025-11-24 00:00:00",
         "amount": 1509.85,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -459,7 +579,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67669",
+        "id": "contrib-1792307281203-67669",
         "date": "2025-10-21 00:00:00",
         "amount": 1513.89,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -474,7 +594,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67670",
+        "id": "contrib-1792307281203-67670",
         "date": "2025-12-29 00:00:00",
         "amount": 1599.53,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -489,7 +609,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67671",
+        "id": "contrib-1792307281203-67671",
         "date": "2025-07-15 00:00:00",
         "amount": 1624.17,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -504,7 +624,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769411-67672",
+        "id": "contrib-1792307281203-67672",
         "date": "2025-07-22 00:00:00",
         "amount": 1758.66,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -519,7 +639,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67673",
+        "id": "contrib-1792307281203-67673",
         "date": "2025-05-06 00:00:00",
         "amount": 631.04,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -534,7 +654,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67674",
+        "id": "contrib-1792307281203-67674",
         "date": "2025-12-01 00:00:00",
         "amount": 1521.57,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -549,7 +669,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67675",
+        "id": "contrib-1792307281203-67675",
         "date": "2025-11-06 00:00:00",
         "amount": 1554.24,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -564,7 +684,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67676",
+        "id": "contrib-1792307281203-67676",
         "date": "2025-10-14 00:00:00",
         "amount": 2554.77,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -579,7 +699,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67677",
+        "id": "contrib-1792307281203-67677",
         "date": "2025-04-23 00:00:00",
         "amount": 2520.15,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -594,7 +714,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67678",
+        "id": "contrib-1792307281203-67678",
         "date": "2025-02-18 00:00:00",
         "amount": 2609.55,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -609,7 +729,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67679",
+        "id": "contrib-1792307281203-67679",
         "date": "2025-05-13 00:00:00",
         "amount": 2676.55,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -624,7 +744,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67680",
+        "id": "contrib-1792307281203-67680",
         "date": "2025-10-07 00:00:00",
         "amount": 3068.39,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -639,7 +759,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67681",
+        "id": "contrib-1792307281203-67681",
         "date": "2025-11-12 00:00:00",
         "amount": 3084.24,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -654,7 +774,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67682",
+        "id": "contrib-1792307281203-67682",
         "date": "2025-02-04 00:00:00",
         "amount": 3122.6,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -669,7 +789,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67683",
+        "id": "contrib-1792307281203-67683",
         "date": "2025-09-16 00:00:00",
         "amount": 3507.46,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -684,7 +804,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67684",
+        "id": "contrib-1792307281203-67684",
         "date": "2025-07-22 00:00:00",
         "amount": 3660.57,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -699,7 +819,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67685",
+        "id": "contrib-1792307281203-67685",
         "date": "2025-06-17 00:00:00",
         "amount": 3885.56,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -714,7 +834,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67686",
+        "id": "contrib-1792307281203-67686",
         "date": "2025-12-16 00:00:00",
         "amount": 4306.16,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -729,7 +849,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67687",
+        "id": "contrib-1792307281203-67687",
         "date": "2025-01-31 00:00:00",
         "amount": 559.04,
         "contributor_name": "Iron Workers Local 147 IPAL Fund",
@@ -744,7 +864,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67688",
+        "id": "contrib-1792307281203-67688",
         "date": "2025-07-28 00:00:00",
         "amount": 1079.97,
         "contributor_name": "Iron Workers Local 147 IPAL Fund",
@@ -759,7 +879,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67689",
+        "id": "contrib-1792307281203-67689",
         "date": "2025-09-03 00:00:00",
         "amount": 1323.76,
         "contributor_name": "Iron Workers Local 147 IPAL Fund",
@@ -774,7 +894,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67690",
+        "id": "contrib-1792307281203-67690",
         "date": "2025-03-11 00:00:00",
         "amount": 2046.81,
         "contributor_name": "Iron Workers Local 147 IPAL Fund",
@@ -789,7 +909,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67691",
+        "id": "contrib-1792307281203-67691",
         "date": "2025-02-28 00:00:00",
         "amount": 2379.81,
         "contributor_name": "Iron Workers Local 147 IPAL Fund",
@@ -804,7 +924,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67692",
+        "id": "contrib-1792307281203-67692",
         "date": "2025-01-31 00:00:00",
         "amount": 4050.45,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -819,7 +939,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67693",
+        "id": "contrib-1792307281203-67693",
         "date": "2025-04-30 00:00:00",
         "amount": 4070.04,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -834,7 +954,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67694",
+        "id": "contrib-1792307281203-67694",
         "date": "2025-05-30 00:00:00",
         "amount": 4140.01,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -849,7 +969,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67695",
+        "id": "contrib-1792307281203-67695",
         "date": "2025-09-29 00:00:00",
         "amount": 4287.64,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -864,7 +984,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67696",
+        "id": "contrib-1792307281203-67696",
         "date": "2025-06-30 00:00:00",
         "amount": 4412.62,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -879,7 +999,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67697",
+        "id": "contrib-1792307281203-67697",
         "date": "2025-07-30 00:00:00",
         "amount": 4453.99,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -894,7 +1014,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67698",
+        "id": "contrib-1792307281203-67698",
         "date": "2025-03-31 00:00:00",
         "amount": 4618.6,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -909,7 +1029,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67699",
+        "id": "contrib-1792307281203-67699",
         "date": "2025-08-29 00:00:00",
         "amount": 5040.37,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -924,7 +1044,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67700",
+        "id": "contrib-1792307281203-67700",
         "date": "2025-12-31 00:00:00",
         "amount": 5479.37,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -939,7 +1059,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67701",
+        "id": "contrib-1792307281203-67701",
         "date": "2025-10-31 00:00:00",
         "amount": 5610.98,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -954,7 +1074,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67702",
+        "id": "contrib-1792307281203-67702",
         "date": "2025-11-26 00:00:00",
         "amount": 5940.08,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -969,7 +1089,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67703",
+        "id": "contrib-1792307281203-67703",
         "date": "2025-03-04 00:00:00",
         "amount": 604.27,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -984,7 +1104,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67704",
+        "id": "contrib-1792307281203-67704",
         "date": "2025-01-03 00:00:00",
         "amount": 604.39,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -999,7 +1119,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67705",
+        "id": "contrib-1792307281203-67705",
         "date": "2025-03-27 00:00:00",
         "amount": 831.12,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1014,7 +1134,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67706",
+        "id": "contrib-1792307281203-67706",
         "date": "2025-05-06 00:00:00",
         "amount": 849.41,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1029,7 +1149,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67707",
+        "id": "contrib-1792307281203-67707",
         "date": "2025-02-11 00:00:00",
         "amount": 879.84,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1044,7 +1164,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67708",
+        "id": "contrib-1792307281203-67708",
         "date": "2025-05-23 00:00:00",
         "amount": 968.98,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1059,7 +1179,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67709",
+        "id": "contrib-1792307281203-67709",
         "date": "2025-11-05 00:00:00",
         "amount": 1002.99,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1074,7 +1194,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67710",
+        "id": "contrib-1792307281203-67710",
         "date": "2025-08-06 00:00:00",
         "amount": 1006.98,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1089,7 +1209,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67711",
+        "id": "contrib-1792307281203-67711",
         "date": "2025-12-30 00:00:00",
         "amount": 1235.57,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1104,7 +1224,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67712",
+        "id": "contrib-1792307281203-67712",
         "date": "2025-04-08 00:00:00",
         "amount": 1329.01,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1119,7 +1239,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67713",
+        "id": "contrib-1792307281203-67713",
         "date": "2025-10-07 00:00:00",
         "amount": 1407.35,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1134,7 +1254,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769412-67714",
+        "id": "contrib-1792307281203-67714",
         "date": "2025-07-01 00:00:00",
         "amount": 1682.58,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1149,7 +1269,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11852",
+        "id": "contrib-1792307281954-33735",
         "date": "2026-01-28 00:00:00",
         "amount": 1100.1,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -1164,7 +1284,52 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11853",
+        "id": "contrib-1792307281954-33736",
+        "date": "2026-08-04 00:00:00",
+        "amount": 1271.14,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33737",
+        "date": "2026-05-19 00:00:00",
+        "amount": 1309.57,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33738",
+        "date": "2026-04-28 00:00:00",
+        "amount": 1409.59,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33739",
         "date": "2026-01-27 00:00:00",
         "amount": 1472.88,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -1179,7 +1344,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11854",
+        "id": "contrib-1792307281954-33740",
         "date": "2026-03-17 00:00:00",
         "amount": 1495.9,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -1194,7 +1359,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11855",
+        "id": "contrib-1792307281954-33741",
+        "date": "2026-06-23 00:00:00",
+        "amount": 1815.09,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33742",
         "date": "2026-02-24 00:00:00",
         "amount": 1895.27,
         "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
@@ -1209,7 +1389,52 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11856",
+        "id": "contrib-1792307281954-33743",
+        "date": "2026-07-10 00:00:00",
+        "amount": 2052.25,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33744",
+        "date": "2026-09-22 00:00:00",
+        "amount": 3002.12,
+        "contributor_name": "Iron Workers Local #103 Indiana Political Action Leaque",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47715",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33745",
+        "date": "2026-09-10 00:00:00",
+        "amount": 527.91,
+        "contributor_name": "Ironworkers Local 147 PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "FORT WAYNE",
+        "address_state": "IN",
+        "address_zip": "46818",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33746",
         "date": "2026-03-11 00:00:00",
         "amount": 1114.49,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -1224,7 +1449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11857",
+        "id": "contrib-1792307281954-33747",
         "date": "2026-02-19 00:00:00",
         "amount": 2814.54,
         "contributor_name": "Ironworkers Local 147 PAC",
@@ -1239,7 +1464,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11858",
+        "id": "contrib-1792307281954-33748",
         "date": "2026-03-10 00:00:00",
         "amount": 2561.59,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -1254,7 +1479,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11859",
+        "id": "contrib-1792307281954-33749",
         "date": "2026-01-27 00:00:00",
         "amount": 2845.56,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -1269,7 +1494,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11860",
+        "id": "contrib-1792307281954-33750",
         "date": "2026-02-17 00:00:00",
         "amount": 2919.14,
         "contributor_name": "Ironworkers Local 395 Political Action League",
@@ -1284,7 +1509,157 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11861",
+        "id": "contrib-1792307281954-33751",
+        "date": "2026-08-25 00:00:00",
+        "amount": 3123.55,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33752",
+        "date": "2026-04-21 00:00:00",
+        "amount": 3161.76,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33753",
+        "date": "2026-05-12 00:00:00",
+        "amount": 3223.74,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33754",
+        "date": "2026-07-14 00:00:00",
+        "amount": 3676.15,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33755",
+        "date": "2026-06-09 00:00:00",
+        "amount": 4514.96,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33756",
+        "date": "2026-09-15 00:00:00",
+        "amount": 6213.64,
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33757",
+        "date": "2026-06-26 00:00:00",
+        "amount": 743.46,
+        "contributor_name": "Iron Workers Local 147 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46808",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33758",
+        "date": "2026-05-04 00:00:00",
+        "amount": 787.6,
+        "contributor_name": "Iron Workers Local 147 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46808",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33759",
+        "date": "2026-04-14 00:00:00",
+        "amount": 939.94,
+        "contributor_name": "Iron Workers Local 147 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46808",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33760",
+        "date": "2026-08-13 00:00:00",
+        "amount": 1187.19,
+        "contributor_name": "Iron Workers Local 147 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46808",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33761",
         "date": "2026-01-30 00:00:00",
         "amount": 3672.97,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -1299,7 +1674,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11862",
+        "id": "contrib-1792307281954-33762",
         "date": "2026-03-31 00:00:00",
         "amount": 4666.11,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -1314,7 +1689,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11863",
+        "id": "contrib-1792307281954-33763",
+        "date": "2026-07-24 00:00:00",
+        "amount": 4992.28,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33764",
         "date": "2026-02-27 00:00:00",
         "amount": 5027,
         "contributor_name": "Iron Workers Local 22 IPAL Fund",
@@ -1329,7 +1719,82 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11864",
+        "id": "contrib-1792307281954-33765",
+        "date": "2026-06-30 00:00:00",
+        "amount": 5397.62,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33766",
+        "date": "2026-05-29 00:00:00",
+        "amount": 5626.98,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33767",
+        "date": "2026-04-30 00:00:00",
+        "amount": 5923.66,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33768",
+        "date": "2026-08-21 00:00:00",
+        "amount": 5974.42,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33769",
+        "date": "2026-09-30 00:00:00",
+        "amount": 6655.95,
+        "contributor_name": "Iron Workers Local 22 IPAL Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46241",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33770",
         "date": "2026-01-10 00:00:00",
         "amount": 650.68,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1344,7 +1809,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11865",
+        "id": "contrib-1792307281954-33771",
         "date": "2026-02-04 00:00:00",
         "amount": 945,
         "contributor_name": "Iron Workers Local 292 IPAL Fund",
@@ -1359,7 +1824,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11866",
+        "id": "contrib-1792307281954-33772",
+        "date": "2026-08-05 00:00:00",
+        "amount": 581.57,
+        "contributor_name": "IronWorkers Local 292 PAC Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46628",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33773",
         "date": "2026-03-31 00:00:00",
         "amount": 737.18,
         "contributor_name": "IronWorkers Local 292 PAC Fund",
@@ -1374,7 +1854,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769689-11867",
+        "id": "contrib-1792307281954-33774",
+        "date": "2026-05-28 00:00:00",
+        "amount": 783.17,
+        "contributor_name": "IronWorkers Local 292 PAC Fund",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46628",
+        "recipient_committee": "Indiana State Ironworkers Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281954-33775",
         "date": "2026-03-02 00:00:00",
         "amount": 892.53,
         "contributor_name": "IronWorkers Local 292 PAC Fund",

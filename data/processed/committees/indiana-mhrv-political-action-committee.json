@@ -2,18 +2,22 @@
   "id": "indiana-mhrv-political-action-committee",
   "name": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
+    "total_given": "600.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "600.00"
     }
   },
   "by_month": {
     "2025-09": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-06": {
       "count": 1,
       "total": "300.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "ryan-david-lauer",
       "name": "Ryan David Lauer",
-      "total": "300.00",
-      "count": 1
+      "total": "600.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769421-79381",
+      "id": "contrib-1792307281214-79381",
       "date": "2025-09-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan David Lauer",
+      "contributor_name": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Friends of Ryan Lauer",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44612",
+      "date": "2026-06-15 00:00:00",
       "amount": 300,
       "candidate_name": "Ryan David Lauer",
       "contributor_name": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
@@ -45,8 +65,8 @@
     }
   ],
   "receipts": {
-    "total_raised": "39133.44",
-    "total_contributions": 13,
+    "total_raised": "36273.44",
+    "total_contributions": 8,
     "unique_donors": 6,
     "by_contributor_type": {
       "unitemized": {
@@ -54,8 +74,8 @@
         "total": "17753.44"
       },
       "corporate": {
-        "count": 11,
-        "total": "21380.00"
+        "count": 6,
+        "total": "18520.00"
       }
     },
     "top_donors": [
@@ -66,34 +86,34 @@
         "count": 2
       },
       {
-        "name": "Champion Homes",
-        "type": "corporate",
-        "total": "5930.00",
-        "count": 2
-      },
-      {
         "name": "Adventure Homes",
         "type": "corporate",
-        "total": "5820.00",
-        "count": 2
+        "total": "5000.00",
+        "count": 1
+      },
+      {
+        "name": "Champion Homes",
+        "type": "corporate",
+        "total": "5000.00",
+        "count": 1
       },
       {
         "name": "Clayton Homes Wakarusa",
         "type": "corporate",
-        "total": "5600.00",
-        "count": 2
+        "total": "5000.00",
+        "count": 1
       },
       {
         "name": "Fairmont Homes",
         "type": "corporate",
-        "total": "2960.00",
-        "count": 2
+        "total": "2660.00",
+        "count": 1
       },
       {
         "name": "Commodore Homes",
         "type": "corporate",
-        "total": "960.00",
-        "count": 2
+        "total": "750.00",
+        "count": 1
       },
       {
         "name": "Skyline Corp.",
@@ -104,7 +124,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769306-649",
+        "id": "contrib-1792307281096-649",
         "date": "2025-12-15 00:00:00",
         "amount": 15563.44,
         "contributor_name": "",
@@ -119,7 +139,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-650",
+        "id": "contrib-1792307281096-650",
         "date": "2025-12-15 00:00:00",
         "amount": 5000,
         "contributor_name": "Adventure Homes",
@@ -134,7 +154,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-651",
+        "id": "contrib-1792307281096-651",
         "date": "2025-12-15 00:00:00",
         "amount": 5000,
         "contributor_name": "Champion Homes",
@@ -149,7 +169,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-652",
+        "id": "contrib-1792307281096-652",
         "date": "2025-12-15 00:00:00",
         "amount": 5000,
         "contributor_name": "Clayton Homes Wakarusa",
@@ -164,7 +184,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-653",
+        "id": "contrib-1792307281096-653",
         "date": "2025-12-15 00:00:00",
         "amount": 750,
         "contributor_name": "Commodore Homes",
@@ -179,7 +199,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-654",
+        "id": "contrib-1792307281096-654",
         "date": "2025-12-15 00:00:00",
         "amount": 2660,
         "contributor_name": "Fairmont Homes",
@@ -194,7 +214,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769306-655",
+        "id": "contrib-1792307281096-655",
         "date": "2025-12-15 00:00:00",
         "amount": 110,
         "contributor_name": "Skyline Corp.",
@@ -209,7 +229,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769674-282",
+        "id": "contrib-1792307281897-833",
         "date": "2026-03-31 00:00:00",
         "amount": 2190,
         "contributor_name": "",
@@ -220,81 +240,6 @@
         "address_city": null,
         "address_state": null,
         "address_zip": null,
-        "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
-        "source": "indiana"
-      },
-      {
-        "id": "contrib-1791707769674-283",
-        "date": "2026-03-15 00:00:00",
-        "amount": 820,
-        "contributor_name": "Adventure Homes",
-        "contributor_type": "corporate",
-        "contribution_size": "medium",
-        "occupation": null,
-        "occupation_category": "unknown",
-        "address_city": "Garrett",
-        "address_state": "IN",
-        "address_zip": "46738",
-        "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
-        "source": "indiana"
-      },
-      {
-        "id": "contrib-1791707769674-284",
-        "date": "2026-03-15 00:00:00",
-        "amount": 930,
-        "contributor_name": "Champion Homes",
-        "contributor_type": "corporate",
-        "contribution_size": "medium",
-        "occupation": null,
-        "occupation_category": "unknown",
-        "address_city": "Topeka",
-        "address_state": "IN",
-        "address_zip": "46571",
-        "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
-        "source": "indiana"
-      },
-      {
-        "id": "contrib-1791707769674-285",
-        "date": "2026-03-15 00:00:00",
-        "amount": 600,
-        "contributor_name": "Clayton Homes Wakarusa",
-        "contributor_type": "corporate",
-        "contribution_size": "medium",
-        "occupation": null,
-        "occupation_category": "unknown",
-        "address_city": "Wakarusa",
-        "address_state": "IN",
-        "address_zip": "46573",
-        "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
-        "source": "indiana"
-      },
-      {
-        "id": "contrib-1791707769674-286",
-        "date": "2026-03-21 00:00:00",
-        "amount": 210,
-        "contributor_name": "Commodore Homes",
-        "contributor_type": "corporate",
-        "contribution_size": "medium",
-        "occupation": null,
-        "occupation_category": "unknown",
-        "address_city": "Goshen",
-        "address_state": "IN",
-        "address_zip": "46528",
-        "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
-        "source": "indiana"
-      },
-      {
-        "id": "contrib-1791707769674-287",
-        "date": "2026-03-25 00:00:00",
-        "amount": 300,
-        "contributor_name": "Fairmont Homes",
-        "contributor_type": "corporate",
-        "contribution_size": "medium",
-        "occupation": null,
-        "occupation_category": "unknown",
-        "address_city": "Nappanee",
-        "address_state": "IN",
-        "address_zip": "46550",
         "recipient_committee": "INDIANA MH/RV POLITICAL ACTION COMMITTEE",
         "source": "indiana"
       }

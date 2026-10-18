@@ -1,74 +1,38 @@
 {
   "id": "lawyers-political-action-committee-of-indiana-lawpac-of-indiana",
-  "name": "Lawyers Political Action Committee Of Indiana LAWPAC Of Indiana",
+  "name": "Lawyers Political Action Committee of Indiana (LawPAC of Indiana)",
   "totals": {
-    "total_given": "7500.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "5000.00",
+    "total_contributions": 1,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "7500.00"
+      "count": 1,
+      "total": "5000.00"
     }
   },
   "by_month": {
-    "2025-11": {
+    "2026-08": {
       "count": 1,
-      "total": "2000.00"
-    },
-    "2025-10": {
-      "count": 1,
-      "total": "2500.00"
-    },
-    "2025-12": {
-      "count": 1,
-      "total": "3000.00"
+      "total": "5000.00"
     }
   },
   "top_recipients": [
     {
-      "id": "aaron-michael-freeman",
-      "name": "Aaron Michael Freeman",
-      "total": "3000.00",
-      "count": 1
-    },
-    {
-      "id": "lonnie-m-randolph",
-      "name": "Lonnie M. Randolph",
-      "total": "2500.00",
-      "count": 1
-    },
-    {
-      "id": "ryan-michael-dvorak",
-      "name": "Ryan Michael Dvorak",
-      "total": "2000.00",
+      "id": "mitchell-alan-gore",
+      "name": "Mitchell Alan Gore",
+      "total": "5000.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769358-31832",
-      "date": "2025-11-26 00:00:00",
-      "amount": 2000,
-      "candidate_name": "Ryan Michael Dvorak",
-      "contributor_name": "Lawyers Political Action Committee Of Indiana LAWPAC Of Indiana",
-      "contributor_type": "committee",
-      "contribution_size": "large",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Indianaoplis",
-      "address_state": "IN",
-      "address_zip": "46204",
-      "recipient_committee": "Ryan Dvorak for State Representative",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1791707769405-65003",
-      "date": "2025-10-20 00:00:00",
-      "amount": 2500,
-      "candidate_name": "Lonnie M. Randolph",
-      "contributor_name": "Lawyers Political Action Committee of Indiana Lawpac of Indiana",
+      "id": "contrib-1792307281974-49849",
+      "date": "2026-08-25 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Mitchell Alan Gore",
+      "contributor_name": "Lawyers Political Action Committee of Indiana (LawPAC of Indiana)",
       "contributor_type": "committee",
       "contribution_size": "large",
       "occupation": null,
@@ -76,23 +40,7 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
-      "recipient_committee": "Committee to Elect Attorney Lonnie M. Randolph",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1791707769423-80681",
-      "date": "2025-12-03 00:00:00",
-      "amount": 3000,
-      "candidate_name": "Aaron Michael Freeman",
-      "contributor_name": "Lawyers Political Action Committee of Indiana LAWPAC of Indiana",
-      "contributor_type": "committee",
-      "contribution_size": "large",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Indianapolis",
-      "address_state": "IN",
-      "address_zip": "46204",
-      "recipient_committee": "Freeman for Indiana",
+      "recipient_committee": "Committee to Elect Mitch Gore",
       "source": "indiana"
     }
   ],

@@ -2,14 +2,14 @@
   "id": "longpac-llc",
   "name": "LONGPAC LLC",
   "totals": {
-    "total_given": "15000.00",
-    "total_contributions": 3,
-    "candidates_supported": 1
+    "total_given": "22000.00",
+    "total_contributions": 6,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "15000.00"
+      "count": 6,
+      "total": "22000.00"
     }
   },
   "by_month": {
@@ -21,9 +21,21 @@
       "count": 1,
       "total": "5000.00"
     },
+    "2026-10": {
+      "count": 1,
+      "total": "3000.00"
+    },
     "2026-03": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -32,11 +44,17 @@
       "name": "Travis Linn Holdman",
       "total": "5000.00",
       "count": 1
+    },
+    {
+      "id": "elizabeth-marie-brown",
+      "name": "Elizabeth  Marie Brown",
+      "total": "4000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769323-12344",
+      "id": "contrib-1792307281112-12344",
       "date": "2025-09-05 00:00:00",
       "amount": 5000,
       "contributor_name": "LONGPAC LLC",
@@ -51,7 +69,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769675-1053",
+      "id": "contrib-1792307281903-3500",
       "date": "2026-02-02 00:00:00",
       "amount": 5000,
       "contributor_name": "Longpac LLC",
@@ -66,7 +84,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11326",
+      "id": "contrib-1792307281913-9570",
+      "date": "2026-10-09 00:00:00",
+      "amount": 3000,
+      "contributor_name": "LONGPAC LLC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281947-32099",
       "date": "2026-03-02 00:00:00",
       "amount": 5000,
       "candidate_name": "Travis Linn Holdman",
@@ -79,6 +112,38 @@
       "address_state": "IN",
       "address_zip": "46804",
       "recipient_committee": "Hoosiers for Holdman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44314",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Elizabeth  Marie Brown",
+      "contributor_name": "LONGPAC LLC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Liz Brown",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44315",
+      "date": "2026-04-21 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elizabeth  Marie Brown",
+      "contributor_name": "LONGPAC LLC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Liz Brown",
       "source": "indiana"
     }
   ],

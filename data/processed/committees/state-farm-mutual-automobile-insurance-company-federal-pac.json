@@ -2,14 +2,14 @@
   "id": "state-farm-mutual-automobile-insurance-company-federal-pac",
   "name": "State Farm Mutual Automobile Insurance  Company Federal PAC",
   "totals": {
-    "total_given": "4000.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "5000.00",
+    "total_contributions": 4,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "4000.00"
+      "count": 4,
+      "total": "5000.00"
     }
   },
   "by_month": {
@@ -24,6 +24,10 @@
     "2026-04": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -44,11 +48,17 @@
       "name": "Travis Linn Holdman",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769411-67380",
+      "id": "contrib-1792307281203-67380",
       "date": "2025-06-09 00:00:00",
       "amount": 1500,
       "candidate_name": "Todd Michael Huston",
@@ -64,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11366",
+      "id": "contrib-1792307281947-32139",
       "date": "2026-03-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Travis Linn Holdman",
@@ -80,7 +90,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11934",
+      "id": "contrib-1792307281955-33923",
       "date": "2026-04-07 00:00:00",
       "amount": 1500,
       "candidate_name": "Justin Moed",
@@ -93,6 +103,22 @@
       "address_state": "IL",
       "address_zip": "61710",
       "recipient_committee": "Neighbors for Justin Moed",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59105",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "State Farm Mutual Automobile Insurance  Company Federal PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BLOOMINGTON",
+      "address_state": "IL",
+      "address_zip": "61710",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
       "source": "indiana"
     }
   ],

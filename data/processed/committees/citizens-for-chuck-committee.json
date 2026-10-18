@@ -2,9 +2,9 @@
   "id": "citizens-for-chuck-committee",
   "name": "Citizens for Chuck Committee",
   "totals": {
-    "total_given": "2720.00",
-    "total_contributions": 4,
-    "candidates_supported": 1
+    "total_given": "3420.00",
+    "total_contributions": 7,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
@@ -12,8 +12,8 @@
       "total": "2500.00"
     },
     "medium": {
-      "count": 2,
-      "total": "220.00"
+      "count": 5,
+      "total": "920.00"
     }
   },
   "by_month": {
@@ -32,19 +32,37 @@
     "2026-02": {
       "count": 1,
       "total": "120.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "200.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "top_recipients": [
     {
       "id": "rodney-pol",
       "name": "Rodney Pol",
-      "total": "100.00",
+      "total": "500.00",
+      "count": 3
+    },
+    {
+      "id": "randall-j-novak",
+      "name": "Randall  J Novak",
+      "total": "300.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7194",
+      "id": "contrib-1792307281106-7194",
       "date": "2025-11-05 00:00:00",
       "amount": 1500,
       "contributor_name": "Citizens for Chuck Committee",
@@ -59,7 +77,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769325-14452",
+      "id": "contrib-1792307281114-14452",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "contributor_name": "Citizens for Chuck Committee",
@@ -74,7 +92,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91279",
+      "id": "contrib-1792307281233-91279",
       "date": "2025-07-03 00:00:00",
       "amount": 100,
       "candidate_name": "Rodney Pol",
@@ -90,7 +108,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769675-1487",
+      "id": "contrib-1792307281907-5624",
       "date": "2026-02-27 00:00:00",
       "amount": 120,
       "contributor_name": "Citizens for Chuck Committee",
@@ -103,24 +121,72 @@
       "address_zip": "46368",
       "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59064",
+      "date": "2026-05-26 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Citizens for Chuck Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59065",
+      "date": "2026-10-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Citizens for Chuck Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282025-84432",
+      "date": "2026-08-12 00:00:00",
+      "amount": 300,
+      "candidate_name": "Randall  J Novak",
+      "contributor_name": "CITIZENS FOR CHUCK COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Randy Novak",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "18792.95",
-    "total_contributions": 22,
-    "unique_donors": 20,
+    "total_raised": "61840.29",
+    "total_contributions": 63,
+    "unique_donors": 43,
     "by_contributor_type": {
       "corporate": {
-        "count": 1,
-        "total": "500.00"
+        "count": 2,
+        "total": "1000.00"
       },
       "individual": {
-        "count": 9,
-        "total": "8788.15"
+        "count": 36,
+        "total": "24735.49"
       },
       "committee": {
-        "count": 11,
-        "total": "9500.00"
+        "count": 24,
+        "total": "36100.00"
       },
       "unitemized": {
         "count": 1,
@@ -131,67 +197,67 @@
       {
         "name": "Ironworkers Local 395 Political Action League",
         "type": "individual",
-        "total": "5000.00",
+        "total": "12500.00",
+        "count": 3
+      },
+      {
+        "name": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "type": "committee",
+        "total": "10000.00",
         "count": 1
       },
       {
         "name": "Indiana Political Action Committee for Education",
         "type": "committee",
+        "total": "7000.00",
+        "count": 3
+      },
+      {
+        "name": "Laborers' Local 81 Political Fund",
+        "type": "committee",
+        "total": "3500.00",
+        "count": 2
+      },
+      {
+        "name": "IBEW PAC",
+        "type": "committee",
         "total": "3000.00",
         "count": 2
       },
       {
-        "name": "Ice Miller",
+        "name": "Indiana Laborers District Council",
         "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Realtors Political Action Committee",
-        "type": "committee",
-        "total": "1000.00",
+        "total": "2500.00",
         "count": 1
       },
       {
         "name": "Indiana State Building Trades Political Action Committee",
         "type": "committee",
-        "total": "1000.00",
-        "count": 1
+        "total": "2000.00",
+        "count": 2
       },
       {
-        "name": "Indiana Firefighter PAC",
+        "name": "Lawyers PAC of Indiana",
         "type": "committee",
-        "total": "1000.00",
+        "total": "2000.00",
         "count": 1
       },
       {
-        "name": "Laborers Local 81",
+        "name": "ACT Blue",
         "type": "individual",
-        "total": "1000.00",
-        "count": 1
+        "total": "1547.34",
+        "count": 9
       },
       {
-        "name": "Local 6787 Political Ed & Legislative Fund",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Laborers' Local 81 Political Fund",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "delivering the differnce or indiana",
-        "type": "corporate",
-        "total": "500.00",
-        "count": 1
+        "name": "Ice Miller",
+        "type": "individual",
+        "total": "1500.00",
+        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769403-64529",
+        "id": "contrib-1792307281196-64529",
         "date": "2025-12-23 00:00:00",
         "amount": 500,
         "candidate_name": "Charles Alva Moseley",
@@ -207,7 +273,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64530",
+        "id": "contrib-1792307281196-64530",
         "date": "2025-10-31 00:00:00",
         "amount": 150,
         "candidate_name": "Charles Alva Moseley",
@@ -223,7 +289,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64531",
+        "id": "contrib-1792307281196-64531",
         "date": "2025-10-31 00:00:00",
         "amount": 300,
         "candidate_name": "Charles Alva Moseley",
@@ -239,7 +305,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64532",
+        "id": "contrib-1792307281196-64532",
         "date": "2025-10-31 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -255,7 +321,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64533",
+        "id": "contrib-1792307281196-64533",
         "date": "2025-10-31 00:00:00",
         "amount": 300,
         "candidate_name": "Charles Alva Moseley",
@@ -271,7 +337,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64534",
+        "id": "contrib-1792307281196-64534",
         "date": "2025-11-13 00:00:00",
         "amount": 288.15,
         "candidate_name": "Charles Alva Moseley",
@@ -287,7 +353,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64535",
+        "id": "contrib-1792307281196-64535",
         "date": "2025-07-15 00:00:00",
         "amount": 200,
         "candidate_name": "Charles Alva Moseley",
@@ -303,7 +369,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64536",
+        "id": "contrib-1792307281196-64536",
         "date": "2025-10-31 00:00:00",
         "amount": 500,
         "candidate_name": "Charles Alva Moseley",
@@ -319,7 +385,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64537",
+        "id": "contrib-1792307281196-64537",
         "date": "2025-10-31 00:00:00",
         "amount": 500,
         "candidate_name": "Charles Alva Moseley",
@@ -335,7 +401,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64538",
+        "id": "contrib-1792307281196-64538",
         "date": "2025-07-15 00:00:00",
         "amount": 2500,
         "candidate_name": "Charles Alva Moseley",
@@ -351,7 +417,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64539",
+        "id": "contrib-1792307281196-64539",
         "date": "2025-10-31 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -367,7 +433,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64540",
+        "id": "contrib-1792307281196-64540",
         "date": "2025-12-09 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -383,7 +449,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64541",
+        "id": "contrib-1792307281196-64541",
         "date": "2025-11-13 00:00:00",
         "amount": 5000,
         "candidate_name": "Charles Alva Moseley",
@@ -399,7 +465,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64542",
+        "id": "contrib-1792307281196-64542",
         "date": "2025-12-09 00:00:00",
         "amount": 300,
         "candidate_name": "Charles Alva Moseley",
@@ -415,7 +481,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64543",
+        "id": "contrib-1792307281196-64543",
         "date": "2025-11-13 00:00:00",
         "amount": 500,
         "candidate_name": "Charles Alva Moseley",
@@ -431,7 +497,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64544",
+        "id": "contrib-1792307281196-64544",
         "date": "2025-10-31 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -447,7 +513,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64545",
+        "id": "contrib-1792307281196-64545",
         "date": "2025-07-15 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -463,7 +529,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64546",
+        "id": "contrib-1792307281196-64546",
         "date": "2025-10-31 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -479,7 +545,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769403-64547",
+        "id": "contrib-1792307281196-64547",
         "date": "2025-12-23 00:00:00",
         "amount": 250,
         "candidate_name": "Charles Alva Moseley",
@@ -495,7 +561,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11084",
+        "id": "contrib-1792307281946-31568",
         "date": "2026-03-10 00:00:00",
         "amount": 4.8,
         "candidate_name": "Charles Alva Moseley",
@@ -511,7 +577,455 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11085",
+        "id": "contrib-1792307281946-31569",
+        "date": "2026-09-25 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Circle R Electric",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31570",
+        "date": "2026-10-09 00:00:00",
+        "amount": 25,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Charles Coppess",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31571",
+        "date": "2026-09-16 00:00:00",
+        "amount": 200,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Clinton  Whitley",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31572",
+        "date": "2026-10-09 00:00:00",
+        "amount": 250,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Dorothy Kurtz",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ogden dunes",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31573",
+        "date": "2026-09-25 00:00:00",
+        "amount": 125,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "John Rivich",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Highland",
+        "address_state": "IN",
+        "address_zip": "46322",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31574",
+        "date": "2026-08-03 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Louis Belch",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31575",
+        "date": "2026-09-16 00:00:00",
+        "amount": 50,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Mark  Haza",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31576",
+        "date": "2026-08-03 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Nicole Pleasant",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31577",
+        "date": "2026-09-16 00:00:00",
+        "amount": 250,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "USW 12775",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Porter",
+        "address_state": "IN",
+        "address_zip": "46304",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31578",
+        "date": "2026-10-09 00:00:00",
+        "amount": 9.6,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31579",
+        "date": "2026-08-03 00:00:00",
+        "amount": 24.01,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31580",
+        "date": "2026-08-03 00:00:00",
+        "amount": 24.97,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31581",
+        "date": "2026-08-28 00:00:00",
+        "amount": 48.02,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31582",
+        "date": "2026-08-19 00:00:00",
+        "amount": 96.05,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31583",
+        "date": "2026-09-18 00:00:00",
+        "amount": 144.07,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31584",
+        "date": "2026-09-18 00:00:00",
+        "amount": 240.12,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31585",
+        "date": "2026-06-26 00:00:00",
+        "amount": 480.25,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31586",
+        "date": "2026-08-19 00:00:00",
+        "amount": 480.25,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "ACT Blue",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31587",
+        "date": "2026-08-03 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "bose",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31588",
+        "date": "2026-08-28 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Construction Advancement Foundation",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Portage",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31589",
+        "date": "2026-08-03 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Ice Miller",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46282",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31590",
+        "date": "2026-08-24 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Krieg DeVault",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31591",
+        "date": "2026-07-16 00:00:00",
+        "amount": 700,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "AFT Indiana PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31592",
+        "date": "2026-06-15 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana American Water Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "GREENWOOD",
+        "address_state": "IN",
+        "address_zip": "46143",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31593",
+        "date": "2026-08-28 00:00:00",
+        "amount": 4000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana Political Action Committee for Education",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31594",
+        "date": "2026-08-03 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana State Building Trades Political Action Committee",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31595",
+        "date": "2026-08-19 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31596",
+        "date": "2026-08-28 00:00:00",
+        "amount": 5000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Ironworkers Local 395 Political Action League",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "PORTAGE",
+        "address_state": "IN",
+        "address_zip": "46368",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31597",
         "date": "2026-03-10 00:00:00",
         "amount": 1000,
         "candidate_name": "Charles Alva Moseley",
@@ -527,7 +1041,183 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11086",
+        "id": "contrib-1792307281946-31598",
+        "date": "2026-08-03 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Laborers' Local 81 Political Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "VALPARAISO",
+        "address_state": "IN",
+        "address_zip": "46383",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31599",
+        "date": "2026-08-24 00:00:00",
+        "amount": 100,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "LOCAL 215 DRIVE POLITICAL FUND",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "EVANSVILLE",
+        "address_state": "IN",
+        "address_zip": "47706",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31600",
+        "date": "2026-08-24 00:00:00",
+        "amount": 10000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "LOCAL 374 POLITICAL ACTION COMMITTEE",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "HOBART",
+        "address_state": "IN",
+        "address_zip": "46342",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31601",
+        "date": "2026-08-24 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "SHEET METAL WORKERS LOCAL 20 VOL. PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46220",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31602",
+        "date": "2026-09-13 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "IBEW PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington D.C.",
+        "address_state": "IN",
+        "address_zip": "20001",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31603",
+        "date": "2026-08-19 00:00:00",
+        "amount": 2000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "IBEW PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington D.C.",
+        "address_state": "IN",
+        "address_zip": "20001",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31604",
+        "date": "2026-08-03 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana Firefighters PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46885-5735",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31605",
+        "date": "2026-08-03 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana Laborers District Council",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Terre Haute",
+        "address_state": "IN",
+        "address_zip": "47807",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31606",
+        "date": "2026-10-09 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Indiana Realtors PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31607",
+        "date": "2026-08-03 00:00:00",
+        "amount": 2000,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Lawyers PAC of Indiana",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31608",
+        "date": "2026-10-09 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Liuna State IN District Council",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Terre Haute",
+        "address_state": "IN",
+        "address_zip": "47807",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31609",
         "date": "2026-03-10 00:00:00",
         "amount": 500,
         "candidate_name": "Charles Alva Moseley",
@@ -539,6 +1229,38 @@
         "address_city": "Chesterton",
         "address_state": "IN",
         "address_zip": "46304-9429",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31610",
+        "date": "2026-08-24 00:00:00",
+        "amount": 300,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "Northern Indiana Area Labor Federation",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Merrillville",
+        "address_state": "IN",
+        "address_zip": "46410",
+        "recipient_committee": "Citizens for Chuck Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31611",
+        "date": "2026-08-19 00:00:00",
+        "amount": 500,
+        "candidate_name": "Charles Alva Moseley",
+        "contributor_name": "USW Local #104",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Newburgh",
+        "address_state": "IN",
+        "address_zip": "47629",
         "recipient_committee": "Citizens for Chuck Committee",
         "source": "indiana"
       }

@@ -6,25 +6,25 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "582.88",
-    "total_contributions": 9,
-    "total_itemized": 9,
+    "total_raised": "1011.63",
+    "total_contributions": 18,
+    "total_itemized": 18,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 9,
-      "total": "582.88"
+      "count": 18,
+      "total": "1011.63"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "500.00"
+      "count": 7,
+      "total": "800.00"
     },
     "small": {
-      "count": 5,
-      "total": "82.88"
+      "count": 11,
+      "total": "211.63"
     }
   },
   "by_month": {
@@ -36,6 +36,14 @@
       "count": 3,
       "total": "205.55"
     },
+    "2026-05": {
+      "count": 8,
+      "total": "427.75"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "200.00"
@@ -43,7 +51,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769756-34957",
+      "id": "contrib-1792307282050-94932",
       "date": "2026-03-07 00:00:00",
       "amount": 100,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -59,7 +67,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34958",
+      "id": "contrib-1792307282050-94933",
       "date": "2026-04-08 00:00:00",
       "amount": 5.55,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -75,7 +83,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34959",
+      "id": "contrib-1792307282050-94934",
       "date": "2026-03-11 00:00:00",
       "amount": 1.22,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -91,7 +99,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34960",
+      "id": "contrib-1792307282050-94935",
+      "date": "2026-05-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Christopher St John",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Ferndale",
+      "address_state": "MI",
+      "address_zip": "48220",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94936",
       "date": "2026-03-07 00:00:00",
       "amount": 25,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -107,7 +131,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34961",
+      "id": "contrib-1792307282050-94937",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Dawn Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94938",
+      "date": "2026-05-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Janel Hurt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Danville",
+      "address_state": "IN",
+      "address_zip": "46122",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94939",
       "date": "2026-02-10 00:00:00",
       "amount": 200,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -123,7 +179,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34962",
+      "id": "contrib-1792307282050-94940",
+      "date": "2026-05-05 00:00:00",
+      "amount": 1.06,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Jessica Escalante",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "San Pedro",
+      "address_state": "CA",
+      "address_zip": "90731",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94941",
+      "date": "2026-05-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "John Stiles",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kaneohe",
+      "address_state": "HI",
+      "address_zip": "96744",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94942",
       "date": "2026-03-07 00:00:00",
       "amount": 50,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -139,7 +227,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34963",
+      "id": "contrib-1792307282050-94943",
+      "date": "2026-05-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Logan Hurt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94944",
       "date": "2026-04-02 00:00:00",
       "amount": 100,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -155,7 +259,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34964",
+      "id": "contrib-1792307282050-94945",
+      "date": "2026-05-22 00:00:00",
+      "amount": 1.69,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Paul King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Sunnyvale",
+      "address_state": "CA",
+      "address_zip": "94086",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94946",
+      "date": "2026-05-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Rhonda Putt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94947",
       "date": "2026-03-30 00:00:00",
       "amount": 1.11,
       "candidate_name": "Jarren Edward Putt Hurt",
@@ -171,7 +307,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34965",
+      "id": "contrib-1792307282050-94948",
+      "date": "2026-05-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jarren Edward Putt Hurt",
+      "contributor_name": "Steven Dunigan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Seattle",
+      "address_state": "WA",
+      "address_zip": "98125",
+      "recipient_committee": "Friends of Jarren Hurt",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94949",
       "date": "2026-04-07 00:00:00",
       "amount": 100,
       "candidate_name": "Jarren Edward Putt Hurt",
