@@ -2,18 +2,22 @@
   "id": "builders-association-of-greater-lafayette-pac",
   "name": "Builder's Association of Greater Lafayette PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2026-03": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-10": {
       "count": 1,
       "total": "1000.00"
     }
@@ -24,11 +28,17 @@
       "name": "Linda Lee Rogers",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "tracy-allen-brown",
+      "name": "Tracy Allen Brown",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769698-16905",
+      "id": "contrib-1792307281972-47947",
       "date": "2026-03-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Linda Lee Rogers",
@@ -42,32 +52,72 @@
       "address_zip": "47902",
       "recipient_committee": "Linda Rogers for State Senate",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95475",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Builder's Association of Greater Lafayette PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LAFAYETTE",
+      "address_state": "IN",
+      "address_zip": "47902",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "16330.00",
-    "total_contributions": 24,
-    "unique_donors": 19,
+    "total_raised": "29845.00",
+    "total_contributions": 35,
+    "unique_donors": 22,
     "by_contributor_type": {
       "unitemized": {
-        "count": 4,
-        "total": "2270.00"
+        "count": 5,
+        "total": "3045.00"
       },
       "individual": {
-        "count": 18,
-        "total": "13560.00"
+        "count": 26,
+        "total": "24300.00"
       },
       "corporate": {
-        "count": 2,
-        "total": "500.00"
+        "count": 4,
+        "total": "2500.00"
       }
     },
     "top_donors": [
       {
+        "name": "Tempest Homes",
+        "type": "individual",
+        "total": "4500.00",
+        "count": 2
+      },
+      {
+        "name": "Kimbarlin",
+        "type": "individual",
+        "total": "3500.00",
+        "count": 2
+      },
+      {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "2270.00",
-        "count": 4
+        "total": "3045.00",
+        "count": 5
+      },
+      {
+        "name": "HENRY POOR LUMBER",
+        "type": "individual",
+        "total": "2000.00",
+        "count": 2
+      },
+      {
+        "name": "WEBER CONCRETE",
+        "type": "individual",
+        "total": "2000.00",
+        "count": 2
       },
       {
         "name": "Ryan  Kennedy",
@@ -76,49 +126,25 @@
         "count": 1
       },
       {
-        "name": "BRIAN KERKHOFF",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "CUMBERLINE SELF STORAGE",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "DILDEN WELL DRILLING",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "FOLEY FOUNDATIONS",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "HENRY POOR LUMBER",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
-        "name": "Kimbarlin",
-        "type": "individual",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
         "name": "MAJESTIC HOMES",
         "type": "individual",
-        "total": "1000.00",
-        "count": 1
+        "total": "1500.00",
+        "count": 2
       },
       {
         "name": "MILAKIS HOMES",
+        "type": "individual",
+        "total": "1500.00",
+        "count": 2
+      },
+      {
+        "name": "KENNEDY HOMES",
+        "type": "individual",
+        "total": "1250.00",
+        "count": 2
+      },
+      {
+        "name": "BRIAN KERKHOFF",
         "type": "individual",
         "total": "1000.00",
         "count": 1
@@ -126,7 +152,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769358-31687",
+        "id": "contrib-1792307281151-31687",
         "date": "2025-04-09 00:00:00",
         "amount": 220,
         "contributor_name": "",
@@ -141,7 +167,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31688",
+        "id": "contrib-1792307281151-31688",
         "date": "2025-04-09 00:00:00",
         "amount": 500,
         "contributor_name": "",
@@ -156,7 +182,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31689",
+        "id": "contrib-1792307281151-31689",
         "date": "2025-09-25 00:00:00",
         "amount": 1300,
         "contributor_name": "",
@@ -171,7 +197,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31690",
+        "id": "contrib-1792307281151-31690",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "BRIAN KERKHOFF",
@@ -186,7 +212,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31691",
+        "id": "contrib-1792307281151-31691",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "DAVID KOVICH",
@@ -201,7 +227,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31692",
+        "id": "contrib-1792307281151-31692",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "Mary C Ellis",
@@ -216,7 +242,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31693",
+        "id": "contrib-1792307281151-31693",
         "date": "2025-07-15 00:00:00",
         "amount": 1500,
         "contributor_name": "Ryan  Kennedy",
@@ -231,7 +257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31694",
+        "id": "contrib-1792307281151-31694",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "Travis Duell",
@@ -246,7 +272,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31695",
+        "id": "contrib-1792307281151-31695",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "BROOKHAVEN HOMES LLC",
@@ -261,7 +287,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31696",
+        "id": "contrib-1792307281151-31696",
         "date": "2025-08-30 00:00:00",
         "amount": 500,
         "contributor_name": "CROWN LINE HOMES",
@@ -276,7 +302,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31697",
+        "id": "contrib-1792307281151-31697",
         "date": "2025-09-06 00:00:00",
         "amount": 1000,
         "contributor_name": "CUMBERLINE SELF STORAGE",
@@ -291,7 +317,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31698",
+        "id": "contrib-1792307281151-31698",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "DILDEN WELL DRILLING",
@@ -306,7 +332,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31699",
+        "id": "contrib-1792307281151-31699",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "FOLEY FOUNDATIONS",
@@ -321,7 +347,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31700",
+        "id": "contrib-1792307281151-31700",
         "date": "2025-09-06 00:00:00",
         "amount": 1000,
         "contributor_name": "HENRY POOR LUMBER",
@@ -336,7 +362,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31701",
+        "id": "contrib-1792307281151-31701",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "KENNEDY HOMES",
@@ -351,7 +377,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31702",
+        "id": "contrib-1792307281151-31702",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "Kimbarlin",
@@ -366,7 +392,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31703",
+        "id": "contrib-1792307281151-31703",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "MAJESTIC HOMES",
@@ -381,7 +407,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31704",
+        "id": "contrib-1792307281151-31704",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "MILAKIS HOMES",
@@ -396,7 +422,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31705",
+        "id": "contrib-1792307281151-31705",
         "date": "2025-08-30 00:00:00",
         "amount": 1000,
         "contributor_name": "Tempest Homes",
@@ -411,7 +437,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31706",
+        "id": "contrib-1792307281151-31706",
         "date": "2025-08-30 00:00:00",
         "amount": 500,
         "contributor_name": "TIPPECANOE DEVELOPMENT",
@@ -426,7 +452,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31707",
+        "id": "contrib-1792307281151-31707",
         "date": "2025-08-30 00:00:00",
         "amount": 250,
         "contributor_name": "VESTER & ASSOCIATES",
@@ -441,7 +467,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769358-31708",
+        "id": "contrib-1792307281151-31708",
         "date": "2025-09-06 00:00:00",
         "amount": 1000,
         "contributor_name": "WEBER CONCRETE",
@@ -456,7 +482,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769687-9615",
+        "id": "contrib-1792307281939-26018",
         "date": "2026-03-28 00:00:00",
         "amount": 250,
         "contributor_name": "",
@@ -471,17 +497,182 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769687-9616",
-        "date": "2026-03-28 00:00:00",
-        "amount": 60,
+        "id": "contrib-1792307281939-26019",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Citation Homes",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47904",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26020",
+        "date": "2026-08-05 00:00:00",
+        "amount": 500,
         "contributor_name": "Mary C Ellis",
         "contributor_type": "individual",
-        "contribution_size": "small",
+        "contribution_size": "medium",
         "occupation": null,
         "occupation_category": "unknown",
         "address_city": "Lafayette",
         "address_state": "IN",
         "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26021",
+        "date": "2026-08-26 00:00:00",
+        "amount": 300,
+        "contributor_name": "Vicki Pearl",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WEST LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47996",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26022",
+        "date": "2026-09-18 00:00:00",
+        "amount": 775,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": "47905",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26023",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Citation Partners LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette",
+        "address_state": "IN",
+        "address_zip": "47904",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26024",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "HENRY POOR LUMBER",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE ",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26025",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "KENNEDY HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WEST LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26026",
+        "date": "2026-09-28 00:00:00",
+        "amount": 2500,
+        "contributor_name": "Kimbarlin",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26027",
+        "date": "2026-08-26 00:00:00",
+        "amount": 500,
+        "contributor_name": "MAJESTIC HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47909",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26028",
+        "date": "2026-08-26 00:00:00",
+        "amount": 500,
+        "contributor_name": "MILAKIS HOMES",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "LAFAYETTE",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26029",
+        "date": "2026-09-28 00:00:00",
+        "amount": 3500,
+        "contributor_name": "Tempest Homes",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Lafayette ",
+        "address_state": "IN",
+        "address_zip": "47902",
+        "recipient_committee": "Builder's Association of Greater Lafayette PAC",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281939-26030",
+        "date": "2026-08-26 00:00:00",
+        "amount": 1000,
+        "contributor_name": "WEBER CONCRETE",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ZIONSVILLE",
+        "address_state": "IN",
+        "address_zip": "46077",
         "recipient_committee": "Builder's Association of Greater Lafayette PAC",
         "source": "indiana"
       }

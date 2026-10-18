@@ -2,24 +2,28 @@
   "id": "indiana-title-pac",
   "name": "Indiana Title PAC",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 5,
-    "candidates_supported": 5
+    "total_given": "5500.00",
+    "total_contributions": 7,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
-    "medium": {
-      "count": 3,
-      "total": "1500.00"
-    },
     "large": {
-      "count": 2,
+      "count": 3,
+      "total": "3500.00"
+    },
+    "medium": {
+      "count": 4,
       "total": "2000.00"
     }
   },
   "by_month": {
+    "2026-09": {
+      "count": 1,
+      "total": "1500.00"
+    },
     "2026-04": {
-      "count": 5,
-      "total": "3500.00"
+      "count": 6,
+      "total": "4000.00"
     }
   },
   "top_recipients": [
@@ -48,6 +52,12 @@
       "count": 1
     },
     {
+      "id": "rick-n-niemeyer",
+      "name": "Rick N Niemeyer",
+      "total": "500.00",
+      "count": 1
+    },
+    {
       "id": "jennifer-meltzer",
       "name": "Jennifer Meltzer",
       "total": "500.00",
@@ -56,7 +66,22 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769685-7989",
+      "id": "contrib-1792307281903-3654",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Indiana Title PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23044",
       "date": "2026-04-10 00:00:00",
       "amount": 500,
       "candidate_name": "JAMES R BUCK",
@@ -72,7 +97,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8640",
+      "id": "contrib-1792307281938-24102",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -88,7 +113,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11077",
+      "id": "contrib-1792307281946-31556",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -104,7 +129,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11906",
+      "id": "contrib-1792307281954-33856",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Martin J Carbaugh",
@@ -120,7 +145,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21626",
+      "id": "contrib-1792307281955-34430",
+      "date": "2026-04-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Rick N Niemeyer",
+      "contributor_name": "INDIANA TITLE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "FISHERS",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Committe to Elect Rick Niemeyer",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58737",
       "date": "2026-04-04 00:00:00",
       "amount": 500,
       "candidate_name": "Jennifer Meltzer",

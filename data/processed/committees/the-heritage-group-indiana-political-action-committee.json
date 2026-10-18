@@ -1,0 +1,75 @@
+{
+  "id": "the-heritage-group-indiana-political-action-committee",
+  "name": "The Heritage Group Indiana Political Action Committee",
+  "totals": {
+    "total_given": "500.00",
+    "total_contributions": 1,
+    "candidates_supported": 0
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [],
+  "contributions": [
+    {
+      "id": "contrib-1792307281903-3623",
+      "date": "2026-04-22 00:00:00",
+      "amount": 500,
+      "contributor_name": "The Heritage Group Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    }
+  ],
+  "receipts": {
+    "total_raised": "100000.00",
+    "total_contributions": 1,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 1,
+        "total": "100000.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "The Heritage Group",
+        "type": "individual",
+        "total": "100000.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1792307282002-66926",
+        "date": "2026-04-09 00:00:00",
+        "amount": 100000,
+        "contributor_name": "The Heritage Group",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46268",
+        "recipient_committee": "The Heritage Group Indiana Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
+}

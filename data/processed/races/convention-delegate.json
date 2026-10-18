@@ -3,43 +3,47 @@
   "office": "Convention Delegate",
   "district": null,
   "totals": {
-    "total_raised": "631971.32",
-    "total_contributions": 589
+    "total_raised": "1162589.64",
+    "total_contributions": 949
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 40,
-      "total": "2500.86"
+      "count": 61,
+      "total": "4250.98"
     },
     "corporate": {
-      "count": 78,
-      "total": "85327.91"
+      "count": 106,
+      "total": "119172.91"
     },
     "individual": {
-      "count": 368,
-      "total": "414670.37"
+      "count": 597,
+      "total": "699056.41"
     },
     "committee": {
-      "count": 103,
-      "total": "129472.18"
+      "count": 184,
+      "total": "339596.34"
+    },
+    "self": {
+      "count": 1,
+      "total": "513.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 44,
-      "total": "1783.87"
+      "count": 64,
+      "total": "2743.14"
     },
     "medium": {
-      "count": 296,
-      "total": "101796.39"
+      "count": 456,
+      "total": "157903.35"
     },
     "large": {
-      "count": 247,
-      "total": "488191.06"
+      "count": 422,
+      "total": "849417.55"
     },
     "mega": {
-      "count": 2,
-      "total": "40200.00"
+      "count": 7,
+      "total": "152525.60"
     }
   },
   "by_month": {
@@ -83,21 +87,33 @@
       "count": 2,
       "total": "6000.00"
     },
+    "2026-09": {
+      "count": 139,
+      "total": "134557.61"
+    },
+    "2026-08": {
+      "count": 60,
+      "total": "94881.98"
+    },
     "2026-06": {
-      "count": 23,
-      "total": "19727.06"
+      "count": 44,
+      "total": "45209.09"
+    },
+    "2026-07": {
+      "count": 76,
+      "total": "123492.60"
     },
     "2026-05": {
-      "count": 8,
-      "total": "19500.00"
+      "count": 26,
+      "total": "37420.37"
     },
     "2026-03": {
       "count": 22,
       "total": "11375.67"
     },
     "2026-04": {
-      "count": 13,
-      "total": "9093.26"
+      "count": 27,
+      "total": "52816.46"
     },
     "2026-01": {
       "count": 8,
@@ -106,6 +122,10 @@
     "2026-02": {
       "count": 7,
       "total": "4467.68"
+    },
+    "2026-10": {
+      "count": 32,
+      "total": "90560.53"
     }
   },
   "candidates": [
@@ -114,8 +134,8 @@
       "name": "Elise Nieshalla",
       "party": "Republican",
       "totals": {
-        "total_raised": "280096.38",
-        "total_contributions": 290
+        "total_raised": "448199.39",
+        "total_contributions": 435
       },
       "by_month": {
         "2025-06": {
@@ -158,9 +178,21 @@
           "count": 2,
           "total": "6000.00"
         },
+        "2026-09": {
+          "count": 73,
+          "total": "56531.99"
+        },
+        "2026-08": {
+          "count": 53,
+          "total": "82765.00"
+        },
         "2026-06": {
           "count": 23,
           "total": "19727.06"
+        },
+        "2026-07": {
+          "count": 19,
+          "total": "28806.02"
         },
         "2026-05": {
           "count": 8,
@@ -181,6 +213,85 @@
         "2026-02": {
           "count": 2,
           "total": "1192.68"
+        }
+      }
+    },
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "416870.44",
+        "total_contributions": 244
+      },
+      "by_month": {
+        "2025-08": {
+          "count": 34,
+          "total": "33300.95"
+        },
+        "2025-12": {
+          "count": 30,
+          "total": "57173.44"
+        },
+        "2025-09": {
+          "count": 4,
+          "total": "16227.13"
+        },
+        "2025-07": {
+          "count": 29,
+          "total": "16350.00"
+        },
+        "2025-11": {
+          "count": 7,
+          "total": "8458.96"
+        },
+        "2025-10": {
+          "count": 5,
+          "total": "8358.65"
+        },
+        "2025-05": {
+          "count": 2,
+          "total": "1250.00"
+        },
+        "2026-10": {
+          "count": 9,
+          "total": "60825.72"
+        },
+        "2026-02": {
+          "count": 5,
+          "total": "3275.00"
+        },
+        "2026-07": {
+          "count": 46,
+          "total": "90987.81"
+        },
+        "2026-04": {
+          "count": 7,
+          "total": "32704.48"
+        },
+        "2026-08": {
+          "count": 6,
+          "total": "9616.98"
+        },
+        "2026-06": {
+          "count": 18,
+          "total": "24532.03"
+        },
+        "2026-01": {
+          "count": 1,
+          "total": "25.00"
+        },
+        "2026-09": {
+          "count": 38,
+          "total": "47717.31"
+        },
+        "2026-03": {
+          "count": 2,
+          "total": "1066.98"
+        },
+        "2026-05": {
+          "count": 1,
+          "total": "5000.00"
         }
       }
     },
@@ -232,63 +343,12 @@
       }
     },
     {
-      "id": "daniel-orlando-lopez",
-      "name": "Daniel Orlando Lopez",
-      "party": "Republican",
-      "totals": {
-        "total_raised": "145486.11",
-        "total_contributions": 119
-      },
-      "by_month": {
-        "2025-08": {
-          "count": 34,
-          "total": "33300.95"
-        },
-        "2025-12": {
-          "count": 30,
-          "total": "57173.44"
-        },
-        "2025-09": {
-          "count": 4,
-          "total": "16227.13"
-        },
-        "2025-07": {
-          "count": 29,
-          "total": "16350.00"
-        },
-        "2025-11": {
-          "count": 7,
-          "total": "8458.96"
-        },
-        "2025-10": {
-          "count": 5,
-          "total": "8358.65"
-        },
-        "2025-05": {
-          "count": 2,
-          "total": "1250.00"
-        },
-        "2026-02": {
-          "count": 5,
-          "total": "3275.00"
-        },
-        "2026-01": {
-          "count": 1,
-          "total": "25.00"
-        },
-        "2026-03": {
-          "count": 2,
-          "total": "1066.98"
-        }
-      }
-    },
-    {
       "id": "edward-o-delaney",
       "name": "Edward O DeLaney",
       "party": "Democratic",
       "totals": {
-        "total_raised": "21678.81",
-        "total_contributions": 49
+        "total_raised": "79920.75",
+        "total_contributions": 121
       },
       "by_month": {
         "2025-09": {
@@ -320,8 +380,32 @@
           "total": "500.00"
         },
         "2026-04": {
-          "count": 2,
-          "total": "1100.00"
+          "count": 3,
+          "total": "1600.00"
+        },
+        "2026-10": {
+          "count": 16,
+          "total": "20184.81"
+        },
+        "2026-09": {
+          "count": 26,
+          "total": "21837.99"
+        },
+        "2026-05": {
+          "count": 16,
+          "total": "9170.37"
+        },
+        "2026-07": {
+          "count": 9,
+          "total": "3098.77"
+        },
+        "2026-06": {
+          "count": 3,
+          "total": "950.00"
+        },
+        "2026-08": {
+          "count": 1,
+          "total": "2500.00"
         },
         "2026-01": {
           "count": 4,
@@ -338,17 +422,33 @@
       "name": "Tracy Allen Brown",
       "party": "Republican",
       "totals": {
-        "total_raised": "3226.74",
-        "total_contributions": 5
+        "total_raised": "36115.78",
+        "total_contributions": 23
       },
       "by_month": {
+        "2026-10": {
+          "count": 7,
+          "total": "9550.00"
+        },
+        "2026-07": {
+          "count": 2,
+          "total": "600.00"
+        },
+        "2026-04": {
+          "count": 7,
+          "total": "10561.98"
+        },
         "2026-03": {
           "count": 4,
           "total": "3183.48"
         },
-        "2026-04": {
+        "2026-05": {
           "count": 1,
-          "total": "43.26"
+          "total": "3750.00"
+        },
+        "2026-09": {
+          "count": 2,
+          "total": "8470.32"
         }
       }
     }

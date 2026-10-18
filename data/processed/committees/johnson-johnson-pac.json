@@ -2,18 +2,18 @@
   "id": "johnson-johnson-pac",
   "name": "Johnson & Johnson PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 5,
-    "candidates_supported": 4
+    "total_given": "6500.00",
+    "total_contributions": 10,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "1500.00"
+      "count": 7,
+      "total": "3000.00"
     },
     "large": {
-      "count": 1,
-      "total": "1500.00"
+      "count": 3,
+      "total": "3500.00"
     }
   },
   "by_month": {
@@ -26,20 +26,44 @@
       "total": "350.00"
     },
     "2026-04": {
-      "count": 2,
-      "total": "850.00"
+      "count": 4,
+      "total": "2350.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     },
     "2026-01": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
     {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "2000.00",
+      "count": 2
+    },
+    {
       "id": "christopher-paul-garten",
       "name": "Christopher Paul Garten",
-      "total": "1500.00",
-      "count": 1
+      "total": "2000.00",
+      "count": 2
+    },
+    {
+      "id": "ethan-j-lawson",
+      "name": "ETHAN J LAWSON",
+      "total": "800.00",
+      "count": 2
     },
     {
       "id": "matthew-scott-lehman",
@@ -48,21 +72,21 @@
       "count": 1
     },
     {
-      "id": "martin-j-carbaugh",
-      "name": "Martin J Carbaugh",
-      "total": "350.00",
+      "id": "julie-anne-mcguire",
+      "name": "Julie Anne McGuire",
+      "total": "500.00",
       "count": 1
     },
     {
-      "id": "ethan-j-lawson",
-      "name": "ETHAN J LAWSON",
-      "total": "300.00",
+      "id": "martin-j-carbaugh",
+      "name": "Martin J Carbaugh",
+      "total": "350.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769442-96101",
+      "id": "contrib-1792307281237-96101",
       "date": "2025-10-10 00:00:00",
       "amount": 300,
       "candidate_name": "ETHAN J LAWSON",
@@ -78,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769675-1066",
+      "id": "contrib-1792307281903-3658",
       "date": "2026-03-09 00:00:00",
       "amount": 350,
       "contributor_name": "Johnson & Johnson PAC",
@@ -93,7 +117,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11205",
+      "id": "contrib-1792307281946-31892",
       "date": "2026-04-06 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Lehman",
@@ -109,7 +133,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-11908",
+      "id": "contrib-1792307281954-33540",
+      "date": "2026-04-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33541",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33859",
       "date": "2026-04-07 00:00:00",
       "amount": 350,
       "candidate_name": "Martin J Carbaugh",
@@ -125,7 +181,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769698-16963",
+      "id": "contrib-1792307281972-48170",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48171",
       "date": "2026-01-10 00:00:00",
       "amount": 1500,
       "candidate_name": "Christopher Paul Garten",
@@ -138,6 +210,38 @@
       "address_state": "DC",
       "address_zip": "20005",
       "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59864",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64414",
+      "date": "2026-08-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "ETHAN J LAWSON",
+      "contributor_name": "Johnson & Johnson PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "ETHAN LAWSON FOR INDIANA",
       "source": "indiana"
     }
   ],

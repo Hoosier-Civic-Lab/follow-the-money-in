@@ -3,50 +3,50 @@
   "office": "State Representative",
   "district": "88",
   "totals": {
-    "total_raised": "102888.60",
-    "total_contributions": 206
+    "total_raised": "332971.85",
+    "total_contributions": 659
   },
   "by_contributor_type": {
-    "corporate": {
-      "count": 14,
-      "total": "15000.00"
-    },
     "individual": {
-      "count": 159,
-      "total": "54620.77"
-    },
-    "committee": {
-      "count": 26,
-      "total": "32750.00"
+      "count": 567,
+      "total": "189359.04"
     },
     "self": {
-      "count": 7,
-      "total": "517.83"
+      "count": 10,
+      "total": "1060.65"
+    },
+    "unitemized": {
+      "count": 3,
+      "total": "118.00"
+    },
+    "committee": {
+      "count": 58,
+      "total": "120684.16"
+    },
+    "corporate": {
+      "count": 21,
+      "total": "21750.00"
     }
   },
   "by_contribution_size": {
-    "large": {
-      "count": 31,
-      "total": "67082.88"
-    },
     "medium": {
-      "count": 91,
-      "total": "22950.31"
+      "count": 263,
+      "total": "65352.14"
+    },
+    "large": {
+      "count": 67,
+      "total": "152007.88"
     },
     "small": {
-      "count": 83,
-      "total": "2855.41"
+      "count": 323,
+      "total": "12284.83"
     },
     "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 6,
+      "total": "103327.00"
     }
   },
   "by_month": {
-    "2025-08": {
-      "count": 6,
-      "total": "2257.38"
-    },
     "2025-10": {
       "count": 38,
       "total": "29868.12"
@@ -55,114 +55,87 @@
       "count": 10,
       "total": "8707.83"
     },
-    "2025-06": {
-      "count": 30,
-      "total": "30136.08"
-    },
-    "2025-07": {
-      "count": 4,
-      "total": "5012.12"
-    },
     "2025-01": {
       "count": 3,
       "total": "624.01"
-    },
-    "2025-09": {
-      "count": 8,
-      "total": "9509.10"
-    },
-    "2025-11": {
-      "count": 5,
-      "total": "1504.23"
-    },
-    "2026-04": {
-      "count": 23,
-      "total": "7205.55"
-    },
-    "2026-02": {
-      "count": 25,
-      "total": "1036.37"
-    },
-    "2026-01": {
-      "count": 11,
-      "total": "2161.00"
     },
     "2025-04": {
       "count": 2,
       "total": "224.01"
     },
+    "2025-06": {
+      "count": 30,
+      "total": "30136.08"
+    },
+    "2025-08": {
+      "count": 6,
+      "total": "2257.38"
+    },
+    "2025-09": {
+      "count": 8,
+      "total": "9509.10"
+    },
+    "2025-07": {
+      "count": 4,
+      "total": "5012.12"
+    },
+    "2025-11": {
+      "count": 5,
+      "total": "1504.23"
+    },
     "2025-05": {
       "count": 2,
       "total": "528.25"
     },
+    "2026-09": {
+      "count": 109,
+      "total": "103992.83"
+    },
+    "2026-06": {
+      "count": 39,
+      "total": "3756.00"
+    },
+    "2026-08": {
+      "count": 163,
+      "total": "81093.00"
+    },
+    "2026-05": {
+      "count": 44,
+      "total": "8894.75"
+    },
+    "2026-04": {
+      "count": 48,
+      "total": "17395.55"
+    },
+    "2026-07": {
+      "count": 55,
+      "total": "6090.82"
+    },
+    "2026-10": {
+      "count": 18,
+      "total": "16065.85"
+    },
+    "2026-02": {
+      "count": 25,
+      "total": "1036.37"
+    },
     "2026-03": {
       "count": 39,
       "total": "4114.55"
+    },
+    "2026-01": {
+      "count": 11,
+      "total": "2161.00"
     }
   },
   "candidates": [
-    {
-      "id": "christopher-paul-jeter",
-      "name": "Christopher Paul Jeter",
-      "party": "Republican",
-      "totals": {
-        "total_raised": "64712.19",
-        "total_contributions": 75
-      },
-      "by_month": {
-        "2025-08": {
-          "count": 2,
-          "total": "2000.00"
-        },
-        "2025-10": {
-          "count": 26,
-          "total": "16288.18"
-        },
-        "2025-12": {
-          "count": 5,
-          "total": "7524.01"
-        },
-        "2025-06": {
-          "count": 25,
-          "total": "29100.00"
-        },
-        "2025-07": {
-          "count": 1,
-          "total": "300.00"
-        },
-        "2025-01": {
-          "count": 1,
-          "total": "500.00"
-        },
-        "2025-09": {
-          "count": 6,
-          "total": "4600.00"
-        },
-        "2025-11": {
-          "count": 1,
-          "total": "1000.00"
-        },
-        "2026-04": {
-          "count": 3,
-          "total": "1550.00"
-        },
-        "2026-02": {
-          "count": 3,
-          "total": "350.00"
-        },
-        "2026-01": {
-          "count": 2,
-          "total": "1500.00"
-        }
-      }
-    },
     {
       "id": "stephanie-jo-yocum",
       "name": "Stephanie Jo Yocum",
       "party": "Democratic",
       "totals": {
-        "total_raised": "38176.41",
-        "total_contributions": 131
+        "total_raised": "178850.50",
+        "total_contributions": 533
       },
       "by_month": {
         "2025-10": {
@@ -205,13 +178,37 @@
           "count": 2,
           "total": "528.25"
         },
+        "2026-09": {
+          "count": 88,
+          "total": "76983.67"
+        },
+        "2026-06": {
+          "count": 39,
+          "total": "3756.00"
+        },
+        "2026-08": {
+          "count": 139,
+          "total": "22143.00"
+        },
+        "2026-05": {
+          "count": 44,
+          "total": "8894.75"
+        },
+        "2026-04": {
+          "count": 44,
+          "total": "15345.55"
+        },
+        "2026-07": {
+          "count": 54,
+          "total": "5840.82"
+        },
+        "2026-10": {
+          "count": 14,
+          "total": "13365.85"
+        },
         "2026-02": {
           "count": 22,
           "total": "686.37"
-        },
-        "2026-04": {
-          "count": 20,
-          "total": "5655.55"
         },
         "2026-03": {
           "count": 39,
@@ -220,6 +217,77 @@
         "2026-01": {
           "count": 9,
           "total": "661.00"
+        }
+      }
+    },
+    {
+      "id": "christopher-paul-jeter",
+      "name": "Christopher Paul Jeter",
+      "party": "Republican",
+      "totals": {
+        "total_raised": "154121.35",
+        "total_contributions": 126
+      },
+      "by_month": {
+        "2025-08": {
+          "count": 2,
+          "total": "2000.00"
+        },
+        "2025-10": {
+          "count": 26,
+          "total": "16288.18"
+        },
+        "2025-12": {
+          "count": 5,
+          "total": "7524.01"
+        },
+        "2025-06": {
+          "count": 25,
+          "total": "29100.00"
+        },
+        "2025-07": {
+          "count": 1,
+          "total": "300.00"
+        },
+        "2025-01": {
+          "count": 1,
+          "total": "500.00"
+        },
+        "2025-09": {
+          "count": 6,
+          "total": "4600.00"
+        },
+        "2025-11": {
+          "count": 1,
+          "total": "1000.00"
+        },
+        "2026-09": {
+          "count": 21,
+          "total": "27009.16"
+        },
+        "2026-08": {
+          "count": 24,
+          "total": "58950.00"
+        },
+        "2026-04": {
+          "count": 4,
+          "total": "2050.00"
+        },
+        "2026-10": {
+          "count": 4,
+          "total": "2700.00"
+        },
+        "2026-02": {
+          "count": 3,
+          "total": "350.00"
+        },
+        "2026-07": {
+          "count": 1,
+          "total": "250.00"
+        },
+        "2026-01": {
+          "count": 2,
+          "total": "1500.00"
         }
       }
     }

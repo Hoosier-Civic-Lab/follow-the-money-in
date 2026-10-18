@@ -2,22 +2,22 @@
   "id": "elevance-health-inc-political-action-committee-elevance-health-pac",
   "name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
   "totals": {
-    "total_given": "32500.00",
-    "total_contributions": 6,
-    "candidates_supported": 2
+    "total_given": "62500.00",
+    "total_contributions": 11,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1500.00"
+      "count": 5,
+      "total": "2500.00"
     },
     "mega": {
-      "count": 2,
-      "total": "30000.00"
+      "count": 4,
+      "total": "50000.00"
     },
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -37,9 +37,21 @@
       "count": 1,
       "total": "1000.00"
     },
+    "2026-06": {
+      "count": 2,
+      "total": "19000.00"
+    },
     "2026-03": {
       "count": 1,
       "total": "15000.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "10500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
     },
     "2026-04": {
       "count": 1,
@@ -47,6 +59,12 @@
     }
   },
   "top_recipients": [
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "20000.00",
+      "count": 2
+    },
     {
       "id": "theodore-edward-rokita",
       "name": "THEODORE EDWARD ROKITA",
@@ -58,11 +76,23 @@
       "name": "Craig Thomas Snow",
       "total": "2000.00",
       "count": 3
+    },
+    {
+      "id": "joanna-king",
+      "name": "Joanna King",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "michael-r-gaskill",
+      "name": "Michael R Gaskill",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769358-31190",
+      "id": "contrib-1792307281151-31190",
       "date": "2025-10-07 00:00:00",
       "amount": 500,
       "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
@@ -77,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31346",
+      "id": "contrib-1792307281151-31346",
       "date": "2025-05-01 00:00:00",
       "amount": 15000,
       "candidate_name": "THEODORE EDWARD ROKITA",
@@ -93,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84844",
+      "id": "contrib-1792307281219-84844",
       "date": "2025-11-11 00:00:00",
       "amount": 500,
       "candidate_name": "Craig Thomas Snow",
@@ -109,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84845",
+      "id": "contrib-1792307281219-84845",
       "date": "2025-01-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Craig Thomas Snow",
@@ -125,7 +155,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769678-3172",
+      "id": "contrib-1792307281903-3563",
+      "date": "2026-06-22 00:00:00",
+      "amount": 9000,
+      "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281912-9326",
       "date": "2026-03-09 00:00:00",
       "amount": 15000,
       "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
@@ -140,7 +185,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17659",
+      "id": "contrib-1792307281954-33479",
+      "date": "2026-06-23 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33480",
+      "date": "2026-09-22 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45227",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Joanna King",
+      "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Joanna King for the People",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49070",
+      "date": "2026-08-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michael R Gaskill",
+      "contributor_name": "Elevance Health, Inc. Political Action Committee (Elevance Health PAC)",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Mike Gaskill for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50371",
       "date": "2026-04-03 00:00:00",
       "amount": 500,
       "candidate_name": "Craig Thomas Snow",

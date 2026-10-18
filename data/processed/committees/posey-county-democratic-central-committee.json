@@ -2,23 +2,53 @@
   "id": "posey-county-democratic-central-committee",
   "name": "Posey County Democratic Central Committee",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "1800.00",
+    "total_contributions": 6,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "500.00"
+      "count": 6,
+      "total": "1800.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 2,
       "total": "500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-05": {
+      "count": 2,
+      "total": "500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "coumba-kebe",
+      "name": "Coumba Kebe",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "logan-alexander-patberg",
+      "name": "Logan Alexander Patberg",
+      "total": "250.00",
+      "count": 1
+    },
+    {
+      "id": "cindi-clayton",
+      "name": "Cindi Clayton",
+      "total": "250.00",
+      "count": 1
+    },
     {
       "id": "alexander-richard-burton",
       "name": "Alexander Richard Burton",
@@ -28,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769325-13805",
+      "id": "contrib-1792307281114-13805",
       "date": "2025-08-15 00:00:00",
       "amount": 300,
       "contributor_name": "Posey County Democratic Central Committee",
@@ -43,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96539",
+      "id": "contrib-1792307281237-96539",
       "date": "2025-08-14 00:00:00",
       "amount": 200,
       "candidate_name": "Alexander Richard Burton",
@@ -56,6 +86,69 @@
       "address_state": "IN",
       "address_zip": null,
       "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281915-11451",
+      "date": "2026-07-28 00:00:00",
+      "amount": 300,
+      "contributor_name": "Posey County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mt. Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70976",
+      "date": "2026-05-27 00:00:00",
+      "amount": 250,
+      "candidate_name": "Logan Alexander Patberg",
+      "contributor_name": "Posey County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mount Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "Patberg For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74351",
+      "date": "2026-05-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Cindi Clayton",
+      "contributor_name": "Posey County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mount Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "Friends of Cindi Clayton",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282028-86270",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Coumba Kebe",
+      "contributor_name": "Posey County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "*City omitted on report*",
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Kebe For Indiana",
       "source": "indiana"
     }
   ],

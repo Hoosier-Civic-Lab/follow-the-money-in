@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "199902.54",
-    "total_contributions": 113,
-    "total_itemized": 113,
-    "total_unitemized": 0
+    "total_raised": "361724.22",
+    "total_contributions": 157,
+    "total_itemized": 156,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 15,
-      "total": "16900.00"
+      "count": 19,
+      "total": "20900.00"
     },
     "individual": {
-      "count": 32,
-      "total": "26500.00"
+      "count": 48,
+      "total": "125350.00"
     },
     "committee": {
-      "count": 66,
-      "total": "156502.54"
+      "count": 89,
+      "total": "214474.22"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 59,
-      "total": "119500.00"
+      "count": 80,
+      "total": "154621.68"
     },
     "medium": {
-      "count": 46,
-      "total": "22302.54"
+      "count": 65,
+      "total": "30352.54"
     },
     "small": {
       "count": 3,
       "total": "150.00"
     },
     "mega": {
-      "count": 5,
-      "total": "57950.00"
+      "count": 9,
+      "total": "176600.00"
     }
   },
   "by_month": {
@@ -60,18 +64,34 @@
       "count": 9,
       "total": "5250.00"
     },
+    "2026-10": {
+      "count": 7,
+      "total": "10000.00"
+    },
     "2026-03": {
       "count": 8,
       "total": "36702.54"
     },
+    "2026-05": {
+      "count": 8,
+      "total": "31800.00"
+    },
     "2026-04": {
-      "count": 33,
-      "total": "68450.00"
+      "count": 53,
+      "total": "181221.68"
+    },
+    "2026-09": {
+      "count": 6,
+      "total": "4750.00"
+    },
+    "2026-06": {
+      "count": 3,
+      "total": "2500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769356-28853",
+      "id": "contrib-1792307281149-28853",
       "date": "2025-09-02 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -87,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28854",
+      "id": "contrib-1792307281149-28854",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -103,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28855",
+      "id": "contrib-1792307281149-28855",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -119,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28856",
+      "id": "contrib-1792307281149-28856",
       "date": "2025-12-16 00:00:00",
       "amount": 400,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -135,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28857",
+      "id": "contrib-1792307281149-28857",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -151,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28858",
+      "id": "contrib-1792307281149-28858",
       "date": "2025-09-02 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -167,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28859",
+      "id": "contrib-1792307281149-28859",
       "date": "2025-12-23 00:00:00",
       "amount": 100,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -183,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28860",
+      "id": "contrib-1792307281149-28860",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -199,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28861",
+      "id": "contrib-1792307281149-28861",
       "date": "2025-12-23 00:00:00",
       "amount": 50,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -215,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28862",
+      "id": "contrib-1792307281149-28862",
       "date": "2025-12-23 00:00:00",
       "amount": 50,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -231,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28863",
+      "id": "contrib-1792307281149-28863",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -247,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28864",
+      "id": "contrib-1792307281149-28864",
       "date": "2025-12-23 00:00:00",
       "amount": 50,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -263,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28865",
+      "id": "contrib-1792307281149-28865",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -279,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28866",
+      "id": "contrib-1792307281149-28866",
       "date": "2025-11-03 00:00:00",
       "amount": 5000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -295,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28867",
+      "id": "contrib-1792307281149-28867",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -311,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28868",
+      "id": "contrib-1792307281149-28868",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -327,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28869",
+      "id": "contrib-1792307281149-28869",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -343,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28870",
+      "id": "contrib-1792307281149-28870",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -359,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28871",
+      "id": "contrib-1792307281149-28871",
       "date": "2025-11-03 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -375,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28872",
+      "id": "contrib-1792307281149-28872",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -391,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28873",
+      "id": "contrib-1792307281149-28873",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -407,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28874",
+      "id": "contrib-1792307281149-28874",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -423,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28875",
+      "id": "contrib-1792307281149-28875",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -439,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28876",
+      "id": "contrib-1792307281149-28876",
       "date": "2025-11-20 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -455,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28877",
+      "id": "contrib-1792307281149-28877",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -471,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28878",
+      "id": "contrib-1792307281149-28878",
       "date": "2025-11-03 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -487,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28879",
+      "id": "contrib-1792307281149-28879",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -503,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28880",
+      "id": "contrib-1792307281149-28880",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -519,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28881",
+      "id": "contrib-1792307281149-28881",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -535,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28882",
+      "id": "contrib-1792307281149-28882",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -551,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28883",
+      "id": "contrib-1792307281149-28883",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -567,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28884",
+      "id": "contrib-1792307281149-28884",
       "date": "2025-12-23 00:00:00",
       "amount": 5000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -583,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28885",
+      "id": "contrib-1792307281149-28885",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -599,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28886",
+      "id": "contrib-1792307281149-28886",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -615,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28887",
+      "id": "contrib-1792307281149-28887",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -631,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28888",
+      "id": "contrib-1792307281149-28888",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -647,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28889",
+      "id": "contrib-1792307281149-28889",
       "date": "2025-10-15 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -663,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28890",
+      "id": "contrib-1792307281149-28890",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -679,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28891",
+      "id": "contrib-1792307281149-28891",
       "date": "2025-10-15 00:00:00",
       "amount": 250,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -695,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28892",
+      "id": "contrib-1792307281149-28892",
       "date": "2025-11-03 00:00:00",
       "amount": 5000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -711,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28893",
+      "id": "contrib-1792307281149-28893",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -727,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28894",
+      "id": "contrib-1792307281149-28894",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -743,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28895",
+      "id": "contrib-1792307281149-28895",
       "date": "2025-11-03 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -759,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28896",
+      "id": "contrib-1792307281149-28896",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -775,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28897",
+      "id": "contrib-1792307281149-28897",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -791,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28898",
+      "id": "contrib-1792307281149-28898",
       "date": "2025-11-03 00:00:00",
       "amount": 7500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -807,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28899",
+      "id": "contrib-1792307281149-28899",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -823,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28900",
+      "id": "contrib-1792307281149-28900",
       "date": "2025-12-16 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -839,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28901",
+      "id": "contrib-1792307281149-28901",
       "date": "2025-11-03 00:00:00",
       "amount": 2000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -855,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28902",
+      "id": "contrib-1792307281149-28902",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -871,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28903",
+      "id": "contrib-1792307281149-28903",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -887,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28904",
+      "id": "contrib-1792307281149-28904",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -903,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28905",
+      "id": "contrib-1792307281149-28905",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -919,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28906",
+      "id": "contrib-1792307281149-28906",
       "date": "2025-11-20 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -935,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28907",
+      "id": "contrib-1792307281149-28907",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -951,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28908",
+      "id": "contrib-1792307281149-28908",
       "date": "2025-12-31 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -967,7 +987,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28909",
+      "id": "contrib-1792307281149-28909",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -983,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28910",
+      "id": "contrib-1792307281149-28910",
       "date": "2025-11-03 00:00:00",
       "amount": 10000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -999,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28911",
+      "id": "contrib-1792307281149-28911",
       "date": "2025-12-16 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1015,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28912",
+      "id": "contrib-1792307281149-28912",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1031,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28913",
+      "id": "contrib-1792307281149-28913",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1047,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28914",
+      "id": "contrib-1792307281149-28914",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1063,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28915",
+      "id": "contrib-1792307281149-28915",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1079,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28916",
+      "id": "contrib-1792307281149-28916",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1095,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28917",
+      "id": "contrib-1792307281149-28917",
       "date": "2025-11-07 00:00:00",
       "amount": 350,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1111,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28918",
+      "id": "contrib-1792307281149-28918",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1127,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28919",
+      "id": "contrib-1792307281149-28919",
       "date": "2025-12-31 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1143,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28920",
+      "id": "contrib-1792307281149-28920",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1159,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28921",
+      "id": "contrib-1792307281149-28921",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1175,7 +1195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28922",
+      "id": "contrib-1792307281149-28922",
       "date": "2025-11-03 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1191,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28923",
+      "id": "contrib-1792307281149-28923",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1207,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28924",
+      "id": "contrib-1792307281149-28924",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1223,7 +1243,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8605",
+      "id": "contrib-1792307281938-24028",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "ANHEUSER BUSCH",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "COLUMBUS",
+      "address_state": "OH",
+      "address_zip": "43229",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24029",
       "date": "2026-03-31 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1239,7 +1275,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8606",
+      "id": "contrib-1792307281938-24030",
+      "date": "2026-05-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "CSX CORPORATION COOD CORERNMINT FOUD",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DV",
+      "address_zip": "20004",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24031",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1255,7 +1307,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8607",
+      "id": "contrib-1792307281938-24032",
+      "date": "2026-05-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Caroline Hunt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24033",
+      "date": "2026-04-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "ERIC  DODEN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24034",
+      "date": "2026-05-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Jan CUBARE",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24035",
+      "date": "2026-04-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Lauren  M Box",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24036",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Michael  Friend",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Salem",
+      "address_state": "IN",
+      "address_zip": "46165",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24037",
+      "date": "2026-04-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Roger Coll",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Salem",
+      "address_state": "IN",
+      "address_zip": "46165",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24038",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1271,7 +1419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8608",
+      "id": "contrib-1792307281938-24039",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1287,7 +1435,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8609",
+      "id": "contrib-1792307281938-24040",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Charter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "MO",
+      "address_zip": "63131",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24041",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Charter Communications",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "NO",
+      "address_zip": "63131",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24042",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "DERECTY, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "El Segando ",
+      "address_state": "CA",
+      "address_zip": "90245",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24043",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1303,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8610",
+      "id": "contrib-1792307281938-24044",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1319,7 +1515,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8611",
+      "id": "contrib-1792307281938-24045",
+      "date": "2026-05-04 00:00:00",
+      "amount": 27000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "House Republican Campaign",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24046",
+      "date": "2026-04-27 00:00:00",
+      "amount": 60000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "House Republican Campaign",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24047",
       "date": "2026-04-08 00:00:00",
       "amount": 2000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1335,7 +1563,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8612",
+      "id": "contrib-1792307281938-24048",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Invenergy LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60606",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24049",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1351,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8613",
+      "id": "contrib-1792307281938-24050",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1367,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8614",
+      "id": "contrib-1792307281938-24051",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1383,7 +1627,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8615",
+      "id": "contrib-1792307281938-24052",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "65 E State St Continues ",
+      "address_state": "OH",
+      "address_zip": "43215",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24053",
+      "date": "2026-04-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "1816 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg ",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24054",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24055",
       "date": "2026-04-08 00:00:00",
       "amount": 350,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1399,7 +1691,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8616",
+      "id": "contrib-1792307281938-24056",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1415,7 +1707,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8617",
+      "id": "contrib-1792307281938-24057",
+      "date": "2026-04-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "BOMA Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24058",
       "date": "2026-04-08 00:00:00",
       "amount": 5000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1431,7 +1739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8618",
+      "id": "contrib-1792307281938-24059",
       "date": "2026-04-08 00:00:00",
       "amount": 5000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1447,7 +1755,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8619",
+      "id": "contrib-1792307281938-24060",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Caresource Mission PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbia ",
+      "address_state": "OH",
+      "address_zip": "43215",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24061",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Centene Cop. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "MO",
+      "address_zip": "63105",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24062",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1463,7 +1803,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8620",
+      "id": "contrib-1792307281938-24063",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Cummins INC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24064",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Cummins INC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24065",
+      "date": "2026-05-26 00:00:00",
+      "amount": 2500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Duke Energy Corp. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24066",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1479,7 +1867,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8621",
+      "id": "contrib-1792307281938-24067",
+      "date": "2026-04-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "ELILILLY and Company PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24068",
+      "date": "2026-04-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Form Bureau AgElect",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24069",
+      "date": "2026-06-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Friends  of Indiana Hospitals Restricted",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24070",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1495,7 +1931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8622",
+      "id": "contrib-1792307281938-24071",
       "date": "2026-04-08 00:00:00",
       "amount": 250,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1511,7 +1947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8623",
+      "id": "contrib-1792307281938-24072",
       "date": "2026-03-06 00:00:00",
       "amount": 10000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1527,7 +1963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8624",
+      "id": "contrib-1792307281938-24073",
       "date": "2026-04-08 00:00:00",
       "amount": 10000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1543,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8625",
+      "id": "contrib-1792307281938-24074",
       "date": "2026-03-26 00:00:00",
       "amount": 752.54,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1559,7 +1995,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8626",
+      "id": "contrib-1792307281938-24075",
+      "date": "2026-04-14 00:00:00",
+      "amount": 3328,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24076",
+      "date": "2026-04-20 00:00:00",
+      "amount": 5293.68,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24077",
+      "date": "2026-04-17 00:00:00",
+      "amount": 16650,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24078",
       "date": "2026-03-23 00:00:00",
       "amount": 17950,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1575,7 +2059,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8627",
+      "id": "contrib-1792307281938-24079",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1250,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "HUMANA IBC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LOUISILLE",
+      "address_state": "KY",
+      "address_zip": "40202",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24080",
       "date": "2026-03-06 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1591,7 +2091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8628",
+      "id": "contrib-1792307281938-24081",
       "date": "2026-04-08 00:00:00",
       "amount": 600,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1607,7 +2107,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8629",
+      "id": "contrib-1792307281938-24082",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "IN Dental PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24083",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "INARC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24084",
+      "date": "2026-10-07 00:00:00",
+      "amount": 4000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "INCIANE REALTORN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24085",
+      "date": "2026-04-21 00:00:00",
+      "amount": 15000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Indiana  Realtors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24086",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1623,7 +2187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8630",
+      "id": "contrib-1792307281938-24087",
       "date": "2026-04-08 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1639,7 +2203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8631",
+      "id": "contrib-1792307281938-24088",
       "date": "2026-04-08 00:00:00",
       "amount": 7500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1655,7 +2219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8632",
+      "id": "contrib-1792307281938-24089",
       "date": "2026-04-08 00:00:00",
       "amount": 2000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1671,7 +2235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8633",
+      "id": "contrib-1792307281938-24090",
       "date": "2026-04-08 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1687,7 +2251,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8634",
+      "id": "contrib-1792307281938-24091",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "INDIANA CPA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24092",
+      "date": "2026-04-28 00:00:00",
+      "amount": 1250,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24093",
       "date": "2026-04-08 00:00:00",
       "amount": 3500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1703,7 +2299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8635",
+      "id": "contrib-1792307281938-24094",
       "date": "2026-04-08 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1719,7 +2315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8636",
+      "id": "contrib-1792307281938-24095",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1735,7 +2331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8637",
+      "id": "contrib-1792307281938-24096",
       "date": "2026-04-08 00:00:00",
       "amount": 750,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1751,7 +2347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8638",
+      "id": "contrib-1792307281938-24097",
       "date": "2026-03-31 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1767,7 +2363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8639",
+      "id": "contrib-1792307281938-24098",
       "date": "2026-04-08 00:00:00",
       "amount": 10000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1783,7 +2379,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8640",
+      "id": "contrib-1792307281938-24099",
+      "date": "2026-04-16 00:00:00",
+      "amount": 2500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Indiana Multi-family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24100",
+      "date": "2026-04-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Indiana Right to Lire PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24101",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "INDIANA SOCIETY OF AN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24102",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1799,7 +2443,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8641",
+      "id": "contrib-1792307281938-24103",
+      "date": "2026-05-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "NBFB Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville ",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24104",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1815,7 +2475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8642",
+      "id": "contrib-1792307281938-24105",
       "date": "2026-03-06 00:00:00",
       "amount": 1000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1831,7 +2491,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8643",
+      "id": "contrib-1792307281938-24106",
+      "date": "2026-05-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Sue Finkam Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24107",
       "date": "2026-04-08 00:00:00",
       "amount": 1500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1847,7 +2523,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8644",
+      "id": "contrib-1792307281938-24108",
+      "date": "2026-04-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "TELPAC Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24109",
       "date": "2026-04-08 00:00:00",
       "amount": 500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -1863,7 +2555,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769686-8645",
+      "id": "contrib-1792307281938-24110",
+      "date": "2026-04-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "Valera PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio ",
+      "address_state": "TX",
+      "address_zip": "78289",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24111",
+      "date": "2026-06-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "JEFFREY ALLEN THOMPSON",
+      "contributor_name": "WALPAC, Walmart Inc, PAC for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716",
+      "recipient_committee": "CITIZENS FOR JEFF THOMPSON",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281938-24112",
       "date": "2026-03-31 00:00:00",
       "amount": 3000,
       "candidate_name": "JEFFREY ALLEN THOMPSON",

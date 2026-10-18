@@ -2,20 +2,28 @@
   "id": "walpac-for-responsible-government-pac-walmart-inc",
   "name": "Walpac for Responsible Government PAC Walmart INC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "1500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "1000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -24,11 +32,17 @@
       "name": "Tyler Guthrie Johnson",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "anthony-clyde-isa",
+      "name": "Anthony Clyde Isa",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769437-90635",
+      "id": "contrib-1792307281232-90635",
       "date": "2025-07-21 00:00:00",
       "amount": 1000,
       "candidate_name": "Tyler Guthrie Johnson",
@@ -41,6 +55,22 @@
       "address_state": "AR",
       "address_zip": "72716",
       "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64195",
+      "date": "2026-05-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Anthony Clyde Isa",
+      "contributor_name": "WALPAC For Responsible Government PAC Walmart INC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716",
+      "recipient_committee": "Friends of Tony Isa",
       "source": "indiana"
     }
   ],

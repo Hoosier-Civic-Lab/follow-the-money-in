@@ -2,24 +2,28 @@
   "id": "committee-to-elect-spencer-for-senate",
   "name": "Committee To Elect Spencer For Senate",
   "totals": {
-    "total_given": "7967.00",
-    "total_contributions": 4,
-    "candidates_supported": 2
+    "total_given": "13117.00",
+    "total_contributions": 6,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "6967.00"
+      "count": 3,
+      "total": "11967.00"
     },
     "medium": {
-      "count": 2,
-      "total": "1000.00"
+      "count": 3,
+      "total": "1150.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "5967.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "5000.00"
     },
     "2026-03": {
       "count": 2,
@@ -28,6 +32,10 @@
     "2026-04": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "150.00"
     }
   },
   "top_recipients": [
@@ -42,11 +50,17 @@
       "name": "Rodney Pol",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "scott-eugene-houldieson",
+      "name": "Scott Eugene Houldieson",
+      "total": "150.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769318-6496",
+      "id": "contrib-1792307281105-6496",
       "date": "2025-07-29 00:00:00",
       "amount": 5967,
       "contributor_name": "Committee To Elect Spencer For Senate",
@@ -61,7 +75,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769685-7994",
+      "id": "contrib-1792307281903-3846",
+      "date": "2026-07-28 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Committee To Elect Spencer For Senate",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23054",
       "date": "2026-03-05 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Spencer for Senate",
@@ -76,7 +105,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11216",
+      "id": "contrib-1792307281946-31918",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Cherrish S Pryor",
@@ -92,7 +121,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21749",
+      "id": "contrib-1792307281987-59072",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "Rodney Pol",
@@ -105,6 +134,22 @@
       "address_state": "IN",
       "address_zip": "46403",
       "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85385",
+      "date": "2026-09-03 00:00:00",
+      "amount": 150,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "Committee to Elect Spencer for Senate",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gary ",
+      "address_state": "IN",
+      "address_zip": "46403",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
       "source": "indiana"
     }
   ],

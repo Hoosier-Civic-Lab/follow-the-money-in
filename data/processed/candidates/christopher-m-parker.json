@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "17358.43",
-    "total_contributions": 35,
-    "total_itemized": 32,
+    "total_raised": "60889.54",
+    "total_contributions": 81,
+    "total_itemized": 78,
     "total_unitemized": 3
   },
   "by_contributor_type": {
@@ -17,26 +17,34 @@
       "total": "875.00"
     },
     "corporate": {
-      "count": 4,
-      "total": "124.23"
+      "count": 15,
+      "total": "2882.73"
     },
     "individual": {
-      "count": 28,
-      "total": "16359.20"
+      "count": 53,
+      "total": "49256.81"
+    },
+    "committee": {
+      "count": 10,
+      "total": "7875.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 8,
-      "total": "330.38"
+      "count": 23,
+      "total": "759.65"
     },
     "medium": {
-      "count": 19,
-      "total": "6446.01"
+      "count": 43,
+      "total": "16547.85"
     },
     "large": {
-      "count": 8,
-      "total": "10582.04"
+      "count": 14,
+      "total": "18582.04"
+    },
+    "mega": {
+      "count": 1,
+      "total": "25000.00"
     }
   },
   "by_month": {
@@ -44,18 +52,38 @@
       "count": 26,
       "total": "13348.90"
     },
+    "2026-09": {
+      "count": 11,
+      "total": "5130.97"
+    },
+    "2026-05": {
+      "count": 7,
+      "total": "4704.13"
+    },
     "2026-02": {
       "count": 3,
       "total": "2000.06"
     },
     "2026-04": {
+      "count": 18,
+      "total": "4403.53"
+    },
+    "2026-06": {
+      "count": 8,
+      "total": "29226.49"
+    },
+    "2026-08": {
       "count": 6,
-      "total": "2009.47"
+      "total": "2048.58"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "26.88"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769756-34648",
+      "id": "contrib-1792307282048-93933",
       "date": "2026-03-23 00:00:00",
       "amount": 60,
       "candidate_name": "Christopher M Parker",
@@ -71,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34649",
+      "id": "contrib-1792307282048-93934",
       "date": "2026-03-19 00:00:00",
       "amount": 315,
       "candidate_name": "Christopher M Parker",
@@ -87,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34650",
+      "id": "contrib-1792307282048-93935",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -103,7 +131,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34651",
+      "id": "contrib-1792307282048-93936",
+      "date": "2026-09-21 00:00:00",
+      "amount": 620.59,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Amazon.com",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93937",
+      "date": "2026-05-31 00:00:00",
+      "amount": 0.03,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93938",
       "date": "2026-02-28 00:00:00",
       "amount": 0.06,
       "candidate_name": "Christopher M Parker",
@@ -119,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34652",
+      "id": "contrib-1792307282048-93939",
       "date": "2026-03-31 00:00:00",
       "amount": 0.99,
       "candidate_name": "Christopher M Parker",
@@ -135,7 +195,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34653",
+      "id": "contrib-1792307282048-93940",
+      "date": "2026-04-30 00:00:00",
+      "amount": 1.17,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93941",
+      "date": "2026-06-30 00:00:00",
+      "amount": 1.49,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93942",
+      "date": "2026-09-30 00:00:00",
+      "amount": 5.58,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93943",
+      "date": "2026-08-31 00:00:00",
+      "amount": 5.78,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93944",
+      "date": "2026-07-31 00:00:00",
+      "amount": 6.06,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Bippus State Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93945",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Catalyst Public Affiars Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93946",
       "date": "2026-03-18 00:00:00",
       "amount": 100,
       "candidate_name": "Christopher M Parker",
@@ -151,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34654",
+      "id": "contrib-1792307282048-93947",
       "date": "2026-03-16 00:00:00",
       "amount": 23.18,
       "candidate_name": "Christopher M Parker",
@@ -167,7 +323,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34655",
+      "id": "contrib-1792307282048-93948",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana Wholesale Liquor Dealers Credit Systems LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93949",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana Wholesale Liquor Dealers Credit Systems LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93950",
+      "date": "2026-08-03 00:00:00",
+      "amount": 42.8,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Sweetwater Music Instruments & Pro Audio",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93951",
       "date": "2026-02-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher M Parker",
@@ -183,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34656",
+      "id": "contrib-1792307282048-93952",
       "date": "2026-03-20 00:00:00",
       "amount": 520.51,
       "candidate_name": "Christopher M Parker",
@@ -199,7 +403,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34657",
+      "id": "contrib-1792307282048-93953",
+      "date": "2026-04-18 00:00:00",
+      "amount": 62.46,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Braxton Craft",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Andrews",
+      "address_state": "IN",
+      "address_zip": "46702",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93954",
+      "date": "2026-04-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Brian Ridgeway",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wabash",
+      "address_state": "IN",
+      "address_zip": "46992",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93955",
       "date": "2026-03-21 00:00:00",
       "amount": 104.1,
       "candidate_name": "Christopher M Parker",
@@ -215,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34658",
+      "id": "contrib-1792307282048-93956",
       "date": "2026-03-17 00:00:00",
       "amount": 90,
       "candidate_name": "Christopher M Parker",
@@ -231,7 +467,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34659",
+      "id": "contrib-1792307282048-93957",
+      "date": "2026-05-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Cash Donations",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93958",
+      "date": "2026-04-20 00:00:00",
+      "amount": 577,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Cash Donations",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93959",
+      "date": "2026-04-18 00:00:00",
+      "amount": 45,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Cassandra Brubaker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93960",
+      "date": "2026-04-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Chris Parker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Roanoke",
+      "address_state": "IN",
+      "address_zip": "46783",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93961",
       "date": "2026-03-24 00:00:00",
       "amount": 600,
       "candidate_name": "Christopher M Parker",
@@ -247,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34660",
+      "id": "contrib-1792307282048-93962",
       "date": "2026-03-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher M Parker",
@@ -263,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34661",
+      "id": "contrib-1792307282048-93963",
       "date": "2026-03-17 00:00:00",
       "amount": 3000,
       "candidate_name": "Christopher M Parker",
@@ -279,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34662",
+      "id": "contrib-1792307282048-93964",
       "date": "2026-03-30 00:00:00",
       "amount": 1041.02,
       "candidate_name": "Christopher M Parker",
@@ -295,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34663",
+      "id": "contrib-1792307282048-93965",
       "date": "2026-04-01 00:00:00",
       "amount": 1041.02,
       "candidate_name": "Christopher M Parker",
@@ -311,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34664",
+      "id": "contrib-1792307282048-93966",
       "date": "2026-04-04 00:00:00",
       "amount": 52.05,
       "candidate_name": "Christopher M Parker",
@@ -327,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34665",
+      "id": "contrib-1792307282048-93967",
       "date": "2026-03-18 00:00:00",
       "amount": 100,
       "candidate_name": "Christopher M Parker",
@@ -343,7 +643,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34666",
+      "id": "contrib-1792307282048-93968",
+      "date": "2026-04-18 00:00:00",
+      "amount": 275.87,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Gail Garde",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93969",
       "date": "2026-03-03 00:00:00",
       "amount": 1500,
       "candidate_name": "Christopher M Parker",
@@ -359,7 +675,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34667",
+      "id": "contrib-1792307282048-93970",
+      "date": "2026-06-05 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "George Bachnivsky",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Roanoke",
+      "address_state": "IN",
+      "address_zip": "46783-0607",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93971",
+      "date": "2026-04-18 00:00:00",
+      "amount": 80,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Henry Miller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Pheonix",
+      "address_state": "AZ",
+      "address_zip": "85048",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93972",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "James A Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93973",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -375,7 +739,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34668",
+      "id": "contrib-1792307282048-93974",
       "date": "2026-03-03 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -391,7 +755,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34669",
+      "id": "contrib-1792307282048-93975",
       "date": "2026-04-01 00:00:00",
       "amount": 52.05,
       "candidate_name": "Christopher M Parker",
@@ -407,7 +771,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34670",
+      "id": "contrib-1792307282048-93976",
+      "date": "2026-09-11 00:00:00",
+      "amount": 26.03,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Jennifer Woods",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93977",
       "date": "2026-04-01 00:00:00",
       "amount": 52.05,
       "candidate_name": "Christopher M Parker",
@@ -423,7 +803,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34671",
+      "id": "contrib-1792307282048-93978",
+      "date": "2026-09-12 00:00:00",
+      "amount": 378.77,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Jeremy Sweet",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wabash",
+      "address_state": "IN",
+      "address_zip": "46992",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93979",
       "date": "2026-03-16 00:00:00",
       "amount": 140,
       "candidate_name": "Christopher M Parker",
@@ -439,7 +835,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34672",
+      "id": "contrib-1792307282048-93980",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -455,7 +851,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34673",
+      "id": "contrib-1792307282048-93981",
+      "date": "2026-08-20 00:00:00",
+      "amount": 250,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Judy Harris",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93982",
       "date": "2026-03-09 00:00:00",
       "amount": 250,
       "candidate_name": "Christopher M Parker",
@@ -471,7 +883,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34674",
+      "id": "contrib-1792307282048-93983",
+      "date": "2026-07-09 00:00:00",
+      "amount": 20.82,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Kimberley Fultz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93984",
+      "date": "2026-04-21 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Kort Sell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93985",
+      "date": "2026-09-28 00:00:00",
+      "amount": 300,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Krieg DeVault",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93986",
       "date": "2026-03-03 00:00:00",
       "amount": 300,
       "candidate_name": "Christopher M Parker",
@@ -487,7 +947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34675",
+      "id": "contrib-1792307282048-93987",
       "date": "2026-04-02 00:00:00",
       "amount": 312.3,
       "candidate_name": "Christopher M Parker",
@@ -503,7 +963,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34676",
+      "id": "contrib-1792307282048-93988",
+      "date": "2026-04-18 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Melinda Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Andrews",
+      "address_state": "IN",
+      "address_zip": "46702",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93989",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -519,7 +995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34677",
+      "id": "contrib-1792307282048-93990",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher M Parker",
@@ -535,7 +1011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34678",
+      "id": "contrib-1792307282048-93991",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -551,7 +1027,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34679",
+      "id": "contrib-1792307282048-93992",
+      "date": "2026-08-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Ray Red",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93993",
       "date": "2026-03-22 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher M Parker",
@@ -567,7 +1059,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34680",
+      "id": "contrib-1792307282048-93994",
+      "date": "2026-04-18 00:00:00",
+      "amount": 30,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Summer Niverson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Gas City",
+      "address_state": "IN",
+      "address_zip": "46933",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93995",
       "date": "2026-03-31 00:00:00",
       "amount": 104.1,
       "candidate_name": "Christopher M Parker",
@@ -583,7 +1091,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34681",
+      "id": "contrib-1792307282048-93996",
+      "date": "2026-04-20 00:00:00",
+      "amount": 200,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Thomas J Ringenberg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93997",
+      "date": "2026-06-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Thomas J Ringenberg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93998",
+      "date": "2026-05-06 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Travis LeMaster",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sweetster",
+      "address_state": "IN",
+      "address_zip": "46987",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-93999",
       "date": "2026-03-08 00:00:00",
       "amount": 100,
       "candidate_name": "Christopher M Parker",
@@ -599,7 +1155,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34682",
+      "id": "contrib-1792307282048-94000",
+      "date": "2026-06-15 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Friends of Chris Garten",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Henryville",
+      "address_state": "IN",
+      "address_zip": "47126",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94001",
+      "date": "2026-08-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Vote Dr Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Leo",
+      "address_state": "IN",
+      "address_zip": "46765",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94002",
+      "date": "2026-05-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "American Electric Power Committee for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94003",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Build Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94004",
+      "date": "2026-09-24 00:00:00",
+      "amount": 750,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Community Health Network PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94005",
+      "date": "2026-05-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Elevance Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94006",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Hoosiers for Quality Education Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94007",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "48240",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94008",
+      "date": "2026-09-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94009",
+      "date": "2026-09-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana Food & Fuel Association Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94010",
+      "date": "2026-05-20 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Indiana Multi-Family Housing Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94011",
       "date": "2026-02-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Christopher M Parker",
@@ -611,6 +1343,38 @@
       "address_city": "Huntington",
       "address_state": "IN",
       "address_zip": "46750",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94012",
+      "date": "2026-05-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Trucking Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Parker",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94013",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Christopher M Parker",
+      "contributor_name": "Wine and Spirits Wholesalers of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "49204",
       "recipient_committee": "Friends of Chris Parker",
       "source": "indiana"
     }

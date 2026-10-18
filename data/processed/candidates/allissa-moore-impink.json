@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "51778.36",
-    "total_contributions": 229,
-    "total_itemized": 228,
+    "total_raised": "95989.15",
+    "total_contributions": 450,
+    "total_itemized": 449,
     "total_unitemized": 1
   },
   "by_contributor_type": {
@@ -16,50 +16,78 @@
       "count": 1,
       "total": "140.00"
     },
+    "corporate": {
+      "count": 7,
+      "total": "2000.00"
+    },
     "individual": {
-      "count": 226,
-      "total": "45888.36"
+      "count": 434,
+      "total": "83099.15"
     },
     "committee": {
-      "count": 2,
-      "total": "5750.00"
+      "count": 8,
+      "total": "10750.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 120,
-      "total": "24789.64"
+      "count": 221,
+      "total": "45309.43"
     },
     "small": {
-      "count": 97,
-      "total": "3840.96"
+      "count": 208,
+      "total": "8031.96"
     },
     "large": {
-      "count": 12,
-      "total": "23147.76"
+      "count": 21,
+      "total": "42647.76"
     }
   },
   "by_month": {
     "2026-04": {
-      "count": 59,
-      "total": "14579.00"
+      "count": 90,
+      "total": "21281.00"
+    },
+    "2026-09": {
+      "count": 62,
+      "total": "13289.79"
+    },
+    "2026-06": {
+      "count": 50,
+      "total": "9556.00"
+    },
+    "2026-05": {
+      "count": 17,
+      "total": "2155.00"
     },
     "2026-02": {
       "count": 55,
       "total": "14273.93"
     },
+    "2026-07": {
+      "count": 24,
+      "total": "3312.00"
+    },
     "2026-03": {
       "count": 81,
       "total": "15998.43"
     },
+    "2026-08": {
+      "count": 31,
+      "total": "6946.00"
+    },
     "2026-01": {
       "count": 34,
       "total": "6927.00"
+    },
+    "2026-10": {
+      "count": 6,
+      "total": "2250.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769747-33409",
+      "id": "contrib-1792307282042-90634",
       "date": "2026-04-09 00:00:00",
       "amount": 140,
       "candidate_name": "Allissa Moore Impink",
@@ -75,7 +103,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33410",
+      "id": "contrib-1792307282042-90635",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90636",
+      "date": "2026-06-22 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dilling Real Estate Services LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90637",
+      "date": "2026-09-21 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Easley Winery",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90638",
+      "date": "2026-09-21 00:00:00",
+      "amount": 300,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Krieg DeVault LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90639",
+      "date": "2026-05-27 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lille Bonne",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90640",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Market Street Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90641",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "RJL Solutions LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90642",
       "date": "2026-02-22 00:00:00",
       "amount": 15,
       "candidate_name": "Allissa Moore Impink",
@@ -91,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33411",
+      "id": "contrib-1792307282042-90643",
       "date": "2026-04-02 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -107,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33412",
+      "id": "contrib-1792307282042-90644",
       "date": "2026-04-06 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -123,7 +263,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33413",
+      "id": "contrib-1792307282042-90645",
+      "date": "2026-07-11 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Aleesia Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90646",
+      "date": "2026-06-04 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Alexander Murphy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90647",
       "date": "2026-03-09 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -139,7 +311,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33414",
+      "id": "contrib-1792307282042-90648",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Alexis Weaver",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46239",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90649",
+      "date": "2026-08-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Alina Zayas",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "OH",
+      "address_zip": "43210",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90650",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -155,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33415",
+      "id": "contrib-1792307282042-90651",
       "date": "2026-03-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -171,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33416",
+      "id": "contrib-1792307282042-90652",
       "date": "2026-01-20 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -187,7 +391,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33417",
+      "id": "contrib-1792307282042-90653",
+      "date": "2026-06-04 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Alyssa Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90654",
       "date": "2026-04-01 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -203,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33418",
+      "id": "contrib-1792307282042-90655",
       "date": "2026-02-04 00:00:00",
       "amount": 40,
       "candidate_name": "Allissa Moore Impink",
@@ -219,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33419",
+      "id": "contrib-1792307282042-90656",
       "date": "2026-03-04 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -235,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33420",
+      "id": "contrib-1792307282042-90657",
       "date": "2026-03-23 00:00:00",
       "amount": 350,
       "candidate_name": "Allissa Moore Impink",
@@ -251,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33421",
+      "id": "contrib-1792307282042-90658",
       "date": "2026-02-01 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -267,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33422",
+      "id": "contrib-1792307282042-90659",
       "date": "2026-03-23 00:00:00",
       "amount": 175,
       "candidate_name": "Allissa Moore Impink",
@@ -283,7 +503,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33423",
+      "id": "contrib-1792307282042-90660",
+      "date": "2026-08-24 00:00:00",
+      "amount": 95,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Amy Schwarz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90661",
       "date": "2026-01-24 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -299,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33424",
+      "id": "contrib-1792307282042-90662",
       "date": "2026-04-02 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -315,7 +551,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33425",
+      "id": "contrib-1792307282042-90663",
+      "date": "2026-09-05 00:00:00",
+      "amount": 95,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Andrea Watts",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90664",
       "date": "2026-03-11 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -331,7 +583,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33426",
+      "id": "contrib-1792307282042-90665",
+      "date": "2026-07-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Andrew Cullen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90666",
       "date": "2026-01-31 00:00:00",
       "amount": 1500,
       "candidate_name": "Allissa Moore Impink",
@@ -347,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33427",
+      "id": "contrib-1792307282042-90667",
       "date": "2026-03-05 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -363,7 +631,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33428",
+      "id": "contrib-1792307282042-90668",
+      "date": "2026-06-28 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Andrew Wood",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90669",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -379,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33429",
+      "id": "contrib-1792307282042-90670",
       "date": "2026-02-07 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -395,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33430",
+      "id": "contrib-1792307282042-90671",
       "date": "2026-03-28 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -411,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33431",
+      "id": "contrib-1792307282042-90672",
       "date": "2026-04-02 00:00:00",
       "amount": 30,
       "candidate_name": "Allissa Moore Impink",
@@ -427,7 +711,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33432",
+      "id": "contrib-1792307282042-90673",
+      "date": "2026-06-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Anya Aslanova",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90674",
+      "date": "2026-06-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Arlene Grande",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90675",
       "date": "2026-02-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -443,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33433",
+      "id": "contrib-1792307282042-90676",
       "date": "2026-01-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -459,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33434",
+      "id": "contrib-1792307282042-90677",
       "date": "2026-02-01 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -475,7 +791,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33435",
+      "id": "contrib-1792307282042-90678",
+      "date": "2026-06-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "azusa tanahara",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46217",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90679",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -491,7 +823,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33436",
+      "id": "contrib-1792307282042-90680",
+      "date": "2026-07-04 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ben Grande",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90681",
       "date": "2026-04-02 00:00:00",
       "amount": 125,
       "candidate_name": "Allissa Moore Impink",
@@ -507,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33437",
+      "id": "contrib-1792307282042-90682",
       "date": "2026-03-04 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -523,7 +871,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33438",
+      "id": "contrib-1792307282042-90683",
+      "date": "2026-06-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Beth Stettenbenz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90684",
+      "date": "2026-09-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Beth White",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90685",
       "date": "2026-02-06 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -539,7 +919,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33439",
+      "id": "contrib-1792307282042-90686",
+      "date": "2026-08-24 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Blake Roebuck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90687",
       "date": "2026-01-30 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -555,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33440",
+      "id": "contrib-1792307282042-90688",
       "date": "2026-03-20 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -571,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33441",
+      "id": "contrib-1792307282042-90689",
       "date": "2026-03-17 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -587,7 +983,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33442",
+      "id": "contrib-1792307282042-90690",
+      "date": "2026-10-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Brian Beck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90691",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Brian Shapiro",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90692",
       "date": "2026-03-27 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -603,7 +1031,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33443",
+      "id": "contrib-1792307282042-90693",
+      "date": "2026-07-03 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Brittany Doyle",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90694",
+      "date": "2026-08-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Bruce Colville",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90695",
+      "date": "2026-05-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Bryan Truex",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90696",
+      "date": "2026-05-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Bryn Eudy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20002",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90697",
+      "date": "2026-06-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Bryn Eudy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20002",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90698",
       "date": "2026-04-05 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -619,7 +1127,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33444",
+      "id": "contrib-1792307282042-90699",
+      "date": "2026-06-03 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Caitlin Young",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90700",
+      "date": "2026-05-04 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Cameron Radford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90701",
       "date": "2026-04-02 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -635,7 +1175,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33445",
+      "id": "contrib-1792307282042-90702",
+      "date": "2026-04-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Cara Berg Raunick",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90703",
       "date": "2026-02-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -651,7 +1207,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33446",
+      "id": "contrib-1792307282042-90704",
+      "date": "2026-04-13 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Carey Hamilton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90705",
+      "date": "2026-07-09 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Carey Hamilton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90706",
+      "date": "2026-04-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Carl Drummer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90707",
       "date": "2026-01-31 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -667,7 +1271,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33447",
+      "id": "contrib-1792307282042-90708",
+      "date": "2026-09-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Carol Montgomery",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Spencer",
+      "address_state": "IN",
+      "address_zip": "47460",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90709",
       "date": "2026-02-05 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -683,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33448",
+      "id": "contrib-1792307282042-90710",
       "date": "2026-01-27 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -699,7 +1319,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33449",
+      "id": "contrib-1792307282042-90711",
+      "date": "2026-09-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Catherine Torzewski",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90712",
+      "date": "2026-04-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Cecilia Van Wijk",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90713",
+      "date": "2026-09-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Cecilia Van Wijk",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90714",
+      "date": "2026-09-24 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Cecilia Van Wijk",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90715",
       "date": "2026-04-02 00:00:00",
       "amount": 125,
       "candidate_name": "Allissa Moore Impink",
@@ -715,7 +1399,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33450",
+      "id": "contrib-1792307282042-90716",
+      "date": "2026-04-13 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Charles Sandberg",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90717",
+      "date": "2026-09-29 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Charles Sandberg",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90718",
       "date": "2026-04-02 00:00:00",
       "amount": 30,
       "candidate_name": "Allissa Moore Impink",
@@ -731,7 +1447,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33451",
+      "id": "contrib-1792307282042-90719",
+      "date": "2026-08-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Charlie Richardson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90720",
       "date": "2026-04-01 00:00:00",
       "amount": 1100,
       "candidate_name": "Allissa Moore Impink",
@@ -747,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33452",
+      "id": "contrib-1792307282042-90721",
       "date": "2026-01-24 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -763,7 +1495,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33453",
+      "id": "contrib-1792307282042-90722",
+      "date": "2026-08-25 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Chelsea Schwartz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90723",
+      "date": "2026-04-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Chris Gibson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90724",
       "date": "2026-01-24 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -779,7 +1543,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33454",
+      "id": "contrib-1792307282042-90725",
+      "date": "2026-09-30 00:00:00",
+      "amount": 190,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Christopher Mitchem",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90726",
       "date": "2026-04-01 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -795,7 +1575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33455",
+      "id": "contrib-1792307282042-90727",
       "date": "2026-04-02 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -811,7 +1591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33456",
+      "id": "contrib-1792307282042-90728",
       "date": "2026-03-05 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -827,7 +1607,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33457",
+      "id": "contrib-1792307282042-90729",
+      "date": "2026-09-28 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Colleen Parker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46217",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90730",
+      "date": "2026-06-03 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Corryn Knott",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "louisville",
+      "address_state": "KY",
+      "address_zip": "40291",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90731",
+      "date": "2026-08-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Courtney Rude",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90732",
       "date": "2026-02-05 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -843,7 +1671,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33458",
+      "id": "contrib-1792307282042-90733",
+      "date": "2026-09-22 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dakota Pawlicki",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90734",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dan Doll",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90735",
       "date": "2026-04-02 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -859,7 +1719,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33459",
+      "id": "contrib-1792307282042-90736",
+      "date": "2026-04-20 00:00:00",
+      "amount": 30,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Daniel Walterman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90737",
+      "date": "2026-05-06 00:00:00",
+      "amount": 30,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Danielle Deery",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oaklyn",
+      "address_state": "NJ",
+      "address_zip": "08107",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90738",
+      "date": "2026-06-06 00:00:00",
+      "amount": 30,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Danielle Deery",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oaklyn",
+      "address_state": "NJ",
+      "address_zip": "08107",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90739",
+      "date": "2026-07-06 00:00:00",
+      "amount": 30,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Danielle Deery",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oaklyn",
+      "address_state": "NJ",
+      "address_zip": "08107",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90740",
       "date": "2026-04-02 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -875,7 +1799,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33460",
+      "id": "contrib-1792307282042-90741",
+      "date": "2026-06-05 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Darla Bunting",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Baltimore",
+      "address_state": "MD",
+      "address_zip": "21230",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90742",
+      "date": "2026-04-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "David Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90743",
       "date": "2026-03-27 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -891,7 +1847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33461",
+      "id": "contrib-1792307282042-90744",
       "date": "2026-04-02 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -907,7 +1863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33462",
+      "id": "contrib-1792307282042-90745",
       "date": "2026-01-28 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -923,7 +1879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33463",
+      "id": "contrib-1792307282042-90746",
       "date": "2026-02-03 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -939,7 +1895,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33464",
+      "id": "contrib-1792307282042-90747",
+      "date": "2026-06-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Deanna Addison",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90748",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -955,7 +1927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33465",
+      "id": "contrib-1792307282042-90749",
       "date": "2026-01-30 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -971,7 +1943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33466",
+      "id": "contrib-1792307282042-90750",
       "date": "2026-04-02 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -987,7 +1959,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33467",
+      "id": "contrib-1792307282042-90751",
+      "date": "2026-04-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Diane Thompson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90752",
       "date": "2026-01-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -1003,7 +1991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33468",
+      "id": "contrib-1792307282042-90753",
       "date": "2026-04-02 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -1019,7 +2007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33469",
+      "id": "contrib-1792307282042-90754",
       "date": "2026-04-02 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -1035,7 +2023,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33470",
+      "id": "contrib-1792307282042-90755",
+      "date": "2026-06-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Doug Litsey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90756",
       "date": "2026-01-30 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -1051,7 +2055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33471",
+      "id": "contrib-1792307282042-90757",
       "date": "2026-03-27 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1067,7 +2071,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33472",
+      "id": "contrib-1792307282042-90758",
+      "date": "2026-05-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90759",
+      "date": "2026-06-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90760",
+      "date": "2026-07-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90761",
+      "date": "2026-08-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90762",
+      "date": "2026-09-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90763",
+      "date": "2026-10-04 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Dustin Jefford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90764",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1083,7 +2183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33473",
+      "id": "contrib-1792307282042-90765",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -1099,7 +2199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33474",
+      "id": "contrib-1792307282042-90766",
       "date": "2026-02-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -1115,7 +2215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33475",
+      "id": "contrib-1792307282042-90767",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1131,7 +2231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33476",
+      "id": "contrib-1792307282042-90768",
       "date": "2026-04-02 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -1147,7 +2247,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33477",
+      "id": "contrib-1792307282042-90769",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ellen Burdge",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90770",
       "date": "2026-03-23 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1163,7 +2279,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33478",
+      "id": "contrib-1792307282042-90771",
+      "date": "2026-08-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Emily Brelage",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90772",
       "date": "2026-03-18 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -1179,7 +2311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33479",
+      "id": "contrib-1792307282042-90773",
       "date": "2026-02-28 00:00:00",
       "amount": 560,
       "candidate_name": "Allissa Moore Impink",
@@ -1195,7 +2327,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33480",
+      "id": "contrib-1792307282042-90774",
+      "date": "2026-08-25 00:00:00",
+      "amount": 95,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Emily Scott",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90775",
       "date": "2026-02-23 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -1211,7 +2359,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33481",
+      "id": "contrib-1792307282042-90776",
+      "date": "2026-05-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Emily Styron",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90777",
       "date": "2026-04-02 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -1227,7 +2391,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33482",
+      "id": "contrib-1792307282042-90778",
+      "date": "2026-09-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Erik Hembre",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90779",
       "date": "2026-03-05 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -1243,7 +2423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33483",
+      "id": "contrib-1792307282042-90780",
       "date": "2026-01-24 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1259,7 +2439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33484",
+      "id": "contrib-1792307282042-90781",
       "date": "2026-02-08 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1275,7 +2455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33485",
+      "id": "contrib-1792307282042-90782",
       "date": "2026-03-23 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1291,7 +2471,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33486",
+      "id": "contrib-1792307282042-90783",
+      "date": "2026-06-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Evelyn Cosper",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90784",
       "date": "2026-04-02 00:00:00",
       "amount": 30,
       "candidate_name": "Allissa Moore Impink",
@@ -1307,7 +2503,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33487",
+      "id": "contrib-1792307282042-90785",
+      "date": "2026-06-23 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Gary  Reiter",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90786",
       "date": "2026-02-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1323,7 +2535,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33488",
+      "id": "contrib-1792307282042-90787",
+      "date": "2026-07-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Genevie Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90788",
+      "date": "2026-08-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Genevie Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90789",
+      "date": "2026-09-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Genevie Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90790",
+      "date": "2026-10-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Genevie Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90791",
       "date": "2026-01-24 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -1339,7 +2615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33489",
+      "id": "contrib-1792307282042-90792",
       "date": "2026-03-27 00:00:00",
       "amount": 138,
       "candidate_name": "Allissa Moore Impink",
@@ -1355,7 +2631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33490",
+      "id": "contrib-1792307282042-90793",
       "date": "2026-03-27 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -1371,7 +2647,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33491",
+      "id": "contrib-1792307282042-90794",
+      "date": "2026-07-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Gerri Pagach",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46224",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90795",
+      "date": "2026-08-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Glenda Hernandez",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90796",
+      "date": "2026-08-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Grant Clarke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90797",
       "date": "2026-04-02 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -1387,7 +2711,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33492",
+      "id": "contrib-1792307282042-90798",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Gregory Hahn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90799",
+      "date": "2026-07-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Gregory Hahn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90800",
+      "date": "2026-05-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "GRETCHEN SYVERUD",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "VA",
+      "address_zip": "23223",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90801",
+      "date": "2026-09-26 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90802",
+      "date": "2026-04-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90803",
+      "date": "2026-05-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90804",
+      "date": "2026-06-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90805",
+      "date": "2026-07-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90806",
+      "date": "2026-08-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90807",
+      "date": "2026-09-25 00:00:00",
+      "amount": 60,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hannah Calkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90808",
       "date": "2026-03-25 00:00:00",
       "amount": 180,
       "candidate_name": "Allissa Moore Impink",
@@ -1403,7 +2887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33493",
+      "id": "contrib-1792307282042-90809",
       "date": "2026-04-02 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -1419,7 +2903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33494",
+      "id": "contrib-1792307282042-90810",
       "date": "2026-02-05 00:00:00",
       "amount": 22.17,
       "candidate_name": "Allissa Moore Impink",
@@ -1435,7 +2919,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33495",
+      "id": "contrib-1792307282042-90811",
+      "date": "2026-04-23 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Heather Willey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90812",
       "date": "2026-03-26 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -1451,7 +2951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33496",
+      "id": "contrib-1792307282042-90813",
       "date": "2026-02-07 00:00:00",
       "amount": 5,
       "candidate_name": "Allissa Moore Impink",
@@ -1467,7 +2967,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33497",
+      "id": "contrib-1792307282042-90814",
+      "date": "2026-04-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Hope Tribble",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90815",
       "date": "2026-03-05 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -1483,7 +2999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33498",
+      "id": "contrib-1792307282042-90816",
       "date": "2026-03-31 00:00:00",
       "amount": 30,
       "candidate_name": "Allissa Moore Impink",
@@ -1499,7 +3015,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33499",
+      "id": "contrib-1792307282042-90817",
+      "date": "2026-06-04 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jaclyn Wall",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90818",
       "date": "2026-03-27 00:00:00",
       "amount": 146,
       "candidate_name": "Allissa Moore Impink",
@@ -1515,7 +3047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33500",
+      "id": "contrib-1792307282042-90819",
       "date": "2026-02-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1531,7 +3063,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33501",
+      "id": "contrib-1792307282042-90820",
+      "date": "2026-04-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jane Henegar",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90821",
+      "date": "2026-09-30 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Janice Wilson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90822",
+      "date": "2026-09-21 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Janine Betsey",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90823",
       "date": "2026-02-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1547,7 +3127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33502",
+      "id": "contrib-1792307282042-90824",
       "date": "2026-04-02 00:00:00",
       "amount": 600,
       "candidate_name": "Allissa Moore Impink",
@@ -1563,7 +3143,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33503",
+      "id": "contrib-1792307282042-90825",
+      "date": "2026-08-22 00:00:00",
+      "amount": 15,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jason Jointer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York",
+      "address_state": "NY",
+      "address_zip": "10019",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90826",
+      "date": "2026-08-21 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jason Tracy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Columbus",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90827",
       "date": "2026-04-06 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -1579,7 +3191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33504",
+      "id": "contrib-1792307282042-90828",
       "date": "2026-04-02 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -1595,7 +3207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33505",
+      "id": "contrib-1792307282042-90829",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1611,7 +3223,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33506",
+      "id": "contrib-1792307282042-90830",
+      "date": "2026-04-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jennifer Dzwonar",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90831",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jenny Skehan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90832",
+      "date": "2026-07-03 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jerome Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90833",
+      "date": "2026-09-23 00:00:00",
+      "amount": 92,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jerome Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90834",
       "date": "2026-02-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1627,7 +3303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33507",
+      "id": "contrib-1792307282042-90835",
       "date": "2026-04-02 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -1643,7 +3319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33508",
+      "id": "contrib-1792307282042-90836",
       "date": "2026-03-17 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1659,7 +3335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33509",
+      "id": "contrib-1792307282042-90837",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1675,7 +3351,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33510",
+      "id": "contrib-1792307282042-90838",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "John Franklin\t Hay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90839",
+      "date": "2026-08-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "John Mainella",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Provincetown",
+      "address_state": "MA",
+      "address_zip": "02657",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90840",
+      "date": "2026-07-13 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Johnathon Willey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90841",
       "date": "2026-03-27 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -1691,7 +3415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33511",
+      "id": "contrib-1792307282042-90842",
       "date": "2026-02-05 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -1707,7 +3431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33512",
+      "id": "contrib-1792307282042-90843",
       "date": "2026-02-07 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1723,7 +3447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33513",
+      "id": "contrib-1792307282042-90844",
       "date": "2026-01-28 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -1739,7 +3463,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33514",
+      "id": "contrib-1792307282042-90845",
+      "date": "2026-06-24 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Julianna Sercer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90846",
       "date": "2026-01-29 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -1755,7 +3495,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33515",
+      "id": "contrib-1792307282042-90847",
+      "date": "2026-04-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "K Lyon Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90848",
+      "date": "2026-07-11 00:00:00",
+      "amount": 20,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kacheyta McClellan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fortville",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90849",
       "date": "2026-02-05 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -1771,7 +3543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33516",
+      "id": "contrib-1792307282042-90850",
       "date": "2026-02-06 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -1787,7 +3559,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33517",
+      "id": "contrib-1792307282042-90851",
+      "date": "2026-09-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Karin Ogden",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90852",
       "date": "2026-01-24 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1803,7 +3591,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33518",
+      "id": "contrib-1792307282043-90853",
+      "date": "2026-06-20 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kat Bloomfield",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Woodside",
+      "address_state": "NY",
+      "address_zip": "11377",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90854",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Katara McCarty",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90855",
       "date": "2026-02-05 00:00:00",
       "amount": 92,
       "candidate_name": "Allissa Moore Impink",
@@ -1819,7 +3639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33519",
+      "id": "contrib-1792307282043-90856",
       "date": "2026-01-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -1835,7 +3655,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33520",
+      "id": "contrib-1792307282043-90857",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Katherine Blamo",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90858",
+      "date": "2026-06-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kathy  Lansford",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90859",
       "date": "2026-01-30 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -1851,7 +3703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33521",
+      "id": "contrib-1792307282043-90860",
       "date": "2026-04-02 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -1867,7 +3719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33522",
+      "id": "contrib-1792307282043-90861",
       "date": "2026-02-05 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -1883,7 +3735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33523",
+      "id": "contrib-1792307282043-90862",
       "date": "2026-02-03 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1899,7 +3751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33524",
+      "id": "contrib-1792307282043-90863",
       "date": "2026-03-29 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -1915,7 +3767,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33525",
+      "id": "contrib-1792307282043-90864",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kelly Tingle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90865",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ken Clark",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90866",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -1931,7 +3815,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33526",
+      "id": "contrib-1792307282043-90867",
+      "date": "2026-07-07 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kevin Corcoran",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90868",
       "date": "2026-03-28 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -1947,7 +3847,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33527",
+      "id": "contrib-1792307282043-90869",
+      "date": "2026-09-29 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kevin Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90870",
+      "date": "2026-08-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kim Tekolste",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90871",
       "date": "2026-04-02 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -1963,7 +3895,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33528",
+      "id": "contrib-1792307282043-90872",
+      "date": "2026-09-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kip Tew",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90873",
       "date": "2026-03-27 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -1979,7 +3927,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33529",
+      "id": "contrib-1792307282043-90874",
+      "date": "2026-04-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kourtney Teegardin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90875",
+      "date": "2026-05-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kourtney Teegardin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90876",
       "date": "2026-03-28 00:00:00",
       "amount": 45,
       "candidate_name": "Allissa Moore Impink",
@@ -1995,7 +3975,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33530",
+      "id": "contrib-1792307282043-90877",
+      "date": "2026-06-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kourtney Teegardin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90878",
+      "date": "2026-07-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kourtney Teegardin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90879",
       "date": "2026-01-25 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -2011,7 +4023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33531",
+      "id": "contrib-1792307282043-90880",
       "date": "2026-03-05 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -2027,7 +4039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33532",
+      "id": "contrib-1792307282043-90881",
       "date": "2026-02-05 00:00:00",
       "amount": 1092,
       "candidate_name": "Allissa Moore Impink",
@@ -2043,7 +4055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33533",
+      "id": "contrib-1792307282043-90882",
       "date": "2026-04-04 00:00:00",
       "amount": 63,
       "candidate_name": "Allissa Moore Impink",
@@ -2059,7 +4071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33534",
+      "id": "contrib-1792307282043-90883",
       "date": "2026-01-25 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2075,7 +4087,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33535",
+      "id": "contrib-1792307282043-90884",
+      "date": "2026-09-04 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Kristin Hancock",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90885",
       "date": "2026-03-31 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2091,7 +4119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33536",
+      "id": "contrib-1792307282043-90886",
       "date": "2026-03-07 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2107,7 +4135,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33537",
+      "id": "contrib-1792307282043-90887",
+      "date": "2026-08-18 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "La Keisha Jackson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46229",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90888",
       "date": "2026-03-02 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2123,7 +4167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33538",
+      "id": "contrib-1792307282043-90889",
       "date": "2026-02-23 00:00:00",
       "amount": 115,
       "candidate_name": "Allissa Moore Impink",
@@ -2139,7 +4183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33539",
+      "id": "contrib-1792307282043-90890",
       "date": "2026-02-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2155,7 +4199,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33540",
+      "id": "contrib-1792307282043-90891",
+      "date": "2026-06-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lauren Day",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90892",
+      "date": "2026-04-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lauren Esposito",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Oxford",
+      "address_state": "NY",
+      "address_zip": "13830",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90893",
+      "date": "2026-07-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lauren Esposito",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Oxford",
+      "address_state": "NY",
+      "address_zip": "13830",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90894",
       "date": "2026-02-05 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -2171,7 +4263,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33541",
+      "id": "contrib-1792307282043-90895",
+      "date": "2026-05-27 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lauren Hall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90896",
       "date": "2026-03-16 00:00:00",
       "amount": 173.64,
       "candidate_name": "Allissa Moore Impink",
@@ -2187,7 +4295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33542",
+      "id": "contrib-1792307282043-90897",
       "date": "2026-04-02 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -2203,7 +4311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33543",
+      "id": "contrib-1792307282043-90898",
       "date": "2026-04-02 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -2219,7 +4327,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33544",
+      "id": "contrib-1792307282043-90899",
+      "date": "2026-04-22 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lillie Barlow",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90900",
+      "date": "2026-09-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Linda Broadfoot",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90901",
       "date": "2026-01-27 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2235,7 +4375,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33545",
+      "id": "contrib-1792307282043-90902",
+      "date": "2026-09-21 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Linda Broadfoot",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90903",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -2251,7 +4407,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33546",
+      "id": "contrib-1792307282043-90904",
+      "date": "2026-04-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lorraine Perez",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90905",
+      "date": "2026-05-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lorraine Perez",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90906",
+      "date": "2026-06-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lorraine Perez",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90907",
+      "date": "2026-07-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lorraine Perez",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90908",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2267,7 +4487,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33547",
+      "id": "contrib-1792307282043-90909",
+      "date": "2026-08-17 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lucas Niekamp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90910",
+      "date": "2026-04-13 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Lydia Spotts",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90911",
+      "date": "2026-08-27 00:00:00",
+      "amount": 40,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Mackenzie Higgins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90912",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2283,7 +4551,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33548",
+      "id": "contrib-1792307282043-90913",
+      "date": "2026-06-04 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Madison Hodges",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90914",
       "date": "2026-03-17 00:00:00",
       "amount": 10,
       "candidate_name": "Allissa Moore Impink",
@@ -2299,7 +4583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33549",
+      "id": "contrib-1792307282043-90915",
       "date": "2026-03-27 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -2315,7 +4599,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33550",
+      "id": "contrib-1792307282043-90916",
+      "date": "2026-06-24 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Manuel  Valdes",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90917",
       "date": "2026-03-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Allissa Moore Impink",
@@ -2331,7 +4631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33551",
+      "id": "contrib-1792307282043-90918",
       "date": "2026-02-01 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2347,7 +4647,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33552",
+      "id": "contrib-1792307282043-90919",
+      "date": "2026-07-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Margo Kelly",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90920",
       "date": "2026-03-23 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -2363,7 +4679,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33553",
+      "id": "contrib-1792307282043-90921",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Marianne Glick",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90922",
       "date": "2026-03-20 00:00:00",
       "amount": 2500,
       "candidate_name": "Allissa Moore Impink",
@@ -2379,7 +4711,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33554",
+      "id": "contrib-1792307282043-90923",
+      "date": "2026-06-14 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Marianne Glick",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90924",
       "date": "2026-03-26 00:00:00",
       "amount": 450,
       "candidate_name": "Allissa Moore Impink",
@@ -2395,7 +4743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33555",
+      "id": "contrib-1792307282043-90925",
       "date": "2026-01-29 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2411,7 +4759,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33556",
+      "id": "contrib-1792307282043-90926",
+      "date": "2026-09-28 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Martha O'Connor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90927",
       "date": "2026-04-09 00:00:00",
       "amount": 300,
       "candidate_name": "Allissa Moore Impink",
@@ -2427,7 +4791,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33557",
+      "id": "contrib-1792307282043-90928",
+      "date": "2026-06-24 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Mary  Duffy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90929",
       "date": "2026-03-22 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -2443,7 +4823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33558",
+      "id": "contrib-1792307282043-90930",
       "date": "2026-04-01 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -2459,7 +4839,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33559",
+      "id": "contrib-1792307282043-90931",
+      "date": "2026-04-14 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Megan Murphy",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90932",
+      "date": "2026-08-31 00:00:00",
+      "amount": 20,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Meghan Biallas",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46225",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90933",
       "date": "2026-02-02 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -2475,7 +4887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33560",
+      "id": "contrib-1792307282043-90934",
       "date": "2026-03-02 00:00:00",
       "amount": 20.79,
       "candidate_name": "Allissa Moore Impink",
@@ -2491,7 +4903,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33561",
+      "id": "contrib-1792307282043-90935",
+      "date": "2026-08-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Melanie Wright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Yorktown",
+      "address_state": "IN",
+      "address_zip": "47396",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90936",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2507,7 +4935,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33562",
+      "id": "contrib-1792307282043-90937",
+      "date": "2026-06-23 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Michael  Torres",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46218",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90938",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Michael Krautkramer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90939",
       "date": "2026-03-25 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2523,7 +4983,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33563",
+      "id": "contrib-1792307282043-90940",
+      "date": "2026-09-06 00:00:00",
+      "amount": 95,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Michael Luebcke",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46225",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90941",
+      "date": "2026-08-19 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Michael Stanek",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90942",
       "date": "2026-04-03 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2539,7 +5031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33564",
+      "id": "contrib-1792307282043-90943",
       "date": "2026-01-26 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -2555,7 +5047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33565",
+      "id": "contrib-1792307282043-90944",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2571,7 +5063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33566",
+      "id": "contrib-1792307282043-90945",
       "date": "2026-03-30 00:00:00",
       "amount": 92,
       "candidate_name": "Allissa Moore Impink",
@@ -2587,7 +5079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33567",
+      "id": "contrib-1792307282043-90946",
       "date": "2026-03-05 00:00:00",
       "amount": 175,
       "candidate_name": "Allissa Moore Impink",
@@ -2603,7 +5095,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33568",
+      "id": "contrib-1792307282043-90947",
+      "date": "2026-06-25 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Micki Lile",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202-1408",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90948",
       "date": "2026-01-27 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2619,7 +5127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33569",
+      "id": "contrib-1792307282043-90949",
       "date": "2026-02-04 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2635,7 +5143,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33570",
+      "id": "contrib-1792307282043-90950",
+      "date": "2026-09-28 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Monique McWilliams",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90951",
       "date": "2026-03-27 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2651,7 +5175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33571",
+      "id": "contrib-1792307282043-90952",
       "date": "2026-02-05 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -2667,7 +5191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33572",
+      "id": "contrib-1792307282043-90953",
       "date": "2026-03-04 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2683,7 +5207,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33573",
+      "id": "contrib-1792307282043-90954",
+      "date": "2026-09-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nabeela Virjee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90955",
       "date": "2026-01-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -2699,7 +5239,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33574",
+      "id": "contrib-1792307282043-90956",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nancy Armstrong",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90957",
+      "date": "2026-09-01 00:00:00",
+      "amount": 270,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nancy Stinson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90958",
       "date": "2026-02-03 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -2715,7 +5287,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33575",
+      "id": "contrib-1792307282043-90959",
+      "date": "2026-07-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nicholas Heiny",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ft Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90960",
+      "date": "2026-06-23 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nick Detrich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New Orleans",
+      "address_state": "LA",
+      "address_zip": "70114",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90961",
+      "date": "2026-07-13 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Nicolette Mendenhall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90962",
       "date": "2026-02-05 00:00:00",
       "amount": 350,
       "candidate_name": "Allissa Moore Impink",
@@ -2731,7 +5351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33576",
+      "id": "contrib-1792307282043-90963",
       "date": "2026-04-02 00:00:00",
       "amount": 40,
       "candidate_name": "Allissa Moore Impink",
@@ -2747,7 +5367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33577",
+      "id": "contrib-1792307282043-90964",
       "date": "2026-04-10 00:00:00",
       "amount": 800,
       "candidate_name": "Allissa Moore Impink",
@@ -2763,7 +5383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33578",
+      "id": "contrib-1792307282043-90965",
       "date": "2026-02-24 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -2779,7 +5399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33579",
+      "id": "contrib-1792307282043-90966",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -2795,7 +5415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33580",
+      "id": "contrib-1792307282043-90967",
       "date": "2026-03-25 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -2811,7 +5431,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33581",
+      "id": "contrib-1792307282043-90968",
+      "date": "2026-09-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Peggy Frame",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46235",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90969",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -2827,7 +5463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33582",
+      "id": "contrib-1792307282043-90970",
       "date": "2026-02-03 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -2843,7 +5479,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33583",
+      "id": "contrib-1792307282043-90971",
+      "date": "2026-09-30 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel Hathaway",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90972",
+      "date": "2026-09-21 00:00:00",
+      "amount": 125,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel McIntosh",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90973",
       "date": "2026-04-01 00:00:00",
       "amount": 146,
       "candidate_name": "Allissa Moore Impink",
@@ -2859,7 +5527,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33584",
+      "id": "contrib-1792307282043-90974",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel Walsh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90975",
+      "date": "2026-07-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel Walsh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90976",
+      "date": "2026-08-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel Walsh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90977",
+      "date": "2026-09-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rachel Walsh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90978",
+      "date": "2026-04-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Randall Ojeda",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90979",
       "date": "2026-04-02 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2875,7 +5623,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33585",
+      "id": "contrib-1792307282043-90980",
+      "date": "2026-06-25 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Rebecca Seifert",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90981",
       "date": "2026-03-13 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2891,7 +5655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33586",
+      "id": "contrib-1792307282043-90982",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -2907,7 +5671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33587",
+      "id": "contrib-1792307282043-90983",
       "date": "2026-01-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Allissa Moore Impink",
@@ -2923,7 +5687,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33588",
+      "id": "contrib-1792307282043-90984",
+      "date": "2026-08-09 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Richard Hailey",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90985",
+      "date": "2026-06-26 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Richard Wilson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90986",
+      "date": "2026-08-26 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Riley Spelman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90987",
+      "date": "2026-09-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Robin Shackleford",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46229",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90988",
       "date": "2026-03-01 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -2939,7 +5767,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33589",
+      "id": "contrib-1792307282043-90989",
+      "date": "2026-04-25 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ronak Shah",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90990",
+      "date": "2026-05-25 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ronak Shah",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90991",
       "date": "2026-03-25 00:00:00",
       "amount": 70,
       "candidate_name": "Allissa Moore Impink",
@@ -2955,7 +5815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33590",
+      "id": "contrib-1792307282043-90992",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -2971,7 +5831,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33591",
+      "id": "contrib-1792307282043-90993",
+      "date": "2026-09-30 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ruba Marshood",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90994",
+      "date": "2026-09-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ruth Purcell-Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90995",
+      "date": "2026-06-04 00:00:00",
+      "amount": 5,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ruthann Copeland",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "McCordsville",
+      "address_state": "IN",
+      "address_zip": "46055",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-90996",
       "date": "2026-04-02 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -2987,7 +5895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33592",
+      "id": "contrib-1792307282043-90997",
       "date": "2026-02-25 00:00:00",
       "amount": 62,
       "candidate_name": "Allissa Moore Impink",
@@ -3003,7 +5911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33593",
+      "id": "contrib-1792307282043-90998",
       "date": "2026-02-05 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -3019,7 +5927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33594",
+      "id": "contrib-1792307282043-90999",
       "date": "2026-04-04 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -3035,7 +5943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33595",
+      "id": "contrib-1792307282043-91000",
       "date": "2026-04-02 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -3051,7 +5959,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33596",
+      "id": "contrib-1792307282043-91001",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Sara McGoun",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91002",
       "date": "2026-01-24 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -3067,7 +5991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33597",
+      "id": "contrib-1792307282043-91003",
       "date": "2026-02-03 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3083,7 +6007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33598",
+      "id": "contrib-1792307282043-91004",
       "date": "2026-01-24 00:00:00",
       "amount": 500,
       "candidate_name": "Allissa Moore Impink",
@@ -3099,7 +6023,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33599",
+      "id": "contrib-1792307282043-91005",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Scott  Faletic",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolsi",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91006",
       "date": "2026-04-02 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3115,7 +6055,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33600",
+      "id": "contrib-1792307282043-91007",
+      "date": "2026-08-20 00:00:00",
+      "amount": 200,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Sean Coffington",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91008",
       "date": "2026-04-02 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -3131,7 +6087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33601",
+      "id": "contrib-1792307282043-91009",
       "date": "2026-02-22 00:00:00",
       "amount": 80,
       "candidate_name": "Allissa Moore Impink",
@@ -3147,7 +6103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33602",
+      "id": "contrib-1792307282043-91010",
       "date": "2026-03-31 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -3163,7 +6119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33603",
+      "id": "contrib-1792307282043-91011",
       "date": "2026-02-05 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3179,7 +6135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33604",
+      "id": "contrib-1792307282043-91012",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3195,7 +6151,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33605",
+      "id": "contrib-1792307282043-91013",
+      "date": "2026-06-03 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Sharon Nicholas",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York",
+      "address_state": "NY",
+      "address_zip": "10028",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91014",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Shawna Eikenberry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91015",
+      "date": "2026-06-23 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Shellye Suttles",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91016",
       "date": "2026-02-26 00:00:00",
       "amount": 60,
       "candidate_name": "Allissa Moore Impink",
@@ -3211,7 +6215,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33606",
+      "id": "contrib-1792307282043-91017",
+      "date": "2026-09-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Shellye Suttles",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91018",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3227,7 +6247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33607",
+      "id": "contrib-1792307282043-91019",
       "date": "2026-01-24 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3243,7 +6263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33608",
+      "id": "contrib-1792307282043-91020",
       "date": "2026-02-16 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3259,7 +6279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33609",
+      "id": "contrib-1792307282043-91021",
       "date": "2026-02-07 00:00:00",
       "amount": 120,
       "candidate_name": "Allissa Moore Impink",
@@ -3275,7 +6295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33610",
+      "id": "contrib-1792307282043-91022",
       "date": "2026-03-16 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -3291,7 +6311,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33611",
+      "id": "contrib-1792307282043-91023",
+      "date": "2026-07-28 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Stephanie Crandall",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91024",
       "date": "2026-03-16 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -3307,7 +6343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33612",
+      "id": "contrib-1792307282043-91025",
       "date": "2026-02-05 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -3323,7 +6359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33613",
+      "id": "contrib-1792307282043-91026",
       "date": "2026-03-17 00:00:00",
       "amount": 25,
       "candidate_name": "Allissa Moore Impink",
@@ -3339,7 +6375,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33614",
+      "id": "contrib-1792307282043-91027",
+      "date": "2026-09-26 00:00:00",
+      "amount": 117,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Sujata Ghate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91028",
+      "date": "2026-05-02 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Summer Gladden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91029",
+      "date": "2026-06-02 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Summer Gladden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91030",
       "date": "2026-04-02 00:00:00",
       "amount": 106,
       "candidate_name": "Allissa Moore Impink",
@@ -3355,7 +6439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33615",
+      "id": "contrib-1792307282043-91031",
       "date": "2026-03-05 00:00:00",
       "amount": 550,
       "candidate_name": "Allissa Moore Impink",
@@ -3371,7 +6455,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33616",
+      "id": "contrib-1792307282043-91032",
+      "date": "2026-09-11 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tamara Winfrey Harris",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91033",
+      "date": "2026-09-21 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tammy Stevens",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46219",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91034",
+      "date": "2026-06-24 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tanner Hronek",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91035",
       "date": "2026-04-02 00:00:00",
       "amount": 115,
       "candidate_name": "Allissa Moore Impink",
@@ -3387,7 +6519,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33617",
+      "id": "contrib-1792307282043-91036",
+      "date": "2026-06-25 00:00:00",
+      "amount": 46,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Ted Gregorek",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91037",
+      "date": "2026-04-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Thomas Hiatt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91038",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Thomas Stafford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91039",
+      "date": "2026-07-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Thomas Stafford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91040",
+      "date": "2026-08-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Thomas Stafford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91041",
+      "date": "2026-09-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Thomas Stafford",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91042",
       "date": "2026-03-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Allissa Moore Impink",
@@ -3403,7 +6631,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33618",
+      "id": "contrib-1792307282043-91043",
+      "date": "2026-09-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tiffany Hanson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91044",
       "date": "2026-01-27 00:00:00",
       "amount": 42,
       "candidate_name": "Allissa Moore Impink",
@@ -3419,7 +6663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33619",
+      "id": "contrib-1792307282043-91045",
       "date": "2026-01-28 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3435,7 +6679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33620",
+      "id": "contrib-1792307282043-91046",
       "date": "2026-04-02 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -3451,7 +6695,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33621",
+      "id": "contrib-1792307282043-91047",
+      "date": "2026-05-06 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tripti Singh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Verona",
+      "address_state": "NJ",
+      "address_zip": "07004",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91048",
+      "date": "2026-09-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Tripti Singh",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Verona",
+      "address_state": "NJ",
+      "address_zip": "07004",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91049",
       "date": "2026-04-02 00:00:00",
       "amount": 75,
       "candidate_name": "Allissa Moore Impink",
@@ -3467,7 +6743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33622",
+      "id": "contrib-1792307282043-91050",
       "date": "2026-03-31 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -3483,7 +6759,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33623",
+      "id": "contrib-1792307282043-91051",
+      "date": "2026-06-24 00:00:00",
+      "amount": 25,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Vanessa Convard-Brinkley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91052",
       "date": "2026-02-05 00:00:00",
       "amount": 50,
       "candidate_name": "Allissa Moore Impink",
@@ -3499,7 +6791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33624",
+      "id": "contrib-1792307282043-91053",
       "date": "2026-03-27 00:00:00",
       "amount": 20,
       "candidate_name": "Allissa Moore Impink",
@@ -3515,7 +6807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33625",
+      "id": "contrib-1792307282043-91054",
       "date": "2026-03-28 00:00:00",
       "amount": 2,
       "candidate_name": "Allissa Moore Impink",
@@ -3531,7 +6823,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33626",
+      "id": "contrib-1792307282043-91055",
+      "date": "2026-06-30 00:00:00",
+      "amount": 150,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Whitney Pratt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91056",
       "date": "2026-03-20 00:00:00",
       "amount": 250,
       "candidate_name": "Allissa Moore Impink",
@@ -3547,7 +6855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33627",
+      "id": "contrib-1792307282043-91057",
       "date": "2026-03-30 00:00:00",
       "amount": 46,
       "candidate_name": "Allissa Moore Impink",
@@ -3563,7 +6871,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33628",
+      "id": "contrib-1792307282043-91058",
+      "date": "2026-05-01 00:00:00",
+      "amount": 10,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "William Powell",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91059",
+      "date": "2026-04-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "William Shrewsberry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91060",
       "date": "2026-03-19 00:00:00",
       "amount": 200,
       "candidate_name": "Allissa Moore Impink",
@@ -3579,7 +6919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33629",
+      "id": "contrib-1792307282043-91061",
       "date": "2026-02-26 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3595,7 +6935,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33630",
+      "id": "contrib-1792307282043-91062",
+      "date": "2026-04-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Yanique Redwood",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20002",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91063",
       "date": "2026-03-27 00:00:00",
       "amount": 150,
       "candidate_name": "Allissa Moore Impink",
@@ -3611,7 +6967,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33631",
+      "id": "contrib-1792307282043-91064",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Zachary Myers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91065",
       "date": "2026-04-06 00:00:00",
       "amount": 100,
       "candidate_name": "Allissa Moore Impink",
@@ -3627,7 +6999,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33632",
+      "id": "contrib-1792307282043-91066",
+      "date": "2026-08-13 00:00:00",
+      "amount": 190,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Zoe Hayes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91067",
       "date": "2026-02-06 00:00:00",
       "amount": 2923.69,
       "candidate_name": "Allissa Moore Impink",
@@ -3643,7 +7031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33633",
+      "id": "contrib-1792307282043-91068",
       "date": "2026-02-06 00:00:00",
       "amount": 4032.07,
       "candidate_name": "Allissa Moore Impink",
@@ -3659,7 +7047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33634",
+      "id": "contrib-1792307282043-91069",
       "date": "2026-04-02 00:00:00",
       "amount": 750,
       "candidate_name": "Allissa Moore Impink",
@@ -3675,7 +7063,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33635",
+      "id": "contrib-1792307282043-91070",
+      "date": "2026-06-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Fady 4 Hoosier Families",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46290",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91071",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Friends of Shelli Yoder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91072",
+      "date": "2026-04-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Jackson for Senate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91073",
       "date": "2026-02-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Allissa Moore Impink",
@@ -3691,7 +7127,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33636",
+      "id": "contrib-1792307282043-91074",
+      "date": "2026-05-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91075",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91076",
       "date": "2026-04-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Allissa Moore Impink",
@@ -3707,7 +7175,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769747-33637",
+      "id": "contrib-1792307282043-91077",
+      "date": "2026-09-10 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91078",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91079",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91080",
+      "date": "2026-10-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Indiana Black Legislative Caucus PAC Inc",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "\t46226",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91081",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "LAW PAC of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91082",
+      "date": "2026-09-01 00:00:00",
+      "amount": 177.79,
+      "candidate_name": "Allissa Moore Impink",
+      "contributor_name": "Leaders for Educational Equity",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "10004",
+      "recipient_committee": "Committee to Elect Allissa Impink",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282043-91083",
       "date": "2026-01-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Allissa Moore Impink",

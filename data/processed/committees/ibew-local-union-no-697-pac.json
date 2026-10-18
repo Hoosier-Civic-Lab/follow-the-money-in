@@ -2,26 +2,37 @@
   "id": "ibew-local-union-no-697-pac",
   "name": "IBEW LOCAL UNION NO. 697 PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "miguel-a-andrade",
+      "name": "Miguel A Andrade",
+      "total": "1000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769442-95639",
+      "id": "contrib-1792307281237-95639",
       "date": "2025-08-15 00:00:00",
       "amount": 1000,
       "contributor_name": "IBEW LOCAL UNION NO. 697 PAC",
@@ -33,6 +44,22 @@
       "address_state": "IN",
       "address_zip": "46410",
       "recipient_committee": "INDIANA VICTORY COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50565",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Miguel A Andrade",
+      "contributor_name": "IBEW Local Union No. 697 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Citizens For Mike Andrade",
       "source": "indiana"
     }
   ],

@@ -2,14 +2,14 @@
   "id": "indiana-firefighers-pac",
   "name": "Indiana Firefighers Pac",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "2500.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "1000.00"
     },
     "large": {
       "count": 1,
@@ -24,6 +24,10 @@
     "2026-04": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -32,11 +36,17 @@
       "name": "Peggy Mayfield",
       "total": "2000.00",
       "count": 2
+    },
+    {
+      "id": "alaina-kelly-shonkwiler",
+      "name": "Alaina Kelly Shonkwiler",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769413-68097",
+      "id": "contrib-1792307281204-68097",
       "date": "2025-07-22 00:00:00",
       "amount": 500,
       "candidate_name": "Peggy Mayfield",
@@ -52,7 +62,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-12001",
+      "id": "contrib-1792307281955-34044",
       "date": "2026-04-07 00:00:00",
       "amount": 1500,
       "candidate_name": "Peggy Mayfield",
@@ -65,6 +75,22 @@
       "address_state": "IN",
       "address_zip": "46202",
       "recipient_committee": "The Mayfield Campaign",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281996-62349",
+      "date": "2026-10-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alaina Kelly Shonkwiler",
+      "contributor_name": "Indiana Firefighers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Alaina for Noblesville",
       "source": "indiana"
     }
   ],

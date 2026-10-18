@@ -2,26 +2,41 @@
   "id": "committee-to-elect-earl-harris-jr",
   "name": "Committee to Elect Earl Harris Jr.",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "1250.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "1000.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "250.00"
     }
   },
   "by_month": {
     "2026-03": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "250.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769685-7993",
+      "id": "contrib-1792307281937-23053",
       "date": "2026-03-19 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Earl Harris Jr.",
@@ -33,6 +48,22 @@
       "address_state": "IN",
       "address_zip": "46312",
       "recipient_committee": "Indiana Black Legislative Caucus PAC",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80867",
+      "date": "2026-09-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Committee to Elect Earl Harris Jr.",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "East Chicago",
+      "address_state": "IN",
+      "address_zip": "46312",
+      "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
     }
   ],

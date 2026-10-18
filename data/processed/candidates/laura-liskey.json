@@ -6,56 +6,108 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "2319.40",
-    "total_contributions": 16,
-    "total_itemized": 16,
-    "total_unitemized": 0
+    "total_raised": "9036.98",
+    "total_contributions": 50,
+    "total_itemized": 49,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "85.00"
+    },
     "self": {
       "count": 5,
       "total": "520.40"
     },
     "individual": {
-      "count": 10,
-      "total": "1299.00"
+      "count": 42,
+      "total": "6431.58"
     },
     "corporate": {
       "count": 1,
       "total": "500.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "by_contribution_size": {
-    "medium": {
-      "count": 10,
-      "total": "2019.09"
-    },
     "small": {
-      "count": 6,
-      "total": "300.31"
+      "count": 25,
+      "total": "867.89"
+    },
+    "medium": {
+      "count": 23,
+      "total": "4669.09"
+    },
+    "large": {
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "by_month": {
+    "2026-07": {
+      "count": 9,
+      "total": "1019.09"
+    },
     "2026-01": {
       "count": 2,
       "total": "200.00"
+    },
+    "2026-09": {
+      "count": 7,
+      "total": "1752.08"
     },
     "2026-03": {
       "count": 9,
       "total": "1139.40"
     },
+    "2026-10": {
+      "count": 2,
+      "total": "52.00"
+    },
     "2026-02": {
       "count": 2,
       "total": "180.00"
     },
+    "2026-06": {
+      "count": 7,
+      "total": "357.44"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "2150.00"
+    },
     "2026-04": {
       "count": 3,
       "total": "800.00"
+    },
+    "2026-08": {
+      "count": 6,
+      "total": "1386.97"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769744-32336",
+      "id": "contrib-1792307282038-88133",
+      "date": "2026-07-27 00:00:00",
+      "amount": 85,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88134",
       "date": "2026-01-10 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -71,7 +123,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32337",
+      "id": "contrib-1792307282038-88135",
+      "date": "2026-09-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Angela Leffler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Rolling Prairie",
+      "address_state": "IN",
+      "address_zip": "46371",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88136",
       "date": "2026-03-28 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -87,7 +155,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32338",
+      "id": "contrib-1792307282038-88137",
+      "date": "2026-07-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Angie Schroeder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88138",
       "date": "2026-03-29 00:00:00",
       "amount": 25,
       "candidate_name": "Laura Liskey",
@@ -103,7 +187,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32339",
+      "id": "contrib-1792307282038-88139",
+      "date": "2026-10-07 00:00:00",
+      "amount": 2,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Cathy Holdt",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88140",
       "date": "2026-02-12 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -119,7 +219,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32340",
+      "id": "contrib-1792307282038-88141",
+      "date": "2026-06-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Cile Konowitz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88142",
+      "date": "2026-06-21 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "David Howe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "94609-1063",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88143",
+      "date": "2026-07-01 00:00:00",
+      "amount": 9.09,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Deborah Garvey",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Jose",
+      "address_state": "CA",
+      "address_zip": "95125",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88144",
+      "date": "2026-07-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Don Briggs",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88145",
+      "date": "2026-07-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Elaine Girard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Westville",
+      "address_state": "IN",
+      "address_zip": "46391",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88146",
+      "date": "2026-05-31 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Eric Goodson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88147",
       "date": "2026-04-01 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -135,7 +331,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32341",
+      "id": "contrib-1792307282038-88148",
+      "date": "2026-08-28 00:00:00",
+      "amount": 2.18,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Helen Darby",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Silver Spring",
+      "address_state": "MD",
+      "address_zip": "20905",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88149",
+      "date": "2026-06-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Joseph Arulandu",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88150",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Liskey",
@@ -151,7 +379,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32342",
+      "id": "contrib-1792307282038-88151",
+      "date": "2026-07-20 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Karen Biernacki",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88152",
+      "date": "2026-07-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Karen Salzer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88153",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -167,7 +427,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32343",
+      "id": "contrib-1792307282038-88154",
+      "date": "2026-09-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Kathy Olson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88155",
       "date": "2026-03-23 00:00:00",
       "amount": 50,
       "candidate_name": "Laura Liskey",
@@ -183,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32344",
+      "id": "contrib-1792307282038-88156",
       "date": "2026-02-12 00:00:00",
       "amount": 80,
       "candidate_name": "Laura Liskey",
@@ -199,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32345",
+      "id": "contrib-1792307282038-88157",
       "date": "2026-01-10 00:00:00",
       "amount": 100,
       "candidate_name": "Laura Liskey",
@@ -215,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32346",
+      "id": "contrib-1792307282038-88158",
       "date": "2026-03-28 00:00:00",
       "amount": 219.09,
       "candidate_name": "Laura Liskey",
@@ -231,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32347",
+      "id": "contrib-1792307282038-88159",
       "date": "2026-03-23 00:00:00",
       "amount": 21.31,
       "candidate_name": "Laura Liskey",
@@ -247,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32348",
+      "id": "contrib-1792307282038-88160",
       "date": "2026-04-06 00:00:00",
       "amount": 200,
       "candidate_name": "Laura Liskey",
@@ -263,7 +539,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32349",
+      "id": "contrib-1792307282038-88161",
+      "date": "2026-05-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Lia Schlinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88162",
+      "date": "2026-06-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Lia Schlinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88163",
+      "date": "2026-07-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Lia Schlinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88164",
+      "date": "2026-08-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Lia Schlinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88165",
+      "date": "2026-09-29 00:00:00",
+      "amount": 2.28,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Lori Ecker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88166",
+      "date": "2026-09-29 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Maria Omeara",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02131",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88167",
       "date": "2026-03-25 00:00:00",
       "amount": 25,
       "candidate_name": "Laura Liskey",
@@ -279,7 +651,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32350",
+      "id": "contrib-1792307282038-88168",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Matt Sikorski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88169",
+      "date": "2026-09-23 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Michael Dwornik",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Walkerton",
+      "address_state": "IN",
+      "address_zip": "46574",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88170",
+      "date": "2026-10-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Michael Dwornik",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Walkerton",
+      "address_state": "IN",
+      "address_zip": "46574",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88171",
+      "date": "2026-09-19 00:00:00",
+      "amount": 45.45,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Nicolette Mendenhall",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88172",
+      "date": "2026-06-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Patricia Lain",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ocean Springs",
+      "address_state": "MS",
+      "address_zip": "39564",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88173",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1.09,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Paul Arden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Olmsstead Twp",
+      "address_state": "Oh",
+      "address_zip": "44138",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88174",
+      "date": "2026-07-24 00:00:00",
+      "amount": 50,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Pilar Trejo",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88175",
+      "date": "2026-08-27 00:00:00",
+      "amount": 34.79,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Scott Watanbe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60615",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88176",
       "date": "2026-03-19 00:00:00",
       "amount": 99,
       "candidate_name": "Laura Liskey",
@@ -295,7 +795,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769744-32351",
+      "id": "contrib-1792307282038-88177",
+      "date": "2026-08-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Tamara Stump",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88178",
+      "date": "2026-06-07 00:00:00",
+      "amount": 2,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88179",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "La Porte Democratic Civic Club",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88180",
       "date": "2026-03-19 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Liskey",
@@ -305,6 +853,38 @@
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88181",
+      "date": "2026-05-10 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "Democratic Activist of La Porte County",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Laura Liskey for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88182",
+      "date": "2026-09-29 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Laura Liskey",
+      "contributor_name": "LaPorte County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte9/29",
       "address_state": "IN",
       "address_zip": "46350",
       "recipient_committee": "Laura Liskey for State Representative",

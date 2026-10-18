@@ -2,18 +2,18 @@
   "id": "indiana-state-iron-workers-political-action-committee",
   "name": "Indiana State Iron Workers Political Action Committee",
   "totals": {
-    "total_given": "9000.00",
-    "total_contributions": 5,
-    "candidates_supported": 4
+    "total_given": "15500.00",
+    "total_contributions": 9,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "7500.00"
+      "count": 3,
+      "total": "12500.00"
     },
     "medium": {
-      "count": 3,
-      "total": "1500.00"
+      "count": 6,
+      "total": "3000.00"
     }
   },
   "by_month": {
@@ -28,6 +28,22 @@
     "2025-07": {
       "count": 2,
       "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -38,14 +54,14 @@
       "count": 1
     },
     {
-      "id": "hunter-dwight-smith",
-      "name": "Hunter Dwight Smith",
-      "total": "500.00",
-      "count": 1
-    },
-    {
       "id": "alexander-richard-burton",
       "name": "Alexander Richard Burton",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "hunter-dwight-smith",
+      "name": "Hunter Dwight Smith",
       "total": "500.00",
       "count": 1
     },
@@ -54,11 +70,23 @@
       "name": "Mark Anthony Spencer",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "harold-m-slager",
+      "name": "Harold M. Slager",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "spencer-robert-deery",
+      "name": "Spencer Robert Deery",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769323-12472",
+      "id": "contrib-1792307281112-12472",
       "date": "2025-08-22 00:00:00",
       "amount": 5000,
       "contributor_name": "Indiana State Iron Workers Political Action Committee",
@@ -73,7 +101,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79156",
+      "id": "contrib-1792307281213-79156",
       "date": "2025-11-07 00:00:00",
       "amount": 2500,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -89,7 +117,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-95947",
+      "id": "contrib-1792307281237-95947",
       "date": "2025-08-18 00:00:00",
       "amount": 500,
       "candidate_name": "Hunter Dwight Smith",
@@ -105,7 +133,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96557",
+      "id": "contrib-1792307281238-96557",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Alexander Richard Burton",
@@ -121,7 +149,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769443-96606",
+      "id": "contrib-1792307281238-96606",
       "date": "2025-07-14 00:00:00",
       "amount": 500,
       "candidate_name": "Mark Anthony Spencer",
@@ -134,6 +162,69 @@
       "address_state": "IN",
       "address_zip": "46368",
       "recipient_committee": "Committee to Elect Mark Spencer for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281903-3653",
+      "date": "2026-08-25 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Indiana State Iron Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33687",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Harold M. Slager",
+      "contributor_name": "indiana State Iron Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Hal Slager",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59591",
+      "date": "2026-07-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Spencer Robert Deery",
+      "contributor_name": "Indiana State Iron Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Spencer Deery for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66756",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alexander Richard Burton",
+      "contributor_name": "Indiana State Iron Workers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Alex Burton for Indiana",
       "source": "indiana"
     }
   ],

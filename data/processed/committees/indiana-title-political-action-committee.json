@@ -2,14 +2,18 @@
   "id": "indiana-title-political-action-committee",
   "name": "Indiana Title Political Action Committee",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "2500.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
       "count": 2,
       "total": "1000.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "by_month": {
@@ -17,12 +21,22 @@
       "count": 1,
       "total": "500.00"
     },
+    "2026-06": {
+      "count": 1,
+      "total": "1500.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "1500.00",
+      "count": 1
+    },
     {
       "id": "laura-michelle-davis",
       "name": "Laura Michelle Davis",
@@ -38,7 +52,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769426-84764",
+      "id": "contrib-1792307281219-84764",
       "date": "2025-05-05 00:00:00",
       "amount": 500,
       "candidate_name": "Laura Michelle Davis",
@@ -54,7 +68,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-12004",
+      "id": "contrib-1792307281954-33537",
+      "date": "2026-06-23 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Indiana Title Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281955-34049",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Peggy Mayfield",

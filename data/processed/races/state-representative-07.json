@@ -3,35 +3,39 @@
   "office": "State Representative",
   "district": "07",
   "totals": {
-    "total_raised": "144086.40",
-    "total_contributions": 128
+    "total_raised": "290433.52",
+    "total_contributions": 253
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 33,
-      "total": "36287.40"
+      "count": 66,
+      "total": "65647.40"
     },
     "individual": {
-      "count": 60,
-      "total": "58699.00"
+      "count": 111,
+      "total": "111789.00"
     },
     "committee": {
-      "count": 35,
-      "total": "49100.00"
+      "count": 76,
+      "total": "112997.12"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 64,
-      "total": "121450.00"
+      "count": 122,
+      "total": "227647.12"
     },
     "medium": {
-      "count": 61,
-      "total": "22450.00"
+      "count": 116,
+      "total": "44650.00"
     },
     "small": {
-      "count": 3,
-      "total": "186.40"
+      "count": 14,
+      "total": "636.40"
+    },
+    "mega": {
+      "count": 1,
+      "total": "17500.00"
     }
   },
   "by_month": {
@@ -67,9 +71,33 @@
       "count": 3,
       "total": "2000.00"
     },
+    "2026-10": {
+      "count": 18,
+      "total": "12350.00"
+    },
+    "2026-09": {
+      "count": 21,
+      "total": "23922.12"
+    },
+    "2026-07": {
+      "count": 15,
+      "total": "21100.00"
+    },
+    "2026-06": {
+      "count": 36,
+      "total": "48700.00"
+    },
+    "2026-04": {
+      "count": 6,
+      "total": "6849.00"
+    },
     "2026-01": {
       "count": 6,
       "total": "1337.40"
+    },
+    "2026-08": {
+      "count": 26,
+      "total": "31525.00"
     },
     "2026-02": {
       "count": 2,
@@ -79,9 +107,9 @@
       "count": 7,
       "total": "4600.00"
     },
-    "2026-04": {
-      "count": 1,
-      "total": "99.00"
+    "2026-05": {
+      "count": 4,
+      "total": "2000.00"
     }
   },
   "candidates": [
@@ -90,8 +118,8 @@
       "name": "Jacob Louis Teshka",
       "party": "Republican",
       "totals": {
-        "total_raised": "144086.40",
-        "total_contributions": 128
+        "total_raised": "290433.52",
+        "total_contributions": 253
       },
       "by_month": {
         "2025-09": {
@@ -126,9 +154,33 @@
           "count": 3,
           "total": "2000.00"
         },
+        "2026-10": {
+          "count": 18,
+          "total": "12350.00"
+        },
+        "2026-09": {
+          "count": 21,
+          "total": "23922.12"
+        },
+        "2026-07": {
+          "count": 15,
+          "total": "21100.00"
+        },
+        "2026-06": {
+          "count": 36,
+          "total": "48700.00"
+        },
+        "2026-04": {
+          "count": 6,
+          "total": "6849.00"
+        },
         "2026-01": {
           "count": 6,
           "total": "1337.40"
+        },
+        "2026-08": {
+          "count": 26,
+          "total": "31525.00"
         },
         "2026-02": {
           "count": 2,
@@ -138,9 +190,9 @@
           "count": 7,
           "total": "4600.00"
         },
-        "2026-04": {
-          "count": 1,
-          "total": "99.00"
+        "2026-05": {
+          "count": 4,
+          "total": "2000.00"
         }
       }
     }

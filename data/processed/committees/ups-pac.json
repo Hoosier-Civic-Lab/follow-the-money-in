@@ -2,18 +2,22 @@
   "id": "ups-pac",
   "name": "UPS PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2025-09": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-08": {
       "count": 1,
       "total": "1000.00"
     }
@@ -24,11 +28,17 @@
       "name": "C. Susan Glick",
       "total": "1000.00",
       "count": 1
+    },
+    {
+      "id": "christopher-paul-jeter",
+      "name": "Christopher Paul Jeter",
+      "total": "1000.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769410-67071",
+      "id": "contrib-1792307281202-67071",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "C. Susan Glick",
@@ -41,6 +51,22 @@
       "address_state": "DC",
       "address_zip": "20003",
       "recipient_committee": "Sue Glick for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50045",
+      "date": "2026-08-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher Paul Jeter",
+      "contributor_name": "UPS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "30328",
+      "recipient_committee": "Jeter for Indiana",
       "source": "indiana"
     }
   ],

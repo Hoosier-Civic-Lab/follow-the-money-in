@@ -2,18 +2,22 @@
   "id": "vigo-county-democrat-party-central-committee",
   "name": "Vigo County Democrat Party Central Committee",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
+    "total_given": "600.00",
+    "total_contributions": 2,
     "candidates_supported": 0
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "600.00"
     }
   },
   "by_month": {
     "2025-08": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-07": {
       "count": 1,
       "total": "300.00"
     }
@@ -21,8 +25,23 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769325-13809",
+      "id": "contrib-1792307281114-13809",
       "date": "2025-08-12 00:00:00",
+      "amount": 300,
+      "contributor_name": "Vigo County Democrat Party Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281915-11456",
+      "date": "2026-07-28 00:00:00",
       "amount": 300,
       "contributor_name": "Vigo County Democrat Party Central Committee",
       "contributor_type": "committee",

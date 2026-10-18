@@ -1,0 +1,78 @@
+{
+  "id": "heritage-build-pac",
+  "name": "Heritage Build PAC",
+  "totals": {
+    "total_given": "1700.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "700.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "by_month": {
+    "2026-08": {
+      "count": 1,
+      "total": "700.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "kendell-culp",
+      "name": "KENDELL CULP",
+      "total": "700.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281986-58600",
+      "date": "2026-08-08 00:00:00",
+      "amount": 700,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "Heritage Build PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63470",
+      "date": "2026-07-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Heritage Build PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

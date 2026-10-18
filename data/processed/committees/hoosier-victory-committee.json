@@ -2,11 +2,15 @@
   "id": "hoosier-victory-committee",
   "name": "Hoosier Victory Committee",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "221000.00",
+    "total_contributions": 8,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
+    "mega": {
+      "count": 7,
+      "total": "220000.00"
+    },
     "large": {
       "count": 1,
       "total": "1000.00"
@@ -14,21 +18,114 @@
   },
   "by_month": {
     "2026-06": {
+      "count": 2,
+      "total": "11000.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "140000.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "60000.00"
+    },
+    "2026-08": {
       "count": 1,
-      "total": "1000.00"
+      "total": "10000.00"
     }
   },
   "top_recipients": [
     {
+      "id": "sean-s-steele",
+      "name": "Sean S. Steele",
+      "total": "15000.00",
+      "count": 1
+    },
+    {
       "id": "beau-bayh",
       "name": "Beau Bayh",
-      "total": "1000.00",
-      "count": 1
+      "total": "11000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769739-30047",
+      "id": "contrib-1792307281897-672",
+      "date": "2026-06-05 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-673",
+      "date": "2026-09-22 00:00:00",
+      "amount": 50000,
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281904-3863",
+      "date": "2026-10-07 00:00:00",
+      "amount": 40000,
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5680",
+      "date": "2026-10-09 00:00:00",
+      "amount": 20000,
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5681",
+      "date": "2026-09-22 00:00:00",
+      "amount": 75000,
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80931",
       "date": "2026-06-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Beau Bayh",
@@ -41,6 +138,38 @@
       "address_state": "IN",
       "address_zip": "46280",
       "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80932",
+      "date": "2026-08-27 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46280",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282052-95929",
+      "date": "2026-09-18 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Sean S. Steele",
+      "contributor_name": "Hoosier Victory Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46280-0042",
+      "recipient_committee": "Steele4Indiana",
       "source": "indiana"
     }
   ],
@@ -94,7 +223,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769749-34272",
+        "id": "contrib-1792307282046-92934",
         "date": "2026-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Brian Tabor",
@@ -109,7 +238,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34273",
+        "id": "contrib-1792307282046-92935",
         "date": "2026-01-26 00:00:00",
         "amount": 196,
         "contributor_name": "Brian Tabor",
@@ -124,7 +253,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34274",
+        "id": "contrib-1792307282046-92936",
         "date": "2026-03-16 00:00:00",
         "amount": 5500,
         "contributor_name": "Christopher Felts",
@@ -139,7 +268,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34275",
+        "id": "contrib-1792307282046-92937",
         "date": "2026-03-02 00:00:00",
         "amount": 750,
         "contributor_name": "Clinton McKay",
@@ -154,7 +283,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34276",
+        "id": "contrib-1792307282046-92938",
         "date": "2026-03-02 00:00:00",
         "amount": 2500,
         "contributor_name": "Douglas Brown",
@@ -169,7 +298,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34277",
+        "id": "contrib-1792307282046-92939",
         "date": "2026-04-06 00:00:00",
         "amount": 30000,
         "contributor_name": "Michael G. Browning",
@@ -184,7 +313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769749-34278",
+        "id": "contrib-1792307282046-92940",
         "date": "2026-02-23 00:00:00",
         "amount": 2500,
         "contributor_name": "Tim Jeffers",

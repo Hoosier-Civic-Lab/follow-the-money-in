@@ -6,37 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "20150.00",
-    "total_contributions": 43,
-    "total_itemized": 43,
-    "total_unitemized": 0
+    "total_raised": "90058.91",
+    "total_contributions": 106,
+    "total_itemized": 105,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 8,
-      "total": "5975.00"
+      "count": 15,
+      "total": "10000.00"
     },
     "individual": {
-      "count": 20,
-      "total": "5625.00"
+      "count": 62,
+      "total": "25400.00"
     },
     "committee": {
-      "count": 15,
-      "total": "8550.00"
+      "count": 28,
+      "total": "54559.91"
+    },
+    "unitemized": {
+      "count": 1,
+      "total": "99.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 34,
-      "total": "9050.00"
+      "count": 78,
+      "total": "19950.00"
     },
     "large": {
-      "count": 7,
-      "total": "11000.00"
+      "count": 19,
+      "total": "31852.92"
     },
     "small": {
+      "count": 7,
+      "total": "499.00"
+    },
+    "mega": {
       "count": 2,
-      "total": "100.00"
+      "total": "37756.99"
     }
   },
   "by_month": {
@@ -59,11 +67,35 @@
     "2025-12": {
       "count": 3,
       "total": "1075.00"
+    },
+    "2026-09": {
+      "count": 7,
+      "total": "16501.92"
+    },
+    "2026-10": {
+      "count": 34,
+      "total": "37906.99"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "5150.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 18,
+      "total": "9250.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769421-79435",
+      "id": "contrib-1792307281214-79435",
       "date": "2025-09-03 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -79,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79436",
+      "id": "contrib-1792307281214-79436",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -95,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79437",
+      "id": "contrib-1792307281214-79437",
       "date": "2025-07-11 00:00:00",
       "amount": 125,
       "candidate_name": "Julie Ann Olthoff",
@@ -111,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79438",
+      "id": "contrib-1792307281214-79438",
       "date": "2025-10-06 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Ann Olthoff",
@@ -127,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79439",
+      "id": "contrib-1792307281214-79439",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -143,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79440",
+      "id": "contrib-1792307281214-79440",
       "date": "2025-10-06 00:00:00",
       "amount": 250,
       "candidate_name": "Julie Ann Olthoff",
@@ -159,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79441",
+      "id": "contrib-1792307281214-79441",
       "date": "2025-09-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Julie Ann Olthoff",
@@ -175,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79442",
+      "id": "contrib-1792307281214-79442",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -191,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79443",
+      "id": "contrib-1792307281214-79443",
       "date": "2025-09-14 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Ann Olthoff",
@@ -207,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79444",
+      "id": "contrib-1792307281214-79444",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -223,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79445",
+      "id": "contrib-1792307281214-79445",
       "date": "2025-10-06 00:00:00",
       "amount": 50,
       "candidate_name": "Julie Ann Olthoff",
@@ -239,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79446",
+      "id": "contrib-1792307281214-79446",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -255,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79447",
+      "id": "contrib-1792307281214-79447",
       "date": "2025-10-06 00:00:00",
       "amount": 250,
       "candidate_name": "Julie Ann Olthoff",
@@ -271,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79448",
+      "id": "contrib-1792307281214-79448",
       "date": "2025-10-06 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Ann Olthoff",
@@ -287,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79449",
+      "id": "contrib-1792307281214-79449",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -303,7 +335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79450",
+      "id": "contrib-1792307281214-79450",
       "date": "2025-11-22 00:00:00",
       "amount": 250,
       "candidate_name": "Julie Ann Olthoff",
@@ -319,7 +351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79451",
+      "id": "contrib-1792307281214-79451",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -335,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79452",
+      "id": "contrib-1792307281214-79452",
       "date": "2025-12-26 00:00:00",
       "amount": 50,
       "candidate_name": "Julie Ann Olthoff",
@@ -351,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79453",
+      "id": "contrib-1792307281214-79453",
       "date": "2025-12-15 00:00:00",
       "amount": 275,
       "candidate_name": "Julie Ann Olthoff",
@@ -367,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79454",
+      "id": "contrib-1792307281214-79454",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -383,7 +415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79455",
+      "id": "contrib-1792307281214-79455",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -399,7 +431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79456",
+      "id": "contrib-1792307281214-79456",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -415,7 +447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79457",
+      "id": "contrib-1792307281214-79457",
       "date": "2025-09-09 00:00:00",
       "amount": 200,
       "candidate_name": "Julie Ann Olthoff",
@@ -431,7 +463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79458",
+      "id": "contrib-1792307281214-79458",
       "date": "2025-10-06 00:00:00",
       "amount": 2500,
       "candidate_name": "Julie Ann Olthoff",
@@ -447,7 +479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79459",
+      "id": "contrib-1792307281214-79459",
       "date": "2025-10-06 00:00:00",
       "amount": 2000,
       "candidate_name": "Julie Ann Olthoff",
@@ -463,7 +495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79460",
+      "id": "contrib-1792307281214-79460",
       "date": "2025-10-14 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Ann Olthoff",
@@ -479,7 +511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79461",
+      "id": "contrib-1792307281214-79461",
       "date": "2025-10-06 00:00:00",
       "amount": 150,
       "candidate_name": "Julie Ann Olthoff",
@@ -495,7 +527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79462",
+      "id": "contrib-1792307281214-79462",
       "date": "2025-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Julie Ann Olthoff",
@@ -511,7 +543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79463",
+      "id": "contrib-1792307281214-79463",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -527,7 +559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79464",
+      "id": "contrib-1792307281214-79464",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -543,7 +575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79465",
+      "id": "contrib-1792307281214-79465",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -559,7 +591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79466",
+      "id": "contrib-1792307281214-79466",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Ann Olthoff",
@@ -575,7 +607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79467",
+      "id": "contrib-1792307281214-79467",
       "date": "2025-09-03 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -591,7 +623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79468",
+      "id": "contrib-1792307281214-79468",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Ann Olthoff",
@@ -607,7 +639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79469",
+      "id": "contrib-1792307281214-79469",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -623,7 +655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79470",
+      "id": "contrib-1792307281214-79470",
       "date": "2025-09-26 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -639,7 +671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79471",
+      "id": "contrib-1792307281214-79471",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -655,7 +687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79472",
+      "id": "contrib-1792307281214-79472",
       "date": "2025-09-09 00:00:00",
       "amount": 300,
       "candidate_name": "Julie Ann Olthoff",
@@ -671,7 +703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79473",
+      "id": "contrib-1792307281214-79473",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -687,7 +719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79474",
+      "id": "contrib-1792307281214-79474",
       "date": "2025-09-09 00:00:00",
       "amount": 500,
       "candidate_name": "Julie Ann Olthoff",
@@ -703,7 +735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79475",
+      "id": "contrib-1792307281214-79475",
       "date": "2025-10-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Ann Olthoff",
@@ -719,7 +751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79476",
+      "id": "contrib-1792307281214-79476",
       "date": "2025-12-30 00:00:00",
       "amount": 750,
       "candidate_name": "Julie Ann Olthoff",
@@ -735,7 +767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79477",
+      "id": "contrib-1792307281214-79477",
       "date": "2025-10-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Julie Ann Olthoff",
@@ -747,6 +779,1014 @@
       "address_city": "Countryside",
       "address_state": "IL",
       "address_zip": "60525",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44673",
+      "date": "2026-09-23 00:00:00",
+      "amount": 99,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44674",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Cope Brothers Machine Shop, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44675",
+      "date": "2026-10-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Delivering The Difference For Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44676",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "LCFRWC, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44677",
+      "date": "2026-10-08 00:00:00",
+      "amount": 75,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Charlene Foss-Eggemann",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44678",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Charlotte Liss",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44679",
+      "date": "2026-10-01 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Charlotte Sterling",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44680",
+      "date": "2026-10-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Chuck and Terri Olthoff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Grant Park",
+      "address_state": "IN",
+      "address_zip": "60904",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44681",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Dan  Klein",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CrownPoint ",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44682",
+      "date": "2026-07-02 00:00:00",
+      "amount": 150,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Debbie Van Drunen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Lauderdale",
+      "address_state": "FL",
+      "address_zip": "33316",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44683",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Harold and Carol Slager",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44684",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Jackie A Sloan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44685",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "James and Suzanne Neill",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44686",
+      "date": "2026-10-09 00:00:00",
+      "amount": 150,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "James Olthoff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Dyer",
+      "address_state": "IN",
+      "address_zip": "46311",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44687",
+      "date": "2026-09-30 00:00:00",
+      "amount": 150,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "James Van Drunen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Lauderdale",
+      "address_state": "FL",
+      "address_zip": "33316",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44688",
+      "date": "2026-10-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Jennifer-Ruth Green",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44689",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Joanne Ricci",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44690",
+      "date": "2026-04-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Joesph L Granger",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44691",
+      "date": "2026-10-06 00:00:00",
+      "amount": 75,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "John Mason",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44692",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Kelly C Hills",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46340",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44693",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Leonzo Porras Jr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44694",
+      "date": "2026-10-07 00:00:00",
+      "amount": 150,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Michael R Bottos",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44695",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Michael R Bottos",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44696",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Mike Bees",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44697",
+      "date": "2026-10-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Norma J Choate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44698",
+      "date": "2026-10-07 00:00:00",
+      "amount": 75,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Paul Bremer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44699",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Paul Medema",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "North Judson",
+      "address_state": "IN",
+      "address_zip": "46366",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44700",
+      "date": "2026-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Sanjay B Patel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44701",
+      "date": "2026-05-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Terrence J Wigmore",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44702",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Thomas Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44703",
+      "date": "2026-09-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Thomas Krafft",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46385",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44704",
+      "date": "2026-10-07 00:00:00",
+      "amount": 75,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Todd & Leann Angerman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lowell",
+      "address_state": "IN",
+      "address_zip": "46356",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44705",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "William Jirik",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hebron",
+      "address_state": "IN",
+      "address_zip": "46341",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44706",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Zachary Beaver",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44707",
+      "date": "2026-08-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44708",
+      "date": "2026-10-07 00:00:00",
+      "amount": 125,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "CTE Chuck Messler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lowell",
+      "address_state": "IN",
+      "address_zip": "46356",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44709",
+      "date": "2026-08-12 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "CTE Kim Lenti",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44710",
+      "date": "2026-10-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Friends of Randy Niemeyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Lake",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44711",
+      "date": "2026-09-23 00:00:00",
+      "amount": 14000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44712",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1852.92,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44713",
+      "date": "2026-10-08 00:00:00",
+      "amount": 23756.99,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44714",
+      "date": "2026-08-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44715",
+      "date": "2026-08-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Kroger, Gardis And Regas, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44716",
+      "date": "2026-10-07 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "LBL Development LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Lake",
+      "address_state": "IN",
+      "address_zip": "46303",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44717",
+      "date": "2026-10-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Montego Bay Restaurant Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hobart",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44718",
+      "date": "2026-10-07 00:00:00",
+      "amount": 150,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Webster Trucks LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44719",
+      "date": "2026-08-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana American Water Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "GREENWOOD",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44720",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44721",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Builders Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44722",
+      "date": "2026-10-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Realtors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44723",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana State Building Trades Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44724",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana State Ironworkers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44725",
+      "date": "2026-08-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Northwest Indiana Contractors Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "PORTAGE",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44726",
+      "date": "2026-08-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44727",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44728",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "IMHA-RVIC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44729",
+      "date": "2026-08-11 00:00:00",
+      "amount": 400,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Credit Union",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250-0425",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44730",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44731",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Indiana Multi-Family Housing",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44732",
+      "date": "2026-10-07 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Iron Workers Local 395 IPAL",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44733",
+      "date": "2026-07-24 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Iron Workers Local 395 IPAL",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44734",
+      "date": "2026-09-09 00:00:00",
+      "amount": 200,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "NFIB Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Voters for Julie Olthoff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44735",
+      "date": "2026-10-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Ann Olthoff",
+      "contributor_name": "Northwest Indiana Contractors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
       "recipient_committee": "Voters for Julie Olthoff",
       "source": "indiana"
     }

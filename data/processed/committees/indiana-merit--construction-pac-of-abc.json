@@ -2,26 +2,61 @@
   "id": "indiana-merit--construction-pac-of-abc",
   "name": "Indiana Merit- Construction PAC of ABC",
   "totals": {
-    "total_given": "25000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "36500.00",
+    "total_contributions": 5,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "mega": {
       "count": 1,
       "total": "25000.00"
+    },
+    "large": {
+      "count": 4,
+      "total": "11500.00"
     }
   },
   "by_month": {
     "2025-02": {
       "count": 1,
       "total": "25000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1500.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "5000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "elizabeth-marie-brown",
+      "name": "Elizabeth  Marie Brown",
+      "total": "5000.00",
+      "count": 1
+    },
+    {
+      "id": "paula-marie-davis",
+      "name": "Paula Marie Davis",
+      "total": "5000.00",
+      "count": 2
+    },
+    {
+      "id": "matthew-scott-commons",
+      "name": "Matthew Scott Commons",
+      "total": "1500.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-330",
+      "id": "contrib-1792307281095-330",
       "date": "2025-02-27 00:00:00",
       "amount": 25000,
       "contributor_name": "Indiana Merit- Construction PAC of ABC",
@@ -33,6 +68,70 @@
       "address_state": "IN",
       "address_zip": "46226",
       "recipient_committee": "Indiana Republican State Committee, Inc",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44304",
+      "date": "2026-05-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elizabeth  Marie Brown",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Friends of Liz Brown",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62576",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Matthew Scott Commons",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Matt Commons",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84640",
+      "date": "2026-04-14 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84641",
+      "date": "2026-04-27 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Paula Davis",
       "source": "indiana"
     }
   ],

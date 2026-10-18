@@ -2,18 +2,22 @@
   "id": "indiana-society-of-anestheseiologists-pac",
   "name": "Indiana Society of Anestheseiologists PAC",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
+    "total_given": "600.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "600.00"
     }
   },
   "by_month": {
     "2025-09": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-10": {
       "count": 1,
       "total": "300.00"
     }
@@ -22,14 +26,30 @@
     {
       "id": "ethan-e-manning",
       "name": "Ethan E Manning",
-      "total": "300.00",
-      "count": 1
+      "total": "600.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769425-83388",
+      "id": "contrib-1792307281217-83388",
       "date": "2025-09-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ethan E Manning",
+      "contributor_name": "Indiana Society of Anestheseiologists PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Elect Ethan",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49143",
+      "date": "2026-10-06 00:00:00",
       "amount": 300,
       "candidate_name": "Ethan E Manning",
       "contributor_name": "Indiana Society of Anestheseiologists PAC",

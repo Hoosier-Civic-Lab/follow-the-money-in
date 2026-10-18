@@ -2,22 +2,22 @@
   "id": "barrett-election-committee",
   "name": "Barrett Election Committee",
   "totals": {
-    "total_given": "87037.68",
-    "total_contributions": 7,
-    "candidates_supported": 1
+    "total_given": "89287.68",
+    "total_contributions": 11,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "6537.68"
+      "count": 4,
+      "total": "7537.68"
     },
     "mega": {
       "count": 3,
       "total": "80000.00"
     },
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 4,
+      "total": "1750.00"
     }
   },
   "by_month": {
@@ -36,19 +36,47 @@
     "2026-03": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "250.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
     {
       "id": "cory-joe-criswell",
       "name": "Cory Joe Criswell",
+      "total": "750.00",
+      "count": 2
+    },
+    {
+      "id": "jeffrey-s-raatz",
+      "name": "Jeffrey S Raatz",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
       "total": "500.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-5955",
+      "id": "contrib-1792307281104-5955",
       "date": "2025-12-02 00:00:00",
       "amount": 2037.68,
       "contributor_name": "Barrett Election Committee",
@@ -63,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5956",
+      "id": "contrib-1792307281104-5956",
       "date": "2025-07-24 00:00:00",
       "amount": 20000,
       "contributor_name": "Barrett Election Committee",
@@ -78,7 +106,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5957",
+      "id": "contrib-1792307281104-5957",
       "date": "2025-12-17 00:00:00",
       "amount": 20000,
       "contributor_name": "Barrett Election Committee",
@@ -93,7 +121,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5958",
+      "id": "contrib-1792307281104-5958",
       "date": "2025-12-17 00:00:00",
       "amount": 40000,
       "contributor_name": "Barrett Election Committee",
@@ -108,7 +136,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90766",
+      "id": "contrib-1792307281232-90766",
       "date": "2025-08-27 00:00:00",
       "amount": 2500,
       "contributor_name": "Barrett Election Committee",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769439-91992",
+      "id": "contrib-1792307281233-91992",
       "date": "2025-08-18 00:00:00",
       "amount": 500,
       "candidate_name": "Cory Joe Criswell",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769678-3124",
+      "id": "contrib-1792307281912-9205",
       "date": "2026-03-18 00:00:00",
       "amount": 2000,
       "contributor_name": "Barrett Election Committee",
@@ -151,6 +179,69 @@
       "address_state": "IN",
       "address_zip": "47375",
       "recipient_committee": "Indiana BANKPAC - State Fund",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44378",
+      "date": "2026-06-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jeffrey S Raatz",
+      "contributor_name": "Barrett Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47.75",
+      "recipient_committee": "Raatz for Indiana State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-60002",
+      "date": "2026-09-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Cory Joe Criswell",
+      "contributor_name": "Barrett election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47375",
+      "recipient_committee": "Hoosiers for Criswell",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63424",
+      "date": "2026-07-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Barrett Election Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47375",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63828",
+      "date": "2026-05-17 00:00:00",
+      "amount": 1000,
+      "contributor_name": "BARRETT ELECTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "RICHMOND",
+      "address_state": "IN",
+      "address_zip": "47375",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
       "source": "indiana"
     }
   ],
@@ -236,7 +327,7 @@
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769425-83522",
+        "id": "contrib-1792307281217-83522",
         "date": "2025-11-13 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -252,7 +343,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83523",
+        "id": "contrib-1792307281217-83523",
         "date": "2025-11-13 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -268,7 +359,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83524",
+        "id": "contrib-1792307281217-83524",
         "date": "2025-11-13 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -284,7 +375,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83525",
+        "id": "contrib-1792307281217-83525",
         "date": "2025-11-25 00:00:00",
         "amount": 650,
         "candidate_name": "Bradford J Barrett",
@@ -300,7 +391,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83526",
+        "id": "contrib-1792307281217-83526",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -316,7 +407,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83527",
+        "id": "contrib-1792307281217-83527",
         "date": "2025-08-17 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -332,7 +423,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83528",
+        "id": "contrib-1792307281217-83528",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -348,7 +439,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83529",
+        "id": "contrib-1792307281217-83529",
         "date": "2025-11-13 00:00:00",
         "amount": 200,
         "candidate_name": "Bradford J Barrett",
@@ -364,7 +455,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83530",
+        "id": "contrib-1792307281217-83530",
         "date": "2025-11-12 00:00:00",
         "amount": 5000,
         "candidate_name": "Bradford J Barrett",
@@ -380,7 +471,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83531",
+        "id": "contrib-1792307281217-83531",
         "date": "2025-11-25 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -396,7 +487,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83532",
+        "id": "contrib-1792307281217-83532",
         "date": "2025-08-17 00:00:00",
         "amount": 2000,
         "candidate_name": "Bradford J Barrett",
@@ -412,7 +503,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83533",
+        "id": "contrib-1792307281217-83533",
         "date": "2025-11-12 00:00:00",
         "amount": 375,
         "candidate_name": "Bradford J Barrett",
@@ -428,7 +519,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83534",
+        "id": "contrib-1792307281217-83534",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -444,7 +535,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83535",
+        "id": "contrib-1792307281217-83535",
         "date": "2025-11-13 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -460,7 +551,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83536",
+        "id": "contrib-1792307281217-83536",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -476,7 +567,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83537",
+        "id": "contrib-1792307281217-83537",
         "date": "2025-05-05 00:00:00",
         "amount": 250,
         "candidate_name": "Bradford J Barrett",
@@ -492,7 +583,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83538",
+        "id": "contrib-1792307281217-83538",
         "date": "2025-11-12 00:00:00",
         "amount": 150,
         "candidate_name": "Bradford J Barrett",
@@ -508,7 +599,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83539",
+        "id": "contrib-1792307281217-83539",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -524,7 +615,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83540",
+        "id": "contrib-1792307281217-83540",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -540,7 +631,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83541",
+        "id": "contrib-1792307281217-83541",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -556,7 +647,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83542",
+        "id": "contrib-1792307281217-83542",
         "date": "2025-08-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -572,7 +663,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83543",
+        "id": "contrib-1792307281217-83543",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -588,7 +679,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83544",
+        "id": "contrib-1792307281217-83544",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -604,7 +695,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83545",
+        "id": "contrib-1792307281217-83545",
         "date": "2025-09-11 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -620,7 +711,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83546",
+        "id": "contrib-1792307281217-83546",
         "date": "2025-11-25 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -636,7 +727,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83547",
+        "id": "contrib-1792307281217-83547",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -652,7 +743,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83548",
+        "id": "contrib-1792307281217-83548",
         "date": "2025-11-25 00:00:00",
         "amount": 750,
         "candidate_name": "Bradford J Barrett",
@@ -668,7 +759,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83549",
+        "id": "contrib-1792307281217-83549",
         "date": "2025-11-25 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -684,7 +775,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83550",
+        "id": "contrib-1792307281217-83550",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -700,7 +791,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83551",
+        "id": "contrib-1792307281217-83551",
         "date": "2025-09-11 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -716,7 +807,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83552",
+        "id": "contrib-1792307281217-83552",
         "date": "2025-11-13 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -732,7 +823,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83553",
+        "id": "contrib-1792307281217-83553",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -748,7 +839,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83554",
+        "id": "contrib-1792307281217-83554",
         "date": "2025-11-25 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -764,7 +855,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83555",
+        "id": "contrib-1792307281217-83555",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -780,7 +871,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83556",
+        "id": "contrib-1792307281217-83556",
         "date": "2025-11-12 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -796,7 +887,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83557",
+        "id": "contrib-1792307281217-83557",
         "date": "2025-09-11 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -812,7 +903,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83558",
+        "id": "contrib-1792307281217-83558",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -828,7 +919,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83559",
+        "id": "contrib-1792307281217-83559",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -844,7 +935,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83560",
+        "id": "contrib-1792307281217-83560",
         "date": "2025-08-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -860,7 +951,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83561",
+        "id": "contrib-1792307281217-83561",
         "date": "2025-11-25 00:00:00",
         "amount": 350,
         "candidate_name": "Bradford J Barrett",
@@ -876,7 +967,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83562",
+        "id": "contrib-1792307281217-83562",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -892,7 +983,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83563",
+        "id": "contrib-1792307281217-83563",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -908,7 +999,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83564",
+        "id": "contrib-1792307281217-83564",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -924,7 +1015,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83565",
+        "id": "contrib-1792307281217-83565",
         "date": "2025-09-11 00:00:00",
         "amount": 250,
         "candidate_name": "Bradford J Barrett",
@@ -940,7 +1031,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83566",
+        "id": "contrib-1792307281217-83566",
         "date": "2025-09-11 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -956,7 +1047,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83567",
+        "id": "contrib-1792307281217-83567",
         "date": "2025-11-13 00:00:00",
         "amount": 2500,
         "candidate_name": "Bradford J Barrett",
@@ -972,7 +1063,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83568",
+        "id": "contrib-1792307281217-83568",
         "date": "2025-11-12 00:00:00",
         "amount": 2500,
         "candidate_name": "Bradford J Barrett",
@@ -988,7 +1079,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83569",
+        "id": "contrib-1792307281217-83569",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1004,7 +1095,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83570",
+        "id": "contrib-1792307281217-83570",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1020,7 +1111,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83571",
+        "id": "contrib-1792307281217-83571",
         "date": "2025-11-13 00:00:00",
         "amount": 2000,
         "candidate_name": "Bradford J Barrett",
@@ -1036,7 +1127,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83572",
+        "id": "contrib-1792307281217-83572",
         "date": "2025-11-12 00:00:00",
         "amount": 2000,
         "candidate_name": "Bradford J Barrett",
@@ -1052,7 +1143,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83573",
+        "id": "contrib-1792307281217-83573",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1068,7 +1159,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83574",
+        "id": "contrib-1792307281217-83574",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -1084,7 +1175,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83575",
+        "id": "contrib-1792307281217-83575",
         "date": "2025-11-13 00:00:00",
         "amount": 2500,
         "candidate_name": "Bradford J Barrett",
@@ -1100,7 +1191,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83576",
+        "id": "contrib-1792307281217-83576",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1116,7 +1207,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83577",
+        "id": "contrib-1792307281217-83577",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1132,7 +1223,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83578",
+        "id": "contrib-1792307281217-83578",
         "date": "2025-11-13 00:00:00",
         "amount": 1500,
         "candidate_name": "Bradford J Barrett",
@@ -1148,7 +1239,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83579",
+        "id": "contrib-1792307281217-83579",
         "date": "2025-11-12 00:00:00",
         "amount": 750,
         "candidate_name": "Bradford J Barrett",
@@ -1164,7 +1255,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83580",
+        "id": "contrib-1792307281217-83580",
         "date": "2025-11-13 00:00:00",
         "amount": 300,
         "candidate_name": "Bradford J Barrett",
@@ -1180,7 +1271,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83581",
+        "id": "contrib-1792307281217-83581",
         "date": "2025-11-12 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -1196,7 +1287,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83582",
+        "id": "contrib-1792307281217-83582",
         "date": "2025-08-17 00:00:00",
         "amount": 2500,
         "candidate_name": "Bradford J Barrett",
@@ -1212,7 +1303,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83583",
+        "id": "contrib-1792307281217-83583",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1228,7 +1319,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83584",
+        "id": "contrib-1792307281217-83584",
         "date": "2025-12-06 00:00:00",
         "amount": 500,
         "candidate_name": "Bradford J Barrett",
@@ -1244,7 +1335,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83585",
+        "id": "contrib-1792307281217-83585",
         "date": "2025-11-12 00:00:00",
         "amount": 400,
         "candidate_name": "Bradford J Barrett",
@@ -1260,7 +1351,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83586",
+        "id": "contrib-1792307281217-83586",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1276,7 +1367,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83587",
+        "id": "contrib-1792307281217-83587",
         "date": "2025-11-25 00:00:00",
         "amount": 400,
         "candidate_name": "Bradford J Barrett",
@@ -1292,7 +1383,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83588",
+        "id": "contrib-1792307281217-83588",
         "date": "2025-11-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",
@@ -1308,7 +1399,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769425-83589",
+        "id": "contrib-1792307281217-83589",
         "date": "2025-11-12 00:00:00",
         "amount": 1000,
         "candidate_name": "Bradford J Barrett",

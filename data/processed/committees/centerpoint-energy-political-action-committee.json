@@ -2,18 +2,22 @@
   "id": "centerpoint-energy-political-action-committee",
   "name": "CenterPoint Energy, Political Action Committee",
   "totals": {
-    "total_given": "750.00",
-    "total_contributions": 1,
+    "total_given": "1500.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "750.00"
+      "count": 2,
+      "total": "1500.00"
     }
   },
   "by_month": {
     "2025-11": {
+      "count": 1,
+      "total": "750.00"
+    },
+    "2026-06": {
       "count": 1,
       "total": "750.00"
     }
@@ -22,13 +26,13 @@
     {
       "id": "philip-kelly-giaquinta",
       "name": "Philip Kelly GiaQuinta",
-      "total": "750.00",
-      "count": 1
+      "total": "1500.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769361-34405",
+      "id": "contrib-1792307281153-34405",
       "date": "2025-11-20 00:00:00",
       "amount": 750,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -39,6 +43,22 @@
       "occupation_category": "unknown",
       "address_city": "Houston",
       "address_state": "Tx",
+      "address_zip": "77210-4567",
+      "recipient_committee": "GiaQuinta for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281942-28903",
+      "date": "2026-06-22 00:00:00",
+      "amount": 750,
+      "candidate_name": "Philip Kelly GiaQuinta",
+      "contributor_name": "CenterPoint Energy, Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "IN",
       "address_zip": "77210-4567",
       "recipient_committee": "GiaQuinta for State Representative",
       "source": "indiana"

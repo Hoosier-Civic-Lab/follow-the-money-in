@@ -6,28 +6,36 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "300.00",
-    "total_contributions": 7,
-    "total_itemized": 7,
-    "total_unitemized": 0
+    "total_raised": "791.00",
+    "total_contributions": 13,
+    "total_itemized": 12,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "20.00"
+    },
     "individual": {
-      "count": 7,
-      "total": "300.00"
+      "count": 12,
+      "total": "771.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 6,
-      "total": "200.00"
+      "count": 10,
+      "total": "291.00"
     },
     "medium": {
-      "count": 1,
-      "total": "100.00"
+      "count": 3,
+      "total": "500.00"
     }
   },
   "by_month": {
+    "2026-04": {
+      "count": 3,
+      "total": "70.00"
+    },
     "2026-03": {
       "count": 3,
       "total": "110.00"
@@ -36,14 +44,34 @@
       "count": 3,
       "total": "160.00"
     },
-    "2026-04": {
-      "count": 1,
-      "total": "30.00"
+    "2026-08": {
+      "count": 2,
+      "total": "51.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "400.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769756-34884",
+      "id": "contrib-1792307282050-94670",
+      "date": "2026-04-18 00:00:00",
+      "amount": 20,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94671",
       "date": "2026-03-14 00:00:00",
       "amount": 10,
       "candidate_name": "Candace Suzanne Greer",
@@ -59,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34885",
+      "id": "contrib-1792307282050-94672",
       "date": "2026-02-26 00:00:00",
       "amount": 100,
       "candidate_name": "Candace Suzanne Greer",
@@ -75,7 +103,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34886",
+      "id": "contrib-1792307282050-94673",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "Dawn Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94674",
       "date": "2026-03-17 00:00:00",
       "amount": 50,
       "candidate_name": "Candace Suzanne Greer",
@@ -91,7 +135,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34887",
+      "id": "contrib-1792307282050-94675",
+      "date": "2026-10-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "Jason Janda",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94676",
       "date": "2026-04-04 00:00:00",
       "amount": 30,
       "candidate_name": "Candace Suzanne Greer",
@@ -107,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34888",
+      "id": "contrib-1792307282050-94677",
       "date": "2026-03-19 00:00:00",
       "amount": 50,
       "candidate_name": "Candace Suzanne Greer",
@@ -123,7 +183,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34889",
+      "id": "contrib-1792307282050-94678",
+      "date": "2026-08-10 00:00:00",
+      "amount": 50,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "jo Burns",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Haubstaut",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94679",
       "date": "2026-02-18 00:00:00",
       "amount": 50,
       "candidate_name": "Candace Suzanne Greer",
@@ -139,7 +215,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34890",
+      "id": "contrib-1792307282050-94680",
+      "date": "2026-04-21 00:00:00",
+      "amount": 20,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "Michael Robinson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Vincennes",
+      "address_state": "IN",
+      "address_zip": "47591",
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94681",
       "date": "2026-02-19 00:00:00",
       "amount": 10,
       "candidate_name": "Candace Suzanne Greer",
@@ -151,6 +243,22 @@
       "address_city": "Petersburg",
       "address_state": "IN",
       "address_zip": "47567",
+      "recipient_committee": "CandyCan64",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282050-94682",
+      "date": "2026-10-04 00:00:00",
+      "amount": 200,
+      "candidate_name": "Candace Suzanne Greer",
+      "contributor_name": "Patrick Curry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
       "recipient_committee": "CandyCan64",
       "source": "indiana"
     }

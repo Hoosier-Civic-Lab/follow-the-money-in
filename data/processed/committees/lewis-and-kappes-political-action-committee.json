@@ -1,0 +1,90 @@
+{
+  "id": "lewis-and-kappes-political-action-committee",
+  "name": "LEWIS AND KAPPES POLITICAL ACTION COMMITTEE",
+  "totals": {
+    "total_given": "500.00",
+    "total_contributions": 1,
+    "candidates_supported": 0
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "by_month": {
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
+    }
+  },
+  "top_recipients": [],
+  "contributions": [
+    {
+      "id": "contrib-1792307281907-5785",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "contributor_name": "LEWIS AND KAPPES POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    }
+  ],
+  "receipts": {
+    "total_raised": "2249.48",
+    "total_contributions": 2,
+    "unique_donors": 1,
+    "by_contributor_type": {
+      "individual": {
+        "count": 2,
+        "total": "2249.48"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "Joseph P Rompala",
+        "type": "individual",
+        "total": "2249.48",
+        "count": 2
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1792307281148-28125",
+        "date": "2025-11-13 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Joseph P Rompala",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46268",
+        "recipient_committee": "LEWIS AND KAPPES POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281937-23253",
+        "date": "2026-07-20 00:00:00",
+        "amount": 1249.48,
+        "contributor_name": "Joseph P Rompala",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46268",
+        "recipient_committee": "LEWIS AND KAPPES POLITICAL ACTION COMMITTEE",
+        "source": "indiana"
+      }
+    ]
+  }
+}

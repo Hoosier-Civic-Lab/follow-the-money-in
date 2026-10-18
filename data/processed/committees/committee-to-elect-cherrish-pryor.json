@@ -2,26 +2,71 @@
   "id": "committee-to-elect-cherrish-pryor",
   "name": "Committee to Elect Cherrish Pryor",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "11800.00",
+    "total_contributions": 9,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "2000.00"
+      "count": 7,
+      "total": "11000.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "2000.00"
+    },
+    "2026-09": {
+      "count": 4,
+      "total": "4000.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "3500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "tiffany-stoner",
+      "name": "Tiffany Stoner",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "wendy-j-dant-chesser",
+      "name": "Wendy J Dant Chesser",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "randall-j-novak",
+      "name": "Randall  J Novak",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "racheal-bleicher",
+      "name": "Racheal Bleicher",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7200",
+      "id": "contrib-1792307281106-7200",
       "date": "2025-08-29 00:00:00",
       "amount": 2000,
       "contributor_name": "Committee to Elect Cherrish Pryor",
@@ -34,31 +79,167 @@
       "address_zip": "46254",
       "recipient_committee": "Indiana House Democratic Caucus",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-490",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2155",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "contributor_name": "Committee to elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2156",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Committee to elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5635",
+      "date": "2026-05-18 00:00:00",
+      "amount": 3500,
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282000-65944",
+      "date": "2026-09-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tiffany Stoner",
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Friends of Tiffany Stoner",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68643",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77104",
+      "date": "2026-07-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Racheal Bleicher",
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Racheal for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282025-84438",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Randall  J Novak",
+      "contributor_name": "COMMITTEE TO ELECT CHERRISH PRYOR",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Committee to Elect Randy Novak",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "26300.21",
-    "total_contributions": 55,
-    "unique_donors": 50,
+    "total_raised": "46900.21",
+    "total_contributions": 70,
+    "unique_donors": 58,
     "by_contributor_type": {
       "unitemized": {
-        "count": 1,
-        "total": "700.00"
+        "count": 2,
+        "total": "800.00"
       },
       "corporate": {
         "count": 8,
         "total": "2500.00"
       },
       "individual": {
-        "count": 23,
-        "total": "9450.21"
+        "count": 31,
+        "total": "12800.21"
       },
       "committee": {
-        "count": 23,
-        "total": "13650.00"
+        "count": 29,
+        "total": "30800.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Indiana Realtors PAC",
+        "type": "committee",
+        "total": "11000.00",
+        "count": 2
+      },
+      {
+        "name": "Indiana Black Legislative Caucus PAC",
+        "type": "committee",
+        "total": "5000.00",
+        "count": 1
+      },
       {
         "name": "Ice Miller (Ice PAC)",
         "type": "committee",
@@ -68,7 +249,31 @@
       {
         "name": "Indiana Firefighters PAC",
         "type": "committee",
+        "total": "2000.00",
+        "count": 3
+      },
+      {
+        "name": "I-PACE",
+        "type": "individual",
         "total": "1500.00",
+        "count": 2
+      },
+      {
+        "name": "Lawyers PAC of Indiana LAWPAC of Indiana",
+        "type": "committee",
+        "total": "1500.00",
+        "count": 2
+      },
+      {
+        "name": "Rene Pack for State Rep.",
+        "type": "individual",
+        "total": "1248.52",
+        "count": 2
+      },
+      {
+        "name": "Eil Liilly and Company PAC",
+        "type": "committee",
+        "total": "1000.00",
         "count": 2
       },
       {
@@ -78,51 +283,15 @@
         "count": 1
       },
       {
-        "name": "Indiana Realtors PAC",
-        "type": "committee",
-        "total": "1000.00",
-        "count": 1
-      },
-      {
         "name": "Indiaan Association of Beverage Retailers, Good Government Fund",
         "type": "committee",
         "total": "1000.00",
         "count": 1
-      },
-      {
-        "name": "Rene Pack for State Rep.",
-        "type": "individual",
-        "total": "998.52",
-        "count": 1
-      },
-      {
-        "name": "Humana Inc. Pac",
-        "type": "committee",
-        "total": "750.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Electric Cooperatives State PAC",
-        "type": "committee",
-        "total": "750.00",
-        "count": 1
-      },
-      {
-        "name": "(Unknown)",
-        "type": "unitemized",
-        "total": "700.00",
-        "count": 1
-      },
-      {
-        "name": "CenterPoint Energy, Inc. PAC",
-        "type": "committee",
-        "total": "700.00",
-        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769405-65007",
+        "id": "contrib-1792307281198-65007",
         "date": "2025-12-31 00:00:00",
         "amount": 700,
         "candidate_name": "Cherrish S Pryor",
@@ -138,7 +307,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65008",
+        "id": "contrib-1792307281198-65008",
         "date": "2025-07-16 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -154,7 +323,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65009",
+        "id": "contrib-1792307281198-65009",
         "date": "2025-07-16 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -170,7 +339,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65010",
+        "id": "contrib-1792307281198-65010",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -186,7 +355,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65011",
+        "id": "contrib-1792307281198-65011",
         "date": "2025-10-28 00:00:00",
         "amount": 300,
         "candidate_name": "Cherrish S Pryor",
@@ -202,7 +371,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65012",
+        "id": "contrib-1792307281198-65012",
         "date": "2025-08-18 00:00:00",
         "amount": 300,
         "candidate_name": "Cherrish S Pryor",
@@ -218,7 +387,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65013",
+        "id": "contrib-1792307281198-65013",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -234,7 +403,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65014",
+        "id": "contrib-1792307281198-65014",
         "date": "2025-10-22 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -250,7 +419,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65015",
+        "id": "contrib-1792307281198-65015",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -266,7 +435,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65016",
+        "id": "contrib-1792307281198-65016",
         "date": "2025-10-28 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -282,7 +451,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65017",
+        "id": "contrib-1792307281198-65017",
         "date": "2025-10-26 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -298,7 +467,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65018",
+        "id": "contrib-1792307281198-65018",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -314,7 +483,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65019",
+        "id": "contrib-1792307281198-65019",
         "date": "2025-10-28 00:00:00",
         "amount": 430.55,
         "candidate_name": "Cherrish S Pryor",
@@ -330,7 +499,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65020",
+        "id": "contrib-1792307281198-65020",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -346,7 +515,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65021",
+        "id": "contrib-1792307281198-65021",
         "date": "2025-10-22 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -362,7 +531,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65022",
+        "id": "contrib-1792307281198-65022",
         "date": "2025-10-28 00:00:00",
         "amount": 250,
         "candidate_name": "Cherrish S Pryor",
@@ -378,7 +547,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65023",
+        "id": "contrib-1792307281198-65023",
         "date": "2025-10-28 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -394,7 +563,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65024",
+        "id": "contrib-1792307281198-65024",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -410,7 +579,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65025",
+        "id": "contrib-1792307281198-65025",
         "date": "2025-07-16 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -426,7 +595,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65026",
+        "id": "contrib-1792307281198-65026",
         "date": "2025-12-15 00:00:00",
         "amount": 350,
         "candidate_name": "Cherrish S Pryor",
@@ -442,7 +611,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65027",
+        "id": "contrib-1792307281198-65027",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -458,7 +627,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65028",
+        "id": "contrib-1792307281198-65028",
         "date": "2025-12-30 00:00:00",
         "amount": 750,
         "candidate_name": "Cherrish S Pryor",
@@ -474,7 +643,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65029",
+        "id": "contrib-1792307281198-65029",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -490,7 +659,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65030",
+        "id": "contrib-1792307281198-65030",
         "date": "2025-07-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -506,7 +675,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65031",
+        "id": "contrib-1792307281198-65031",
         "date": "2025-07-16 00:00:00",
         "amount": 300,
         "candidate_name": "Cherrish S Pryor",
@@ -522,7 +691,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65032",
+        "id": "contrib-1792307281198-65032",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -538,7 +707,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65033",
+        "id": "contrib-1792307281198-65033",
         "date": "2025-12-15 00:00:00",
         "amount": 750,
         "candidate_name": "Cherrish S Pryor",
@@ -554,7 +723,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65034",
+        "id": "contrib-1792307281198-65034",
         "date": "2025-08-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -570,7 +739,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65035",
+        "id": "contrib-1792307281198-65035",
         "date": "2025-07-16 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -586,7 +755,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65036",
+        "id": "contrib-1792307281198-65036",
         "date": "2025-10-28 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -602,7 +771,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65037",
+        "id": "contrib-1792307281198-65037",
         "date": "2025-08-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -618,7 +787,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65038",
+        "id": "contrib-1792307281198-65038",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -634,7 +803,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65039",
+        "id": "contrib-1792307281198-65039",
         "date": "2025-07-16 00:00:00",
         "amount": 998.52,
         "candidate_name": "Cherrish S Pryor",
@@ -650,7 +819,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65040",
+        "id": "contrib-1792307281198-65040",
         "date": "2025-08-18 00:00:00",
         "amount": 350,
         "candidate_name": "Cherrish S Pryor",
@@ -666,7 +835,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769405-65041",
+        "id": "contrib-1792307281198-65041",
         "date": "2025-08-18 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -682,7 +851,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11209",
+        "id": "contrib-1792307281946-31905",
+        "date": "2026-10-06 00:00:00",
+        "amount": 100,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31906",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -698,7 +883,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11210",
+        "id": "contrib-1792307281946-31907",
         "date": "2026-04-09 00:00:00",
         "amount": 300,
         "candidate_name": "Cherrish S Pryor",
@@ -714,7 +899,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11211",
+        "id": "contrib-1792307281946-31908",
         "date": "2026-04-09 00:00:00",
         "amount": 100,
         "candidate_name": "Cherrish S Pryor",
@@ -730,7 +915,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11212",
+        "id": "contrib-1792307281946-31909",
+        "date": "2026-10-08 00:00:00",
+        "amount": 300,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Beth L. Fineberg",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Unknown",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31910",
         "date": "2026-04-09 00:00:00",
         "amount": 150,
         "candidate_name": "Cherrish S Pryor",
@@ -746,7 +947,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11213",
+        "id": "contrib-1792307281946-31911",
+        "date": "2026-06-15 00:00:00",
+        "amount": 250,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Cherrish Pryor",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31912",
+        "date": "2026-08-12 00:00:00",
+        "amount": 150,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Clinton McKay",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31913",
+        "date": "2026-08-12 00:00:00",
+        "amount": 150,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "David  Corbitt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "McCordsville",
+        "address_state": "IN",
+        "address_zip": "46055",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31914",
+        "date": "2026-07-03 00:00:00",
+        "amount": 250,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Gregory F Hahn",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31915",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -762,7 +1027,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11214",
+        "id": "contrib-1792307281946-31916",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -778,7 +1043,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11215",
+        "id": "contrib-1792307281946-31917",
         "date": "2026-03-25 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -794,7 +1059,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11216",
+        "id": "contrib-1792307281946-31918",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -810,7 +1075,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11217",
+        "id": "contrib-1792307281946-31919",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -826,7 +1091,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11218",
+        "id": "contrib-1792307281946-31920",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -842,7 +1107,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11219",
+        "id": "contrib-1792307281946-31921",
         "date": "2026-04-09 00:00:00",
         "amount": 700,
         "candidate_name": "Cherrish S Pryor",
@@ -858,7 +1123,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11220",
+        "id": "contrib-1792307281946-31922",
         "date": "2026-04-09 00:00:00",
         "amount": 21.14,
         "candidate_name": "Cherrish S Pryor",
@@ -874,7 +1139,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11221",
+        "id": "contrib-1792307281946-31923",
         "date": "2026-04-09 00:00:00",
         "amount": 350,
         "candidate_name": "Cherrish S Pryor",
@@ -890,7 +1155,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11222",
+        "id": "contrib-1792307281946-31924",
+        "date": "2026-07-03 00:00:00",
+        "amount": 500,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Eil Liilly and Company PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46285",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31925",
+        "date": "2026-08-12 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "I-PACE",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31926",
         "date": "2026-04-09 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -906,7 +1203,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11223",
+        "id": "contrib-1792307281946-31927",
+        "date": "2026-08-12 00:00:00",
+        "amount": 150,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "IEA PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46282",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31928",
         "date": "2026-04-14 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -922,7 +1235,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11224",
+        "id": "contrib-1792307281946-31929",
         "date": "2026-04-09 00:00:00",
         "amount": 300,
         "candidate_name": "Cherrish S Pryor",
@@ -938,7 +1251,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11225",
+        "id": "contrib-1792307281946-31930",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",
@@ -954,7 +1267,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11226",
+        "id": "contrib-1792307281946-31931",
+        "date": "2026-04-21 00:00:00",
+        "amount": 5000,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Indiana Black Legislative Caucus PAC",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31932",
         "date": "2026-04-09 00:00:00",
         "amount": 150,
         "candidate_name": "Cherrish S Pryor",
@@ -970,7 +1299,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11227",
+        "id": "contrib-1792307281946-31933",
+        "date": "2026-07-03 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Indiana Farm Bureau AgELECT",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46206",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31934",
+        "date": "2026-08-12 00:00:00",
+        "amount": 500,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Indiana Firefighters PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46202",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31935",
         "date": "2026-04-09 00:00:00",
         "amount": 1000,
         "candidate_name": "Cherrish S Pryor",
@@ -986,7 +1347,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769688-11228",
+        "id": "contrib-1792307281946-31936",
+        "date": "2026-07-10 00:00:00",
+        "amount": 10000,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Indiana Realtors PAC",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31937",
+        "date": "2026-07-03 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Lawyers PAC of Indiana LAWPAC of Indiana",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31938",
+        "date": "2026-07-03 00:00:00",
+        "amount": 250,
+        "candidate_name": "Cherrish S Pryor",
+        "contributor_name": "Rene Pack for State Rep.",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46234",
+        "recipient_committee": "Committee to Elect Cherrish Pryor",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281946-31939",
         "date": "2026-04-09 00:00:00",
         "amount": 500,
         "candidate_name": "Cherrish S Pryor",

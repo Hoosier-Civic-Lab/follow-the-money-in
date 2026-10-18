@@ -6,37 +6,37 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "33241.30",
-    "total_contributions": 59,
-    "total_itemized": 59,
+    "total_raised": "53084.30",
+    "total_contributions": 127,
+    "total_itemized": 127,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 15,
-      "total": "7850.00"
+      "count": 23,
+      "total": "10900.00"
     },
     "individual": {
-      "count": 27,
-      "total": "15691.30"
+      "count": 75,
+      "total": "25934.30"
     },
     "committee": {
-      "count": 17,
-      "total": "9700.00"
+      "count": 29,
+      "total": "16250.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 15,
-      "total": "19377.89"
+      "count": 21,
+      "total": "25377.89"
     },
     "medium": {
-      "count": 36,
-      "total": "13483.09"
+      "count": 86,
+      "total": "27051.09"
     },
     "small": {
-      "count": 8,
-      "total": "380.32"
+      "count": 20,
+      "total": "655.32"
     }
   },
   "by_month": {
@@ -76,6 +76,26 @@
       "count": 1,
       "total": "98.62"
     },
+    "2026-09": {
+      "count": 6,
+      "total": "3610.00"
+    },
+    "2026-04": {
+      "count": 13,
+      "total": "5660.00"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "560.00"
+    },
+    "2026-10": {
+      "count": 3,
+      "total": "425.00"
+    },
+    "2026-06": {
+      "count": 35,
+      "total": "7180.00"
+    },
     "2026-01": {
       "count": 1,
       "total": "10.00"
@@ -87,11 +107,19 @@
     "2026-03": {
       "count": 1,
       "total": "10.00"
+    },
+    "2026-07": {
+      "count": 6,
+      "total": "2348.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "60.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769424-83124",
+      "id": "contrib-1792307281217-83124",
       "date": "2025-08-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -107,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83125",
+      "id": "contrib-1792307281217-83125",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83126",
+      "id": "contrib-1792307281217-83126",
       "date": "2025-01-11 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83127",
+      "id": "contrib-1792307281217-83127",
       "date": "2025-11-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -155,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83128",
+      "id": "contrib-1792307281217-83128",
       "date": "2025-12-23 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -171,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83129",
+      "id": "contrib-1792307281217-83129",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -187,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83130",
+      "id": "contrib-1792307281217-83130",
       "date": "2025-11-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -203,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83131",
+      "id": "contrib-1792307281217-83131",
       "date": "2025-09-16 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Robert Miller",
@@ -219,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83132",
+      "id": "contrib-1792307281217-83132",
       "date": "2025-11-10 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -235,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83133",
+      "id": "contrib-1792307281217-83133",
       "date": "2025-10-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -251,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83134",
+      "id": "contrib-1792307281217-83134",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -267,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83135",
+      "id": "contrib-1792307281217-83135",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -283,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83136",
+      "id": "contrib-1792307281217-83136",
       "date": "2025-12-23 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -299,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83137",
+      "id": "contrib-1792307281217-83137",
       "date": "2025-10-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -315,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83138",
+      "id": "contrib-1792307281217-83138",
       "date": "2025-07-14 00:00:00",
       "amount": 2821.54,
       "candidate_name": "Kyle Robert Miller",
@@ -331,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83139",
+      "id": "contrib-1792307281217-83139",
       "date": "2025-07-18 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Robert Miller",
@@ -347,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83140",
+      "id": "contrib-1792307281217-83140",
       "date": "2025-08-18 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Robert Miller",
@@ -363,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83141",
+      "id": "contrib-1792307281217-83141",
       "date": "2025-09-16 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Robert Miller",
@@ -379,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83142",
+      "id": "contrib-1792307281217-83142",
       "date": "2025-07-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -395,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83143",
+      "id": "contrib-1792307281217-83143",
       "date": "2025-09-29 00:00:00",
       "amount": 366.67,
       "candidate_name": "Kyle Robert Miller",
@@ -411,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83144",
+      "id": "contrib-1792307281217-83144",
       "date": "2025-08-18 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Robert Miller",
@@ -427,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83145",
+      "id": "contrib-1792307281217-83145",
       "date": "2025-08-18 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -443,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83146",
+      "id": "contrib-1792307281217-83146",
       "date": "2025-12-10 00:00:00",
       "amount": 9.6,
       "candidate_name": "Kyle Robert Miller",
@@ -459,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83147",
+      "id": "contrib-1792307281217-83147",
       "date": "2025-05-07 00:00:00",
       "amount": 96.05,
       "candidate_name": "Kyle Robert Miller",
@@ -475,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83148",
+      "id": "contrib-1792307281217-83148",
       "date": "2025-12-24 00:00:00",
       "amount": 96.05,
       "candidate_name": "Kyle Robert Miller",
@@ -491,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83149",
+      "id": "contrib-1792307281217-83149",
       "date": "2025-06-25 00:00:00",
       "amount": 98.62,
       "candidate_name": "Kyle Robert Miller",
@@ -507,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83150",
+      "id": "contrib-1792307281217-83150",
       "date": "2025-07-09 00:00:00",
       "amount": 144.07,
       "candidate_name": "Kyle Robert Miller",
@@ -523,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83151",
+      "id": "contrib-1792307281217-83151",
       "date": "2025-09-24 00:00:00",
       "amount": 192.1,
       "candidate_name": "Kyle Robert Miller",
@@ -539,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83152",
+      "id": "contrib-1792307281217-83152",
       "date": "2025-09-04 00:00:00",
       "amount": 480.25,
       "candidate_name": "Kyle Robert Miller",
@@ -555,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83153",
+      "id": "contrib-1792307281217-83153",
       "date": "2025-07-02 00:00:00",
       "amount": 1056.53,
       "candidate_name": "Kyle Robert Miller",
@@ -571,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83154",
+      "id": "contrib-1792307281217-83154",
       "date": "2025-07-16 00:00:00",
       "amount": 1392.71,
       "candidate_name": "Kyle Robert Miller",
@@ -587,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83155",
+      "id": "contrib-1792307281217-83155",
       "date": "2025-07-23 00:00:00",
       "amount": 3107.11,
       "candidate_name": "Kyle Robert Miller",
@@ -603,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83156",
+      "id": "contrib-1792307281217-83156",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -619,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83157",
+      "id": "contrib-1792307281217-83157",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -635,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83158",
+      "id": "contrib-1792307281217-83158",
       "date": "2025-07-18 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -651,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83159",
+      "id": "contrib-1792307281217-83159",
       "date": "2025-09-29 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -667,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83160",
+      "id": "contrib-1792307281217-83160",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -683,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83161",
+      "id": "contrib-1792307281217-83161",
       "date": "2025-11-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -699,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83162",
+      "id": "contrib-1792307281217-83162",
       "date": "2025-09-16 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -715,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83163",
+      "id": "contrib-1792307281217-83163",
       "date": "2025-12-26 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -731,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83164",
+      "id": "contrib-1792307281217-83164",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -747,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83165",
+      "id": "contrib-1792307281217-83165",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -763,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83166",
+      "id": "contrib-1792307281217-83166",
       "date": "2025-12-26 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -779,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83167",
+      "id": "contrib-1792307281217-83167",
       "date": "2025-07-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -795,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83168",
+      "id": "contrib-1792307281217-83168",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -811,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83169",
+      "id": "contrib-1792307281217-83169",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -827,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83170",
+      "id": "contrib-1792307281217-83170",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -843,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83171",
+      "id": "contrib-1792307281217-83171",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -859,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83172",
+      "id": "contrib-1792307281217-83172",
       "date": "2025-12-26 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Robert Miller",
@@ -875,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83173",
+      "id": "contrib-1792307281217-83173",
       "date": "2025-12-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -891,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83174",
+      "id": "contrib-1792307281217-83174",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -907,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83175",
+      "id": "contrib-1792307281217-83175",
       "date": "2025-10-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -923,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83176",
+      "id": "contrib-1792307281217-83176",
       "date": "2025-09-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Robert Miller",
@@ -939,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83177",
+      "id": "contrib-1792307281217-83177",
       "date": "2025-07-18 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -955,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83178",
+      "id": "contrib-1792307281217-83178",
       "date": "2025-09-03 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -971,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83179",
+      "id": "contrib-1792307281217-83179",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -987,7 +1015,247 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17257",
+      "id": "contrib-1792307281973-48869",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Anheuser Busch Companies",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "St. Louis",
+      "address_state": "MO",
+      "address_zip": "63118",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48870",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Bose Public Affairs Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48871",
+      "date": "2026-05-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Fagre Drinker Biddle & Reath LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55402",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48872",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Indiana Fine Wine & Spirits LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "MD",
+      "address_zip": "20817",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48873",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Krieg Devault",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48874",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "New Millennium Building Systems",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48875",
+      "date": "2026-05-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "RightCHOICE Managed Care, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cincinnatti",
+      "address_state": "OH",
+      "address_zip": "45209",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48876",
+      "date": "2026-10-09 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Volt Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48877",
+      "date": "2026-06-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Adam Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48878",
+      "date": "2026-06-27 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Andy Candor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48879",
+      "date": "2026-06-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Barbara Buhlman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48880",
+      "date": "2026-06-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Bob Behr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48881",
+      "date": "2026-06-24 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Brandon Blumenherst",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Student",
+      "occupation_category": "student",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48882",
+      "date": "2026-06-13 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Camella Sutter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48883",
+      "date": "2026-06-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Chad Wierzbinski",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48884",
       "date": "2026-01-11 00:00:00",
       "amount": 10,
       "candidate_name": "Kyle Robert Miller",
@@ -1003,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17258",
+      "id": "contrib-1792307281973-48885",
       "date": "2026-02-12 00:00:00",
       "amount": 10,
       "candidate_name": "Kyle Robert Miller",
@@ -1019,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17259",
+      "id": "contrib-1792307281973-48886",
       "date": "2026-03-12 00:00:00",
       "amount": 10,
       "candidate_name": "Kyle Robert Miller",
@@ -1031,6 +1299,854 @@
       "address_city": "Fort Wayne",
       "address_state": "IN",
       "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48887",
+      "date": "2026-04-12 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48888",
+      "date": "2026-05-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48889",
+      "date": "2026-06-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48890",
+      "date": "2026-07-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48891",
+      "date": "2026-08-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48892",
+      "date": "2026-09-06 00:00:00",
+      "amount": 10,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Charlotte Weybright",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48893",
+      "date": "2026-06-19 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Christer Watson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48894",
+      "date": "2026-04-27 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Clinton McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48895",
+      "date": "2026-06-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Connor Bartlett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46845",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48896",
+      "date": "2026-06-25 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Derek Camp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48897",
+      "date": "2026-06-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Joe Francis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48898",
+      "date": "2026-06-25 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "John Gardner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48899",
+      "date": "2026-06-24 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "John Hoffman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48900",
+      "date": "2026-06-07 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "John Metzinger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46803",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48901",
+      "date": "2026-06-19 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Joni Lehman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48902",
+      "date": "2026-06-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Jonnelle Brehob",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48903",
+      "date": "2026-06-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Karl Bandemer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48904",
+      "date": "2026-06-25 00:00:00",
+      "amount": 20,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Kate Conner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48905",
+      "date": "2026-06-14 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Kody Tinnel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48906",
+      "date": "2026-06-23 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Konrad Urberg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48907",
+      "date": "2026-06-27 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Kourtney Teegardin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48908",
+      "date": "2026-06-25 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Lee Castillo",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48909",
+      "date": "2026-06-30 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Marlene Purdy",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48910",
+      "date": "2026-08-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Melissa Rinehart",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48911",
+      "date": "2026-07-19 00:00:00",
+      "amount": 20,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Mikah Simmons",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntertown",
+      "address_state": "IN",
+      "address_zip": "46748",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48912",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Mike McCartin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48913",
+      "date": "2026-10-01 00:00:00",
+      "amount": 25,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Peter Christensen",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48914",
+      "date": "2026-06-30 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Phil Giaquinta",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48915",
+      "date": "2026-06-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Rachel Guin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46805",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48916",
+      "date": "2026-07-17 00:00:00",
+      "amount": 318,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Stanley Ziherl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48917",
+      "date": "2026-06-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Stanley Ziherl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48918",
+      "date": "2026-06-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Stephen Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48919",
+      "date": "2026-06-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Steve Walter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48920",
+      "date": "2026-06-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Susan Baier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48921",
+      "date": "2026-06-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Tony GiaQuinta",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48922",
+      "date": "2026-06-13 00:00:00",
+      "amount": 150,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Tracy Troyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48923",
+      "date": "2026-10-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Forward with Fisher",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46807",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48924",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "American Electric Power - Indiana - Committee for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48925",
+      "date": "2026-04-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48926",
+      "date": "2026-06-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Delivering the Difference for Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48927",
+      "date": "2026-04-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48928",
+      "date": "2026-09-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Indiana Builders Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48929",
+      "date": "2026-04-27 00:00:00",
+      "amount": 600,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "INDIANA CREDIT UNION POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48930",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48931",
+      "date": "2026-07-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "DukePAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48932",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48933",
+      "date": "2026-06-30 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "IBEW PAC VOLUNTARY FUND",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48934",
+      "date": "2026-04-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48935",
+      "date": "2026-04-27 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48936",
+      "date": "2026-04-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46885",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48937",
+      "date": "2026-07-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "IUOE Local 399",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60616",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48938",
+      "date": "2026-09-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Laborers Local 213 LPL Educational Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46806",
+      "recipient_committee": "Friends of Kyle Miller",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48939",
+      "date": "2026-06-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Robert Miller",
+      "contributor_name": "Northeast Indiana Building Trades Council PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
       "recipient_committee": "Friends of Kyle Miller",
       "source": "indiana"
     }

@@ -2,18 +2,22 @@
   "id": "committee-to-elect-bob-heaton",
   "name": "Committee to Elect Bob Heaton",
   "totals": {
-    "total_given": "16146.27",
-    "total_contributions": 4,
-    "candidates_supported": 1
+    "total_given": "38944.51",
+    "total_contributions": 7,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1146.27"
+      "count": 4,
+      "total": "1444.51"
     },
     "mega": {
+      "count": 2,
+      "total": "35000.00"
+    },
+    "large": {
       "count": 1,
-      "total": "15000.00"
+      "total": "2500.00"
     }
   },
   "by_month": {
@@ -24,9 +28,27 @@
     "2025-11": {
       "count": 2,
       "total": "866.32"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "298.24"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "20000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "amy-lore",
+      "name": "Amy Lore",
+      "total": "2500.00",
+      "count": 1
+    },
     {
       "id": "kristi-marie-risk",
       "name": "Kristi Marie Risk",
@@ -36,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-5986",
+      "id": "contrib-1792307281104-5986",
       "date": "2025-12-22 00:00:00",
       "amount": 279.95,
       "contributor_name": "Committee to Elect Bob Heaton",
@@ -51,7 +73,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5987",
+      "id": "contrib-1792307281104-5987",
       "date": "2025-11-13 00:00:00",
       "amount": 366.32,
       "contributor_name": "Committee to Elect Bob Heaton",
@@ -66,7 +88,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769317-5988",
+      "id": "contrib-1792307281104-5988",
       "date": "2025-12-02 00:00:00",
       "amount": 15000,
       "contributor_name": "Committee to Elect Bob Heaton",
@@ -81,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102527",
+      "id": "contrib-1792307281243-102527",
       "date": "2025-11-17 00:00:00",
       "amount": 500,
       "candidate_name": "Kristi Marie Risk",
@@ -94,6 +116,52 @@
       "address_state": "IN",
       "address_zip": "47834",
       "recipient_committee": "Friends of Kristi Risk",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3427",
+      "date": "2026-06-22 00:00:00",
+      "amount": 298.24,
+      "contributor_name": "Committee to Elect Bob Heaton",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brazil",
+      "address_state": "IN",
+      "address_zip": "47834",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281902-3428",
+      "date": "2026-10-08 00:00:00",
+      "amount": 20000,
+      "contributor_name": "Committee to Elect Bob Heaton",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brazil",
+      "address_state": "IN",
+      "address_zip": "47834",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282046-93018",
+      "date": "2026-09-04 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Amy Lore",
+      "contributor_name": "Committee to Elect Bob Heaton",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brazil",
+      "address_state": "IN",
+      "address_zip": "47834",
+      "recipient_committee": "Friends of Amy Lore",
       "source": "indiana"
     }
   ],

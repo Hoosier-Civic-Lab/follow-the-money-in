@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "27370.90",
-    "total_contributions": 95,
-    "total_itemized": 93,
-    "total_unitemized": 2
+    "total_raised": "93829.66",
+    "total_contributions": 171,
+    "total_itemized": 168,
+    "total_unitemized": 3
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 2,
-      "total": "150.00"
+      "count": 3,
+      "total": "150.64"
     },
     "corporate": {
-      "count": 10,
-      "total": "3950.00"
+      "count": 18,
+      "total": "6650.00"
     },
     "individual": {
-      "count": 68,
-      "total": "14820.90"
+      "count": 119,
+      "total": "45179.02"
     },
     "committee": {
-      "count": 15,
-      "total": "8450.00"
+      "count": 31,
+      "total": "41850.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 31,
-      "total": "1409.81"
+      "count": 51,
+      "total": "2131.45"
     },
     "medium": {
-      "count": 56,
-      "total": "16490.05"
+      "count": 102,
+      "total": "32235.89"
     },
     "large": {
-      "count": 8,
-      "total": "9471.04"
+      "count": 17,
+      "total": "34462.32"
+    },
+    "mega": {
+      "count": 1,
+      "total": "25000.00"
     }
   },
   "by_month": {
@@ -72,6 +76,34 @@
       "count": 1,
       "total": "100.00"
     },
+    "2026-09": {
+      "count": 22,
+      "total": "16669.29"
+    },
+    "2026-08": {
+      "count": 25,
+      "total": "11458.20"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "370.25"
+    },
+    "2026-07": {
+      "count": 3,
+      "total": "1628.78"
+    },
+    "2026-04": {
+      "count": 18,
+      "total": "1398.30"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "25.00"
+    },
+    "2026-10": {
+      "count": 7,
+      "total": "35301.24"
+    },
     "2026-03": {
       "count": 2,
       "total": "322.71"
@@ -83,15 +115,11 @@
     "2026-02": {
       "count": 1,
       "total": "1471.04"
-    },
-    "2026-04": {
-      "count": 3,
-      "total": "392.30"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769426-85072",
+      "id": "contrib-1792307281219-85072",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -107,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85073",
+      "id": "contrib-1792307281219-85073",
       "date": "2025-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Edward Pierce",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85074",
+      "id": "contrib-1792307281219-85074",
       "date": "2025-07-18 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85075",
+      "id": "contrib-1792307281219-85075",
       "date": "2025-10-14 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -155,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85076",
+      "id": "contrib-1792307281219-85076",
       "date": "2025-12-30 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -171,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85077",
+      "id": "contrib-1792307281219-85077",
       "date": "2025-10-14 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -187,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85078",
+      "id": "contrib-1792307281219-85078",
       "date": "2025-10-29 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -203,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85079",
+      "id": "contrib-1792307281219-85079",
       "date": "2025-09-30 00:00:00",
       "amount": 150,
       "candidate_name": "Kyle Edward Pierce",
@@ -219,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85080",
+      "id": "contrib-1792307281219-85080",
       "date": "2025-10-30 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -235,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85081",
+      "id": "contrib-1792307281219-85081",
       "date": "2025-10-11 00:00:00",
       "amount": 260.25,
       "candidate_name": "Kyle Edward Pierce",
@@ -251,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85082",
+      "id": "contrib-1792307281219-85082",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -267,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85083",
+      "id": "contrib-1792307281219-85083",
       "date": "2025-09-30 00:00:00",
       "amount": 312.3,
       "candidate_name": "Kyle Edward Pierce",
@@ -283,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85084",
+      "id": "contrib-1792307281219-85084",
       "date": "2025-11-06 00:00:00",
       "amount": 260.25,
       "candidate_name": "Kyle Edward Pierce",
@@ -299,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85085",
+      "id": "contrib-1792307281219-85085",
       "date": "2025-10-30 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -315,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85086",
+      "id": "contrib-1792307281219-85086",
       "date": "2025-11-06 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -331,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85087",
+      "id": "contrib-1792307281219-85087",
       "date": "2025-10-08 00:00:00",
       "amount": 33.31,
       "candidate_name": "Kyle Edward Pierce",
@@ -347,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85088",
+      "id": "contrib-1792307281219-85088",
       "date": "2025-10-28 00:00:00",
       "amount": 260.25,
       "candidate_name": "Kyle Edward Pierce",
@@ -363,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85089",
+      "id": "contrib-1792307281219-85089",
       "date": "2025-09-04 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -379,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85090",
+      "id": "contrib-1792307281219-85090",
       "date": "2025-10-30 00:00:00",
       "amount": 520.51,
       "candidate_name": "Kyle Edward Pierce",
@@ -395,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85091",
+      "id": "contrib-1792307281219-85091",
       "date": "2025-10-30 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -411,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85092",
+      "id": "contrib-1792307281219-85092",
       "date": "2025-11-06 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -427,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85093",
+      "id": "contrib-1792307281219-85093",
       "date": "2025-10-31 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -443,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85094",
+      "id": "contrib-1792307281219-85094",
       "date": "2025-11-06 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -459,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85095",
+      "id": "contrib-1792307281219-85095",
       "date": "2025-11-05 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -475,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85096",
+      "id": "contrib-1792307281219-85096",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -491,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85097",
+      "id": "contrib-1792307281219-85097",
       "date": "2025-10-30 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -507,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85098",
+      "id": "contrib-1792307281219-85098",
       "date": "2025-10-31 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -523,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85099",
+      "id": "contrib-1792307281219-85099",
       "date": "2025-10-31 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -539,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85100",
+      "id": "contrib-1792307281219-85100",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -555,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85101",
+      "id": "contrib-1792307281219-85101",
       "date": "2025-10-31 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -571,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85102",
+      "id": "contrib-1792307281219-85102",
       "date": "2025-10-30 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -587,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85103",
+      "id": "contrib-1792307281219-85103",
       "date": "2025-08-26 00:00:00",
       "amount": 1.04,
       "candidate_name": "Kyle Edward Pierce",
@@ -603,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85104",
+      "id": "contrib-1792307281219-85104",
       "date": "2025-10-24 00:00:00",
       "amount": 103.73,
       "candidate_name": "Kyle Edward Pierce",
@@ -619,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85105",
+      "id": "contrib-1792307281219-85105",
       "date": "2025-11-13 00:00:00",
       "amount": 260,
       "candidate_name": "Kyle Edward Pierce",
@@ -635,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85106",
+      "id": "contrib-1792307281219-85106",
       "date": "2025-09-22 00:00:00",
       "amount": 208.2,
       "candidate_name": "Kyle Edward Pierce",
@@ -651,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85107",
+      "id": "contrib-1792307281219-85107",
       "date": "2025-11-06 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -667,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85108",
+      "id": "contrib-1792307281219-85108",
       "date": "2025-10-31 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -683,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85109",
+      "id": "contrib-1792307281219-85109",
       "date": "2025-11-03 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -699,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85110",
+      "id": "contrib-1792307281219-85110",
       "date": "2025-11-06 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -715,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85111",
+      "id": "contrib-1792307281219-85111",
       "date": "2025-11-06 00:00:00",
       "amount": 208.2,
       "candidate_name": "Kyle Edward Pierce",
@@ -731,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85112",
+      "id": "contrib-1792307281219-85112",
       "date": "2025-10-12 00:00:00",
       "amount": 260.25,
       "candidate_name": "Kyle Edward Pierce",
@@ -747,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85113",
+      "id": "contrib-1792307281219-85113",
       "date": "2025-10-07 00:00:00",
       "amount": 312.3,
       "candidate_name": "Kyle Edward Pierce",
@@ -763,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85114",
+      "id": "contrib-1792307281219-85114",
       "date": "2025-09-30 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -779,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85115",
+      "id": "contrib-1792307281219-85115",
       "date": "2025-11-06 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -795,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85116",
+      "id": "contrib-1792307281219-85116",
       "date": "2025-09-10 00:00:00",
       "amount": 52.5,
       "candidate_name": "Kyle Edward Pierce",
@@ -811,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85117",
+      "id": "contrib-1792307281219-85117",
       "date": "2025-11-05 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -827,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85118",
+      "id": "contrib-1792307281219-85118",
       "date": "2025-10-21 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -843,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85119",
+      "id": "contrib-1792307281219-85119",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -859,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85120",
+      "id": "contrib-1792307281219-85120",
       "date": "2025-10-11 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -875,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85121",
+      "id": "contrib-1792307281219-85121",
       "date": "2025-11-13 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Edward Pierce",
@@ -891,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85122",
+      "id": "contrib-1792307281219-85122",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -907,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85123",
+      "id": "contrib-1792307281219-85123",
       "date": "2025-11-13 00:00:00",
       "amount": 50,
       "candidate_name": "Kyle Edward Pierce",
@@ -923,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85124",
+      "id": "contrib-1792307281219-85124",
       "date": "2025-10-31 00:00:00",
       "amount": 52.05,
       "candidate_name": "Kyle Edward Pierce",
@@ -939,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85125",
+      "id": "contrib-1792307281219-85125",
       "date": "2025-09-12 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -955,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85126",
+      "id": "contrib-1792307281219-85126",
       "date": "2025-10-14 00:00:00",
       "amount": 104.1,
       "candidate_name": "Kyle Edward Pierce",
@@ -971,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85127",
+      "id": "contrib-1792307281219-85127",
       "date": "2025-10-13 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -987,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85128",
+      "id": "contrib-1792307281219-85128",
       "date": "2025-10-13 00:00:00",
       "amount": 520.51,
       "candidate_name": "Kyle Edward Pierce",
@@ -1003,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85129",
+      "id": "contrib-1792307281219-85129",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1019,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85130",
+      "id": "contrib-1792307281219-85130",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1035,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85131",
+      "id": "contrib-1792307281219-85131",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1051,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85132",
+      "id": "contrib-1792307281219-85132",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1067,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85133",
+      "id": "contrib-1792307281219-85133",
       "date": "2025-11-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1083,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85134",
+      "id": "contrib-1792307281219-85134",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1099,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85135",
+      "id": "contrib-1792307281219-85135",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1115,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85136",
+      "id": "contrib-1792307281219-85136",
       "date": "2025-11-13 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1131,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85137",
+      "id": "contrib-1792307281219-85137",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1147,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85138",
+      "id": "contrib-1792307281219-85138",
       "date": "2025-06-27 00:00:00",
       "amount": 100,
       "candidate_name": "Kyle Edward Pierce",
@@ -1163,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85139",
+      "id": "contrib-1792307281219-85139",
       "date": "2025-10-24 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1179,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85140",
+      "id": "contrib-1792307281219-85140",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1195,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85141",
+      "id": "contrib-1792307281219-85141",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1211,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85142",
+      "id": "contrib-1792307281219-85142",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1227,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85143",
+      "id": "contrib-1792307281219-85143",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -1243,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85144",
+      "id": "contrib-1792307281219-85144",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1259,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85145",
+      "id": "contrib-1792307281219-85145",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1275,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85146",
+      "id": "contrib-1792307281219-85146",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1291,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85147",
+      "id": "contrib-1792307281219-85147",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1307,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85148",
+      "id": "contrib-1792307281219-85148",
       "date": "2025-10-14 00:00:00",
       "amount": 2000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1323,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85149",
+      "id": "contrib-1792307281219-85149",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "Kyle Edward Pierce",
@@ -1339,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85150",
+      "id": "contrib-1792307281219-85150",
       "date": "2025-11-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1355,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85151",
+      "id": "contrib-1792307281219-85151",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1371,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85152",
+      "id": "contrib-1792307281219-85152",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1387,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85153",
+      "id": "contrib-1792307281219-85153",
       "date": "2025-09-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1403,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85154",
+      "id": "contrib-1792307281219-85154",
       "date": "2025-10-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1419,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85155",
+      "id": "contrib-1792307281219-85155",
       "date": "2025-10-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -1435,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85156",
+      "id": "contrib-1792307281219-85156",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -1451,7 +1479,631 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17712",
+      "id": "contrib-1792307281975-50711",
+      "date": "2026-09-08 00:00:00",
+      "amount": 0.64,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50712",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "American Electric Power",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50713",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Hightower Services Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50714",
+      "date": "2026-08-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "OneMain General Services Corp.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Irving",
+      "address_state": "TX",
+      "address_zip": "75062",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50715",
+      "date": "2026-09-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Vortex",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Elwood",
+      "address_state": "IN",
+      "address_zip": "46036",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50716",
+      "date": "2026-09-11 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Aaron Minnich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46203",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50717",
+      "date": "2026-09-20 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Alek Venturino",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50718",
+      "date": "2026-08-23 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Amy Rolfes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50719",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Chad Main",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50720",
+      "date": "2026-09-08 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Garen Bragg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Lebanon",
+      "address_state": "IN",
+      "address_zip": "46052",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50721",
+      "date": "2026-09-12 00:00:00",
+      "amount": 2602.54,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Ilya Rekhter",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50722",
+      "date": "2026-09-10 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Jacob Laue",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50723",
+      "date": "2026-05-19 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Jeff Cummins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50724",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "John Cochran",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50725",
+      "date": "2026-09-07 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Joni Harvey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46012",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50726",
+      "date": "2026-09-28 00:00:00",
+      "amount": 30,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Karen John",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46011",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50727",
+      "date": "2026-07-04 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Babcock",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Warsaw",
+      "address_state": "IN",
+      "address_zip": "46581",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50728",
+      "date": "2026-04-15 00:00:00",
+      "amount": 1,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50729",
+      "date": "2026-04-15 00:00:00",
+      "amount": 20,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50730",
+      "date": "2026-04-18 00:00:00",
+      "amount": 20,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50731",
+      "date": "2026-04-24 00:00:00",
+      "amount": 20,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50732",
+      "date": "2026-04-11 00:00:00",
+      "amount": 25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50733",
+      "date": "2026-06-03 00:00:00",
+      "amount": 25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50734",
+      "date": "2026-04-17 00:00:00",
+      "amount": 30,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50735",
+      "date": "2026-04-22 00:00:00",
+      "amount": 30,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50736",
+      "date": "2026-04-28 00:00:00",
+      "amount": 30,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50737",
+      "date": "2026-04-17 00:00:00",
+      "amount": 40,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50738",
+      "date": "2026-05-01 00:00:00",
+      "amount": 40,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50739",
+      "date": "2026-04-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50740",
+      "date": "2026-04-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50741",
+      "date": "2026-04-11 00:00:00",
+      "amount": 60,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50742",
+      "date": "2026-04-16 00:00:00",
+      "amount": 60,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50743",
+      "date": "2026-04-22 00:00:00",
+      "amount": 70,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50744",
+      "date": "2026-05-21 00:00:00",
+      "amount": 70,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50745",
+      "date": "2026-07-06 00:00:00",
+      "amount": 592.33,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50746",
+      "date": "2026-07-18 00:00:00",
+      "amount": 932.35,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50747",
+      "date": "2026-10-06 00:00:00",
+      "amount": 3038.74,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50748",
+      "date": "2026-10-06 00:00:00",
+      "amount": 5062.5,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50749",
+      "date": "2026-09-01 00:00:00",
+      "amount": 6787.5,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kyle Pierce",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50750",
       "date": "2026-03-17 00:00:00",
       "amount": 10.41,
       "candidate_name": "Kyle Edward Pierce",
@@ -1467,7 +2119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17713",
+      "id": "contrib-1792307281975-50751",
       "date": "2026-01-09 00:00:00",
       "amount": 10,
       "candidate_name": "Kyle Edward Pierce",
@@ -1483,7 +2135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17714",
+      "id": "contrib-1792307281975-50752",
       "date": "2026-02-05 00:00:00",
       "amount": 1471.04,
       "candidate_name": "Kyle Edward Pierce",
@@ -1499,7 +2151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17715",
+      "id": "contrib-1792307281975-50753",
       "date": "2026-04-07 00:00:00",
       "amount": 40,
       "candidate_name": "Kyle Edward Pierce",
@@ -1515,7 +2167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17716",
+      "id": "contrib-1792307281975-50754",
       "date": "2026-04-10 00:00:00",
       "amount": 40,
       "candidate_name": "Kyle Edward Pierce",
@@ -1531,7 +2183,231 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17717",
+      "id": "contrib-1792307281975-50755",
+      "date": "2026-09-10 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Lisa Hunnicutt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50756",
+      "date": "2026-10-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Lisa Oakley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46016",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50757",
+      "date": "2026-09-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Robert O'Hara",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50758",
+      "date": "2026-09-10 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Romero Tapia",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50759",
+      "date": "2026-09-16 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Ryan Flynn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50760",
+      "date": "2026-09-03 00:00:00",
+      "amount": 333,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Scott Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50761",
+      "date": "2026-09-08 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Scott Zarazee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50762",
+      "date": "2026-09-10 00:00:00",
+      "amount": 156.16,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Shirlene Olson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50763",
+      "date": "2026-09-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Sovilla Mennen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kirklin",
+      "address_state": "IN",
+      "address_zip": "46050",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50764",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Steve Wolff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50765",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50766",
+      "date": "2026-09-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50767",
+      "date": "2026-09-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Committee to Elect Deborah Dunham",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterfield",
+      "address_state": "IN",
+      "address_zip": "46017",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50768",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Minneapolis",
+      "address_state": "MN",
+      "address_zip": "55402",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50769",
       "date": "2026-01-09 00:00:00",
       "amount": 250,
       "candidate_name": "Kyle Edward Pierce",
@@ -1547,7 +2423,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17718",
+      "id": "contrib-1792307281975-50770",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Hallowell Consulting LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50771",
+      "date": "2026-10-05 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50772",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Ice Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50773",
       "date": "2026-01-09 00:00:00",
       "amount": 150,
       "candidate_name": "Kyle Edward Pierce",
@@ -1563,7 +2487,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17719",
+      "id": "contrib-1792307281975-50774",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Kroger, Gardis & Regas, LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50775",
+      "date": "2026-08-18 00:00:00",
+      "amount": 400,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Madison Co. Womens Republican Club",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46011",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50776",
       "date": "2026-03-31 00:00:00",
       "amount": 312.3,
       "candidate_name": "Kyle Edward Pierce",
@@ -1579,7 +2535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17720",
+      "id": "contrib-1792307281975-50777",
       "date": "2026-04-07 00:00:00",
       "amount": 312.3,
       "candidate_name": "Kyle Edward Pierce",
@@ -1595,7 +2551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17721",
+      "id": "contrib-1792307281975-50778",
       "date": "2026-01-09 00:00:00",
       "amount": 150,
       "candidate_name": "Kyle Edward Pierce",
@@ -1607,6 +2563,294 @@
       "address_city": "Franklin",
       "address_state": "IN",
       "address_zip": "37068",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50779",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Taft Stettinius & Hollister",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50780",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "The Corydon Group",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50781",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Volt Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50782",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Zarich Consulting LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46234",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50783",
+      "date": "2026-10-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Beer Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50784",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Duke Energy Corporation Employee PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50785",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Humane World Action Fund of Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20037",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50786",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "IMHA/RVIC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50787",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50788",
+      "date": "2026-08-18 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50789",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50790",
+      "date": "2026-08-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50791",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50792",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50793",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Multi-Family Housing PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50794",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Realtors PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50795",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana State Building & Construction Trades Council-PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50796",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Trucking Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Pierce for Indiana",
       "source": "indiana"
     }

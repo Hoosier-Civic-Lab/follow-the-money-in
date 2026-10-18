@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "43951.05",
-    "total_contributions": 73,
-    "total_itemized": 66,
-    "total_unitemized": 7
+    "total_raised": "84707.11",
+    "total_contributions": 167,
+    "total_itemized": 155,
+    "total_unitemized": 12
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 9,
-      "total": "5800.00"
+      "count": 14,
+      "total": "7458.65"
     },
     "individual": {
-      "count": 34,
-      "total": "10559.45"
+      "count": 106,
+      "total": "36383.44"
     },
     "committee": {
-      "count": 23,
-      "total": "26900.00"
+      "count": 35,
+      "total": "35130.00"
     },
     "unitemized": {
-      "count": 7,
-      "total": "691.60"
+      "count": 12,
+      "total": "5735.02"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 47,
-      "total": "14116.45"
+      "count": 112,
+      "total": "31310.10"
     },
     "large": {
-      "count": 18,
-      "total": "29500.00"
+      "count": 27,
+      "total": "42173.42"
     },
     "small": {
-      "count": 8,
-      "total": "334.60"
+      "count": 27,
+      "total": "1223.59"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -68,18 +72,42 @@
       "count": 3,
       "total": "1220.00"
     },
+    "2026-08": {
+      "count": 49,
+      "total": "14126.07"
+    },
+    "2026-09": {
+      "count": 17,
+      "total": "5935.00"
+    },
+    "2026-07": {
+      "count": 11,
+      "total": "2770.00"
+    },
+    "2026-06": {
+      "count": 6,
+      "total": "3774.99"
+    },
+    "2026-04": {
+      "count": 8,
+      "total": "17525.00"
+    },
+    "2026-05": {
+      "count": 4,
+      "total": "1000.00"
+    },
     "2026-01": {
       "count": 1,
       "total": "1000.00"
     },
-    "2026-04": {
-      "count": 2,
-      "total": "5375.00"
+    "2026-10": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769359-33011",
+      "id": "contrib-1792307281152-33011",
       "date": "2025-11-14 00:00:00",
       "amount": 375,
       "candidate_name": "James Andrew Tomes",
@@ -95,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33012",
+      "id": "contrib-1792307281152-33012",
       "date": "2025-12-15 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -111,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33013",
+      "id": "contrib-1792307281152-33013",
       "date": "2025-12-15 00:00:00",
       "amount": 750,
       "candidate_name": "James Andrew Tomes",
@@ -127,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33014",
+      "id": "contrib-1792307281152-33014",
       "date": "2025-11-12 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -143,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33015",
+      "id": "contrib-1792307281152-33015",
       "date": "2025-11-06 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -159,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33016",
+      "id": "contrib-1792307281152-33016",
       "date": "2025-08-01 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -175,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33017",
+      "id": "contrib-1792307281152-33017",
       "date": "2025-11-29 00:00:00",
       "amount": 350,
       "candidate_name": "James Andrew Tomes",
@@ -191,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33018",
+      "id": "contrib-1792307281152-33018",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -207,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33019",
+      "id": "contrib-1792307281152-33019",
       "date": "2025-11-14 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -223,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33020",
+      "id": "contrib-1792307281152-33020",
       "date": "2025-12-15 00:00:00",
       "amount": 750,
       "candidate_name": "James Andrew Tomes",
@@ -239,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33021",
+      "id": "contrib-1792307281152-33021",
       "date": "2025-11-14 00:00:00",
       "amount": 2000,
       "candidate_name": "James Andrew Tomes",
@@ -255,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33022",
+      "id": "contrib-1792307281152-33022",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -271,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33023",
+      "id": "contrib-1792307281152-33023",
       "date": "2025-12-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -287,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9909",
+      "id": "contrib-1792307281940-26951",
       "date": "2026-03-26 00:00:00",
       "amount": 46.6,
       "candidate_name": "James Andrew Tomes",
@@ -303,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9910",
+      "id": "contrib-1792307281940-26952",
       "date": "2026-02-13 00:00:00",
       "amount": 80,
       "candidate_name": "James Andrew Tomes",
@@ -319,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9911",
+      "id": "contrib-1792307281940-26953",
       "date": "2026-02-27 00:00:00",
       "amount": 140,
       "candidate_name": "James Andrew Tomes",
@@ -335,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9912",
+      "id": "contrib-1792307281940-26954",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -351,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9913",
+      "id": "contrib-1792307281940-26955",
       "date": "2026-03-28 00:00:00",
       "amount": 30,
       "candidate_name": "James Andrew Tomes",
@@ -367,7 +395,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9914",
+      "id": "contrib-1792307281940-26956",
+      "date": "2026-08-29 00:00:00",
+      "amount": 60,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26957",
       "date": "2026-03-18 00:00:00",
       "amount": 175,
       "candidate_name": "James Andrew Tomes",
@@ -383,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9915",
+      "id": "contrib-1792307281940-26958",
       "date": "2026-03-14 00:00:00",
       "amount": 120,
       "candidate_name": "James Andrew Tomes",
@@ -399,7 +443,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9916",
+      "id": "contrib-1792307281940-26959",
+      "date": "2026-09-01 00:00:00",
+      "amount": 235,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26960",
+      "date": "2026-08-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26961",
+      "date": "2026-08-01 00:00:00",
+      "amount": 4673.42,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26962",
+      "date": "2026-08-01 00:00:00",
+      "amount": 25,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26963",
       "date": "2026-03-04 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -415,7 +523,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9917",
+      "id": "contrib-1792307281940-26964",
+      "date": "2026-07-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "AiJuen H  Carrell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26965",
       "date": "2026-03-16 00:00:00",
       "amount": 30,
       "candidate_name": "James Andrew Tomes",
@@ -431,7 +555,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9918",
+      "id": "contrib-1792307281940-26966",
+      "date": "2026-08-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Alissa Luigs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Poseyville",
+      "address_state": "IN",
+      "address_zip": "47633",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26967",
       "date": "2026-03-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -447,7 +587,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9919",
+      "id": "contrib-1792307281940-26968",
+      "date": "2026-07-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Bob Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Newburgh",
+      "address_state": "IN",
+      "address_zip": "47630",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26969",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Brent  Weil",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "4720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26970",
+      "date": "2026-08-21 00:00:00",
+      "amount": 600,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Carl H Linge",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26971",
       "date": "2026-03-16 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -463,7 +651,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9920",
+      "id": "contrib-1792307281940-26972",
+      "date": "2026-08-14 00:00:00",
+      "amount": 150,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Charles Kothe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26973",
+      "date": "2026-09-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Charles Kothe",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26974",
       "date": "2026-03-14 00:00:00",
       "amount": 150,
       "candidate_name": "James Andrew Tomes",
@@ -479,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9921",
+      "id": "contrib-1792307281940-26975",
       "date": "2026-03-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -495,7 +715,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9922",
+      "id": "contrib-1792307281940-26976",
+      "date": "2026-08-14 00:00:00",
+      "amount": 585,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Charles T Hiltunen III",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26977",
+      "date": "2026-08-01 00:00:00",
+      "amount": 222,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Chris  Harp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26978",
+      "date": "2026-08-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Christine Meeks",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26979",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -511,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9923",
+      "id": "contrib-1792307281940-26980",
       "date": "2026-03-16 00:00:00",
       "amount": 50,
       "candidate_name": "James Andrew Tomes",
@@ -527,7 +795,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9924",
+      "id": "contrib-1792307281940-26981",
+      "date": "2026-09-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Daniel & Ramona Winiger",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26982",
+      "date": "2026-08-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Daniel Russell Neal",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26983",
+      "date": "2026-08-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "David S Coker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26984",
+      "date": "2026-07-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Duane Kuhlenschmidt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Mt Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26985",
+      "date": "2026-07-29 00:00:00",
+      "amount": 20,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Earl Flanigan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Equality",
+      "address_state": "IL",
+      "address_zip": "62934",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26986",
+      "date": "2026-08-01 00:00:00",
+      "amount": 150,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Gene A Hall",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26987",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -543,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9925",
+      "id": "contrib-1792307281940-26988",
       "date": "2026-03-16 00:00:00",
       "amount": 30,
       "candidate_name": "James Andrew Tomes",
@@ -559,7 +923,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9926",
+      "id": "contrib-1792307281940-26989",
+      "date": "2026-08-07 00:00:00",
+      "amount": 995,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Ginger S Gogarty",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47725",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26990",
+      "date": "2026-09-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Glen  Kissel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26991",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -575,7 +971,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9927",
+      "id": "contrib-1792307281940-26992",
+      "date": "2026-04-12 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "James & Carol Allen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Mount Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26993",
+      "date": "2026-08-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "James A Tomes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Waadesville",
+      "address_state": "IN",
+      "address_zip": "47638",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26994",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Jeff and Christina Meeks",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26995",
+      "date": "2026-08-01 00:00:00",
+      "amount": 623,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Jeff and Christina Meeks",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Haubstadt",
+      "address_state": "IN",
+      "address_zip": "47639",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26996",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -591,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9928",
+      "id": "contrib-1792307281940-26997",
       "date": "2026-03-26 00:00:00",
       "amount": 50,
       "candidate_name": "James Andrew Tomes",
@@ -607,7 +1067,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9929",
+      "id": "contrib-1792307281940-26998",
+      "date": "2026-08-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Jim and Charlene Braker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-26999",
+      "date": "2026-07-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "John  Petkovsek",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47728-6002",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27000",
+      "date": "2026-09-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "John C Jones",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Owensville",
+      "address_state": "IN",
+      "address_zip": "47665",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27001",
       "date": "2026-03-06 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -623,7 +1131,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9930",
+      "id": "contrib-1792307281940-27002",
+      "date": "2026-09-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Joseph R Lutz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27003",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -639,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9931",
+      "id": "contrib-1792307281940-27004",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -655,7 +1179,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9932",
+      "id": "contrib-1792307281940-27005",
+      "date": "2026-08-01 00:00:00",
+      "amount": 175,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Kevin  Harrison",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27006",
+      "date": "2026-08-01 00:00:00",
+      "amount": 125,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Kyhle Moers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27007",
+      "date": "2026-08-01 00:00:00",
+      "amount": 64,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Larry Horton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Mt Vernon",
+      "address_state": "IN",
+      "address_zip": "47620",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27008",
+      "date": "2026-08-01 00:00:00",
+      "amount": 75,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Larry Wira",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elberfeld",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27009",
+      "date": "2026-08-01 00:00:00",
+      "amount": 25,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Larry Wira",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Elberfeld",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27010",
+      "date": "2026-08-01 00:00:00",
+      "amount": 175,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Linda  Dogan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27011",
+      "date": "2026-09-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Linda K Tiemann",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27012",
+      "date": "2026-08-01 00:00:00",
+      "amount": 110,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Margie Tomes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wadesville",
+      "address_state": "IN",
+      "address_zip": "47638",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27013",
+      "date": "2026-08-01 00:00:00",
+      "amount": 15,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Margie Tomes",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wadesville",
+      "address_state": "IN",
+      "address_zip": "47638",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27014",
+      "date": "2026-08-14 00:00:00",
+      "amount": 30,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Mary A Weidner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27015",
+      "date": "2026-08-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Mary A Weidner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27016",
+      "date": "2026-08-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Melvin Dogan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville,",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27017",
       "date": "2026-03-14 00:00:00",
       "amount": 100.45,
       "candidate_name": "James Andrew Tomes",
@@ -671,7 +1387,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9933",
+      "id": "contrib-1792307281940-27018",
+      "date": "2026-05-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Michaael C Wilson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47728",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27019",
+      "date": "2026-09-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Michael C Wilson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville,",
+      "address_state": "IN",
+      "address_zip": "47728",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27020",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Michael G Schopmeyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27021",
+      "date": "2026-06-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Pat Singer",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27022",
+      "date": "2026-09-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Paul Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wadesville",
+      "address_state": "IN",
+      "address_zip": "47638",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27023",
+      "date": "2026-07-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Penny Padgett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "New Harmony",
+      "address_state": "IN",
+      "address_zip": "47631",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27024",
+      "date": "2026-09-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Ramon/Susan Laughbaum JR",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Wadesville",
+      "address_state": "IN",
+      "address_zip": "47638",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27025",
+      "date": "2026-08-01 00:00:00",
+      "amount": 80,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Randy/Barbara Damm",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27026",
+      "date": "2026-08-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Randy/Barbara Damm",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27027",
+      "date": "2026-08-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Robert E Pylant",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27028",
       "date": "2026-03-16 00:00:00",
       "amount": 200,
       "candidate_name": "James Andrew Tomes",
@@ -687,7 +1563,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9934",
+      "id": "contrib-1792307281940-27029",
+      "date": "2026-08-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Robert L Pressley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27030",
       "date": "2026-03-04 00:00:00",
       "amount": 200,
       "candidate_name": "James Andrew Tomes",
@@ -703,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9935",
+      "id": "contrib-1792307281940-27031",
       "date": "2026-03-16 00:00:00",
       "amount": 200,
       "candidate_name": "James Andrew Tomes",
@@ -719,7 +1611,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9936",
+      "id": "contrib-1792307281940-27032",
+      "date": "2026-08-01 00:00:00",
+      "amount": 185,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Rosanna Clayton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Boonville",
+      "address_state": "IN",
+      "address_zip": "47601",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27033",
+      "date": "2026-08-14 00:00:00",
+      "amount": 75,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Rose  A Weidner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27034",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -735,7 +1659,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9937",
+      "id": "contrib-1792307281940-27035",
+      "date": "2026-09-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Russell G LLoyd",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27036",
+      "date": "2026-08-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Ruth Baize",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27037",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -751,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9938",
+      "id": "contrib-1792307281940-27038",
       "date": "2026-03-04 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -767,7 +1723,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9939",
+      "id": "contrib-1792307281940-27039",
       "date": "2026-03-28 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -783,7 +1739,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9940",
+      "id": "contrib-1792307281940-27040",
+      "date": "2026-07-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Scott Garrett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Owensville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27041",
+      "date": "2026-08-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Scott Garrett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Owensville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27042",
       "date": "2026-03-14 00:00:00",
       "amount": 18,
       "candidate_name": "James Andrew Tomes",
@@ -799,7 +1787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9941",
+      "id": "contrib-1792307281940-27043",
       "date": "2026-03-16 00:00:00",
       "amount": 200,
       "candidate_name": "James Andrew Tomes",
@@ -815,7 +1803,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9942",
+      "id": "contrib-1792307281940-27044",
+      "date": "2026-08-01 00:00:00",
+      "amount": 45,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Sherry Farmer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27045",
+      "date": "2026-08-14 00:00:00",
+      "amount": 125,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Stephen Russ",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47630",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27046",
       "date": "2026-03-16 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -831,7 +1851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9943",
+      "id": "contrib-1792307281940-27047",
       "date": "2026-03-14 00:00:00",
       "amount": 181,
       "candidate_name": "James Andrew Tomes",
@@ -847,7 +1867,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9944",
+      "id": "contrib-1792307281940-27048",
+      "date": "2026-07-31 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Todd Niemeier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27049",
+      "date": "2026-08-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Todd Niemeier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27050",
+      "date": "2026-08-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Tom Cohoon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27051",
+      "date": "2026-08-14 00:00:00",
+      "amount": 175,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Vande Grimm",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27052",
+      "date": "2026-05-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Wade Flake",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27053",
+      "date": "2026-08-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Walter Valiant",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27054",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -863,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9945",
+      "id": "contrib-1792307281940-27055",
       "date": "2026-01-30 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -879,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9946",
+      "id": "contrib-1792307281940-27056",
       "date": "2026-03-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -895,7 +2011,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9947",
+      "id": "contrib-1792307281940-27057",
+      "date": "2026-06-04 00:00:00",
+      "amount": 24.99,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Camelot Jewelers",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27058",
+      "date": "2026-06-04 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Camelot Jewelers",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27059",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "James Andrew Tomes",
@@ -911,7 +2059,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9948",
+      "id": "contrib-1792307281940-27060",
+      "date": "2026-08-04 00:00:00",
+      "amount": 380,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Committee To Elect Dottie Thomas",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27061",
       "date": "2026-04-10 00:00:00",
       "amount": 375,
       "candidate_name": "James Andrew Tomes",
@@ -927,7 +2091,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9949",
+      "id": "contrib-1792307281940-27062",
+      "date": "2026-07-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "CSX Corporation Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004-1745",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27063",
       "date": "2026-03-16 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -943,7 +2123,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9950",
+      "id": "contrib-1792307281940-27064",
+      "date": "2026-08-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Friends for Vaneta Becker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27065",
+      "date": "2026-06-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Friends of Musgrave",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47713",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27066",
       "date": "2026-03-26 00:00:00",
       "amount": 250,
       "candidate_name": "James Andrew Tomes",
@@ -959,7 +2171,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9951",
+      "id": "contrib-1792307281940-27067",
+      "date": "2026-04-13 00:00:00",
+      "amount": 10000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27068",
+      "date": "2026-06-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana Farm Bureau AgELECT",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27069",
+      "date": "2026-05-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana Independent Automobile Dealers Association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27070",
       "date": "2026-03-26 00:00:00",
       "amount": 1500,
       "candidate_name": "James Andrew Tomes",
@@ -975,7 +2235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9952",
+      "id": "contrib-1792307281940-27071",
       "date": "2026-02-13 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -991,7 +2251,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9953",
+      "id": "contrib-1792307281940-27072",
+      "date": "2026-07-30 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Larry Marshall Disposal, INC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47719",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27073",
       "date": "2026-03-18 00:00:00",
       "amount": 2000,
       "candidate_name": "James Andrew Tomes",
@@ -1007,7 +2283,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9954",
+      "id": "contrib-1792307281940-27074",
+      "date": "2026-09-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Micah for Lt. Governor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27075",
       "date": "2026-03-18 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -1023,7 +2315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9955",
+      "id": "contrib-1792307281940-27076",
       "date": "2026-03-16 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -1039,7 +2331,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9956",
+      "id": "contrib-1792307281940-27077",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Norfolk Southern Corp Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27078",
+      "date": "2026-08-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Signarama",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville,",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27079",
       "date": "2026-03-04 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -1055,7 +2379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9957",
+      "id": "contrib-1792307281940-27080",
       "date": "2026-03-18 00:00:00",
       "amount": 1000,
       "candidate_name": "James Andrew Tomes",
@@ -1071,7 +2395,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9958",
+      "id": "contrib-1792307281940-27081",
+      "date": "2026-08-10 00:00:00",
+      "amount": 450,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Third House LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27082",
+      "date": "2026-08-01 00:00:00",
+      "amount": 208.65,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "TSF Company, Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47712",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27083",
+      "date": "2026-04-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "AT&T Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27084",
       "date": "2026-03-18 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -1087,7 +2459,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9959",
+      "id": "contrib-1792307281940-27085",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Boilermakers Local #374 State & Local PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hobart St",
+      "address_state": "IN",
+      "address_zip": "46342",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27086",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "IBEW PAC VOLUNTARY FUND",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27087",
       "date": "2026-03-30 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -1103,7 +2507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9960",
+      "id": "contrib-1792307281940-27088",
       "date": "2026-03-18 00:00:00",
       "amount": 300,
       "candidate_name": "James Andrew Tomes",
@@ -1119,7 +2523,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9961",
+      "id": "contrib-1792307281940-27089",
+      "date": "2026-04-17 00:00:00",
+      "amount": 750,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana BANKPAC State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27090",
+      "date": "2026-08-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27091",
       "date": "2026-03-18 00:00:00",
       "amount": 1500,
       "candidate_name": "James Andrew Tomes",
@@ -1135,7 +2571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9962",
+      "id": "contrib-1792307281940-27092",
       "date": "2026-03-18 00:00:00",
       "amount": 2500,
       "candidate_name": "James Andrew Tomes",
@@ -1151,7 +2587,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9963",
+      "id": "contrib-1792307281940-27093",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana State Building & Construction Trades Coouncil-PAC Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27094",
+      "date": "2026-05-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Indiana State Iron Workers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27095",
       "date": "2026-04-01 00:00:00",
       "amount": 5000,
       "candidate_name": "James Andrew Tomes",
@@ -1167,7 +2635,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9964",
+      "id": "contrib-1792307281940-27096",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Lawyers Political Action committee of Indiana (LAWPAC OF ONDIANA)",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27097",
       "date": "2026-03-18 00:00:00",
       "amount": 1500,
       "candidate_name": "James Andrew Tomes",
@@ -1183,7 +2667,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9965",
+      "id": "contrib-1792307281940-27098",
+      "date": "2026-07-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Lyondell Chemical Company PAC multicandidate Committee/All Purpose",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77056",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27099",
       "date": "2026-03-04 00:00:00",
       "amount": 2500,
       "candidate_name": "James Andrew Tomes",
@@ -1199,7 +2699,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9966",
+      "id": "contrib-1792307281940-27100",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "OORAH! PAC Honorary Chairman, Sen Todd Young",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27101",
       "date": "2026-03-18 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -1215,7 +2731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9967",
+      "id": "contrib-1792307281940-27102",
       "date": "2026-03-30 00:00:00",
       "amount": 2000,
       "candidate_name": "James Andrew Tomes",
@@ -1231,7 +2747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769687-9968",
+      "id": "contrib-1792307281940-27103",
       "date": "2026-03-18 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -1243,6 +2759,22 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Jim Tomes",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281940-27104",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "James Andrew Tomes",
+      "contributor_name": "Valero PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antonio",
+      "address_state": "Te",
+      "address_zip": "78269",
       "recipient_committee": "Committee to Elect Jim Tomes",
       "source": "indiana"
     }

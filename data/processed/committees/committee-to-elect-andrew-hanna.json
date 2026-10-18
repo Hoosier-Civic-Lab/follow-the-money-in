@@ -2,14 +2,18 @@
   "id": "committee-to-elect-andrew-hanna",
   "name": "Committee to Elect Andrew Hanna",
   "totals": {
-    "total_given": "350.00",
-    "total_contributions": 2,
-    "candidates_supported": 0
+    "total_given": "2648.88",
+    "total_contributions": 6,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "350.00"
+      "count": 5,
+      "total": "1648.88"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_month": {
@@ -20,12 +24,37 @@
     "2025-06": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "548.88"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "750.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "kyle-edward-pierce",
+      "name": "Kyle Edward Pierce",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "lori-jo-goss-reaves",
+      "name": "Lori  Jo Goss-Reaves",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769322-10183",
+      "id": "contrib-1792307281111-10183",
       "date": "2025-10-28 00:00:00",
       "amount": 150,
       "contributor_name": "Committee to Elect Andrew Hanna",
@@ -40,7 +69,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769322-10184",
+      "id": "contrib-1792307281111-10184",
       "date": "2025-06-27 00:00:00",
       "amount": 200,
       "contributor_name": "Committee to Elect Andrew Hanna",
@@ -52,6 +81,68 @@
       "address_state": "IN",
       "address_zip": "46018",
       "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281911-8069",
+      "date": "2026-10-09 00:00:00",
+      "amount": 548.88,
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281911-8070",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "MADISON COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50766",
+      "date": "2026-09-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62680",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Committee to Elect Andrew Hanna",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Anderson",
+      "address_state": "IN",
+      "address_zip": "46018",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
       "source": "indiana"
     }
   ],

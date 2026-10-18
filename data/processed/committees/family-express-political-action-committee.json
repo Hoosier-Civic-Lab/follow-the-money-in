@@ -2,14 +2,14 @@
   "id": "family-express-political-action-committee",
   "name": "Family Express Political Action Committee",
   "totals": {
-    "total_given": "16000.00",
-    "total_contributions": 3,
-    "candidates_supported": 2
+    "total_given": "26000.00",
+    "total_contributions": 4,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 2,
+      "total": "20000.00"
     },
     "large": {
       "count": 2,
@@ -28,9 +28,19 @@
     "2026-03": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "10000.00",
+      "count": 1
+    },
     {
       "id": "theodore-edward-rokita",
       "name": "THEODORE EDWARD ROKITA",
@@ -46,7 +56,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6279",
+      "id": "contrib-1792307281105-6279",
       "date": "2025-12-17 00:00:00",
       "amount": 10000,
       "contributor_name": "Family Express Political Action Committee",
@@ -61,7 +71,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31354",
+      "id": "contrib-1792307281151-31354",
       "date": "2025-10-03 00:00:00",
       "amount": 5000,
       "candidate_name": "THEODORE EDWARD ROKITA",
@@ -77,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11054",
+      "id": "contrib-1792307281946-31522",
       "date": "2026-03-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -90,6 +100,22 @@
       "address_state": "IN",
       "address_zip": "46383",
       "recipient_committee": "Steuerwald for State Rep.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48127",
+      "date": "2026-10-09 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Family Express Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Friends of Chris Garten",
       "source": "indiana"
     }
   ],

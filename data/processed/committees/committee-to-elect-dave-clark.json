@@ -2,23 +2,33 @@
   "id": "committee-to-elect-dave-clark",
   "name": "Committee to Elect Dave Clark",
   "totals": {
-    "total_given": "200.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "700.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "200.00"
+      "count": 2,
+      "total": "700.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "robert-donald-morris",
+      "name": "Robert Donald Morris",
+      "total": "500.00",
+      "count": 1
+    },
     {
       "id": "tyler-guthrie-johnson",
       "name": "Tyler Guthrie Johnson",
@@ -28,7 +38,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769437-90650",
+      "id": "contrib-1792307281232-90650",
       "date": "2025-10-30 00:00:00",
       "amount": 200,
       "candidate_name": "Tyler Guthrie Johnson",
@@ -41,6 +51,22 @@
       "address_state": null,
       "address_zip": null,
       "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281953-32773",
+      "date": "2026-09-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Robert Donald Morris",
+      "contributor_name": "Committee to Elect Dave Clark",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Auburn",
+      "address_state": "IN",
+      "address_zip": "46706",
+      "recipient_committee": "Bob Morris for State Representative",
       "source": "indiana"
     }
   ],

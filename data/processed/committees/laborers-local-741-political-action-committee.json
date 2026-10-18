@@ -2,34 +2,69 @@
   "id": "laborers-local-741-political-action-committee",
   "name": "LABORERS' LOCAL 741 POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
+    "total_given": "12000.00",
+    "total_contributions": 3,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 3,
+      "total": "12000.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "7000.00"
     }
   },
   "top_recipients": [
     {
       "id": "beau-bayh",
       "name": "Beau Bayh",
-      "total": "5000.00",
-      "count": 1
+      "total": "10000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769447-101983",
+      "id": "contrib-1792307281242-101983",
       "date": "2025-12-12 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "LABORERS' LOCAL 741 POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BLOOMINGTON",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5782",
+      "date": "2026-08-13 00:00:00",
+      "amount": 2000,
+      "contributor_name": "LABORERS' LOCAL 741 POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BLOOMINGTON",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80962",
+      "date": "2026-08-13 00:00:00",
       "amount": 5000,
       "candidate_name": "Beau Bayh",
       "contributor_name": "LABORERS' LOCAL 741 POLITICAL ACTION COMMITTEE",

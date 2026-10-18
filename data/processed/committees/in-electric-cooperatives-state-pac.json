@@ -2,23 +2,37 @@
   "id": "in-electric-cooperatives-state-pac",
   "name": "IN Electric Cooperatives State PAC",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "3500.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 3,
+      "total": "3500.00"
     }
   },
   "by_month": {
     "2025-11": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "kendell-culp",
+      "name": "KENDELL CULP",
+      "total": "2500.00",
+      "count": 2
+    },
     {
       "id": "bradford-j-barrett",
       "name": "Bradford J Barrett",
@@ -28,7 +42,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769425-83573",
+      "id": "contrib-1792307281217-83573",
       "date": "2025-11-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradford J Barrett",
@@ -41,6 +55,38 @@
       "address_state": "IN",
       "address_zip": "46032",
       "recipient_committee": "Barrett Election Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58607",
+      "date": "2026-06-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "ELECT KENDELL CULP",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281986-58608",
+      "date": "2026-08-01 00:00:00",
+      "amount": 1500,
+      "candidate_name": "KENDELL CULP",
+      "contributor_name": "IN Electric Cooperatives State PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "ELECT KENDELL CULP",
       "source": "indiana"
     }
   ],

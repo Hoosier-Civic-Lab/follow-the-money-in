@@ -6,35 +6,59 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "14777.13",
-    "total_contributions": 84,
-    "total_itemized": 84,
-    "total_unitemized": 0
+    "total_raised": "115071.17",
+    "total_contributions": 151,
+    "total_itemized": 150,
+    "total_unitemized": 1
   },
   "by_contributor_type": {
+    "unitemized": {
+      "count": 1,
+      "total": "4446.25"
+    },
     "individual": {
-      "count": 84,
-      "total": "14777.13"
+      "count": 146,
+      "total": "109874.92"
+    },
+    "corporate": {
+      "count": 2,
+      "total": "200.00"
+    },
+    "committee": {
+      "count": 2,
+      "total": "550.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 8,
-      "total": "9000.00"
+      "count": 17,
+      "total": "25546.25"
+    },
+    "mega": {
+      "count": 4,
+      "total": "75000.00"
     },
     "medium": {
-      "count": 37,
-      "total": "4696.00"
+      "count": 79,
+      "total": "13074.79"
     },
     "small": {
-      "count": 39,
-      "total": "1081.13"
+      "count": 51,
+      "total": "1450.13"
     }
   },
   "by_month": {
+    "2026-10": {
+      "count": 9,
+      "total": "7705.04"
+    },
     "2026-01": {
       "count": 3,
       "total": "2196.00"
+    },
+    "2026-08": {
+      "count": 14,
+      "total": "63505.00"
     },
     "2026-04": {
       "count": 34,
@@ -47,11 +71,43 @@
     "2026-03": {
       "count": 21,
       "total": "4762.32"
+    },
+    "2026-05": {
+      "count": 5,
+      "total": "515.00"
+    },
+    "2026-06": {
+      "count": 5,
+      "total": "430.00"
+    },
+    "2026-07": {
+      "count": 18,
+      "total": "18549.00"
+    },
+    "2026-09": {
+      "count": 16,
+      "total": "9590.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769756-34702",
+      "id": "contrib-1792307282048-94042",
+      "date": "2026-10-09 00:00:00",
+      "amount": 4446.25,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94043",
       "date": "2026-01-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -67,7 +123,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34703",
+      "id": "contrib-1792307282048-94044",
+      "date": "2026-08-03 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Brad Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper ",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94045",
+      "date": "2026-10-07 00:00:00",
+      "amount": 358.79,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Margaret Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94046",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -83,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34704",
+      "id": "contrib-1792307282048-94047",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -99,7 +187,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34705",
+      "id": "contrib-1792307282048-94048",
+      "date": "2026-10-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Ami Saraiya",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Highland Park",
+      "address_state": "IL",
+      "address_zip": "60035",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94049",
       "date": "2026-02-09 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -115,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34706",
+      "id": "contrib-1792307282048-94050",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -131,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34707",
+      "id": "contrib-1792307282048-94051",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -147,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34708",
+      "id": "contrib-1792307282048-94052",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -163,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34709",
+      "id": "contrib-1792307282048-94053",
       "date": "2026-04-08 00:00:00",
       "amount": 5.55,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -179,7 +283,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34710",
+      "id": "contrib-1792307282048-94054",
+      "date": "2026-05-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Anne Tangeman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94055",
+      "date": "2026-08-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Anne Tangeman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94056",
       "date": "2026-02-20 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -195,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34711",
+      "id": "contrib-1792307282048-94057",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -211,7 +347,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34712",
+      "id": "contrib-1792307282048-94058",
+      "date": "2026-05-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94059",
+      "date": "2026-06-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94060",
+      "date": "2026-07-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94061",
+      "date": "2026-08-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94062",
+      "date": "2026-09-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94063",
+      "date": "2026-10-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94064",
+      "date": "2026-07-23 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Barbara Marystone",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Hopkins",
+      "address_state": "MN",
+      "address_zip": "55343",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94065",
       "date": "2026-02-08 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -227,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34713",
+      "id": "contrib-1792307282048-94066",
       "date": "2026-03-04 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -243,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34714",
+      "id": "contrib-1792307282048-94067",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -259,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34715",
+      "id": "contrib-1792307282048-94068",
       "date": "2026-02-17 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -275,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34716",
+      "id": "contrib-1792307282048-94069",
       "date": "2026-03-11 00:00:00",
       "amount": 1.21,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -291,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34717",
+      "id": "contrib-1792307282048-94070",
       "date": "2026-03-12 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -307,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34718",
+      "id": "contrib-1792307282048-94071",
       "date": "2026-01-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -323,7 +571,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34719",
+      "id": "contrib-1792307282048-94072",
+      "date": "2026-08-03 00:00:00",
+      "amount": 15000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Brad Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94073",
       "date": "2026-02-09 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -339,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34720",
+      "id": "contrib-1792307282048-94074",
       "date": "2026-03-20 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -355,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34721",
+      "id": "contrib-1792307282048-94075",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -371,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34722",
+      "id": "contrib-1792307282048-94076",
       "date": "2026-02-13 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -387,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34723",
+      "id": "contrib-1792307282048-94077",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -403,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34724",
+      "id": "contrib-1792307282048-94078",
       "date": "2026-02-08 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -419,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34725",
+      "id": "contrib-1792307282048-94079",
       "date": "2026-02-08 00:00:00",
       "amount": 10,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -435,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34726",
+      "id": "contrib-1792307282048-94080",
       "date": "2026-03-08 00:00:00",
       "amount": 10,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -451,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34727",
+      "id": "contrib-1792307282048-94081",
       "date": "2026-04-08 00:00:00",
       "amount": 10,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -467,7 +731,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34728",
+      "id": "contrib-1792307282048-94082",
+      "date": "2026-08-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "David Dudine",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94083",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -483,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34729",
+      "id": "contrib-1792307282048-94084",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -499,7 +779,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34730",
+      "id": "contrib-1792307282048-94085",
+      "date": "2026-09-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Evelyn Diaz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60639",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94086",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -515,7 +811,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34731",
+      "id": "contrib-1792307282048-94087",
+      "date": "2026-07-09 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Frank Giardina",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60707",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94088",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -531,7 +843,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34732",
+      "id": "contrib-1792307282048-94089",
+      "date": "2026-06-29 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Gary Salb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94090",
       "date": "2026-04-10 00:00:00",
       "amount": 75,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -547,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34733",
+      "id": "contrib-1792307282048-94091",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -563,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34734",
+      "id": "contrib-1792307282048-94092",
       "date": "2026-02-21 00:00:00",
       "amount": 2.94,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -579,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34735",
+      "id": "contrib-1792307282048-94093",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -595,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34736",
+      "id": "contrib-1792307282048-94094",
       "date": "2026-03-22 00:00:00",
       "amount": 10,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -611,7 +939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34737",
+      "id": "contrib-1792307282048-94095",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -627,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34738",
+      "id": "contrib-1792307282048-94096",
       "date": "2026-02-22 00:00:00",
       "amount": 300,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -643,7 +971,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34739",
+      "id": "contrib-1792307282048-94097",
+      "date": "2026-07-28 00:00:00",
+      "amount": 120,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Janice Williams",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94098",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -659,7 +1003,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34740",
+      "id": "contrib-1792307282048-94099",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -675,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34741",
+      "id": "contrib-1792307282048-94100",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -691,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34742",
+      "id": "contrib-1792307282048-94101",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -707,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34743",
+      "id": "contrib-1792307282048-94102",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -723,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34744",
+      "id": "contrib-1792307282048-94103",
       "date": "2026-04-10 00:00:00",
       "amount": 5,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -739,7 +1083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34745",
+      "id": "contrib-1792307282048-94104",
       "date": "2026-03-19 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -755,7 +1099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34746",
+      "id": "contrib-1792307282048-94105",
       "date": "2026-04-10 00:00:00",
       "amount": 25,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -771,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34747",
+      "id": "contrib-1792307282048-94106",
       "date": "2026-02-12 00:00:00",
       "amount": 1.66,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -787,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34748",
+      "id": "contrib-1792307282048-94107",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -803,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34749",
+      "id": "contrib-1792307282048-94108",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -819,7 +1163,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34750",
+      "id": "contrib-1792307282048-94109",
+      "date": "2026-08-31 00:00:00",
+      "amount": 30000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kathleen Pettijohn",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Elberfeld",
+      "address_state": "IN",
+      "address_zip": "47613",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94110",
+      "date": "2026-10-02 00:00:00",
+      "amount": 700,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kerri Braun",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Milton",
+      "address_state": "GA",
+      "address_zip": "30009",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94111",
       "date": "2026-04-09 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -835,7 +1211,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34751",
+      "id": "contrib-1792307282048-94112",
+      "date": "2026-05-09 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kurt Neukam",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94113",
+      "date": "2026-06-09 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kurt Neukam",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94114",
+      "date": "2026-07-09 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kurt Neukam",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94115",
+      "date": "2026-09-09 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kurt Neukam",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94116",
+      "date": "2026-09-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Kurt Neukam",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94117",
       "date": "2026-02-09 00:00:00",
       "amount": 15,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -851,7 +1307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34752",
+      "id": "contrib-1792307282048-94118",
       "date": "2026-03-09 00:00:00",
       "amount": 15,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -867,7 +1323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34753",
+      "id": "contrib-1792307282048-94119",
       "date": "2026-04-09 00:00:00",
       "amount": 15,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -883,7 +1339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34754",
+      "id": "contrib-1792307282048-94120",
       "date": "2026-03-05 00:00:00",
       "amount": 25,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -899,7 +1355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34755",
+      "id": "contrib-1792307282048-94121",
       "date": "2026-03-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -915,7 +1371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34756",
+      "id": "contrib-1792307282048-94122",
       "date": "2026-04-10 00:00:00",
       "amount": 25,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -931,7 +1387,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34757",
+      "id": "contrib-1792307282048-94123",
+      "date": "2026-09-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Lisa Sottile",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lake Wales",
+      "address_state": "FL",
+      "address_zip": "33898",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94124",
+      "date": "2026-08-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Lisa Sottile",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lake Wales",
+      "address_state": "FL",
+      "address_zip": "33898",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94125",
+      "date": "2026-09-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Lisa Sottile",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lake Wales",
+      "address_state": "FL",
+      "address_zip": "33898",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94126",
+      "date": "2026-09-16 00:00:00",
+      "amount": 1100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Lisa Sottile",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lake Wales",
+      "address_state": "FL",
+      "address_zip": "33898",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94127",
       "date": "2026-03-26 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -947,7 +1467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34758",
+      "id": "contrib-1792307282048-94128",
       "date": "2026-02-19 00:00:00",
       "amount": 7.81,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -963,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34759",
+      "id": "contrib-1792307282048-94129",
       "date": "2026-02-11 00:00:00",
       "amount": 67.89,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -979,7 +1499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34760",
+      "id": "contrib-1792307282048-94130",
       "date": "2026-01-29 00:00:00",
       "amount": 196,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -995,7 +1515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34761",
+      "id": "contrib-1792307282048-94131",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1011,7 +1531,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34762",
+      "id": "contrib-1792307282048-94132",
+      "date": "2026-07-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Mark Nowotarski",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94133",
+      "date": "2026-09-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Mark Schulte",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94134",
       "date": "2026-02-13 00:00:00",
       "amount": 1.66,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1027,7 +1579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34763",
+      "id": "contrib-1792307282048-94135",
       "date": "2026-02-16 00:00:00",
       "amount": 33.33,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1043,7 +1595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34764",
+      "id": "contrib-1792307282048-94136",
       "date": "2026-02-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1059,7 +1611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34765",
+      "id": "contrib-1792307282048-94137",
       "date": "2026-02-16 00:00:00",
       "amount": 3.33,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1075,7 +1627,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34766",
+      "id": "contrib-1792307282048-94138",
+      "date": "2026-07-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Michael Oder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Riverside ",
+      "address_state": "IL",
+      "address_zip": "60546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94139",
       "date": "2026-03-26 00:00:00",
       "amount": 250,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1091,7 +1659,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34767",
+      "id": "contrib-1792307282048-94140",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Patricia E Whitcomb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94141",
       "date": "2026-02-13 00:00:00",
       "amount": 3.33,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1107,7 +1691,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34768",
+      "id": "contrib-1792307282048-94142",
+      "date": "2026-07-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Paul Roszkewycz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60656",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94143",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1123,7 +1723,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34769",
+      "id": "contrib-1792307282048-94144",
+      "date": "2026-07-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Randall Rapp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Harvard",
+      "address_state": "IL",
+      "address_zip": "60033",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94145",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1139,7 +1755,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34770",
+      "id": "contrib-1792307282048-94146",
+      "date": "2026-05-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94147",
+      "date": "2026-06-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94148",
+      "date": "2026-07-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94149",
+      "date": "2026-08-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94150",
+      "date": "2026-08-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94151",
+      "date": "2026-09-10 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Rhonda Hochgesang",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94152",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1155,7 +1867,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34771",
+      "id": "contrib-1792307282048-94153",
       "date": "2026-03-30 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1171,7 +1883,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34772",
+      "id": "contrib-1792307282048-94154",
+      "date": "2026-07-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Richard Grossi",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Downers Grove",
+      "address_state": "IL",
+      "address_zip": "60516",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94155",
+      "date": "2026-06-11 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Robert Mueller-Albrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282048-94156",
+      "date": "2026-07-11 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Robert Mueller-Albrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94157",
+      "date": "2026-08-11 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Robert Mueller-Albrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94158",
+      "date": "2026-09-11 00:00:00",
+      "amount": 15,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Robert Mueller-Albrecht",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94159",
       "date": "2026-03-07 00:00:00",
       "amount": 50,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1187,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34773",
+      "id": "contrib-1792307282049-94160",
       "date": "2026-02-13 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1203,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34774",
+      "id": "contrib-1792307282049-94161",
       "date": "2026-02-09 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1219,7 +2011,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34775",
+      "id": "contrib-1792307282049-94162",
       "date": "2026-02-15 00:00:00",
       "amount": 250,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1235,7 +2027,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34776",
+      "id": "contrib-1792307282049-94163",
       "date": "2026-03-30 00:00:00",
       "amount": 1.11,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1251,7 +2043,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34777",
+      "id": "contrib-1792307282049-94164",
+      "date": "2026-07-04 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Selwyn Rogers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60615",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94165",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1267,7 +2075,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34778",
+      "id": "contrib-1792307282049-94166",
       "date": "2026-02-08 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1283,7 +2091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34779",
+      "id": "contrib-1792307282049-94167",
       "date": "2026-02-09 00:00:00",
       "amount": 10,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1299,7 +2107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34780",
+      "id": "contrib-1792307282049-94168",
       "date": "2026-03-16 00:00:00",
       "amount": 2000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1315,7 +2123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34781",
+      "id": "contrib-1792307282049-94169",
       "date": "2026-02-11 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1331,7 +2139,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34782",
+      "id": "contrib-1792307282049-94170",
+      "date": "2026-08-26 00:00:00",
+      "amount": 40,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Sue Krampe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ferdinand",
+      "address_state": "IN",
+      "address_zip": "47532",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94171",
+      "date": "2026-07-23 00:00:00",
+      "amount": 99,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Sue Krampe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Ferdinand",
+      "address_state": "IN",
+      "address_zip": "47532",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94172",
       "date": "2026-02-23 00:00:00",
       "amount": 1.31,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1347,7 +2187,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34783",
+      "id": "contrib-1792307282049-94173",
+      "date": "2026-07-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Thomas Duval",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntingburg",
+      "address_state": "IN",
+      "address_zip": "47542",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94174",
+      "date": "2026-09-07 00:00:00",
+      "amount": 150,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Victoria Rountree",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94175",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1363,7 +2235,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34784",
+      "id": "contrib-1792307282049-94176",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Virlee Schepers",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94177",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "W. Russell Sipes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94178",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1379,7 +2283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769756-34785",
+      "id": "contrib-1792307282049-94179",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Bradley Earl Hochgesang",
@@ -1391,6 +2295,214 @@
       "address_city": "Redmond",
       "address_state": "WA",
       "address_zip": "98053",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94180",
+      "date": "2026-08-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "8th INDEMS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94181",
+      "date": "2026-09-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "BCR Farm Trust Alan L Smock Trustee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94182",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Friends of Shelli Yoder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94183",
+      "date": "2026-09-27 00:00:00",
+      "amount": 60,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Mary Allen for Congress",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47708",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94184",
+      "date": "2026-07-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Mary Allen for Congress",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47708",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94185",
+      "date": "2026-07-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Navarrete & Pfister LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94186",
+      "date": "2026-09-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Navarrete & Pfister LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94187",
+      "date": "2026-07-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Perry County Democrat Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Tell City",
+      "address_state": "IN",
+      "address_zip": "47586",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94188",
+      "date": "2026-08-31 00:00:00",
+      "amount": 300,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Pike County Democrat Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Petersburg",
+      "address_state": "IN",
+      "address_zip": "47567",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94189",
+      "date": "2026-05-12 00:00:00",
+      "amount": 200,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Spencer County Democrats",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rockport",
+      "address_state": "IN",
+      "address_zip": "47635",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94190",
+      "date": "2026-08-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Spencer County Democrats",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Rockport",
+      "address_state": "IN",
+      "address_zip": "47635",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94191",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Common Ground IN",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46061",
+      "recipient_committee": "Citizens for Hochgesang",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94192",
+      "date": "2026-09-27 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Citizens for Hochgesang",
       "source": "indiana"
     }

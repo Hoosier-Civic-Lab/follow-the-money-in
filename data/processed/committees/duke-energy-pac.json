@@ -2,9 +2,9 @@
   "id": "duke-energy-pac",
   "name": "Duke Energy PAC",
   "totals": {
-    "total_given": "8000.00",
-    "total_contributions": 8,
-    "candidates_supported": 7
+    "total_given": "10000.00",
+    "total_contributions": 12,
+    "candidates_supported": 8
   },
   "by_contribution_size": {
     "large": {
@@ -12,8 +12,8 @@
       "total": "5000.00"
     },
     "medium": {
-      "count": 6,
-      "total": "3000.00"
+      "count": 10,
+      "total": "5000.00"
     }
   },
   "by_month": {
@@ -41,7 +41,19 @@
       "count": 1,
       "total": "500.00"
     },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "1000.00"
+    },
     "2026-03": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-07": {
       "count": 1,
       "total": "500.00"
     }
@@ -52,6 +64,24 @@
       "name": "Edmond Lewis Soliday",
       "total": "2500.00",
       "count": 1
+    },
+    {
+      "id": "joanna-king",
+      "name": "Joanna King",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "matthew-scott-commons",
+      "name": "Matthew Scott Commons",
+      "total": "1000.00",
+      "count": 2
+    },
+    {
+      "id": "lori-jo-goss-reaves",
+      "name": "Lori  Jo Goss-Reaves",
+      "total": "1000.00",
+      "count": 2
     },
     {
       "id": "edward-o-delaney",
@@ -66,20 +96,8 @@
       "count": 1
     },
     {
-      "id": "joanna-king",
-      "name": "Joanna King",
-      "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "matthew-scott-commons",
-      "name": "Matthew Scott Commons",
-      "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "lori-jo-goss-reaves",
-      "name": "Lori  Jo Goss-Reaves",
+      "id": "jeffrey-s-raatz",
+      "name": "Jeffrey S Raatz",
       "total": "500.00",
       "count": 1
     },
@@ -92,7 +110,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769318-6564",
+      "id": "contrib-1792307281105-6564",
       "date": "2025-12-19 00:00:00",
       "amount": 2500,
       "contributor_name": "Duke Energy PAC",
@@ -107,7 +125,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769400-63509",
+      "id": "contrib-1792307281194-63509",
       "date": "2025-10-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Edmond Lewis Soliday",
@@ -123,7 +141,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769404-64828",
+      "id": "contrib-1792307281197-64828",
       "date": "2025-09-22 00:00:00",
       "amount": 500,
       "candidate_name": "Edward O DeLaney",
@@ -139,7 +157,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-79981",
+      "id": "contrib-1792307281214-79981",
       "date": "2025-06-30 00:00:00",
       "amount": 500,
       "candidate_name": "Andy R Zay",
@@ -155,7 +173,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80265",
+      "id": "contrib-1792307281215-80265",
       "date": "2025-09-15 00:00:00",
       "amount": 500,
       "candidate_name": "Joanna King",
@@ -171,7 +189,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94649",
+      "id": "contrib-1792307281236-94649",
       "date": "2025-11-30 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Commons",
@@ -187,7 +205,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94765",
+      "id": "contrib-1792307281236-94765",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -203,7 +221,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17431",
+      "id": "contrib-1792307281968-44393",
+      "date": "2026-04-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jeffrey S Raatz",
+      "contributor_name": "DUKE ENERGY PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Raatz for Indiana State Senate Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45235",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Joanna King",
+      "contributor_name": "Duke Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Joanna King for the People",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-49839",
       "date": "2026-03-06 00:00:00",
       "amount": 500,
       "candidate_name": "Mitchell Alan Gore",
@@ -216,6 +266,38 @@
       "address_state": "DC",
       "address_zip": "20004",
       "recipient_committee": "Committee to Elect Mitch Gore",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62567",
+      "date": "2026-07-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "Matthew Scott Commons",
+      "contributor_name": "Duke Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Committee to Elect Matt Commons",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62703",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Duke Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
       "source": "indiana"
     }
   ],

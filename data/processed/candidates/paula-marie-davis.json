@@ -6,41 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "35191.37",
-    "total_contributions": 117,
-    "total_itemized": 81,
-    "total_unitemized": 36
+    "total_raised": "71974.25",
+    "total_contributions": 177,
+    "total_itemized": 136,
+    "total_unitemized": 41
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 36,
-      "total": "1286.96"
+      "count": 41,
+      "total": "1436.96"
     },
     "corporate": {
-      "count": 8,
-      "total": "4230.00"
+      "count": 9,
+      "total": "4570.99"
     },
     "individual": {
-      "count": 72,
-      "total": "29474.41"
+      "count": 120,
+      "total": "57766.30"
     },
     "committee": {
-      "count": 1,
-      "total": "200.00"
+      "count": 7,
+      "total": "8200.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 56,
-      "total": "2212.85"
+      "count": 67,
+      "total": "2650.93"
     },
     "large": {
-      "count": 9,
-      "total": "12041.02"
+      "count": 24,
+      "total": "39623.06"
     },
     "medium": {
-      "count": 51,
-      "total": "10937.50"
+      "count": 85,
+      "total": "19700.26"
     },
     "mega": {
       "count": 1,
@@ -56,6 +56,10 @@
       "count": 16,
       "total": "2432.44"
     },
+    "2026-10": {
+      "count": 5,
+      "total": "1320.00"
+    },
     "2026-01": {
       "count": 21,
       "total": "5919.66"
@@ -64,18 +68,30 @@
       "count": 27,
       "total": "4234.48"
     },
+    "2026-09": {
+      "count": 35,
+      "total": "10630.33"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "30.00"
+    },
     "2026-04": {
-      "count": 7,
-      "total": "11676.03"
+      "count": 23,
+      "total": "30428.58"
     },
     "2026-03": {
       "count": 18,
       "total": "4752.29"
+    },
+    "2026-05": {
+      "count": 3,
+      "total": "6050.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769448-102422",
+      "id": "contrib-1792307281243-102422",
       "date": "2025-11-29 00:00:00",
       "amount": 5,
       "candidate_name": "Paula Marie Davis",
@@ -91,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102423",
+      "id": "contrib-1792307281243-102423",
       "date": "2025-12-16 00:00:00",
       "amount": 10,
       "candidate_name": "Paula Marie Davis",
@@ -107,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102424",
+      "id": "contrib-1792307281243-102424",
       "date": "2025-11-26 00:00:00",
       "amount": 10.41,
       "candidate_name": "Paula Marie Davis",
@@ -123,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102425",
+      "id": "contrib-1792307281243-102425",
       "date": "2025-11-26 00:00:00",
       "amount": 10.41,
       "candidate_name": "Paula Marie Davis",
@@ -139,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102426",
+      "id": "contrib-1792307281243-102426",
       "date": "2025-11-29 00:00:00",
       "amount": 10.41,
       "candidate_name": "Paula Marie Davis",
@@ -155,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102427",
+      "id": "contrib-1792307281243-102427",
       "date": "2025-12-16 00:00:00",
       "amount": 10.41,
       "candidate_name": "Paula Marie Davis",
@@ -171,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102428",
+      "id": "contrib-1792307281243-102428",
       "date": "2025-11-26 00:00:00",
       "amount": 25,
       "candidate_name": "Paula Marie Davis",
@@ -187,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102429",
+      "id": "contrib-1792307281243-102429",
       "date": "2025-12-31 00:00:00",
       "amount": 25,
       "candidate_name": "Paula Marie Davis",
@@ -203,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102430",
+      "id": "contrib-1792307281243-102430",
       "date": "2025-11-25 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -219,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102431",
+      "id": "contrib-1792307281243-102431",
       "date": "2025-11-26 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -235,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102432",
+      "id": "contrib-1792307281243-102432",
       "date": "2025-11-26 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -251,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102433",
+      "id": "contrib-1792307281243-102433",
       "date": "2025-12-02 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -267,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102434",
+      "id": "contrib-1792307281243-102434",
       "date": "2025-11-27 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -283,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102435",
+      "id": "contrib-1792307281243-102435",
       "date": "2025-11-29 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -299,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102436",
+      "id": "contrib-1792307281243-102436",
       "date": "2025-11-25 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -315,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102437",
+      "id": "contrib-1792307281243-102437",
       "date": "2025-11-26 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -331,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102438",
+      "id": "contrib-1792307281243-102438",
       "date": "2025-12-22 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -347,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102439",
+      "id": "contrib-1792307281243-102439",
       "date": "2025-12-30 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -363,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102440",
+      "id": "contrib-1792307281243-102440",
       "date": "2025-12-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -379,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102441",
+      "id": "contrib-1792307281243-102441",
       "date": "2025-12-02 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -395,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102442",
+      "id": "contrib-1792307281243-102442",
       "date": "2025-12-24 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -411,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102443",
+      "id": "contrib-1792307281243-102443",
       "date": "2025-11-20 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -427,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102444",
+      "id": "contrib-1792307281243-102444",
       "date": "2025-11-28 00:00:00",
       "amount": 1041.02,
       "candidate_name": "Paula Marie Davis",
@@ -443,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102445",
+      "id": "contrib-1792307281243-102445",
       "date": "2025-12-26 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -459,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102446",
+      "id": "contrib-1792307281243-102446",
       "date": "2025-11-11 00:00:00",
       "amount": 250.38,
       "candidate_name": "Paula Marie Davis",
@@ -475,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102447",
+      "id": "contrib-1792307281243-102447",
       "date": "2025-12-05 00:00:00",
       "amount": 63.93,
       "candidate_name": "Paula Marie Davis",
@@ -491,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102448",
+      "id": "contrib-1792307281243-102448",
       "date": "2025-12-04 00:00:00",
       "amount": 208.2,
       "candidate_name": "Paula Marie Davis",
@@ -507,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102449",
+      "id": "contrib-1792307281243-102449",
       "date": "2025-11-20 00:00:00",
       "amount": 350,
       "candidate_name": "Paula Marie Davis",
@@ -523,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102450",
+      "id": "contrib-1792307281243-102450",
       "date": "2025-11-20 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -539,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102451",
+      "id": "contrib-1792307281243-102451",
       "date": "2025-12-17 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -555,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102452",
+      "id": "contrib-1792307281243-102452",
       "date": "2025-11-26 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -571,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102453",
+      "id": "contrib-1792307281243-102453",
       "date": "2025-11-25 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -587,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102454",
+      "id": "contrib-1792307281243-102454",
       "date": "2025-12-26 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -603,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102455",
+      "id": "contrib-1792307281243-102455",
       "date": "2025-11-25 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -619,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102456",
+      "id": "contrib-1792307281243-102456",
       "date": "2025-12-08 00:00:00",
       "amount": 300,
       "candidate_name": "Paula Marie Davis",
@@ -635,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102457",
+      "id": "contrib-1792307281243-102457",
       "date": "2025-11-11 00:00:00",
       "amount": 865,
       "candidate_name": "Paula Marie Davis",
@@ -651,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102458",
+      "id": "contrib-1792307281243-102458",
       "date": "2025-12-05 00:00:00",
       "amount": 76.57,
       "candidate_name": "Paula Marie Davis",
@@ -667,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102459",
+      "id": "contrib-1792307281243-102459",
       "date": "2025-11-26 00:00:00",
       "amount": 260.25,
       "candidate_name": "Paula Marie Davis",
@@ -683,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102460",
+      "id": "contrib-1792307281243-102460",
       "date": "2025-11-29 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -699,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102461",
+      "id": "contrib-1792307281243-102461",
       "date": "2025-11-28 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -715,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102462",
+      "id": "contrib-1792307281243-102462",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -731,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102463",
+      "id": "contrib-1792307281243-102463",
       "date": "2025-11-25 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -747,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102464",
+      "id": "contrib-1792307281243-102464",
       "date": "2025-11-26 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -763,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769448-102465",
+      "id": "contrib-1792307281243-102465",
       "date": "2025-11-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -779,7 +795,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30973",
+      "id": "contrib-1792307282026-84510",
+      "date": "2026-10-05 00:00:00",
+      "amount": 10,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84511",
       "date": "2026-01-29 00:00:00",
       "amount": 15,
       "candidate_name": "Paula Marie Davis",
@@ -795,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30974",
+      "id": "contrib-1792307282026-84512",
       "date": "2026-02-25 00:00:00",
       "amount": 15,
       "candidate_name": "Paula Marie Davis",
@@ -811,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30975",
+      "id": "contrib-1792307282026-84513",
       "date": "2026-01-29 00:00:00",
       "amount": 20,
       "candidate_name": "Paula Marie Davis",
@@ -827,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30976",
+      "id": "contrib-1792307282026-84514",
       "date": "2026-02-02 00:00:00",
       "amount": 20,
       "candidate_name": "Paula Marie Davis",
@@ -843,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30977",
+      "id": "contrib-1792307282026-84515",
       "date": "2026-02-25 00:00:00",
       "amount": 20,
       "candidate_name": "Paula Marie Davis",
@@ -859,7 +891,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30978",
+      "id": "contrib-1792307282026-84516",
+      "date": "2026-09-15 00:00:00",
+      "amount": 20,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84517",
       "date": "2026-01-29 00:00:00",
       "amount": 30,
       "candidate_name": "Paula Marie Davis",
@@ -875,7 +923,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30979",
+      "id": "contrib-1792307282026-84518",
+      "date": "2026-06-11 00:00:00",
+      "amount": 30,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84519",
       "date": "2026-01-29 00:00:00",
       "amount": 31,
       "candidate_name": "Paula Marie Davis",
@@ -891,7 +955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30980",
+      "id": "contrib-1792307282026-84520",
       "date": "2026-01-29 00:00:00",
       "amount": 40,
       "candidate_name": "Paula Marie Davis",
@@ -907,7 +971,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30981",
+      "id": "contrib-1792307282026-84521",
       "date": "2026-02-25 00:00:00",
       "amount": 40,
       "candidate_name": "Paula Marie Davis",
@@ -923,7 +987,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30982",
+      "id": "contrib-1792307282026-84522",
+      "date": "2026-09-15 00:00:00",
+      "amount": 40,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84523",
       "date": "2026-01-29 00:00:00",
       "amount": 47,
       "candidate_name": "Paula Marie Davis",
@@ -939,7 +1019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30983",
+      "id": "contrib-1792307282026-84524",
       "date": "2026-01-29 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -955,7 +1035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30984",
+      "id": "contrib-1792307282026-84525",
       "date": "2026-02-02 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -971,7 +1051,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30985",
+      "id": "contrib-1792307282026-84526",
       "date": "2026-02-25 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -987,7 +1067,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30986",
+      "id": "contrib-1792307282026-84527",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -1003,7 +1083,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30987",
+      "id": "contrib-1792307282026-84528",
+      "date": "2026-04-23 00:00:00",
+      "amount": 50,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84529",
       "date": "2026-01-29 00:00:00",
       "amount": 60,
       "candidate_name": "Paula Marie Davis",
@@ -1019,7 +1115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30988",
+      "id": "contrib-1792307282026-84530",
       "date": "2026-02-02 00:00:00",
       "amount": 60,
       "candidate_name": "Paula Marie Davis",
@@ -1035,7 +1131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30989",
+      "id": "contrib-1792307282026-84531",
       "date": "2026-01-29 00:00:00",
       "amount": 80,
       "candidate_name": "Paula Marie Davis",
@@ -1051,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30990",
+      "id": "contrib-1792307282026-84532",
       "date": "2026-03-19 00:00:00",
       "amount": 90,
       "candidate_name": "Paula Marie Davis",
@@ -1067,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30991",
+      "id": "contrib-1792307282026-84533",
       "date": "2026-02-12 00:00:00",
       "amount": 80,
       "candidate_name": "Paula Marie Davis",
@@ -1083,7 +1179,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30992",
+      "id": "contrib-1792307282026-84534",
+      "date": "2026-09-01 00:00:00",
+      "amount": 340.99,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84535",
       "date": "2026-02-20 00:00:00",
       "amount": 500,
       "candidate_name": "Paula Marie Davis",
@@ -1099,7 +1211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30993",
+      "id": "contrib-1792307282026-84536",
       "date": "2026-02-12 00:00:00",
       "amount": 500,
       "candidate_name": "Paula Marie Davis",
@@ -1115,7 +1227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30994",
+      "id": "contrib-1792307282026-84537",
       "date": "2026-02-12 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -1131,7 +1243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30995",
+      "id": "contrib-1792307282026-84538",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1147,7 +1259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30996",
+      "id": "contrib-1792307282026-84539",
       "date": "2026-02-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -1163,7 +1275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30997",
+      "id": "contrib-1792307282026-84540",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -1179,7 +1291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30998",
+      "id": "contrib-1792307282026-84541",
       "date": "2026-03-03 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -1195,7 +1307,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30999",
+      "id": "contrib-1792307282026-84542",
+      "date": "2026-09-09 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Andrea McPike",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84543",
       "date": "2026-01-29 00:00:00",
       "amount": 500,
       "candidate_name": "Paula Marie Davis",
@@ -1211,7 +1339,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31000",
+      "id": "contrib-1792307282026-84544",
+      "date": "2026-05-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Be Gentle Dentistry",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84545",
+      "date": "2026-09-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Bradley Bagwell",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84546",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Paula Marie Davis",
@@ -1227,7 +1387,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31001",
+      "id": "contrib-1792307282026-84547",
+      "date": "2026-09-15 00:00:00",
+      "amount": 50,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Brenda Duke",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84548",
+      "date": "2026-04-16 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Brenda Duke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84549",
+      "date": "2026-09-10 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Brent Owens",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84550",
       "date": "2026-01-29 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1243,7 +1451,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31002",
+      "id": "contrib-1792307282026-84551",
+      "date": "2026-09-15 00:00:00",
+      "amount": 200,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Brooke Rockey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84552",
       "date": "2026-03-22 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1259,7 +1483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31003",
+      "id": "contrib-1792307282026-84553",
       "date": "2026-02-27 00:00:00",
       "amount": 156.15,
       "candidate_name": "Paula Marie Davis",
@@ -1275,7 +1499,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31004",
+      "id": "contrib-1792307282026-84554",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Carolyn Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84555",
       "date": "2026-01-29 00:00:00",
       "amount": 120,
       "candidate_name": "Paula Marie Davis",
@@ -1291,7 +1531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31005",
+      "id": "contrib-1792307282026-84556",
       "date": "2026-04-10 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -1307,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31006",
+      "id": "contrib-1792307282026-84557",
       "date": "2026-02-09 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1323,7 +1563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31007",
+      "id": "contrib-1792307282026-84558",
       "date": "2026-03-27 00:00:00",
       "amount": 2500,
       "candidate_name": "Paula Marie Davis",
@@ -1339,7 +1579,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31008",
+      "id": "contrib-1792307282026-84559",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Cherisa Mills",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84560",
       "date": "2026-02-02 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -1355,7 +1611,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31009",
+      "id": "contrib-1792307282026-84561",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Chris Rockey",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Kok",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84562",
       "date": "2026-02-02 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1371,7 +1643,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31010",
+      "id": "contrib-1792307282026-84563",
+      "date": "2026-09-29 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Dana Demoret",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84564",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "David  Granger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84565",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Dharmishtaben Patel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84566",
       "date": "2026-01-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Paula Marie Davis",
@@ -1387,7 +1707,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31011",
+      "id": "contrib-1792307282026-84567",
       "date": "2026-01-29 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1403,7 +1723,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31012",
+      "id": "contrib-1792307282026-84568",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Emily Parry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84569",
       "date": "2026-01-14 00:00:00",
       "amount": 2500,
       "candidate_name": "Paula Marie Davis",
@@ -1419,7 +1755,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31013",
+      "id": "contrib-1792307282026-84570",
+      "date": "2026-10-04 00:00:00",
+      "amount": 400,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Eron Ferrell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84571",
+      "date": "2026-05-08 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Friends for Karickhoff",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46903",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84572",
       "date": "2026-03-11 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -1435,7 +1803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31014",
+      "id": "contrib-1792307282026-84573",
       "date": "2026-03-03 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1451,7 +1819,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31015",
+      "id": "contrib-1792307282026-84574",
+      "date": "2026-10-07 00:00:00",
+      "amount": 650,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Jackie Dodd",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84575",
       "date": "2026-01-27 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -1467,7 +1851,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31016",
+      "id": "contrib-1792307282026-84576",
+      "date": "2026-04-25 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Jamie Berry",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84577",
       "date": "2026-03-20 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1483,7 +1883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31017",
+      "id": "contrib-1792307282026-84578",
       "date": "2026-01-29 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1499,7 +1899,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31018",
+      "id": "contrib-1792307282026-84579",
+      "date": "2026-09-15 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Jason Hunt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84580",
       "date": "2026-02-25 00:00:00",
       "amount": 40,
       "candidate_name": "Paula Marie Davis",
@@ -1515,7 +1931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31019",
+      "id": "contrib-1792307282026-84581",
       "date": "2026-02-02 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -1531,7 +1947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31020",
+      "id": "contrib-1792307282026-84582",
       "date": "2026-02-19 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1547,7 +1963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31021",
+      "id": "contrib-1792307282026-84583",
       "date": "2026-01-15 00:00:00",
       "amount": 520.51,
       "candidate_name": "Paula Marie Davis",
@@ -1563,7 +1979,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31022",
+      "id": "contrib-1792307282026-84584",
       "date": "2026-01-26 00:00:00",
       "amount": 500,
       "candidate_name": "Paula Marie Davis",
@@ -1579,7 +1995,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31023",
+      "id": "contrib-1792307282026-84585",
       "date": "2026-02-20 00:00:00",
       "amount": 300,
       "candidate_name": "Paula Marie Davis",
@@ -1595,7 +2011,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31024",
+      "id": "contrib-1792307282026-84586",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "John Lake",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Converse",
+      "address_state": "IN",
+      "address_zip": "46919",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84587",
+      "date": "2026-04-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Josh Maggard",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84588",
+      "date": "2026-04-16 00:00:00",
+      "amount": 150,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Karolina Pate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84589",
       "date": "2026-01-27 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1611,7 +2075,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31025",
+      "id": "contrib-1792307282026-84590",
       "date": "2026-01-29 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1627,7 +2091,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31026",
+      "id": "contrib-1792307282026-84591",
       "date": "2026-02-11 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -1643,7 +2107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31027",
+      "id": "contrib-1792307282026-84592",
       "date": "2026-02-12 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1659,7 +2123,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31028",
+      "id": "contrib-1792307282026-84593",
+      "date": "2026-09-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Kristina Currier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84594",
+      "date": "2026-09-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Kyle Rayl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84595",
       "date": "2026-03-25 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1675,7 +2171,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31029",
+      "id": "contrib-1792307282026-84596",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Leanne Fogg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84597",
+      "date": "2026-09-09 00:00:00",
+      "amount": 26.03,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Lindsay Vandiver",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84598",
+      "date": "2026-09-10 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Lisa Jarrett",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84599",
       "date": "2026-02-15 00:00:00",
       "amount": 15,
       "candidate_name": "Paula Marie Davis",
@@ -1691,7 +2235,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31030",
+      "id": "contrib-1792307282026-84600",
+      "date": "2026-04-21 00:00:00",
+      "amount": 200,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Mary Calhoun",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84601",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Matt Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84602",
+      "date": "2026-04-22 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Matthew Bell",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84603",
       "date": "2026-02-13 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1707,7 +2299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31031",
+      "id": "contrib-1792307282026-84604",
       "date": "2026-03-17 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1723,7 +2315,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31032",
+      "id": "contrib-1792307282026-84605",
+      "date": "2026-09-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Micah Beckwith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Clergy/Faith-based",
+      "occupation_category": "other",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84606",
       "date": "2026-03-19 00:00:00",
       "amount": 125,
       "candidate_name": "Paula Marie Davis",
@@ -1739,7 +2347,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31033",
+      "id": "contrib-1792307282026-84607",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Michael Shorkey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84608",
+      "date": "2026-04-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Mick Owens",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84609",
       "date": "2026-02-02 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -1755,7 +2395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31034",
+      "id": "contrib-1792307282026-84610",
       "date": "2026-04-10 00:00:00",
       "amount": 250,
       "candidate_name": "Paula Marie Davis",
@@ -1771,7 +2411,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31035",
+      "id": "contrib-1792307282026-84611",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Nick Pate",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84612",
       "date": "2026-04-01 00:00:00",
       "amount": 26.03,
       "candidate_name": "Paula Marie Davis",
@@ -1787,7 +2443,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31036",
+      "id": "contrib-1792307282026-84613",
+      "date": "2026-05-06 00:00:00",
+      "amount": 50,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Patrick  Dotson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84614",
       "date": "2026-03-09 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1803,7 +2475,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31037",
+      "id": "contrib-1792307282026-84615",
+      "date": "2026-10-05 00:00:00",
+      "amount": 60,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Phyllis Frawley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84616",
       "date": "2026-03-15 00:00:00",
       "amount": 52.05,
       "candidate_name": "Paula Marie Davis",
@@ -1819,7 +2507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31038",
+      "id": "contrib-1792307282026-84617",
       "date": "2026-03-19 00:00:00",
       "amount": 100,
       "candidate_name": "Paula Marie Davis",
@@ -1835,7 +2523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31039",
+      "id": "contrib-1792307282026-84618",
       "date": "2026-02-02 00:00:00",
       "amount": 50,
       "candidate_name": "Paula Marie Davis",
@@ -1851,7 +2539,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31040",
+      "id": "contrib-1792307282026-84619",
+      "date": "2026-09-15 00:00:00",
+      "amount": 100,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Sara Dahl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Military",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84620",
       "date": "2026-03-04 00:00:00",
       "amount": 520.51,
       "candidate_name": "Paula Marie Davis",
@@ -1867,7 +2571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31041",
+      "id": "contrib-1792307282026-84621",
       "date": "2026-03-07 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1883,7 +2587,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31042",
+      "id": "contrib-1792307282026-84622",
+      "date": "2026-09-15 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Scott Bogue",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84623",
       "date": "2026-03-03 00:00:00",
       "amount": 104.1,
       "candidate_name": "Paula Marie Davis",
@@ -1899,7 +2619,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31043",
+      "id": "contrib-1792307282026-84624",
+      "date": "2026-09-15 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Sheila Peck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84625",
+      "date": "2026-04-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Tricia Harlow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Sharpsville",
+      "address_state": "IN",
+      "address_zip": "46068",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84626",
+      "date": "2026-09-09 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Wendy Marty",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "St. Paul",
+      "address_state": "MN",
+      "address_zip": "55112",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84627",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Committee to Elect Heath VanNatter",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84628",
       "date": "2026-02-02 00:00:00",
       "amount": 200,
       "candidate_name": "Paula Marie Davis",
@@ -1915,7 +2699,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31044",
+      "id": "contrib-1792307282026-84629",
+      "date": "2026-04-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Free Market Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Athens",
+      "address_state": "GA",
+      "address_zip": "30605",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84630",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Friends of Jack Dodd",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84631",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Friends of Karickhoff",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46903",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84632",
+      "date": "2026-09-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Moore for Kokomo",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46903",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84633",
+      "date": "2026-09-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Hoosiers for Quality Education Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84634",
       "date": "2026-03-27 00:00:00",
       "amount": 350,
       "candidate_name": "Paula Marie Davis",
@@ -1931,7 +2795,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-31045",
+      "id": "contrib-1792307282026-84635",
+      "date": "2026-09-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Carpenter's Local 615",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84636",
+      "date": "2026-09-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "COPE IBEW 873",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84637",
+      "date": "2026-04-28 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Hoosiers for Quality Education",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84638",
       "date": "2026-04-10 00:00:00",
       "amount": 10000,
       "candidate_name": "Paula Marie Davis",
@@ -1943,6 +2855,70 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84639",
+      "date": "2026-04-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84640",
+      "date": "2026-04-14 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84641",
+      "date": "2026-04-27 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Merit- Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Paula Davis",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282026-84642",
+      "date": "2026-04-27 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Paula Marie Davis",
+      "contributor_name": "Indiana Multi-Family Housing",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
       "recipient_committee": "Committee to Elect Paula Davis",
       "source": "indiana"
     }

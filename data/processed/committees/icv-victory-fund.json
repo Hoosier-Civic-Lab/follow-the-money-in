@@ -2,26 +2,141 @@
   "id": "icv-victory-fund",
   "name": "ICV Victory Fund",
   "totals": {
-    "total_given": "7500.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "30300.00",
+    "total_contributions": 11,
+    "candidates_supported": 5
   },
   "by_contribution_size": {
     "large": {
+      "count": 7,
+      "total": "19000.00"
+    },
+    "mega": {
       "count": 1,
-      "total": "7500.00"
+      "total": "10000.00"
+    },
+    "medium": {
+      "count": 3,
+      "total": "1300.00"
     }
   },
   "by_month": {
+    "2026-06": {
+      "count": 2,
+      "total": "3700.00"
+    },
+    "2026-09": {
+      "count": 5,
+      "total": "16300.00"
+    },
     "2026-03": {
       "count": 1,
       "total": "7500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "2500.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "alaina-kelly-shonkwiler",
+      "name": "Alaina Kelly Shonkwiler",
+      "total": "2500.00",
+      "count": 2
+    },
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "1000.00",
+      "count": 1
+    },
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "700.00",
+      "count": 1
+    },
+    {
+      "id": "james-robert-pressel-jr",
+      "name": "James Robert Pressel Jr.",
+      "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "julie-anne-mcguire",
+      "name": "Julie Anne McGuire",
+      "total": "300.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769678-3291",
+      "id": "contrib-1792307281897-674",
+      "date": "2026-06-05 00:00:00",
+      "amount": 3000,
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281897-675",
+      "date": "2026-09-25 00:00:00",
+      "amount": 3000,
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281903-3578",
+      "date": "2026-09-03 00:00:00",
+      "amount": 2000,
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281903-3579",
+      "date": "2026-09-03 00:00:00",
+      "amount": 10000,
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9626",
       "date": "2026-03-20 00:00:00",
       "amount": 7500,
       "contributor_name": "ICV Victory Fund",
@@ -34,24 +149,124 @@
       "address_zip": "46220",
       "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33490",
+      "date": "2026-06-23 00:00:00",
+      "amount": 700,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45339",
+      "date": "2026-07-24 00:00:00",
+      "amount": 300,
+      "candidate_name": "James Robert Pressel Jr.",
+      "contributor_name": "ICV VICTORY FUND",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Jim Pressel",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59825",
+      "date": "2026-09-05 00:00:00",
+      "amount": 300,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Julie McGuire for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281996-62322",
+      "date": "2026-10-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Alaina Kelly Shonkwiler",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Alaina for Noblesville",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281996-62323",
+      "date": "2026-10-06 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Alaina Kelly Shonkwiler",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Alaina for Noblesville",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80934",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "ICV Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "169290.39",
-    "total_contributions": 29,
-    "unique_donors": 8,
+    "total_raised": "512586.55",
+    "total_contributions": 86,
+    "unique_donors": 18,
     "by_contributor_type": {
       "corporate": {
         "count": 1,
         "total": "1000.00"
       },
       "individual": {
-        "count": 27,
-        "total": "167014.39"
+        "count": 81,
+        "total": "353839.39"
       },
       "unitemized": {
-        "count": 1,
-        "total": "1276.00"
+        "count": 2,
+        "total": "2747.16"
+      },
+      "committee": {
+        "count": 2,
+        "total": "155000.00"
       }
     },
     "top_donors": [
@@ -62,10 +277,46 @@
         "count": 7
       },
       {
+        "name": "The PAC for America's Future-IN",
+        "type": "committee",
+        "total": "150000.00",
+        "count": 1
+      },
+      {
+        "name": "Sam Walton",
+        "type": "individual",
+        "total": "80000.00",
+        "count": 1
+      },
+      {
+        "name": "James Walton",
+        "type": "individual",
+        "total": "35000.00",
+        "count": 1
+      },
+      {
+        "name": "Lukas Walton",
+        "type": "individual",
+        "total": "35000.00",
+        "count": 1
+      },
+      {
+        "name": "Rob Walton",
+        "type": "individual",
+        "total": "35000.00",
+        "count": 1
+      },
+      {
+        "name": " I.U.O.E. LOCAL 399 Political Education Fund",
+        "type": "committee",
+        "total": "5000.00",
+        "count": 1
+      },
+      {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "1276.00",
-        "count": 1
+        "total": "2747.16",
+        "count": 2
       },
       {
         "name": "Indiana Conservation Voters",
@@ -76,43 +327,13 @@
       {
         "name": "Brenda Johnson",
         "type": "individual",
-        "total": "200.00",
-        "count": 4
-      },
-      {
-        "name": "John Leahy",
-        "type": "individual",
-        "total": "200.00",
-        "count": 4
-      },
-      {
-        "name": "Alice Archuleta",
-        "type": "individual",
-        "total": "150.00",
-        "count": 3
-      },
-      {
-        "name": "Jasmine Libarian",
-        "type": "individual",
-        "total": "150.00",
-        "count": 3
-      },
-      {
-        "name": "Stuart Williamson",
-        "type": "individual",
-        "total": "150.00",
-        "count": 3
-      },
-      {
-        "name": "Sue Cameron",
-        "type": "individual",
-        "total": "150.00",
-        "count": 3
+        "total": "500.00",
+        "count": 10
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769441-95171",
+        "id": "contrib-1792307281236-95171",
         "date": "2025-08-12 00:00:00",
         "amount": 1000,
         "contributor_name": "Indiana Conservation Voters",
@@ -127,7 +348,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95172",
+        "id": "contrib-1792307281236-95172",
         "date": "2025-12-14 00:00:00",
         "amount": 5,
         "contributor_name": "Act Blue Indiana",
@@ -142,7 +363,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95173",
+        "id": "contrib-1792307281236-95173",
         "date": "2025-11-16 00:00:00",
         "amount": 60,
         "contributor_name": "Act Blue Indiana",
@@ -157,7 +378,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95174",
+        "id": "contrib-1792307281236-95174",
         "date": "2025-12-07 00:00:00",
         "amount": 131,
         "contributor_name": "Act Blue Indiana",
@@ -172,7 +393,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95175",
+        "id": "contrib-1792307281236-95175",
         "date": "2025-11-09 00:00:00",
         "amount": 536,
         "contributor_name": "Act Blue Indiana",
@@ -187,7 +408,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95176",
+        "id": "contrib-1792307281236-95176",
         "date": "2025-12-28 00:00:00",
         "amount": 652,
         "contributor_name": "Act Blue Indiana",
@@ -202,7 +423,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95177",
+        "id": "contrib-1792307281236-95177",
         "date": "2025-11-30 00:00:00",
         "amount": 896,
         "contributor_name": "Act Blue Indiana",
@@ -217,7 +438,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769441-95178",
+        "id": "contrib-1792307281236-95178",
         "date": "2025-11-02 00:00:00",
         "amount": 163734.39,
         "contributor_name": "Act Blue Indiana",
@@ -232,7 +453,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22858",
+        "id": "contrib-1792307281997-63204",
         "date": "2026-04-10 00:00:00",
         "amount": 1276,
         "contributor_name": "",
@@ -247,7 +468,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22859",
+        "id": "contrib-1792307281997-63205",
+        "date": "2026-10-09 00:00:00",
+        "amount": 1471.16,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63206",
         "date": "2026-02-04 00:00:00",
         "amount": 50,
         "contributor_name": "Alice Archuleta",
@@ -262,7 +498,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22860",
+        "id": "contrib-1792307281997-63207",
         "date": "2026-03-04 00:00:00",
         "amount": 50,
         "contributor_name": "Alice Archuleta",
@@ -277,7 +513,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22861",
+        "id": "contrib-1792307281997-63208",
         "date": "2026-04-01 00:00:00",
         "amount": 50,
         "contributor_name": "Alice Archuleta",
@@ -292,7 +528,97 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22862",
+        "id": "contrib-1792307281997-63209",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63210",
+        "date": "2026-05-31 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63211",
+        "date": "2026-06-28 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63212",
+        "date": "2026-08-02 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63213",
+        "date": "2026-08-30 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63214",
+        "date": "2026-09-30 00:00:00",
+        "amount": 50,
+        "contributor_name": "Alice Archuleta",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Tucson",
+        "address_state": "AZ",
+        "address_zip": "85746",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63215",
         "date": "2026-01-07 00:00:00",
         "amount": 50,
         "contributor_name": "Brenda Johnson",
@@ -307,7 +633,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22863",
+        "id": "contrib-1792307281997-63216",
         "date": "2026-02-11 00:00:00",
         "amount": 50,
         "contributor_name": "Brenda Johnson",
@@ -322,7 +648,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22864",
+        "id": "contrib-1792307281997-63217",
         "date": "2026-03-11 00:00:00",
         "amount": 50,
         "contributor_name": "Brenda Johnson",
@@ -337,7 +663,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22865",
+        "id": "contrib-1792307281997-63218",
         "date": "2026-04-08 00:00:00",
         "amount": 50,
         "contributor_name": "Brenda Johnson",
@@ -352,7 +678,292 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22866",
+        "id": "contrib-1792307281997-63219",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63220",
+        "date": "2026-06-07 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63221",
+        "date": "2026-07-05 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63222",
+        "date": "2026-08-02 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63223",
+        "date": "2026-09-06 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63224",
+        "date": "2026-10-04 00:00:00",
+        "amount": 50,
+        "contributor_name": "Brenda Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Nordland",
+        "address_state": "WA",
+        "address_zip": "98358",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63225",
+        "date": "2026-05-03 00:00:00",
+        "amount": 10,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63226",
+        "date": "2026-05-31 00:00:00",
+        "amount": 10,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63227",
+        "date": "2026-06-30 00:00:00",
+        "amount": 10,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63228",
+        "date": "2026-08-02 00:00:00",
+        "amount": 25,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63229",
+        "date": "2026-08-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63230",
+        "date": "2026-09-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Cathy Shiner",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Pine Grove",
+        "address_state": "PA",
+        "address_zip": "17963",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63231",
+        "date": "2026-05-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63232",
+        "date": "2026-05-31 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63233",
+        "date": "2026-06-28 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63234",
+        "date": "2026-08-02 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63235",
+        "date": "2026-08-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63236",
+        "date": "2026-09-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Debra Velasquez",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Menifee",
+        "address_state": "CA",
+        "address_zip": "92584",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63237",
+        "date": "2026-04-30 00:00:00",
+        "amount": 35000,
+        "contributor_name": "James Walton",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Other",
+        "occupation_category": "other",
+        "address_city": "Bentonville",
+        "address_state": "AR",
+        "address_zip": "72712",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63238",
         "date": "2026-02-04 00:00:00",
         "amount": 50,
         "contributor_name": "Jasmine Libarian",
@@ -367,7 +978,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22867",
+        "id": "contrib-1792307281997-63239",
         "date": "2026-03-04 00:00:00",
         "amount": 50,
         "contributor_name": "Jasmine Libarian",
@@ -382,7 +993,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22868",
+        "id": "contrib-1792307281997-63240",
         "date": "2026-04-01 00:00:00",
         "amount": 50,
         "contributor_name": "Jasmine Libarian",
@@ -397,7 +1008,97 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22869",
+        "id": "contrib-1792307281997-63241",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63242",
+        "date": "2026-05-31 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63243",
+        "date": "2026-06-28 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63244",
+        "date": "2026-08-02 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63245",
+        "date": "2026-08-30 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63246",
+        "date": "2026-10-04 00:00:00",
+        "amount": 50,
+        "contributor_name": "Jasmine Libarian",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Glendale",
+        "address_state": "CA",
+        "address_zip": "91204",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63247",
         "date": "2026-01-07 00:00:00",
         "amount": 50,
         "contributor_name": "John Leahy",
@@ -412,7 +1113,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22870",
+        "id": "contrib-1792307281997-63248",
         "date": "2026-02-04 00:00:00",
         "amount": 50,
         "contributor_name": "John Leahy",
@@ -427,7 +1128,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22871",
+        "id": "contrib-1792307281997-63249",
         "date": "2026-03-04 00:00:00",
         "amount": 50,
         "contributor_name": "John Leahy",
@@ -442,7 +1143,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22872",
+        "id": "contrib-1792307281997-63250",
         "date": "2026-04-08 00:00:00",
         "amount": 50,
         "contributor_name": "John Leahy",
@@ -457,7 +1158,67 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22873",
+        "id": "contrib-1792307281997-63251",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "John Leahy",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "El Dorado",
+        "address_state": "AR",
+        "address_zip": "71730",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63252",
+        "date": "2026-04-30 00:00:00",
+        "amount": 35000,
+        "contributor_name": "Lukas Walton",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Bentonville",
+        "address_state": "AR",
+        "address_zip": "72712",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63253",
+        "date": "2026-04-30 00:00:00",
+        "amount": 35000,
+        "contributor_name": "Rob Walton",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Bentonville",
+        "address_state": "AR",
+        "address_zip": "72712",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63254",
+        "date": "2026-05-13 00:00:00",
+        "amount": 80000,
+        "contributor_name": "Sam Walton",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "General Business",
+        "occupation_category": "other",
+        "address_city": "Carbondale",
+        "address_state": "CO",
+        "address_zip": "81623",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63255",
         "date": "2026-02-04 00:00:00",
         "amount": 50,
         "contributor_name": "Stuart Williamson",
@@ -472,7 +1233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22874",
+        "id": "contrib-1792307281997-63256",
         "date": "2026-03-04 00:00:00",
         "amount": 50,
         "contributor_name": "Stuart Williamson",
@@ -487,7 +1248,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22875",
+        "id": "contrib-1792307281997-63257",
         "date": "2026-04-01 00:00:00",
         "amount": 50,
         "contributor_name": "Stuart Williamson",
@@ -502,7 +1263,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22876",
+        "id": "contrib-1792307281997-63258",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "Stuart Williamson",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "Belmont",
+        "address_state": "CA",
+        "address_zip": "94002",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63259",
         "date": "2026-02-04 00:00:00",
         "amount": 50,
         "contributor_name": "Sue Cameron",
@@ -517,7 +1293,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22877",
+        "id": "contrib-1792307281997-63260",
         "date": "2026-03-04 00:00:00",
         "amount": 50,
         "contributor_name": "Sue Cameron",
@@ -532,7 +1308,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769717-22878",
+        "id": "contrib-1792307281997-63261",
         "date": "2026-04-01 00:00:00",
         "amount": 50,
         "contributor_name": "Sue Cameron",
@@ -543,6 +1319,306 @@
         "address_city": "South Yarmouth",
         "address_state": "MA",
         "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63262",
+        "date": "2026-05-03 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63263",
+        "date": "2026-05-31 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63264",
+        "date": "2026-06-28 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63265",
+        "date": "2026-08-02 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63266",
+        "date": "2026-08-30 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63267",
+        "date": "2026-09-30 00:00:00",
+        "amount": 50,
+        "contributor_name": "Sue Cameron",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Not Currently Employed",
+        "occupation_category": "other",
+        "address_city": "South Yarmouth",
+        "address_state": "MA",
+        "address_zip": "2664",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63268",
+        "date": "2026-05-03 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63269",
+        "date": "2026-05-31 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63270",
+        "date": "2026-06-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63271",
+        "date": "2026-08-02 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63272",
+        "date": "2026-08-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63273",
+        "date": "2026-09-30 00:00:00",
+        "amount": 25,
+        "contributor_name": "Theresa Rogers",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Teacher/Education",
+        "occupation_category": "education",
+        "address_city": "Ocean View",
+        "address_state": "DE",
+        "address_zip": "19970",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63274",
+        "date": "2026-05-03 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63275",
+        "date": "2026-05-31 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63276",
+        "date": "2026-06-30 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63277",
+        "date": "2026-08-02 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63278",
+        "date": "2026-08-30 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63279",
+        "date": "2026-09-30 00:00:00",
+        "amount": 20,
+        "contributor_name": "Victor Schrader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Palo Alto",
+        "address_state": "CA",
+        "address_zip": "94306",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63280",
+        "date": "2026-05-22 00:00:00",
+        "amount": 5000,
+        "contributor_name": " I.U.O.E. LOCAL 399 Political Education Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Chicago",
+        "address_state": "IL",
+        "address_zip": "60616",
+        "recipient_committee": "ICV Victory Fund",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281997-63281",
+        "date": "2026-04-14 00:00:00",
+        "amount": 150000,
+        "contributor_name": "The PAC for America's Future-IN",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington",
+        "address_state": "DC",
+        "address_zip": "20003",
         "recipient_committee": "ICV Victory Fund",
         "source": "indiana"
       }

@@ -2,26 +2,41 @@
   "id": "perry-county-democrat-central-committee",
   "name": "Perry County Democrat Central Committee",
   "totals": {
-    "total_given": "200.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "750.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "200.00"
+      "count": 3,
+      "total": "750.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "200.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "250.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "bradley-earl-hochgesang",
+      "name": "Bradley Earl Hochgesang",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769325-13803",
+      "id": "contrib-1792307281114-13803",
       "date": "2025-08-11 00:00:00",
       "amount": 200,
       "contributor_name": "Perry County Democrat Central Committee",
@@ -33,6 +48,37 @@
       "address_state": "IN",
       "address_zip": "47586",
       "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281915-11449",
+      "date": "2026-08-06 00:00:00",
+      "amount": 300,
+      "contributor_name": "Perry County Democrat Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Tell City",
+      "address_state": "IN",
+      "address_zip": "47586",
+      "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282049-94187",
+      "date": "2026-07-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "Bradley Earl Hochgesang",
+      "contributor_name": "Perry County Democrat Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Tell City",
+      "address_state": "IN",
+      "address_zip": "47586",
+      "recipient_committee": "Citizens for Hochgesang",
       "source": "indiana"
     }
   ],

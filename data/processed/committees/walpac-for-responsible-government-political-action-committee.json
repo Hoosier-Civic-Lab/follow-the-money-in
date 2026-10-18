@@ -2,20 +2,24 @@
   "id": "walpac-for-responsible-government-political-action-committee",
   "name": "WALPAC for Responsible Government Political Action Committee",
   "totals": {
-    "total_given": "1000.00",
-    "total_contributions": 1,
+    "total_given": "3500.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "3500.00"
     }
   },
   "by_month": {
     "2025-09": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -28,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769405-64991",
+      "id": "contrib-1792307281198-64991",
       "date": "2025-09-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Matthew Scott Lehman",
@@ -41,6 +45,21 @@
       "address_state": "AR",
       "address_zip": "72716",
       "recipient_committee": "Matt Lehman for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9675",
+      "date": "2026-08-13 00:00:00",
+      "amount": 2500,
+      "contributor_name": "WALPAC for Responsible Government Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
       "source": "indiana"
     }
   ],

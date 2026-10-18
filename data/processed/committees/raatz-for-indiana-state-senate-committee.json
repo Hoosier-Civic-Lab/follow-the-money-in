@@ -2,26 +2,41 @@
   "id": "raatz-for-indiana-state-senate-committee",
   "name": "Raatz for Indiana State Senate Committee",
   "totals": {
-    "total_given": "3500.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "3700.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
       "count": 1,
       "total": "3500.00"
+    },
+    "medium": {
+      "count": 1,
+      "total": "200.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "3500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "200.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "cory-joe-criswell",
+      "name": "Cory Joe Criswell",
+      "total": "200.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769323-12360",
+      "id": "contrib-1792307281112-12360",
       "date": "2025-10-06 00:00:00",
       "amount": 3500,
       "contributor_name": "Raatz for Indiana State Senate Committee",
@@ -34,27 +49,53 @@
       "address_zip": "47375",
       "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
       "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-60027",
+      "date": "2026-08-18 00:00:00",
+      "amount": 200,
+      "candidate_name": "Cory Joe Criswell",
+      "contributor_name": "Raatz for Indiana State Senate Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Richmond",
+      "address_state": "IN",
+      "address_zip": "47375",
+      "recipient_committee": "Hoosiers for Criswell",
+      "source": "indiana"
     }
   ],
   "receipts": {
-    "total_raised": "66729.16",
-    "total_contributions": 84,
-    "unique_donors": 59,
+    "total_raised": "114219.08",
+    "total_contributions": 142,
+    "unique_donors": 103,
     "by_contributor_type": {
       "corporate": {
-        "count": 39,
-        "total": "16274.72"
+        "count": 56,
+        "total": "26163.54"
       },
       "individual": {
-        "count": 13,
-        "total": "13654.44"
+        "count": 43,
+        "total": "32585.68"
       },
       "committee": {
-        "count": 32,
-        "total": "36800.00"
+        "count": 42,
+        "total": "52969.86"
+      },
+      "unitemized": {
+        "count": 1,
+        "total": "2500.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Indiana Republican State Committee",
+        "type": "committee",
+        "total": "10969.86",
+        "count": 1
+      },
       {
         "name": "Hoosiers for Economic Growth PAC",
         "type": "committee",
@@ -62,9 +103,27 @@
         "count": 1
       },
       {
+        "name": "Hoosiers for Quality Ed",
+        "type": "individual",
+        "total": "5000.00",
+        "count": 1
+      },
+      {
         "name": "Indiana Multi Family Housing Political Action Committee",
         "type": "committee",
         "total": "3500.00",
+        "count": 2
+      },
+      {
+        "name": "Indiana BANKPAC - State Fund",
+        "type": "committee",
+        "total": "3000.00",
+        "count": 2
+      },
+      {
+        "name": "Firstbank",
+        "type": "individual",
+        "total": "2507.37",
         "count": 2
       },
       {
@@ -80,45 +139,21 @@
         "count": 2
       },
       {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "2500.00",
+        "count": 1
+      },
+      {
         "name": "John Hammond III",
         "type": "individual",
         "total": "2500.00",
         "count": 1
-      },
-      {
-        "name": "Lawrence Garatoni",
-        "type": "individual",
-        "total": "2500.00",
-        "count": 1
-      },
-      {
-        "name": "Business Advocacy Committee",
-        "type": "committee",
-        "total": "2500.00",
-        "count": 1
-      },
-      {
-        "name": "Hoosiers for Quality Education Political Action Committee",
-        "type": "committee",
-        "total": "2500.00",
-        "count": 1
-      },
-      {
-        "name": "Indiana Merit Construction PAC of ABC",
-        "type": "committee",
-        "total": "2500.00",
-        "count": 1
-      },
-      {
-        "name": "INDIANA DENTAL PAC",
-        "type": "committee",
-        "total": "2000.00",
-        "count": 2
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1791707769421-79214",
+        "id": "contrib-1792307281214-79214",
         "date": "2025-07-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -134,7 +169,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79215",
+        "id": "contrib-1792307281214-79215",
         "date": "2025-08-21 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -150,7 +185,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79216",
+        "id": "contrib-1792307281214-79216",
         "date": "2025-12-17 00:00:00",
         "amount": 400,
         "candidate_name": "Jeffrey S Raatz",
@@ -166,7 +201,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79217",
+        "id": "contrib-1792307281214-79217",
         "date": "2025-09-19 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -182,7 +217,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79218",
+        "id": "contrib-1792307281214-79218",
         "date": "2025-09-02 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -198,7 +233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79219",
+        "id": "contrib-1792307281214-79219",
         "date": "2025-09-17 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -214,7 +249,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79220",
+        "id": "contrib-1792307281214-79220",
         "date": "2025-07-31 00:00:00",
         "amount": 4.35,
         "candidate_name": "Jeffrey S Raatz",
@@ -230,7 +265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79221",
+        "id": "contrib-1792307281214-79221",
         "date": "2025-06-30 00:00:00",
         "amount": 4.79,
         "candidate_name": "Jeffrey S Raatz",
@@ -246,7 +281,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79222",
+        "id": "contrib-1792307281214-79222",
         "date": "2025-08-31 00:00:00",
         "amount": 4.88,
         "candidate_name": "Jeffrey S Raatz",
@@ -262,7 +297,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79223",
+        "id": "contrib-1792307281214-79223",
         "date": "2025-04-30 00:00:00",
         "amount": 4.91,
         "candidate_name": "Jeffrey S Raatz",
@@ -278,7 +313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79224",
+        "id": "contrib-1792307281214-79224",
         "date": "2025-02-28 00:00:00",
         "amount": 5,
         "candidate_name": "Jeffrey S Raatz",
@@ -294,7 +329,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79225",
+        "id": "contrib-1792307281214-79225",
         "date": "2025-05-31 00:00:00",
         "amount": 5.11,
         "candidate_name": "Jeffrey S Raatz",
@@ -310,7 +345,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79226",
+        "id": "contrib-1792307281214-79226",
         "date": "2025-03-31 00:00:00",
         "amount": 5.2,
         "candidate_name": "Jeffrey S Raatz",
@@ -326,7 +361,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79227",
+        "id": "contrib-1792307281214-79227",
         "date": "2025-11-30 00:00:00",
         "amount": 5.36,
         "candidate_name": "Jeffrey S Raatz",
@@ -342,7 +377,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79228",
+        "id": "contrib-1792307281214-79228",
         "date": "2025-12-31 00:00:00",
         "amount": 5.5,
         "candidate_name": "Jeffrey S Raatz",
@@ -358,7 +393,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79229",
+        "id": "contrib-1792307281214-79229",
         "date": "2025-01-31 00:00:00",
         "amount": 5.6,
         "candidate_name": "Jeffrey S Raatz",
@@ -374,7 +409,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79230",
+        "id": "contrib-1792307281214-79230",
         "date": "2025-10-31 00:00:00",
         "amount": 6.08,
         "candidate_name": "Jeffrey S Raatz",
@@ -390,7 +425,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79231",
+        "id": "contrib-1792307281214-79231",
         "date": "2025-09-30 00:00:00",
         "amount": 6.93,
         "candidate_name": "Jeffrey S Raatz",
@@ -406,7 +441,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79232",
+        "id": "contrib-1792307281214-79232",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -422,7 +457,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79233",
+        "id": "contrib-1792307281214-79233",
         "date": "2025-09-17 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -438,7 +473,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79234",
+        "id": "contrib-1792307281214-79234",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -454,7 +489,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79235",
+        "id": "contrib-1792307281214-79235",
         "date": "2025-08-21 00:00:00",
         "amount": 1500,
         "candidate_name": "Jeffrey S Raatz",
@@ -470,7 +505,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79236",
+        "id": "contrib-1792307281214-79236",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -486,7 +521,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79237",
+        "id": "contrib-1792307281214-79237",
         "date": "2025-12-04 00:00:00",
         "amount": 688.6,
         "candidate_name": "Jeffrey S Raatz",
@@ -502,7 +537,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79238",
+        "id": "contrib-1792307281214-79238",
         "date": "2025-12-31 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -518,7 +553,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79239",
+        "id": "contrib-1792307281214-79239",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -534,7 +569,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79240",
+        "id": "contrib-1792307281214-79240",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -550,7 +585,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79241",
+        "id": "contrib-1792307281214-79241",
         "date": "2025-09-02 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -566,7 +601,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79242",
+        "id": "contrib-1792307281214-79242",
         "date": "2025-08-21 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -582,7 +617,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79243",
+        "id": "contrib-1792307281214-79243",
         "date": "2025-06-02 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -598,7 +633,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79244",
+        "id": "contrib-1792307281214-79244",
         "date": "2025-02-14 00:00:00",
         "amount": 865.84,
         "candidate_name": "Jeffrey S Raatz",
@@ -614,7 +649,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79245",
+        "id": "contrib-1792307281214-79245",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -630,7 +665,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79246",
+        "id": "contrib-1792307281214-79246",
         "date": "2025-08-21 00:00:00",
         "amount": 1500,
         "candidate_name": "Jeffrey S Raatz",
@@ -646,7 +681,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79247",
+        "id": "contrib-1792307281214-79247",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -662,7 +697,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79248",
+        "id": "contrib-1792307281214-79248",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -678,7 +713,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79249",
+        "id": "contrib-1792307281214-79249",
         "date": "2025-09-02 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -694,7 +729,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79250",
+        "id": "contrib-1792307281214-79250",
         "date": "2025-08-21 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -710,7 +745,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79251",
+        "id": "contrib-1792307281214-79251",
         "date": "2025-08-21 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -726,7 +761,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79252",
+        "id": "contrib-1792307281214-79252",
         "date": "2025-09-02 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -742,7 +777,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79253",
+        "id": "contrib-1792307281214-79253",
         "date": "2025-09-20 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -758,7 +793,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79254",
+        "id": "contrib-1792307281214-79254",
         "date": "2025-09-02 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -774,7 +809,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79255",
+        "id": "contrib-1792307281214-79255",
         "date": "2025-08-21 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -790,7 +825,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79256",
+        "id": "contrib-1792307281214-79256",
         "date": "2025-09-02 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -806,7 +841,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79257",
+        "id": "contrib-1792307281214-79257",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -822,7 +857,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79258",
+        "id": "contrib-1792307281214-79258",
         "date": "2025-08-27 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -838,7 +873,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79259",
+        "id": "contrib-1792307281214-79259",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -854,7 +889,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79260",
+        "id": "contrib-1792307281214-79260",
         "date": "2025-08-21 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -870,7 +905,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79261",
+        "id": "contrib-1792307281214-79261",
         "date": "2025-08-21 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -886,7 +921,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79262",
+        "id": "contrib-1792307281214-79262",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -902,7 +937,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79263",
+        "id": "contrib-1792307281214-79263",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -918,7 +953,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769421-79264",
+        "id": "contrib-1792307281214-79264",
         "date": "2025-08-21 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -934,7 +969,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15641",
+        "id": "contrib-1792307281968-44321",
+        "date": "2026-08-05 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44322",
+        "date": "2026-08-25 00:00:00",
+        "amount": 250,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Aristotle International Inc FBO Allstate Insurance",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Northbrook",
+        "address_state": "IL",
+        "address_zip": "60062-7155",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44323",
         "date": "2026-03-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -950,7 +1017,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15642",
+        "id": "contrib-1792307281968-44324",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -966,7 +1033,55 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15643",
+        "id": "contrib-1792307281968-44325",
+        "date": "2026-06-24 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "CHARTER COMMUNICATIONS",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ST LOUIS",
+        "address_state": "MO",
+        "address_zip": "63131",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44326",
+        "date": "2026-06-29 00:00:00",
+        "amount": 0.11,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "CITI",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44327",
+        "date": "2026-06-29 00:00:00",
+        "amount": 0.29,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "CITI",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44328",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -982,7 +1097,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15644",
+        "id": "contrib-1792307281968-44329",
         "date": "2026-01-31 00:00:00",
         "amount": 5.66,
         "candidate_name": "Jeffrey S Raatz",
@@ -998,7 +1113,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15645",
+        "id": "contrib-1792307281968-44330",
+        "date": "2026-05-31 00:00:00",
+        "amount": 8.41,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "First Bank Richmond",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44331",
+        "date": "2026-09-30 00:00:00",
+        "amount": 8.68,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "First Bank Richmond",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44332",
+        "date": "2026-08-31 00:00:00",
+        "amount": 9.06,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "First Bank Richmond",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44333",
+        "date": "2026-04-30 00:00:00",
+        "amount": 10.18,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "First Bank Richmond",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44334",
         "date": "2026-02-28 00:00:00",
         "amount": 5.35,
         "candidate_name": "Jeffrey S Raatz",
@@ -1014,7 +1193,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15646",
+        "id": "contrib-1792307281968-44335",
+        "date": "2026-07-31 00:00:00",
+        "amount": 8.24,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "First Bank Richmond",
+        "contributor_type": "corporate",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44336",
         "date": "2026-01-16 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1030,7 +1225,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15647",
+        "id": "contrib-1792307281968-44337",
         "date": "2026-02-13 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1046,7 +1241,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15648",
+        "id": "contrib-1792307281968-44338",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1062,7 +1257,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15649",
+        "id": "contrib-1792307281968-44339",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1078,7 +1273,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15650",
+        "id": "contrib-1792307281968-44340",
         "date": "2026-03-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1094,7 +1289,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15651",
+        "id": "contrib-1792307281968-44341",
+        "date": "2026-05-11 00:00:00",
+        "amount": 1293.85,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Indiana Chamber",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44342",
+        "date": "2026-06-08 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Integrity Metals",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Connersville",
+        "address_state": "IN",
+        "address_zip": "47331",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44343",
+        "date": "2026-04-20 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "INVENERGY LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "CHICAGO",
+        "address_state": "IL",
+        "address_zip": "60606",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44344",
+        "date": "2026-06-08 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "KJ3 Enterprizes",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44345",
         "date": "2026-03-17 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -1110,7 +1369,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15652",
+        "id": "contrib-1792307281968-44346",
+        "date": "2026-06-11 00:00:00",
+        "amount": 1800,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Rick Thomas Masonary LLC",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Centerville ",
+        "address_state": "IN",
+        "address_zip": "47330",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44347",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1126,7 +1401,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15653",
+        "id": "contrib-1792307281968-44348",
         "date": "2026-03-17 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -1142,7 +1417,231 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15654",
+        "id": "contrib-1792307281968-44349",
+        "date": "2026-04-20 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Selective Insurance",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Branchville",
+        "address_state": "NJ",
+        "address_zip": "07890",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44350",
+        "date": "2026-09-24 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Skyepack Inc.",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "West Lafayette",
+        "address_state": "IN",
+        "address_zip": "47906",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44351",
+        "date": "2026-07-27 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Southern Ohio Holdings Organization",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Washington Court House",
+        "address_state": "OH",
+        "address_zip": "43160",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44352",
+        "date": "2026-09-24 00:00:00",
+        "amount": 300,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Caroline Hunt",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "General Business",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240-3033",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44353",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Chris Coleman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44354",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "David Brown",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "General Business",
+        "occupation_category": "other",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44355",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "David Wesler",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "New Paris",
+        "address_state": "OH",
+        "address_zip": "45347",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44356",
+        "date": "2026-04-24 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Eric Doden",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46835",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44357",
+        "date": "2026-07-01 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Garry Kleer",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Financial/Investment",
+        "occupation_category": "finance",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44358",
+        "date": "2026-07-15 00:00:00",
+        "amount": 168.47,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Jeff Raatz 9933201",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "In",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44359",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Jerald Toney",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44360",
+        "date": "2026-07-27 00:00:00",
+        "amount": 120,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "JESSE & BRITANNY MERCK",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "In",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44361",
+        "date": "2026-06-08 00:00:00",
+        "amount": 750,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "JESSE & BRITANNY MERCK",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "In",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44362",
+        "date": "2026-06-08 00:00:00",
+        "amount": 50,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Jim Antle",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Cambridge City",
+        "address_state": "IN",
+        "address_zip": "47327",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44363",
         "date": "2026-03-17 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1158,7 +1657,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15655",
+        "id": "contrib-1792307281968-44364",
         "date": "2026-03-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1174,7 +1673,71 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15656",
+        "id": "contrib-1792307281968-44365",
+        "date": "2026-06-08 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "JOHN MEREDITH",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Manufacturing",
+        "occupation_category": "other",
+        "address_city": "Richmond",
+        "address_state": "In",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44366",
+        "date": "2026-09-24 00:00:00",
+        "amount": 300,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Jon C. Gubera",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Lobbyist",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44367",
+        "date": "2026-06-08 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "JUSTIN SCHEIBEN",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Manufacturing",
+        "occupation_category": "other",
+        "address_city": "RICHMOND",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44368",
+        "date": "2026-04-28 00:00:00",
+        "amount": 250,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Lauren M. Box",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44369",
         "date": "2026-03-31 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1190,7 +1753,103 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15657",
+        "id": "contrib-1792307281968-44370",
+        "date": "2026-06-08 00:00:00",
+        "amount": 80,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Nicholas Rader",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44371",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "R.M.  Oler",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44372",
+        "date": "2026-06-11 00:00:00",
+        "amount": 200,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Richard Peterson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "General Business",
+        "occupation_category": "other",
+        "address_city": "Centerville",
+        "address_state": "IN",
+        "address_zip": "47330",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44373",
+        "date": "2026-06-08 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Robert Clark",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Office and Administrative Occupations",
+        "occupation_category": "other",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44374",
+        "date": "2026-08-05 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Robyn S Crosson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46205",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44375",
+        "date": "2026-06-11 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Timothly Love",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44376",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1206,7 +1865,103 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15658",
+        "id": "contrib-1792307281968-44377",
+        "date": "2026-06-24 00:00:00",
+        "amount": 100,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Tracey Robinson",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44378",
+        "date": "2026-06-18 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Barrett Election Committee",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47.75",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44379",
+        "date": "2026-08-23 00:00:00",
+        "amount": 505.4,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Excelin ED",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44380",
+        "date": "2026-07-01 00:00:00",
+        "amount": 2500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Firstbank",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44381",
+        "date": "2026-06-30 00:00:00",
+        "amount": 7.37,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Firstbank",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Richmond",
+        "address_state": "IN",
+        "address_zip": "47374",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44382",
+        "date": "2026-10-08 00:00:00",
+        "amount": 10969.86,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Indiana Republican State Committee",
+        "contributor_type": "committee",
+        "contribution_size": "mega",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44383",
         "date": "2026-03-18 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1222,7 +1977,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15659",
+        "id": "contrib-1792307281968-44384",
         "date": "2026-03-17 00:00:00",
         "amount": 1500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1238,7 +1993,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15660",
+        "id": "contrib-1792307281968-44385",
         "date": "2026-03-25 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1254,7 +2009,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15661",
+        "id": "contrib-1792307281968-44386",
         "date": "2026-03-17 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1270,7 +2025,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15662",
+        "id": "contrib-1792307281968-44387",
+        "date": "2026-04-20 00:00:00",
+        "amount": 1500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Indiana BANKPAC - State Fund",
+        "contributor_type": "committee",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44388",
         "date": "2026-03-17 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1286,7 +2057,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15663",
+        "id": "contrib-1792307281968-44389",
+        "date": "2026-08-05 00:00:00",
+        "amount": 300,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "AMERICAN PROPERTRY AND CASUALTY INS ASSOCIATION",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "CHICAGO",
+        "address_state": "IL",
+        "address_zip": "60631",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44390",
+        "date": "2026-04-20 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "AMERICAN PROPERTRY AND CASUALTY INS ASSOCIATION",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "CHICAGO",
+        "address_state": "IL",
+        "address_zip": "60631",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44391",
         "date": "2026-03-25 00:00:00",
         "amount": 300,
         "candidate_name": "Jeffrey S Raatz",
@@ -1302,7 +2105,87 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15664",
+        "id": "contrib-1792307281968-44392",
+        "date": "2026-08-14 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "CARESOURCE MISSION PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "COLUMBUS",
+        "address_state": "OH",
+        "address_zip": "43215",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44393",
+        "date": "2026-04-20 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "DUKE ENERGY PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "WASHINGTON",
+        "address_state": "DC",
+        "address_zip": "20004",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44394",
+        "date": "2026-04-20 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "ELI LILLY PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "INDIANAPOLIS",
+        "address_state": "IN",
+        "address_zip": "46285",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44395",
+        "date": "2026-08-05 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "ERIE INSURANCE PAC FEDERAL;",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ERIE",
+        "address_state": "PA",
+        "address_zip": "16530",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44396",
+        "date": "2026-07-01 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Farm Bureau Elect",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46206",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44397",
         "date": "2026-01-16 00:00:00",
         "amount": 5000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1318,7 +2201,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15665",
+        "id": "contrib-1792307281968-44398",
+        "date": "2026-09-24 00:00:00",
+        "amount": 5000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "Hoosiers for Quality Ed",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46204",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44399",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1334,7 +2233,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15666",
+        "id": "contrib-1792307281968-44400",
         "date": "2026-03-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1350,7 +2249,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15667",
+        "id": "contrib-1792307281968-44401",
         "date": "2026-03-25 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1366,7 +2265,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15668",
+        "id": "contrib-1792307281968-44402",
         "date": "2026-03-17 00:00:00",
         "amount": 1000,
         "candidate_name": "Jeffrey S Raatz",
@@ -1382,7 +2281,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15669",
+        "id": "contrib-1792307281968-44403",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1398,7 +2297,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15670",
+        "id": "contrib-1792307281968-44404",
         "date": "2026-03-17 00:00:00",
         "amount": 500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1414,7 +2313,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15671",
+        "id": "contrib-1792307281968-44405",
         "date": "2026-03-25 00:00:00",
         "amount": 2500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1430,7 +2329,23 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15672",
+        "id": "contrib-1792307281968-44406",
+        "date": "2026-08-05 00:00:00",
+        "amount": 1000,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "IPAC",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "CARMEL",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44407",
         "date": "2026-03-17 00:00:00",
         "amount": 1500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1446,7 +2361,39 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1791707769692-15673",
+        "id": "contrib-1792307281968-44408",
+        "date": "2026-04-28 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "LIBERTY MUTUAL PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": "IN",
+        "address_zip": null,
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44409",
+        "date": "2026-08-15 00:00:00",
+        "amount": 200,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "MICAI PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44410",
         "date": "2026-03-17 00:00:00",
         "amount": 1500,
         "candidate_name": "Jeffrey S Raatz",
@@ -1458,6 +2405,22 @@
         "address_city": "INDIANAPOLIS",
         "address_state": "IN",
         "address_zip": "46202",
+        "recipient_committee": "Raatz for Indiana State Senate Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281968-44411",
+        "date": "2026-08-05 00:00:00",
+        "amount": 500,
+        "candidate_name": "Jeffrey S Raatz",
+        "contributor_name": "The Travelers Companies PAC",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Hartford",
+        "address_state": "CT",
+        "address_zip": "06183",
         "recipient_committee": "Raatz for Indiana State Senate Committee",
         "source": "indiana"
       }

@@ -6,32 +6,48 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "154.35",
-    "total_contributions": 1,
-    "total_itemized": 1,
+    "total_raised": "1166.05",
+    "total_contributions": 12,
+    "total_itemized": 12,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
       "count": 1,
       "total": "154.35"
+    },
+    "individual": {
+      "count": 10,
+      "total": "511.70"
+    },
+    "committee": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "154.35"
+      "count": 4,
+      "total": "1054.35"
+    },
+    "small": {
+      "count": 8,
+      "total": "111.70"
     }
   },
   "by_month": {
     "2026-03": {
       "count": 1,
       "total": "154.35"
+    },
+    "2026-08": {
+      "count": 11,
+      "total": "1011.70"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769757-35152",
+      "id": "contrib-1792307282051-95477",
       "date": "2026-03-06 00:00:00",
       "amount": 154.35,
       "candidate_name": "Michelle Ann Hennessee Sears",
@@ -43,6 +59,182 @@
       "address_city": "Greenfield",
       "address_state": "IN",
       "address_zip": "46140",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95478",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Abby Wallace",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Homemaker",
+      "occupation_category": "homemaker",
+      "address_city": "Greenfeild",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95479",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Courtney Locke",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95480",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Denise Passwaters",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Milton",
+      "address_state": "DE",
+      "address_zip": "19968",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95481",
+      "date": "2026-08-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Erika Donley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95482",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Mary  Hampton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95483",
+      "date": "2026-08-17 00:00:00",
+      "amount": 20,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Megan Lhamon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Whiteland",
+      "address_state": "IN",
+      "address_zip": "46184",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95484",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Nicole Floyd",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Cayuga",
+      "address_state": "IN",
+      "address_zip": "47928",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95485",
+      "date": "2026-08-17 00:00:00",
+      "amount": 1.7,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Paul King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Sunnyvale",
+      "address_state": "CA",
+      "address_zip": "94086",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95486",
+      "date": "2026-08-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Terry Oneill",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Fenton",
+      "address_state": "MO",
+      "address_zip": "63026",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95487",
+      "date": "2026-08-17 00:00:00",
+      "amount": 300,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Johnson County Democratic Party",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Franklin",
+      "address_state": "IN",
+      "address_zip": "46131",
+      "recipient_committee": "Hennessee for Indiana House",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95488",
+      "date": "2026-08-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Michelle Ann Hennessee Sears",
+      "contributor_name": "Frost Brown Todd PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Hennessee for Indiana House",
       "source": "indiana"
     }

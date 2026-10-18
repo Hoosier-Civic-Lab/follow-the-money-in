@@ -1,0 +1,68 @@
+{
+  "id": "house-republlican-campaign-committee",
+  "name": "House Republlican Campaign Committee",
+  "totals": {
+    "total_given": "42500.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "mega": {
+      "count": 2,
+      "total": "42500.00"
+    }
+  },
+  "by_month": {
+    "2026-04": {
+      "count": 1,
+      "total": "12500.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "30000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "wesley-ray-bennett",
+      "name": "Wesley Ray Bennett",
+      "total": "42500.00",
+      "count": 2
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307282023-82671",
+      "date": "2026-04-13 00:00:00",
+      "amount": 12500,
+      "candidate_name": "Wesley Ray Bennett",
+      "contributor_name": "House Republlican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wes Bennett",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282023-82672",
+      "date": "2026-05-04 00:00:00",
+      "amount": 30000,
+      "candidate_name": "Wesley Ray Bennett",
+      "contributor_name": "House Republlican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wes Bennett",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

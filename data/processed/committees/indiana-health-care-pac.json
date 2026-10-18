@@ -2,22 +2,22 @@
   "id": "indiana-health-care-pac",
   "name": "Indiana Health Care PAC",
   "totals": {
-    "total_given": "114500.00",
-    "total_contributions": 53,
-    "candidates_supported": 37
+    "total_given": "137550.00",
+    "total_contributions": 72,
+    "candidates_supported": 42
   },
   "by_contribution_size": {
     "medium": {
-      "count": 32,
-      "total": "15500.00"
+      "count": 42,
+      "total": "20550.00"
     },
     "mega": {
       "count": 4,
       "total": "70000.00"
     },
     "large": {
-      "count": 17,
-      "total": "29000.00"
+      "count": 26,
+      "total": "47000.00"
     }
   },
   "by_month": {
@@ -61,16 +61,48 @@
       "count": 3,
       "total": "3000.00"
     },
+    "2026-07": {
+      "count": 4,
+      "total": "7000.00"
+    },
+    "2026-09": {
+      "count": 4,
+      "total": "2750.00"
+    },
+    "2026-08": {
+      "count": 7,
+      "total": "7800.00"
+    },
     "2026-03": {
       "count": 6,
       "total": "19250.00"
     },
+    "2026-06": {
+      "count": 3,
+      "total": "4500.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "4500.00",
+      "count": 2
+    },
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "total": "4500.00",
+      "count": 4
+    },
     {
       "id": "matthew-scott-lehman",
       "name": "Matthew Scott Lehman",
@@ -82,6 +114,12 @@
       "name": "Rodric D Bray",
       "total": "3000.00",
       "count": 1
+    },
+    {
+      "id": "tyler-guthrie-johnson",
+      "name": "Tyler Guthrie Johnson",
+      "total": "3000.00",
+      "count": 2
     },
     {
       "id": "jeffrey-allen-thompson",
@@ -108,16 +146,10 @@
       "count": 1
     },
     {
-      "id": "christopher-paul-garten",
-      "name": "Christopher Paul Garten",
-      "total": "2000.00",
-      "count": 1
-    },
-    {
-      "id": "daniel-orlando-lopez",
-      "name": "Daniel Orlando Lopez",
-      "total": "2000.00",
-      "count": 3
+      "id": "cindy-lynn-ledbetter",
+      "name": "Cindy Lynn Ledbetter",
+      "total": "1750.00",
+      "count": 2
     },
     {
       "id": "edward-e-charbonneau",
@@ -126,14 +158,14 @@
       "count": 1
     },
     {
-      "id": "justin-thomas-busch",
-      "name": "Justin Thomas Busch",
+      "id": "ethan-e-manning",
+      "name": "Ethan E Manning",
       "total": "1500.00",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "tyler-guthrie-johnson",
-      "name": "Tyler Guthrie Johnson",
+      "id": "justin-thomas-busch",
+      "name": "Justin Thomas Busch",
       "total": "1500.00",
       "count": 1
     },
@@ -144,9 +176,21 @@
       "count": 2
     },
     {
+      "id": "brian-steven-schmutzler",
+      "name": "Brian Steven Schmutzler",
+      "total": "1500.00",
+      "count": 2
+    },
+    {
       "id": "anthony-clyde-isa",
       "name": "Anthony Clyde Isa",
       "total": "1250.00",
+      "count": 2
+    },
+    {
+      "id": "wendy-marie-mcnamara",
+      "name": "Wendy Marie McNamara",
+      "total": "1200.00",
       "count": 2
     },
     {
@@ -156,45 +200,21 @@
       "count": 2
     },
     {
-      "id": "cyndi-v-carrasco",
-      "name": "Cyndi V Carrasco",
+      "id": "dave-allen-heine",
+      "name": "Dave Allen Heine",
       "total": "1000.00",
-      "count": 1
+      "count": 2
     },
     {
-      "id": "ethan-e-manning",
-      "name": "Ethan E Manning",
-      "total": "750.00",
-      "count": 1
-    },
-    {
-      "id": "cindy-lynn-ledbetter",
-      "name": "Cindy Lynn Ledbetter",
-      "total": "750.00",
-      "count": 1
-    },
-    {
-      "id": "wendy-marie-mcnamara",
-      "name": "Wendy Marie McNamara",
-      "total": "700.00",
-      "count": 1
-    },
-    {
-      "id": "sheila-a-klinker",
-      "name": "Sheila A. Klinker",
-      "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "cherrish-s-pryor",
-      "name": "Cherrish S Pryor",
-      "total": "500.00",
-      "count": 1
+      "id": "matthew-douglas-hostettler",
+      "name": "Matthew Douglas Hostettler",
+      "total": "1000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-327",
+      "id": "contrib-1792307281095-327",
       "date": "2025-07-17 00:00:00",
       "amount": 300,
       "contributor_name": "Indiana Health Care PAC",
@@ -209,7 +229,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769305-328",
+      "id": "contrib-1792307281095-328",
       "date": "2025-07-30 00:00:00",
       "amount": 100,
       "contributor_name": "Indiana Health Care PAC",
@@ -224,7 +244,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769305-329",
+      "id": "contrib-1792307281095-329",
       "date": "2025-02-11 00:00:00",
       "amount": 25000,
       "contributor_name": "Indiana Health Care PAC",
@@ -239,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769318-6605",
+      "id": "contrib-1792307281105-6605",
       "date": "2025-08-12 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana Health Care PAC",
@@ -254,7 +274,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769319-7021",
+      "id": "contrib-1792307281106-7021",
       "date": "2025-01-14 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana Health Care PAC",
@@ -269,7 +289,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769319-7022",
+      "id": "contrib-1792307281106-7022",
       "date": "2025-11-26 00:00:00",
       "amount": 1000,
       "contributor_name": "Indiana Health Care PAC",
@@ -284,7 +304,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12458",
+      "id": "contrib-1792307281112-12458",
       "date": "2025-08-22 00:00:00",
       "amount": 500,
       "contributor_name": "Indiana Health Care PAC",
@@ -299,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12459",
+      "id": "contrib-1792307281112-12459",
       "date": "2025-08-22 00:00:00",
       "amount": 15000,
       "contributor_name": "Indiana Health Care PAC",
@@ -314,7 +334,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12460",
+      "id": "contrib-1792307281112-12460",
       "date": "2025-11-21 00:00:00",
       "amount": 15000,
       "contributor_name": "Indiana Health Care PAC",
@@ -329,7 +349,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12567",
+      "id": "contrib-1792307281112-12567",
       "date": "2025-01-01 00:00:00",
       "amount": 500,
       "candidate_name": "Sheila A. Klinker",
@@ -345,7 +365,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769356-28909",
+      "id": "contrib-1792307281149-28909",
       "date": "2025-11-03 00:00:00",
       "amount": 2500,
       "candidate_name": "JEFFREY ALLEN THOMPSON",
@@ -361,7 +381,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31823",
+      "id": "contrib-1792307281151-31823",
       "date": "2025-10-18 00:00:00",
       "amount": 250,
       "candidate_name": "Matt Pierce",
@@ -377,7 +397,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33302",
+      "id": "contrib-1792307281152-33302",
       "date": "2025-12-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Ryan Douglas Mishler",
@@ -393,7 +413,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769361-34428",
+      "id": "contrib-1792307281153-34428",
       "date": "2025-08-25 00:00:00",
       "amount": 2000,
       "candidate_name": "Philip Kelly GiaQuinta",
@@ -409,7 +429,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769402-64266",
+      "id": "contrib-1792307281196-64266",
       "date": "2025-08-21 00:00:00",
       "amount": 1500,
       "candidate_name": "Edward E Charbonneau",
@@ -425,7 +445,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-64964",
+      "id": "contrib-1792307281198-64964",
       "date": "2025-05-21 00:00:00",
       "amount": 1500,
       "candidate_name": "Matthew Scott Lehman",
@@ -441,7 +461,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-65036",
+      "id": "contrib-1792307281198-65036",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Cherrish S Pryor",
@@ -457,7 +477,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65344",
+      "id": "contrib-1792307281199-65344",
       "date": "2025-07-23 00:00:00",
       "amount": 500,
       "candidate_name": "Heath Randall Van Natter",
@@ -473,7 +493,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65485",
+      "id": "contrib-1792307281200-65485",
       "date": "2025-08-09 00:00:00",
       "amount": 700,
       "candidate_name": "Wendy Marie McNamara",
@@ -489,7 +509,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769407-65613",
+      "id": "contrib-1792307281200-65613",
       "date": "2025-11-10 00:00:00",
       "amount": 300,
       "candidate_name": "Timothy Wesco",
@@ -505,7 +525,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769410-67064",
+      "id": "contrib-1792307281202-67064",
       "date": "2025-10-14 00:00:00",
       "amount": 300,
       "candidate_name": "C. Susan Glick",
@@ -521,7 +541,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769412-67998",
+      "id": "contrib-1792307281203-67998",
       "date": "2025-10-09 00:00:00",
       "amount": 3000,
       "candidate_name": "Rodric D Bray",
@@ -537,7 +557,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79258",
+      "id": "contrib-1792307281214-79258",
       "date": "2025-08-27 00:00:00",
       "amount": 500,
       "candidate_name": "Jeffrey S Raatz",
@@ -553,7 +573,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80518",
+      "id": "contrib-1792307281215-80518",
       "date": "2025-11-03 00:00:00",
       "amount": 2000,
       "candidate_name": "C. Blake Doriot",
@@ -569,7 +589,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80612",
+      "id": "contrib-1792307281215-80612",
       "date": "2025-06-24 00:00:00",
       "amount": 500,
       "candidate_name": "Dave Allen Heine",
@@ -585,7 +605,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-82332",
+      "id": "contrib-1792307281216-82332",
       "date": "2025-07-28 00:00:00",
       "amount": 2000,
       "candidate_name": "Christopher Paul Garten",
@@ -601,7 +621,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83191",
+      "id": "contrib-1792307281217-83191",
       "date": "2025-11-07 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Douglas Hostettler",
@@ -617,7 +637,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83383",
+      "id": "contrib-1792307281217-83383",
       "date": "2025-07-22 00:00:00",
       "amount": 750,
       "candidate_name": "Ethan E Manning",
@@ -633,7 +653,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83761",
+      "id": "contrib-1792307281218-83761",
       "date": "2025-10-01 00:00:00",
       "amount": 500,
       "candidate_name": "Brian W Buchanan",
@@ -649,7 +669,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83945",
+      "id": "contrib-1792307281218-83945",
       "date": "2025-09-15 00:00:00",
       "amount": 1500,
       "candidate_name": "Justin Thomas Busch",
@@ -665,7 +685,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84316",
+      "id": "contrib-1792307281218-84316",
       "date": "2025-06-22 00:00:00",
       "amount": 300,
       "candidate_name": "Christopher Paul Jeter",
@@ -681,7 +701,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84930",
+      "id": "contrib-1792307281219-84930",
       "date": "2025-06-23 00:00:00",
       "amount": 750,
       "candidate_name": "Cindy Lynn Ledbetter",
@@ -697,7 +717,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85152",
+      "id": "contrib-1792307281219-85152",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Edward Pierce",
@@ -713,7 +733,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90615",
+      "id": "contrib-1792307281232-90615",
       "date": "2025-10-17 00:00:00",
       "amount": 1500,
       "candidate_name": "Tyler Guthrie Johnson",
@@ -729,7 +749,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91411",
+      "id": "contrib-1792307281233-91411",
       "date": "2025-09-18 00:00:00",
       "amount": 500,
       "candidate_name": "Andrea M Hunley",
@@ -745,7 +765,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769439-92044",
+      "id": "contrib-1792307281233-92044",
       "date": "2025-07-30 00:00:00",
       "amount": 500,
       "candidate_name": "Cory Joe Criswell",
@@ -761,7 +781,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769439-92178",
+      "id": "contrib-1792307281233-92178",
       "date": "2025-10-14 00:00:00",
       "amount": 500,
       "candidate_name": "GARY WAYNE BYRNE",
@@ -777,7 +797,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94777",
+      "id": "contrib-1792307281236-94777",
       "date": "2025-08-02 00:00:00",
       "amount": 500,
       "candidate_name": "Lori  Jo Goss-Reaves",
@@ -793,7 +813,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95107",
+      "id": "contrib-1792307281236-95107",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "Brett Allen Clark",
@@ -809,7 +829,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95281",
+      "id": "contrib-1792307281236-95281",
       "date": "2025-05-27 00:00:00",
       "amount": 500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -825,7 +845,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95282",
+      "id": "contrib-1792307281236-95282",
       "date": "2025-07-01 00:00:00",
       "amount": 500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -841,7 +861,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95283",
+      "id": "contrib-1792307281236-95283",
       "date": "2025-12-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Daniel Orlando Lopez",
@@ -857,7 +877,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-95352",
+      "id": "contrib-1792307281236-95352",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Cyndi V Carrasco",
@@ -873,7 +893,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-95441",
+      "id": "contrib-1792307281236-95441",
       "date": "2025-06-12 00:00:00",
       "amount": 500,
       "candidate_name": "Gregory Justin Goode",
@@ -889,7 +909,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-95895",
+      "id": "contrib-1792307281237-95895",
       "date": "2025-07-24 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Clyde Isa",
@@ -905,7 +925,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769442-96096",
+      "id": "contrib-1792307281237-96096",
       "date": "2025-08-04 00:00:00",
       "amount": 500,
       "candidate_name": "ETHAN J LAWSON",
@@ -921,7 +941,52 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769678-3295",
+      "id": "contrib-1792307281904-3899",
+      "date": "2026-07-28 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281904-4132",
+      "date": "2026-09-22 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "MARION COUNTY REPUBLICAN CENTRAL COMMITTEE",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9644",
+      "date": "2026-08-13 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9645",
       "date": "2026-03-20 00:00:00",
       "amount": 15000,
       "contributor_name": "Indiana Health Care PAC",
@@ -936,7 +1001,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11202",
+      "id": "contrib-1792307281946-31886",
       "date": "2026-03-19 00:00:00",
       "amount": 1500,
       "candidate_name": "Matthew Scott Lehman",
@@ -952,7 +1017,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769691-15403",
+      "id": "contrib-1792307281952-32411",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy Marie McNamara",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Wendy McNamara for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281967-43784",
       "date": "2026-03-12 00:00:00",
       "amount": 500,
       "candidate_name": "Benjamin Charles Smaltz",
@@ -968,7 +1049,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-15669",
+      "id": "contrib-1792307281968-44301",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elizabeth  Marie Brown",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Liz Brown",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281968-44403",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Jeffrey S Raatz",
@@ -984,7 +1081,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769718-23078",
+      "id": "contrib-1792307281969-45573",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Dave Allen Heine",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Citizens For Dave Heine",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48162",
+      "date": "2026-06-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-48949",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Matthew Douglas Hostettler",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "47666",
+      "recipient_committee": "Friends of Matt Hostettler",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49140",
+      "date": "2026-09-09 00:00:00",
+      "amount": 750,
+      "candidate_name": "Ethan E Manning",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Ethan",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-49511",
+      "date": "2026-07-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christine Anne Campbell",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Committee to Elect Campbell",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281974-50037",
+      "date": "2026-08-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Christopher Paul Jeter",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Jeter for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50471",
+      "date": "2026-06-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Cindy Lynn Ledbetter",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Ledbetter For State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50792",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Kyle Edward Pierce",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Pierce for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281984-55859",
+      "date": "2026-07-09 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Tyler Guthrie Johnson",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281996-62351",
+      "date": "2026-08-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Alaina Kelly Shonkwiler",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Alaina for Noblesville",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63486",
+      "date": "2026-07-03 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63733",
       "date": "2026-03-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Gregory Justin Goode",
@@ -1000,7 +1273,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769718-23239",
+      "id": "contrib-1792307281999-64188",
       "date": "2026-03-12 00:00:00",
       "amount": 750,
       "candidate_name": "Anthony Clyde Isa",
@@ -1016,7 +1289,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32756",
+      "id": "contrib-1792307282004-68654",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282039-88946",
       "date": "2026-04-10 00:00:00",
       "amount": 500,
       "candidate_name": "Nicholas James McKinley",
@@ -1029,6 +1318,38 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Friends of Nick McKinley",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90389",
+      "date": "2026-08-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Brian Steven Schmutzler",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indy ",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Dr. Brian Schmutzler for Indiana Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90390",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Brian Steven Schmutzler",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indy ",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Dr. Brian Schmutzler for Indiana Senate",
       "source": "indiana"
     }
   ],

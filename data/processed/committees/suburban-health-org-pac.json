@@ -2,39 +2,63 @@
   "id": "suburban-health-org-pac",
   "name": "Suburban Health Org. PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
+    "total_given": "3000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "by_month": {
     "2025-07": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
     {
       "id": "christopher-paul-garten",
       "name": "Christopher Paul Garten",
-      "total": "500.00",
-      "count": 1
+      "total": "3000.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769424-82351",
+      "id": "contrib-1792307281216-82351",
       "date": "2025-07-28 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Garten",
       "contributor_name": "Suburban Health Org. PAC",
       "contributor_type": "committee",
       "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48182",
+      "date": "2026-10-05 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "Suburban Health Org. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
       "occupation": null,
       "occupation_category": "unknown",
       "address_city": "Indianapolis",

@@ -1,0 +1,70 @@
+{
+  "id": "jpmorgan-chase-co-pac",
+  "name": "JPMorgan Chase & Co. PAC",
+  "totals": {
+    "total_given": "4000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "large": {
+      "count": 2,
+      "total": "4000.00"
+    }
+  },
+  "by_month": {
+    "2026-10": {
+      "count": 2,
+      "total": "4000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-paul-garten",
+      "name": "Christopher Paul Garten",
+      "total": "2000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281954-33542",
+      "date": "2026-10-05 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "JPMorgan Chase & Co. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281972-48172",
+      "date": "2026-10-05 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Christopher Paul Garten",
+      "contributor_name": "JPMorgan Chase & Co. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20005",
+      "recipient_committee": "Friends of Chris Garten",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

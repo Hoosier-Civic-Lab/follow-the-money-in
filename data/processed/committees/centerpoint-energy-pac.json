@@ -2,14 +2,14 @@
   "id": "centerpoint-energy-pac",
   "name": "Centerpoint Energy PAC",
   "totals": {
-    "total_given": "3150.00",
-    "total_contributions": 5,
-    "candidates_supported": 4
+    "total_given": "5050.00",
+    "total_contributions": 10,
+    "candidates_supported": 8
   },
   "by_contribution_size": {
     "medium": {
-      "count": 3,
-      "total": "1150.00"
+      "count": 8,
+      "total": "3050.00"
     },
     "large": {
       "count": 2,
@@ -28,6 +28,18 @@
     "2025-09": {
       "count": 2,
       "total": "1300.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "1200.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "350.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "350.00"
     }
   },
   "top_recipients": [
@@ -44,21 +56,45 @@
       "count": 1
     },
     {
+      "id": "robert-behning",
+      "name": "ROBERT BEHNING",
+      "total": "700.00",
+      "count": 2
+    },
+    {
       "id": "ryan-douglas-mishler",
       "name": "Ryan Douglas Mishler",
       "total": "500.00",
       "count": 1
     },
     {
-      "id": "robert-behning",
-      "name": "ROBERT BEHNING",
+      "id": "ethan-j-lawson",
+      "name": "ETHAN J LAWSON",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "tonya-marie-pfaff",
+      "name": "Tonya Marie Pfaff",
+      "total": "350.00",
+      "count": 1
+    },
+    {
+      "id": "daniel-orlando-lopez",
+      "name": "Daniel Orlando Lopez",
+      "total": "350.00",
+      "count": 1
+    },
+    {
+      "id": "tim-r-yocum",
+      "name": "Tim R Yocum",
       "total": "350.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769355-27221",
+      "id": "contrib-1792307281148-27221",
       "date": "2025-12-19 00:00:00",
       "amount": 350,
       "candidate_name": "ROBERT BEHNING",
@@ -74,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33285",
+      "id": "contrib-1792307281152-33285",
       "date": "2025-12-23 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Douglas Mishler",
@@ -90,7 +126,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769404-64758",
+      "id": "contrib-1792307281197-64758",
       "date": "2025-11-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Jean Leising",
@@ -106,7 +142,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94446",
+      "id": "contrib-1792307281236-94446",
       "date": "2025-09-25 00:00:00",
       "amount": 300,
       "candidate_name": "Alaina Kelly Shonkwiler",
@@ -122,7 +158,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-94447",
+      "id": "contrib-1792307281236-94447",
       "date": "2025-09-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Alaina Kelly Shonkwiler",
@@ -135,6 +171,86 @@
       "address_state": "TX",
       "address_zip": "77210",
       "recipient_committee": "Alaina for Noblesville",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281936-22246",
+      "date": "2026-09-29 00:00:00",
+      "amount": 350,
+      "candidate_name": "ROBERT BEHNING",
+      "contributor_name": "Centerpoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "COMMITTEE TO ELECT ROBERT BEHNING",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49237",
+      "date": "2026-06-05 00:00:00",
+      "amount": 350,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "CenterPoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63464",
+      "date": "2026-09-11 00:00:00",
+      "amount": 350,
+      "candidate_name": "Daniel Orlando Lopez",
+      "contributor_name": "CenterPoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64396",
+      "date": "2026-09-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "ETHAN J LAWSON",
+      "contributor_name": "CenterPoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "ETHAN LAWSON FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282002-66829",
+      "date": "2026-08-31 00:00:00",
+      "amount": 350,
+      "candidate_name": "Tim R Yocum",
+      "contributor_name": "Centerpoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "772104567",
+      "recipient_committee": "Committee to Elect Tim R. Yocum State Representative District 42",
       "source": "indiana"
     }
   ],

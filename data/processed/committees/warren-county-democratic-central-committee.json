@@ -1,0 +1,97 @@
+{
+  "id": "warren-county-democratic-central-committee",
+  "name": "Warren County Democratic Central Committee",
+  "totals": {
+    "total_given": "12210.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "210.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "2000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
+    }
+  },
+  "by_month": {
+    "2026-05": {
+      "count": 1,
+      "total": "210.00"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "12000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "brenna-geswein",
+      "name": "Brenna Geswein",
+      "total": "10000.00",
+      "count": 1
+    },
+    {
+      "id": "david-avram-sanders",
+      "name": "DAVID AVRAM SANDERS",
+      "total": "2000.00",
+      "count": 1
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281897-655",
+      "date": "2026-05-22 00:00:00",
+      "amount": 210,
+      "contributor_name": "Warren County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Williamsport",
+      "address_state": "IN",
+      "address_zip": "47993",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-60251",
+      "date": "2026-06-24 00:00:00",
+      "amount": 2000,
+      "candidate_name": "DAVID AVRAM SANDERS",
+      "contributor_name": "Warren County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "DAVID SANDERS FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282046-92933",
+      "date": "2026-06-18 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Brenna Geswein",
+      "contributor_name": "Warren County Democratic Central Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Supporters of Brenna",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

@@ -2,14 +2,14 @@
   "id": "indiana-farm-bureau-inc-elect-pac-inc",
   "name": "INDIANA FARM BUREAU, INC. ELECT PAC, INC.",
   "totals": {
-    "total_given": "1500.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "3000.00",
+    "total_contributions": 3,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "2500.00"
     },
     "medium": {
       "count": 1,
@@ -24,9 +24,19 @@
     "2025-11": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "1500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "1500.00",
+      "count": 1
+    },
     {
       "id": "carey-e-hamilton",
       "name": "Carey E Hamilton",
@@ -36,7 +46,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7347",
+      "id": "contrib-1792307281106-7347",
       "date": "2025-12-03 00:00:00",
       "amount": 1000,
       "contributor_name": "INDIANA FARM BUREAU, INC. ELECT PAC, INC.",
@@ -51,7 +61,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-81053",
+      "id": "contrib-1792307281215-81053",
       "date": "2025-11-20 00:00:00",
       "amount": 500,
       "candidate_name": "Carey E Hamilton",
@@ -64,6 +74,22 @@
       "address_state": "IN",
       "address_zip": "46206",
       "recipient_committee": "Committee to Elect Carey Hamilton",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281954-33499",
+      "date": "2026-07-16 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "INDIANA FARM BUREAU, INC. ELECT PAC, INC.",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Todd Huston for State Representative",
       "source": "indiana"
     }
   ],

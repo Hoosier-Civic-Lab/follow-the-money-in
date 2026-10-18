@@ -2,9 +2,9 @@
   "id": "brightspring-legacy-fund",
   "name": "BrightSpring Legacy Fund",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 5,
-    "candidates_supported": 1
+    "total_given": "3500.00",
+    "total_contributions": 6,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
@@ -12,14 +12,18 @@
       "total": "1000.00"
     },
     "medium": {
-      "count": 4,
-      "total": "2000.00"
+      "count": 5,
+      "total": "2500.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 5,
       "total": "3000.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -28,11 +32,17 @@
       "name": "Todd Michael Huston",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "gregory-justin-goode",
+      "name": "Gregory Justin Goode",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769317-6275",
+      "id": "contrib-1792307281105-6275",
       "date": "2025-12-17 00:00:00",
       "amount": 1000,
       "contributor_name": "BrightSpring Legacy Fund",
@@ -47,7 +57,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769318-6559",
+      "id": "contrib-1792307281105-6559",
       "date": "2025-12-29 00:00:00",
       "amount": 250,
       "contributor_name": "BrightSpring Legacy Fund",
@@ -62,7 +72,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12402",
+      "id": "contrib-1792307281112-12402",
       "date": "2025-12-18 00:00:00",
       "amount": 750,
       "contributor_name": "BrightSpring Legacy Fund",
@@ -77,7 +87,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769400-63462",
+      "id": "contrib-1792307281194-63462",
       "date": "2025-12-11 00:00:00",
       "amount": 500,
       "contributor_name": "BrightSpring Legacy Fund",
@@ -92,7 +102,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769411-67392",
+      "id": "contrib-1792307281203-67392",
       "date": "2025-12-17 00:00:00",
       "amount": 500,
       "candidate_name": "Todd Michael Huston",
@@ -105,6 +115,22 @@
       "address_state": "KY",
       "address_zip": "40222",
       "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63694",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Gregory Justin Goode",
+      "contributor_name": "BrightSpring Legacy Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40222",
+      "recipient_committee": "Committee to Elect Greg Goode",
       "source": "indiana"
     }
   ],

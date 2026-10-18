@@ -2,18 +2,18 @@
   "id": "duke-energy-corp-pac",
   "name": "Duke Energy Corp PAC",
   "totals": {
-    "total_given": "5500.00",
-    "total_contributions": 10,
-    "candidates_supported": 10
+    "total_given": "9000.00",
+    "total_contributions": 13,
+    "candidates_supported": 12
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1000.00"
+      "count": 2,
+      "total": "3500.00"
     },
     "medium": {
-      "count": 9,
-      "total": "4500.00"
+      "count": 11,
+      "total": "5500.00"
     }
   },
   "by_month": {
@@ -36,9 +36,27 @@
     "2025-07": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "2500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "edmond-lewis-soliday",
+      "name": "Edmond Lewis Soliday",
+      "total": "2500.00",
+      "count": 1
+    },
     {
       "id": "jean-leising",
       "name": "Jean Leising",
@@ -48,8 +66,8 @@
     {
       "id": "wendy-marie-mcnamara",
       "name": "Wendy Marie McNamara",
-      "total": "500.00",
-      "count": 1
+      "total": "1000.00",
+      "count": 2
     },
     {
       "id": "benjamin-charles-smaltz",
@@ -98,11 +116,17 @@
       "name": "Daniel Orlando Lopez",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "robert-behning",
+      "name": "ROBERT BEHNING",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769404-64760",
+      "id": "contrib-1792307281197-64760",
       "date": "2025-10-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Jean Leising",
@@ -118,7 +142,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769406-65471",
+      "id": "contrib-1792307281200-65471",
       "date": "2025-08-09 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy Marie McNamara",
@@ -134,7 +158,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769420-78088",
+      "id": "contrib-1792307281212-78088",
       "date": "2025-09-16 00:00:00",
       "amount": 500,
       "candidate_name": "Benjamin Charles Smaltz",
@@ -150,7 +174,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79135",
+      "id": "contrib-1792307281213-79135",
       "date": "2025-09-11 00:00:00",
       "amount": 500,
       "candidate_name": "Elizabeth  Marie Brown",
@@ -166,7 +190,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769421-79195",
+      "id": "contrib-1792307281213-79195",
       "date": "2025-10-30 00:00:00",
       "amount": 500,
       "candidate_name": "Douglas L Miller",
@@ -182,7 +206,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83563",
+      "id": "contrib-1792307281217-83563",
       "date": "2025-11-12 00:00:00",
       "amount": 500,
       "candidate_name": "Bradford J Barrett",
@@ -198,7 +222,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90793",
+      "id": "contrib-1792307281232-90793",
       "date": "2025-10-06 00:00:00",
       "amount": 500,
       "candidate_name": "Craig Allen Haggard",
@@ -214,7 +238,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90925",
+      "id": "contrib-1792307281232-90925",
       "date": "2025-10-15 00:00:00",
       "amount": 500,
       "candidate_name": "KENDELL CULP",
@@ -230,7 +254,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95100",
+      "id": "contrib-1792307281236-95100",
       "date": "2025-11-11 00:00:00",
       "amount": 500,
       "candidate_name": "Brett Allen Clark",
@@ -246,7 +270,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95271",
+      "id": "contrib-1792307281236-95271",
       "date": "2025-07-22 00:00:00",
       "amount": 500,
       "candidate_name": "Daniel Orlando Lopez",
@@ -259,6 +283,54 @@
       "address_state": "DC",
       "address_zip": "20004",
       "recipient_committee": "Lopez For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281936-22249",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "ROBERT BEHNING",
+      "contributor_name": "Duke Energy Corp PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "COMMITTEE TO ELECT ROBERT BEHNING",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281945-30581",
+      "date": "2026-08-24 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Edmond Lewis Soliday",
+      "contributor_name": "DUKE ENERGY CORP PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Ed Soliday Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281952-32404",
+      "date": "2026-09-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy Marie McNamara",
+      "contributor_name": "Duke Energy Corp PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Wendy McNamara for State Representative",
       "source": "indiana"
     }
   ],

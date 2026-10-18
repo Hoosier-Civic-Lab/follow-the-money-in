@@ -2,20 +2,24 @@
   "id": "elevance-health-inc-pac",
   "name": "ELEVANCE HEALTH, INC. PAC",
   "totals": {
-    "total_given": "7500.00",
-    "total_contributions": 1,
+    "total_given": "10000.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "7500.00"
+      "count": 2,
+      "total": "10000.00"
     }
   },
   "by_month": {
     "2026-03": {
       "count": 1,
       "total": "7500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -28,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769716-22576",
+      "id": "contrib-1792307281990-62071",
       "date": "2026-03-19 00:00:00",
       "amount": 7500,
       "candidate_name": "MICHAEL K BRAUN",
@@ -41,6 +45,21 @@
       "address_state": "DC",
       "address_zip": "20004",
       "recipient_committee": "MIKE BRAUN FOR INDIANA, INC.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281998-63893",
+      "date": "2026-09-02 00:00:00",
+      "amount": 2500,
+      "contributor_name": "ELEVANCE HEALTH, INC. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "WASHINGTON",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "INDIANA VICTORY COMMITTEE",
       "source": "indiana"
     }
   ],

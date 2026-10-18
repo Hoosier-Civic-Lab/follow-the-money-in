@@ -2,14 +2,14 @@
   "id": "the-power-pac-political-action-committee",
   "name": "THE POWER PAC POLITICAL ACTION COMMITTEE",
   "totals": {
-    "total_given": "400.00",
-    "total_contributions": 2,
-    "candidates_supported": 2
+    "total_given": "600.00",
+    "total_contributions": 3,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 2,
-      "total": "400.00"
+      "count": 3,
+      "total": "600.00"
     }
   },
   "by_month": {
@@ -20,6 +20,10 @@
     "2025-12": {
       "count": 1,
       "total": "100.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "200.00"
     }
   },
   "top_recipients": [
@@ -27,6 +31,12 @@
       "id": "james-robert-pressel-jr",
       "name": "James Robert Pressel Jr.",
       "total": "300.00",
+      "count": 1
+    },
+    {
+      "id": "jeffrey-roger-ellington",
+      "name": "Jeffrey Roger Ellington",
+      "total": "200.00",
       "count": 1
     },
     {
@@ -38,7 +48,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769422-80477",
+      "id": "contrib-1792307281215-80477",
       "date": "2025-06-19 00:00:00",
       "amount": 300,
       "candidate_name": "James Robert Pressel Jr.",
@@ -54,7 +64,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80686",
+      "id": "contrib-1792307281215-80686",
       "date": "2025-12-03 00:00:00",
       "amount": 100,
       "candidate_name": "Aaron Michael Freeman",
@@ -67,6 +77,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Freeman for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45479",
+      "date": "2026-08-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jeffrey Roger Ellington",
+      "contributor_name": "The Power PAC Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Jeff Ellington",
       "source": "indiana"
     }
   ],

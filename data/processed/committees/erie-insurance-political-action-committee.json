@@ -2,14 +2,14 @@
   "id": "erie-insurance-political-action-committee",
   "name": "Erie Insurance Political Action Committee",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 4,
-    "candidates_supported": 3
+    "total_given": "2500.00",
+    "total_contributions": 5,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "medium": {
-      "count": 4,
-      "total": "2000.00"
+      "count": 5,
+      "total": "2500.00"
     }
   },
   "by_month": {
@@ -18,6 +18,10 @@
       "total": "500.00"
     },
     "2025-09": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-06": {
       "count": 1,
       "total": "500.00"
     },
@@ -40,6 +44,12 @@
       "count": 1
     },
     {
+      "id": "christopher-nathan-judy",
+      "name": "Christopher Nathan Judy",
+      "total": "500.00",
+      "count": 1
+    },
+    {
       "id": "nicholas-james-mckinley",
       "name": "Nicholas James McKinley",
       "total": "500.00",
@@ -48,7 +58,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769422-80557",
+      "id": "contrib-1792307281215-80557",
       "date": "2025-07-17 00:00:00",
       "amount": 500,
       "candidate_name": "Earl Lynn Harris, Jr.",
@@ -64,7 +74,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84878",
+      "id": "contrib-1792307281219-84878",
       "date": "2025-09-04 00:00:00",
       "amount": 500,
       "candidate_name": "Craig Thomas Snow",
@@ -80,7 +90,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769700-17684",
+      "id": "contrib-1792307281968-44660",
+      "date": "2026-06-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher Nathan Judy",
+      "contributor_name": "Erie Insurance Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Christopher Judy for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281975-50417",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Craig Thomas Snow",
@@ -96,7 +122,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769745-32752",
+      "id": "contrib-1792307282039-88942",
       "date": "2026-04-10 00:00:00",
       "amount": 500,
       "candidate_name": "Nicholas James McKinley",

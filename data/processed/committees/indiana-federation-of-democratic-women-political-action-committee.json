@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1791707769442-95797",
+      "id": "contrib-1792307281237-95797",
       "date": "2025-06-10 00:00:00",
       "amount": 200,
       "contributor_name": "Indiana Federation of Democratic Women Political Action Committee",
@@ -36,5 +36,55 @@
       "source": "indiana"
     }
   ],
-  "receipts": null
+  "receipts": {
+    "total_raised": "1260.00",
+    "total_contributions": 2,
+    "unique_donors": 0,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 2,
+        "total": "1260.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "1260.00",
+        "count": 2
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1792307281955-34432",
+        "date": "2026-10-09 00:00:00",
+        "amount": 295,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Indiana Federation of Democratic Women Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792307281955-34433",
+        "date": "2026-10-09 00:00:00",
+        "amount": 965,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Indiana Federation of Democratic Women Political Action Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }

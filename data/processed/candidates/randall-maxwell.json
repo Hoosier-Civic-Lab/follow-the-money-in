@@ -6,41 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "56244.68",
-    "total_contributions": 64,
-    "total_itemized": 54,
-    "total_unitemized": 10
+    "total_raised": "85884.58",
+    "total_contributions": 115,
+    "total_itemized": 104,
+    "total_unitemized": 11
   },
   "by_contributor_type": {
     "individual": {
-      "count": 20,
-      "total": "20291.65"
+      "count": 51,
+      "total": "38581.55"
     },
     "corporate": {
-      "count": 8,
-      "total": "3100.00"
+      "count": 21,
+      "total": "6900.00"
     },
     "committee": {
-      "count": 26,
-      "total": "31855.00"
+      "count": 32,
+      "total": "36555.00"
     },
     "unitemized": {
-      "count": 10,
-      "total": "998.03"
+      "count": 11,
+      "total": "3848.03"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 47,
-      "total": "15800.75"
+      "count": 82,
+      "total": "28090.65"
     },
     "large": {
-      "count": 14,
-      "total": "30345.90"
+      "count": 29,
+      "total": "50195.90"
     },
     "small": {
-      "count": 2,
-      "total": "98.03"
+      "count": 3,
+      "total": "-2401.97"
     },
     "mega": {
       "count": 1,
@@ -77,12 +77,28 @@
       "total": "300.00"
     },
     "2026-04": {
-      "count": 4,
-      "total": "448.03"
+      "count": 36,
+      "total": "17327.33"
     },
     "2026-03": {
       "count": 33,
       "total": "31091.65"
+    },
+    "2026-06": {
+      "count": 3,
+      "total": "4350.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "750.00"
+    },
+    "2026-07": {
+      "count": 1,
+      "total": "300.00"
+    },
+    "2026-05": {
+      "count": 12,
+      "total": "6860.60"
     },
     "2026-01": {
       "count": 1,
@@ -91,11 +107,15 @@
     "2026-02": {
       "count": 2,
       "total": "800.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769441-95147",
+      "id": "contrib-1792307281236-95147",
       "date": "2025-09-05 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -111,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95148",
+      "id": "contrib-1792307281236-95148",
       "date": "2025-09-05 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -127,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95149",
+      "id": "contrib-1792307281236-95149",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -143,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95150",
+      "id": "contrib-1792307281236-95150",
       "date": "2025-12-01 00:00:00",
       "amount": 1000,
       "candidate_name": "RANDALL MAXWELL",
@@ -159,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95151",
+      "id": "contrib-1792307281236-95151",
       "date": "2025-11-26 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -175,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95152",
+      "id": "contrib-1792307281236-95152",
       "date": "2025-12-22 00:00:00",
       "amount": 8905,
       "candidate_name": "RANDALL MAXWELL",
@@ -191,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95153",
+      "id": "contrib-1792307281236-95153",
       "date": "2025-09-05 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -207,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95154",
+      "id": "contrib-1792307281236-95154",
       "date": "2025-09-08 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -223,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95155",
+      "id": "contrib-1792307281236-95155",
       "date": "2025-07-10 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -239,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95156",
+      "id": "contrib-1792307281236-95156",
       "date": "2025-08-26 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -255,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95157",
+      "id": "contrib-1792307281236-95157",
       "date": "2025-06-19 00:00:00",
       "amount": 250,
       "candidate_name": "RANDALL MAXWELL",
@@ -271,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95158",
+      "id": "contrib-1792307281236-95158",
       "date": "2025-09-05 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -287,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95159",
+      "id": "contrib-1792307281236-95159",
       "date": "2025-12-22 00:00:00",
       "amount": 750,
       "candidate_name": "RANDALL MAXWELL",
@@ -303,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95160",
+      "id": "contrib-1792307281236-95160",
       "date": "2025-07-10 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -319,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95161",
+      "id": "contrib-1792307281236-95161",
       "date": "2025-09-11 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -335,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95162",
+      "id": "contrib-1792307281236-95162",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -351,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95163",
+      "id": "contrib-1792307281236-95163",
       "date": "2025-06-24 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -367,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95164",
+      "id": "contrib-1792307281236-95164",
       "date": "2025-09-12 00:00:00",
       "amount": 1000,
       "candidate_name": "RANDALL MAXWELL",
@@ -383,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95165",
+      "id": "contrib-1792307281236-95165",
       "date": "2025-08-18 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -399,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95166",
+      "id": "contrib-1792307281236-95166",
       "date": "2025-08-26 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -415,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95167",
+      "id": "contrib-1792307281236-95167",
       "date": "2025-07-28 00:00:00",
       "amount": 2000,
       "candidate_name": "RANDALL MAXWELL",
@@ -431,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95168",
+      "id": "contrib-1792307281236-95168",
       "date": "2025-09-02 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -447,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95169",
+      "id": "contrib-1792307281236-95169",
       "date": "2025-08-12 00:00:00",
       "amount": 2500,
       "candidate_name": "RANDALL MAXWELL",
@@ -463,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769441-95170",
+      "id": "contrib-1792307281236-95170",
       "date": "2025-10-09 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -479,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22818",
+      "id": "contrib-1792307281997-63113",
       "date": "2026-04-03 00:00:00",
       "amount": 48.03,
       "candidate_name": "RANDALL MAXWELL",
@@ -495,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22819",
+      "id": "contrib-1792307281997-63114",
       "date": "2026-04-01 00:00:00",
       "amount": 50,
       "candidate_name": "RANDALL MAXWELL",
@@ -511,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22820",
+      "id": "contrib-1792307281997-63115",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -527,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22821",
+      "id": "contrib-1792307281997-63116",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -543,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22822",
+      "id": "contrib-1792307281997-63117",
       "date": "2026-03-18 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -559,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22823",
+      "id": "contrib-1792307281997-63118",
       "date": "2026-03-19 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -575,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22824",
+      "id": "contrib-1792307281997-63119",
       "date": "2026-03-20 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -591,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22825",
+      "id": "contrib-1792307281997-63120",
       "date": "2026-03-21 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -607,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22826",
+      "id": "contrib-1792307281997-63121",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "RANDALL MAXWELL",
@@ -623,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22827",
+      "id": "contrib-1792307281997-63122",
       "date": "2026-03-20 00:00:00",
       "amount": 200,
       "candidate_name": "RANDALL MAXWELL",
@@ -639,7 +659,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22828",
+      "id": "contrib-1792307281997-63123",
+      "date": "2026-06-01 00:00:00",
+      "amount": 2850,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63124",
+      "date": "2026-09-25 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Allstate Insurance Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Northbrook",
+      "address_state": "IL",
+      "address_zip": "60062",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63125",
       "date": "2026-03-18 00:00:00",
       "amount": 250,
       "candidate_name": "RANDALL MAXWELL",
@@ -655,7 +707,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22829",
+      "id": "contrib-1792307281997-63126",
+      "date": "2026-04-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "DoorDash, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94107",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63127",
       "date": "2026-03-27 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -671,7 +739,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22830",
+      "id": "contrib-1792307281997-63128",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Lorey and Schwier Investments LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63129",
+      "date": "2026-07-22 00:00:00",
+      "amount": 300,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Molson Coors Beverage Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Milwaukee",
+      "address_state": "WI",
+      "address_zip": "53201-0482",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63130",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Perfect North Slopes",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63131",
+      "date": "2026-04-16 00:00:00",
+      "amount": -2500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Top Quality Building Products",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63132",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Tri-State Liquid Waste",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63133",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Allen Goodman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63134",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Andrew T Klare",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63135",
+      "date": "2026-05-01 00:00:00",
+      "amount": 960.6,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Anthony  Smart",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63136",
+      "date": "2026-04-16 00:00:00",
+      "amount": 999,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Anthony J Schroder",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Food Services",
+      "occupation_category": "other",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63137",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Bob  Courtney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Madison",
+      "address_state": "IN",
+      "address_zip": "47250",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63138",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Brent Robinson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63139",
       "date": "2026-03-18 00:00:00",
       "amount": 250,
       "candidate_name": "RANDALL MAXWELL",
@@ -687,7 +931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22831",
+      "id": "contrib-1792307281997-63140",
       "date": "2026-03-30 00:00:00",
       "amount": 480.3,
       "candidate_name": "RANDALL MAXWELL",
@@ -703,7 +947,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22832",
+      "id": "contrib-1792307281997-63141",
       "date": "2026-03-30 00:00:00",
       "amount": 1440.9,
       "candidate_name": "RANDALL MAXWELL",
@@ -719,7 +963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22833",
+      "id": "contrib-1792307281997-63142",
       "date": "2026-03-30 00:00:00",
       "amount": 480.3,
       "candidate_name": "RANDALL MAXWELL",
@@ -735,7 +979,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22834",
+      "id": "contrib-1792307281997-63143",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Garren Colvin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Villa Hills",
+      "address_state": "KY",
+      "address_zip": "41017",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63144",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Gary M Auxier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63145",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Jeffrey R Lyness",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63146",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Jerry A Stenger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Brookville",
+      "address_state": "IN",
+      "address_zip": "47012",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63147",
       "date": "2026-03-25 00:00:00",
       "amount": 1000,
       "candidate_name": "RANDALL MAXWELL",
@@ -751,7 +1059,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22835",
+      "id": "contrib-1792307281997-63148",
+      "date": "2026-04-21 00:00:00",
+      "amount": 480.3,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Kenneth Maddin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Aurora",
+      "address_state": "IN",
+      "address_zip": "47001",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63149",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Kevin S Kellems",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Madison",
+      "address_state": "IN",
+      "address_zip": "47250",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63150",
       "date": "2026-03-30 00:00:00",
       "amount": 240.15,
       "candidate_name": "RANDALL MAXWELL",
@@ -767,7 +1107,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22836",
+      "id": "contrib-1792307281997-63151",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Lance A Green",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Batesville",
+      "address_state": "IN",
+      "address_zip": "47006",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63152",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Larry Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "West Harrison",
+      "address_state": "IN",
+      "address_zip": "47060",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63153",
       "date": "2026-03-18 00:00:00",
       "amount": 1500,
       "candidate_name": "RANDALL MAXWELL",
@@ -783,7 +1155,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22837",
+      "id": "contrib-1792307281997-63154",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Lynn Deddens",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63155",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Mathew Euson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63156",
+      "date": "2026-04-16 00:00:00",
+      "amount": 150,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Meghan Keith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63157",
+      "date": "2026-05-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Michael E Sodrel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Columbus,",
+      "address_state": "IN",
+      "address_zip": "47201",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63158",
+      "date": "2026-04-16 00:00:00",
+      "amount": 150,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Michael L Cornelius",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63159",
+      "date": "2026-04-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Randy D Lutz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63160",
+      "date": "2026-05-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Scott D Yonover",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "il",
+      "address_zip": "60611",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63161",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Shane McHenry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Law Enforcement",
+      "occupation_category": "other",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63162",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Steven Renihan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "West Harriso",
+      "address_state": "IN",
+      "address_zip": "47060",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63163",
+      "date": "2026-04-16 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Thomas  Deville",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Aurora",
+      "address_state": "IN",
+      "address_zip": "47001",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63164",
+      "date": "2026-04-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Vince Karsteter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Greendale",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63165",
       "date": "2026-03-02 00:00:00",
       "amount": 10000,
       "candidate_name": "RANDALL MAXWELL",
@@ -799,7 +1347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22838",
+      "id": "contrib-1792307281997-63166",
       "date": "2026-03-17 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -815,7 +1363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22839",
+      "id": "contrib-1792307281997-63167",
       "date": "2026-03-04 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -831,7 +1379,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22840",
+      "id": "contrib-1792307281997-63168",
+      "date": "2026-04-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "G2 Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63169",
+      "date": "2026-05-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Indiana Fine Wine & Spirits, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bethesda",
+      "address_state": "MD",
+      "address_zip": "20817",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63170",
+      "date": "2026-05-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Indiana Independent Automobile Dealers Assoc.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63171",
       "date": "2026-03-16 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -847,7 +1443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22841",
+      "id": "contrib-1792307281997-63172",
       "date": "2026-03-24 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -863,7 +1459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22842",
+      "id": "contrib-1792307281997-63173",
       "date": "2026-04-01 00:00:00",
       "amount": 250,
       "candidate_name": "RANDALL MAXWELL",
@@ -879,7 +1475,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22843",
+      "id": "contrib-1792307281997-63174",
+      "date": "2026-05-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Schmidt Homes, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Guilford",
+      "address_state": "IN",
+      "address_zip": "47022",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63175",
       "date": "2026-03-17 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -895,7 +1507,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22844",
+      "id": "contrib-1792307281997-63176",
+      "date": "2026-05-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "The Indiana Rail Road Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46225",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63177",
+      "date": "2026-04-17 00:00:00",
+      "amount": 2000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Top Quality Building Products",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lawrenceburg",
+      "address_state": "IN",
+      "address_zip": "47025",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63178",
+      "date": "2026-05-07 00:00:00",
+      "amount": 1500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Vote Baldwin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63179",
+      "date": "2026-05-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "BEER INDUSTRY POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BROWNSBURG",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63180",
       "date": "2026-03-25 00:00:00",
       "amount": 1000,
       "candidate_name": "RANDALL MAXWELL",
@@ -911,7 +1587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22845",
+      "id": "contrib-1792307281997-63181",
       "date": "2026-01-09 00:00:00",
       "amount": 1000,
       "candidate_name": "RANDALL MAXWELL",
@@ -927,7 +1603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22846",
+      "id": "contrib-1792307281997-63182",
       "date": "2026-02-23 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -943,7 +1619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22847",
+      "id": "contrib-1792307281997-63183",
       "date": "2026-02-27 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -959,7 +1635,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22848",
+      "id": "contrib-1792307281997-63184",
+      "date": "2026-06-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63185",
       "date": "2026-03-23 00:00:00",
       "amount": 350,
       "candidate_name": "RANDALL MAXWELL",
@@ -975,7 +1667,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22849",
+      "id": "contrib-1792307281997-63186",
+      "date": "2026-04-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "American College of Emergency Physicians  Indiana Emergency Medicine PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63187",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -991,7 +1699,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22850",
+      "id": "contrib-1792307281997-63188",
+      "date": "2026-05-18 00:00:00",
+      "amount": 250,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "CSX Corporation Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004-1745",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63189",
       "date": "2026-03-17 00:00:00",
       "amount": 300,
       "candidate_name": "RANDALL MAXWELL",
@@ -1007,7 +1731,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22851",
+      "id": "contrib-1792307281997-63190",
+      "date": "2026-04-17 00:00:00",
+      "amount": 1500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Indiana Association of Beverage Retailers Good Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63191",
+      "date": "2026-04-16 00:00:00",
+      "amount": 1000,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63192",
       "date": "2026-03-10 00:00:00",
       "amount": 2000,
       "candidate_name": "RANDALL MAXWELL",
@@ -1023,7 +1779,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22852",
+      "id": "contrib-1792307281997-63193",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Indiana CRNA-Dream - Indiana Nurse Anesthetists",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63194",
       "date": "2026-03-04 00:00:00",
       "amount": 1500,
       "candidate_name": "RANDALL MAXWELL",
@@ -1039,7 +1811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22853",
+      "id": "contrib-1792307281997-63195",
       "date": "2026-03-13 00:00:00",
       "amount": 3000,
       "candidate_name": "RANDALL MAXWELL",
@@ -1055,7 +1827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22854",
+      "id": "contrib-1792307281997-63196",
       "date": "2026-03-23 00:00:00",
       "amount": 2500,
       "candidate_name": "RANDALL MAXWELL",
@@ -1071,7 +1843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22855",
+      "id": "contrib-1792307281997-63197",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -1087,7 +1859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22856",
+      "id": "contrib-1792307281997-63198",
       "date": "2026-03-24 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -1103,7 +1875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769717-22857",
+      "id": "contrib-1792307281997-63199",
       "date": "2026-03-19 00:00:00",
       "amount": 500,
       "candidate_name": "RANDALL MAXWELL",
@@ -1115,6 +1887,70 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63200",
+      "date": "2026-05-07 00:00:00",
+      "amount": 200,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "NFIB Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Nashville",
+      "address_state": "TN",
+      "address_zip": "37214",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63201",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Norfolk Southern Corp Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63202",
+      "date": "2026-05-12 00:00:00",
+      "amount": 350,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "TELPAC Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg,",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Maxwell For Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-63203",
+      "date": "2026-06-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "RANDALL MAXWELL",
+      "contributor_name": "Walmart Inc. PAC for Responsible Government",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bentonville",
+      "address_state": "AR",
+      "address_zip": "72716",
       "recipient_committee": "Maxwell For Indiana",
       "source": "indiana"
     }

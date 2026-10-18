@@ -6,37 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "32566.42",
-    "total_contributions": 109,
-    "total_itemized": 109,
+    "total_raised": "141097.17",
+    "total_contributions": 215,
+    "total_itemized": 215,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 30,
-      "total": "6789.90"
+      "count": 62,
+      "total": "78880.91"
     },
     "individual": {
-      "count": 57,
-      "total": "14626.52"
+      "count": 111,
+      "total": "37816.26"
     },
     "committee": {
-      "count": 22,
-      "total": "11150.00"
+      "count": 42,
+      "total": "24400.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 71,
-      "total": "21740.21"
+      "count": 133,
+      "total": "42840.21"
     },
     "small": {
-      "count": 31,
-      "total": "1326.21"
+      "count": 55,
+      "total": "1783.38"
     },
     "large": {
-      "count": 7,
-      "total": "9500.00"
+      "count": 24,
+      "total": "51750.00"
+    },
+    "mega": {
+      "count": 3,
+      "total": "44723.58"
     }
   },
   "by_month": {
@@ -88,6 +92,30 @@
       "count": 1,
       "total": "24.45"
     },
+    "2026-07": {
+      "count": 10,
+      "total": "4350.23"
+    },
+    "2026-09": {
+      "count": 36,
+      "total": "51795.71"
+    },
+    "2026-10": {
+      "count": 11,
+      "total": "19632.63"
+    },
+    "2026-05": {
+      "count": 6,
+      "total": "820.31"
+    },
+    "2026-06": {
+      "count": 9,
+      "total": "657.62"
+    },
+    "2026-08": {
+      "count": 35,
+      "total": "31374.25"
+    },
     "2026-02": {
       "count": 3,
       "total": "85.50"
@@ -103,15 +131,11 @@
     "2026-04": {
       "count": 8,
       "total": "3949.72"
-    },
-    "2026-05": {
-      "count": 1,
-      "total": "100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769444-98025",
+      "id": "contrib-1792307281239-98025",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -127,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98026",
+      "id": "contrib-1792307281239-98026",
       "date": "2025-12-22 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -143,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98027",
+      "id": "contrib-1792307281239-98027",
       "date": "2025-06-30 00:00:00",
       "amount": 19.8,
       "candidate_name": "Wendy J Dant Chesser",
@@ -159,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98028",
+      "id": "contrib-1792307281239-98028",
       "date": "2025-04-30 00:00:00",
       "amount": 21.06,
       "candidate_name": "Wendy J Dant Chesser",
@@ -175,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98029",
+      "id": "contrib-1792307281239-98029",
       "date": "2025-05-30 00:00:00",
       "amount": 21.51,
       "candidate_name": "Wendy J Dant Chesser",
@@ -191,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98030",
+      "id": "contrib-1792307281239-98030",
       "date": "2025-03-31 00:00:00",
       "amount": 21.71,
       "candidate_name": "Wendy J Dant Chesser",
@@ -207,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98031",
+      "id": "contrib-1792307281239-98031",
       "date": "2025-07-31 00:00:00",
       "amount": 41.37,
       "candidate_name": "Wendy J Dant Chesser",
@@ -223,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98032",
+      "id": "contrib-1792307281239-98032",
       "date": "2025-09-30 00:00:00",
       "amount": 57.33,
       "candidate_name": "Wendy J Dant Chesser",
@@ -239,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98033",
+      "id": "contrib-1792307281239-98033",
       "date": "2025-08-29 00:00:00",
       "amount": 58.93,
       "candidate_name": "Wendy J Dant Chesser",
@@ -255,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98034",
+      "id": "contrib-1792307281239-98034",
       "date": "2025-10-31 00:00:00",
       "amount": 77.72,
       "candidate_name": "Wendy J Dant Chesser",
@@ -271,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98035",
+      "id": "contrib-1792307281239-98035",
       "date": "2025-11-28 00:00:00",
       "amount": 86.4,
       "candidate_name": "Wendy J Dant Chesser",
@@ -287,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98036",
+      "id": "contrib-1792307281239-98036",
       "date": "2025-12-31 00:00:00",
       "amount": 95.68,
       "candidate_name": "Wendy J Dant Chesser",
@@ -303,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98037",
+      "id": "contrib-1792307281239-98037",
       "date": "2025-02-28 00:00:00",
       "amount": 21.22,
       "candidate_name": "Wendy J Dant Chesser",
@@ -319,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98038",
+      "id": "contrib-1792307281239-98038",
       "date": "2025-01-31 00:00:00",
       "amount": 24.45,
       "candidate_name": "Wendy J Dant Chesser",
@@ -335,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98039",
+      "id": "contrib-1792307281239-98039",
       "date": "2025-12-08 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -351,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98040",
+      "id": "contrib-1792307281239-98040",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -367,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98041",
+      "id": "contrib-1792307281239-98041",
       "date": "2025-06-04 00:00:00",
       "amount": 6,
       "candidate_name": "Wendy J Dant Chesser",
@@ -383,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98042",
+      "id": "contrib-1792307281239-98042",
       "date": "2025-12-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -399,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98043",
+      "id": "contrib-1792307281239-98043",
       "date": "2025-10-01 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -415,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98044",
+      "id": "contrib-1792307281239-98044",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -431,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98045",
+      "id": "contrib-1792307281239-98045",
       "date": "2025-10-01 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -447,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98046",
+      "id": "contrib-1792307281239-98046",
       "date": "2025-10-09 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -463,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98047",
+      "id": "contrib-1792307281239-98047",
       "date": "2025-10-16 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -479,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98048",
+      "id": "contrib-1792307281239-98048",
       "date": "2025-10-01 00:00:00",
       "amount": 50,
       "candidate_name": "Wendy J Dant Chesser",
@@ -495,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98049",
+      "id": "contrib-1792307281239-98049",
       "date": "2025-10-01 00:00:00",
       "amount": 50,
       "candidate_name": "Wendy J Dant Chesser",
@@ -511,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98050",
+      "id": "contrib-1792307281239-98050",
       "date": "2025-10-01 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -527,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98051",
+      "id": "contrib-1792307281239-98051",
       "date": "2025-10-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -543,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98052",
+      "id": "contrib-1792307281239-98052",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -559,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98053",
+      "id": "contrib-1792307281239-98053",
       "date": "2025-10-01 00:00:00",
       "amount": 200,
       "candidate_name": "Wendy J Dant Chesser",
@@ -575,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98054",
+      "id": "contrib-1792307281239-98054",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -591,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98055",
+      "id": "contrib-1792307281239-98055",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -607,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98056",
+      "id": "contrib-1792307281239-98056",
       "date": "2025-10-01 00:00:00",
       "amount": 200,
       "candidate_name": "Wendy J Dant Chesser",
@@ -623,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98057",
+      "id": "contrib-1792307281239-98057",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -639,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98058",
+      "id": "contrib-1792307281239-98058",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -655,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98059",
+      "id": "contrib-1792307281239-98059",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -671,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98060",
+      "id": "contrib-1792307281239-98060",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -687,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98061",
+      "id": "contrib-1792307281239-98061",
       "date": "2025-10-23 00:00:00",
       "amount": 2500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -703,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98062",
+      "id": "contrib-1792307281239-98062",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -719,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98063",
+      "id": "contrib-1792307281239-98063",
       "date": "2025-10-01 00:00:00",
       "amount": 200,
       "candidate_name": "Wendy J Dant Chesser",
@@ -735,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98064",
+      "id": "contrib-1792307281239-98064",
       "date": "2025-10-01 00:00:00",
       "amount": 202,
       "candidate_name": "Wendy J Dant Chesser",
@@ -751,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98065",
+      "id": "contrib-1792307281239-98065",
       "date": "2025-10-09 00:00:00",
       "amount": 150,
       "candidate_name": "Wendy J Dant Chesser",
@@ -767,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98066",
+      "id": "contrib-1792307281239-98066",
       "date": "2025-10-01 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -783,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98067",
+      "id": "contrib-1792307281239-98067",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -799,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98068",
+      "id": "contrib-1792307281239-98068",
       "date": "2025-10-23 00:00:00",
       "amount": 200,
       "candidate_name": "Wendy J Dant Chesser",
@@ -815,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98069",
+      "id": "contrib-1792307281239-98069",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -831,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98070",
+      "id": "contrib-1792307281239-98070",
       "date": "2025-10-01 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -847,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98071",
+      "id": "contrib-1792307281239-98071",
       "date": "2025-10-16 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -863,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98072",
+      "id": "contrib-1792307281239-98072",
       "date": "2025-10-01 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -879,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98073",
+      "id": "contrib-1792307281239-98073",
       "date": "2025-07-25 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -895,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98074",
+      "id": "contrib-1792307281239-98074",
       "date": "2025-10-16 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -911,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98075",
+      "id": "contrib-1792307281239-98075",
       "date": "2025-10-01 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -927,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98076",
+      "id": "contrib-1792307281239-98076",
       "date": "2025-08-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -943,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98077",
+      "id": "contrib-1792307281239-98077",
       "date": "2025-12-08 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -959,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98078",
+      "id": "contrib-1792307281239-98078",
       "date": "2025-12-16 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -975,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98079",
+      "id": "contrib-1792307281239-98079",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -991,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98080",
+      "id": "contrib-1792307281239-98080",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1007,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98081",
+      "id": "contrib-1792307281239-98081",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1023,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98082",
+      "id": "contrib-1792307281239-98082",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1039,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98083",
+      "id": "contrib-1792307281239-98083",
       "date": "2025-07-11 00:00:00",
       "amount": 750,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1055,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98084",
+      "id": "contrib-1792307281239-98084",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1071,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98085",
+      "id": "contrib-1792307281239-98085",
       "date": "2025-07-25 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1087,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98086",
+      "id": "contrib-1792307281239-98086",
       "date": "2025-10-16 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1103,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98087",
+      "id": "contrib-1792307281239-98087",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1119,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98088",
+      "id": "contrib-1792307281239-98088",
       "date": "2025-11-04 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1135,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98089",
+      "id": "contrib-1792307281239-98089",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1151,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98090",
+      "id": "contrib-1792307281239-98090",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1167,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98091",
+      "id": "contrib-1792307281239-98091",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1183,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98092",
+      "id": "contrib-1792307281239-98092",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1199,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98093",
+      "id": "contrib-1792307281239-98093",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1215,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98094",
+      "id": "contrib-1792307281239-98094",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1231,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98095",
+      "id": "contrib-1792307281239-98095",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1247,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98096",
+      "id": "contrib-1792307281239-98096",
       "date": "2025-10-09 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1263,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98097",
+      "id": "contrib-1792307281239-98097",
       "date": "2025-07-09 00:00:00",
       "amount": 9.6,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1279,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98098",
+      "id": "contrib-1792307281239-98098",
       "date": "2025-06-18 00:00:00",
       "amount": 48.02,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1295,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98099",
+      "id": "contrib-1792307281239-98099",
       "date": "2025-07-16 00:00:00",
       "amount": 48.02,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1311,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98100",
+      "id": "contrib-1792307281239-98100",
       "date": "2025-08-20 00:00:00",
       "amount": 48.02,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1327,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98101",
+      "id": "contrib-1792307281239-98101",
       "date": "2025-09-17 00:00:00",
       "amount": 48.02,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1343,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98102",
+      "id": "contrib-1792307281239-98102",
       "date": "2025-09-14 00:00:00",
       "amount": 98.93,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1359,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98103",
+      "id": "contrib-1792307281239-98103",
       "date": "2025-10-22 00:00:00",
       "amount": 144.07,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1375,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98104",
+      "id": "contrib-1792307281239-98104",
       "date": "2025-10-16 00:00:00",
       "amount": 192.1,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1391,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98105",
+      "id": "contrib-1792307281239-98105",
       "date": "2025-10-03 00:00:00",
       "amount": 259.33,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1407,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98106",
+      "id": "contrib-1792307281239-98106",
       "date": "2025-10-08 00:00:00",
       "amount": 384.19,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1423,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98107",
+      "id": "contrib-1792307281239-98107",
       "date": "2025-11-13 00:00:00",
       "amount": 480.25,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1439,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98108",
+      "id": "contrib-1792307281239-98108",
       "date": "2025-10-01 00:00:00",
       "amount": 528.27,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1455,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98109",
+      "id": "contrib-1792307281239-98109",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1471,7 +1495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98110",
+      "id": "contrib-1792307281239-98110",
       "date": "2025-09-08 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1487,7 +1511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98111",
+      "id": "contrib-1792307281239-98111",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1503,7 +1527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98112",
+      "id": "contrib-1792307281239-98112",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1519,7 +1543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98113",
+      "id": "contrib-1792307281239-98113",
       "date": "2025-10-09 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1535,7 +1559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98114",
+      "id": "contrib-1792307281239-98114",
       "date": "2025-09-08 00:00:00",
       "amount": 300,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1551,7 +1575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769444-98115",
+      "id": "contrib-1792307281239-98115",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1567,7 +1591,231 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24341",
+      "id": "contrib-1792307282004-68538",
+      "date": "2026-07-15 00:00:00",
+      "amount": 700,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "AFT Indiana Inc PAC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68539",
+      "date": "2026-09-01 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "AT&T Indiana PAC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68540",
+      "date": "2026-07-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "CAPNI PAC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68541",
+      "date": "2026-10-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Cornerstone Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68542",
+      "date": "2026-09-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Cornerstone Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68543",
+      "date": "2026-09-22 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "CVS Pharmacy Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Woonsocket",
+      "address_state": "RI",
+      "address_zip": "02895",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68544",
+      "date": "2026-10-09 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Delta Dental of Indiana",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lansing",
+      "address_state": "MI",
+      "address_zip": "48909",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68545",
+      "date": "2026-05-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Eli Lily Political Action Committee",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46285",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68546",
+      "date": "2026-07-31 00:00:00",
+      "amount": 0.23,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68547",
+      "date": "2026-09-30 00:00:00",
+      "amount": 0.41,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68548",
+      "date": "2026-06-30 00:00:00",
+      "amount": 21.18,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68549",
+      "date": "2026-05-29 00:00:00",
+      "amount": 41.88,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68550",
+      "date": "2026-05-15 00:00:00",
+      "amount": 53.43,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68551",
+      "date": "2026-08-31 00:00:00",
+      "amount": 0.3,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "First Merchants Bank",
+      "contributor_type": "corporate",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68552",
       "date": "2026-02-27 00:00:00",
       "amount": 76.68,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1583,7 +1831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24342",
+      "id": "contrib-1792307282004-68553",
       "date": "2026-03-31 00:00:00",
       "amount": 84.97,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1599,7 +1847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24343",
+      "id": "contrib-1792307282004-68554",
       "date": "2026-01-30 00:00:00",
       "amount": 86.35,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1615,7 +1863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24344",
+      "id": "contrib-1792307282004-68555",
       "date": "2026-04-30 00:00:00",
       "amount": 88.72,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1631,7 +1879,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24345",
+      "id": "contrib-1792307282004-68556",
+      "date": "2026-09-01 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "I-PACE",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68557",
+      "date": "2026-10-06 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "I-PACE",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68558",
+      "date": "2026-08-31 00:00:00",
+      "amount": 2250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68559",
+      "date": "2026-08-31 00:00:00",
+      "amount": 7500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68560",
+      "date": "2026-10-09 00:00:00",
+      "amount": 11832.63,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "corporate",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68561",
+      "date": "2026-09-25 00:00:00",
+      "amount": 12413.95,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "corporate",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68562",
+      "date": "2026-09-27 00:00:00",
+      "amount": 20477,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "corporate",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68563",
+      "date": "2026-07-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Political Action Committee #3451",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Cedar Falls",
+      "address_state": "IA",
+      "address_zip": "50613",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68564",
+      "date": "2026-08-24 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Kreig Devault LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68565",
+      "date": "2026-09-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Market & Capital Advocacy LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68566",
+      "date": "2026-08-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "New Millennium Building Systems",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46802",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68567",
+      "date": "2026-09-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "No Moore, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68568",
       "date": "2026-04-14 00:00:00",
       "amount": 250,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1647,7 +2087,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24346",
+      "id": "contrib-1792307282004-68569",
+      "date": "2026-07-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Stemler Corporation",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68570",
+      "date": "2026-09-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "T Kopp Family Partnership LLC dba Kopp's Lakes",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68571",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68572",
+      "date": "2026-09-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "The Corydon Group",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68573",
       "date": "2026-03-18 00:00:00",
       "amount": 10,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1663,7 +2167,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24347",
+      "id": "contrib-1792307282004-68574",
+      "date": "2026-09-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Angela Hunter",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68575",
+      "date": "2026-08-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Bill Sears",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68576",
+      "date": "2026-09-13 00:00:00",
+      "amount": 50,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Bradley Lucier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68577",
+      "date": "2026-07-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Carey Hamilton",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68578",
+      "date": "2026-09-27 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Chad Carton",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40207",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68579",
+      "date": "2026-10-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Charles Moore",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68580",
       "date": "2026-04-02 00:00:00",
       "amount": 1,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1679,7 +2279,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24348",
+      "id": "contrib-1792307282004-68581",
+      "date": "2026-09-22 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Christopher W Jackson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "New Washington",
+      "address_state": "IN",
+      "address_zip": "47162",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68582",
+      "date": "2026-09-22 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Clara J Sanders",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68583",
+      "date": "2026-08-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Clinton  McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68584",
+      "date": "2026-10-09 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Cornelia S Wright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68585",
+      "date": "2026-10-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Danny and Roxy Lentz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68586",
+      "date": "2026-05-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "David  Gabovitch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68587",
+      "date": "2026-06-21 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "David  Howe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "94609",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68588",
       "date": "2026-03-04 00:00:00",
       "amount": 5.88,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1695,7 +2407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24349",
+      "id": "contrib-1792307282004-68589",
       "date": "2026-05-09 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1711,7 +2423,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24350",
+      "id": "contrib-1792307282004-68590",
+      "date": "2026-09-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Dwight Morgan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68591",
+      "date": "2026-08-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Edward  Flaugh",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68592",
+      "date": "2026-08-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Edward  J Wilkinson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68593",
+      "date": "2026-08-12 00:00:00",
+      "amount": 10,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Edward Harlan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jeffersonvile",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68594",
+      "date": "2026-06-29 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Edward Harlan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68595",
       "date": "2026-04-19 00:00:00",
       "amount": 500,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1727,7 +2519,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24351",
+      "id": "contrib-1792307282004-68596",
+      "date": "2026-07-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Garry McCandless",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68597",
+      "date": "2026-10-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Geralyn Longmeyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40205",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68598",
+      "date": "2026-08-26 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Gordon L Williams",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68599",
+      "date": "2026-08-28 00:00:00",
+      "amount": 2.17,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Helen Darby",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Silver Spring",
+      "address_state": "MD",
+      "address_zip": "20905",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68600",
       "date": "2026-02-21 00:00:00",
       "amount": 2.94,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1743,7 +2599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24352",
+      "id": "contrib-1792307282004-68601",
       "date": "2026-02-21 00:00:00",
       "amount": 5.88,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1759,7 +2615,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24353",
+      "id": "contrib-1792307282004-68602",
+      "date": "2026-10-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Hilda  Kendrick",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68603",
+      "date": "2026-06-07 00:00:00",
+      "amount": 2,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Ian  Janke",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68604",
+      "date": "2026-07-04 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "James Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68605",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "James Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68606",
       "date": "2026-04-14 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1775,7 +2695,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24354",
+      "id": "contrib-1792307282004-68607",
+      "date": "2026-09-20 00:00:00",
+      "amount": 50,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Jeff Quyle",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68608",
+      "date": "2026-07-29 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Jeff Quyle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68609",
+      "date": "2026-06-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "John Frantz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Needham",
+      "address_state": "MA",
+      "address_zip": "02492",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68610",
+      "date": "2026-06-27 00:00:00",
+      "amount": 25,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "John Hauwiller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68611",
+      "date": "2026-08-19 00:00:00",
+      "amount": 50,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "John Hauwiller",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68612",
+      "date": "2026-08-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Joseph L Smith Jr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68613",
+      "date": "2026-08-24 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Kent Yeager",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Mauckport",
+      "address_state": "IN",
+      "address_zip": "47142",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68614",
+      "date": "2026-09-13 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Kimberly Halbauer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Prospect",
+      "address_state": "KY",
+      "address_zip": "40059",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68615",
+      "date": "2026-09-29 00:00:00",
+      "amount": 4.35,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Maria Omeara",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02131",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68616",
+      "date": "2026-09-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Mary Ellen Wiederwohl",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40205",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68617",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1791,7 +2871,215 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24355",
+      "id": "contrib-1792307282004-68618",
+      "date": "2026-09-28 00:00:00",
+      "amount": 200,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Nicholas Rasdon",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68619",
+      "date": "2026-08-10 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Pamela Martin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Georgetown",
+      "address_state": "IN",
+      "address_zip": "47122",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68620",
+      "date": "2026-09-04 00:00:00",
+      "amount": 25,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Patricia  Bricker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68621",
+      "date": "2026-08-26 00:00:00",
+      "amount": 25,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Patricia Harrison",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Floyds Knobs",
+      "address_state": "IN",
+      "address_zip": "47119",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68622",
+      "date": "2026-06-22 00:00:00",
+      "amount": 1.09,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Paul Arden",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "Olmsted Twp",
+      "address_state": "OH",
+      "address_zip": "44138",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68623",
+      "date": "2026-09-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Phillip  McCauley II",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68624",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Phyllis  R Spears",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68625",
+      "date": "2026-08-27 00:00:00",
+      "amount": 34.78,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Scott Watanabe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60615",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68626",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Stewart W.A. Sears",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68627",
+      "date": "2026-10-09 00:00:00",
+      "amount": 100,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Theresa & Terry  Castile",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68628",
+      "date": "2026-06-03 00:00:00",
+      "amount": 2,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68629",
+      "date": "2026-06-18 00:00:00",
+      "amount": 2,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68630",
+      "date": "2026-08-19 00:00:00",
+      "amount": 2,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Thomas Marlowe",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Rahway",
+      "address_state": "NJ",
+      "address_zip": "07065",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68631",
       "date": "2026-03-20 00:00:00",
       "amount": 100,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1807,7 +3095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24356",
+      "id": "contrib-1792307282004-68632",
       "date": "2026-04-04 00:00:00",
       "amount": 10,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1823,7 +3111,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24357",
+      "id": "contrib-1792307282004-68633",
+      "date": "2026-05-20 00:00:00",
+      "amount": 25,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Wendy Chesser",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68634",
       "date": "2026-04-14 00:00:00",
       "amount": 2000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1839,7 +3143,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769721-24358",
+      "id": "contrib-1792307282004-68635",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "William  F Raymond",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68636",
+      "date": "2026-08-24 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Teamsters Local 89",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40215",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68637",
+      "date": "2026-08-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Medical Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68638",
+      "date": "2026-09-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "ACEC Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68639",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Building Better Tomorrows PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68640",
+      "date": "2026-07-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Centerpoint Energy Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68641",
+      "date": "2026-09-22 00:00:00",
+      "amount": 400,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Clark County Democrat Alliance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68642",
       "date": "2026-04-14 00:00:00",
       "amount": 1000,
       "candidate_name": "Wendy J Dant Chesser",
@@ -1851,6 +3267,310 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46220",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68643",
+      "date": "2026-09-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Committee to Elect Cherrish Pryor",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68644",
+      "date": "2026-08-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "CSX Corporation Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68645",
+      "date": "2026-09-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "DPBG Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68646",
+      "date": "2026-09-04 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Frost Brown Todd PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68647",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Ice Miler Legal Counsel PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68648",
+      "date": "2026-08-10 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana American Water PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68649",
+      "date": "2026-08-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Bank PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68650",
+      "date": "2026-08-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68651",
+      "date": "2026-08-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana CPA Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68652",
+      "date": "2026-08-14 00:00:00",
+      "amount": 400,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Credit Union PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68653",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68654",
+      "date": "2026-09-25 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Health Care PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68655",
+      "date": "2026-09-04 00:00:00",
+      "amount": 350,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Manufacturers PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68656",
+      "date": "2026-08-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana Political Action Committee for Education",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68657",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Indiana State Building & Construction",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68658",
+      "date": "2026-09-04 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Lawyers PAC of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68659",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "LIUNA State IN District Council State Political Contribution Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terra Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68660",
+      "date": "2026-08-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Norfolk Southern Corp Good Government Fund",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington DC",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Friends of Wendy Dant Chesser",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282004-68661",
+      "date": "2026-09-22 00:00:00",
+      "amount": 300,
+      "candidate_name": "Wendy J Dant Chesser",
+      "contributor_name": "Optometry's PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
       "recipient_committee": "Friends of Wendy Dant Chesser",
       "source": "indiana"
     }

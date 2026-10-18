@@ -2,23 +2,37 @@
   "id": "oorah-pac",
   "name": "OORAH PAC",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "1500.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "medium": {
       "count": 1,
       "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "lori-jo-goss-reaves",
+      "name": "Lori  Jo Goss-Reaves",
+      "total": "1000.00",
+      "count": 1
+    },
     {
       "id": "rodric-d-bray",
       "name": "Rodric D Bray",
@@ -28,7 +42,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769412-68015",
+      "id": "contrib-1792307281204-68015",
       "date": "2025-10-09 00:00:00",
       "amount": 500,
       "candidate_name": "Rodric D Bray",
@@ -41,6 +55,22 @@
       "address_state": "IN",
       "address_zip": "46082",
       "recipient_committee": "Rodric D. Bray for State Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281997-62721",
+      "date": "2026-10-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Lori  Jo Goss-Reaves",
+      "contributor_name": "Oorah PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Friends of Lori Goss-Reaves",
       "source": "indiana"
     }
   ],

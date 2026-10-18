@@ -6,41 +6,45 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "36001.77",
-    "total_contributions": 68,
-    "total_itemized": 52,
-    "total_unitemized": 16
+    "total_raised": "105252.77",
+    "total_contributions": 158,
+    "total_itemized": 121,
+    "total_unitemized": 37
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 16,
-      "total": "1406.02"
+      "count": 37,
+      "total": "2957.02"
     },
     "corporate": {
-      "count": 13,
-      "total": "5550.00"
+      "count": 16,
+      "total": "6650.00"
     },
     "individual": {
-      "count": 29,
-      "total": "15645.75"
+      "count": 85,
+      "total": "68495.75"
     },
     "committee": {
-      "count": 10,
-      "total": "13400.00"
+      "count": 20,
+      "total": "27150.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 4,
-      "total": "206.02"
+      "count": 16,
+      "total": "857.02"
     },
     "medium": {
-      "count": 54,
-      "total": "15295.75"
+      "count": 114,
+      "total": "32195.75"
     },
     "large": {
-      "count": 10,
-      "total": "20500.00"
+      "count": 27,
+      "total": "62200.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
     }
   },
   "by_month": {
@@ -64,6 +68,22 @@
       "count": 1,
       "total": "2000.00"
     },
+    "2026-09": {
+      "count": 29,
+      "total": "29558.00"
+    },
+    "2026-10": {
+      "count": 17,
+      "total": "5253.00"
+    },
+    "2026-04": {
+      "count": 19,
+      "total": "5994.00"
+    },
+    "2026-08": {
+      "count": 15,
+      "total": "9750.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "100.00"
@@ -72,14 +92,22 @@
       "count": 2,
       "total": "200.00"
     },
-    "2026-04": {
-      "count": 13,
-      "total": "4754.00"
+    "2026-06": {
+      "count": 4,
+      "total": "1200.00"
+    },
+    "2026-07": {
+      "count": 5,
+      "total": "1900.00"
+    },
+    "2026-05": {
+      "count": 14,
+      "total": "20350.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769425-83392",
+      "id": "contrib-1792307281217-83392",
       "date": "2025-07-11 00:00:00",
       "amount": 48.02,
       "candidate_name": "Tonya Marie Pfaff",
@@ -95,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83393",
+      "id": "contrib-1792307281217-83393",
       "date": "2025-08-07 00:00:00",
       "amount": 50,
       "candidate_name": "Tonya Marie Pfaff",
@@ -111,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83394",
+      "id": "contrib-1792307281217-83394",
       "date": "2025-08-28 00:00:00",
       "amount": 50,
       "candidate_name": "Tonya Marie Pfaff",
@@ -127,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83395",
+      "id": "contrib-1792307281217-83395",
       "date": "2025-08-28 00:00:00",
       "amount": 58,
       "candidate_name": "Tonya Marie Pfaff",
@@ -143,7 +171,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83396",
+      "id": "contrib-1792307281217-83396",
       "date": "2025-07-11 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -159,7 +187,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83397",
+      "id": "contrib-1792307281217-83397",
       "date": "2025-08-07 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -175,7 +203,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83398",
+      "id": "contrib-1792307281217-83398",
       "date": "2025-08-28 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -191,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83399",
+      "id": "contrib-1792307281217-83399",
       "date": "2025-11-03 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -207,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83400",
+      "id": "contrib-1792307281217-83400",
       "date": "2025-12-03 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -223,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83401",
+      "id": "contrib-1792307281217-83401",
       "date": "2025-12-09 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -239,7 +267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83402",
+      "id": "contrib-1792307281217-83402",
       "date": "2025-12-23 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -255,7 +283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83403",
+      "id": "contrib-1792307281217-83403",
       "date": "2025-12-29 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -271,7 +299,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83404",
+      "id": "contrib-1792307281217-83404",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -287,7 +315,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83405",
+      "id": "contrib-1792307281217-83405",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -303,7 +331,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83406",
+      "id": "contrib-1792307281217-83406",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -319,7 +347,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83407",
+      "id": "contrib-1792307281217-83407",
       "date": "2025-12-23 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -335,7 +363,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83408",
+      "id": "contrib-1792307281217-83408",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -351,7 +379,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83409",
+      "id": "contrib-1792307281217-83409",
       "date": "2025-08-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -367,7 +395,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83410",
+      "id": "contrib-1792307281217-83410",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -383,7 +411,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83411",
+      "id": "contrib-1792307281217-83411",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -399,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83412",
+      "id": "contrib-1792307281217-83412",
       "date": "2025-12-29 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -415,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83413",
+      "id": "contrib-1792307281217-83413",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -431,7 +459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83414",
+      "id": "contrib-1792307281217-83414",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -447,7 +475,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83415",
+      "id": "contrib-1792307281217-83415",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -463,7 +491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83416",
+      "id": "contrib-1792307281217-83416",
       "date": "2025-08-28 00:00:00",
       "amount": 158,
       "candidate_name": "Tonya Marie Pfaff",
@@ -479,7 +507,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83417",
+      "id": "contrib-1792307281217-83417",
       "date": "2025-08-28 00:00:00",
       "amount": 150,
       "candidate_name": "Tonya Marie Pfaff",
@@ -495,7 +523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83418",
+      "id": "contrib-1792307281217-83418",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -511,7 +539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83419",
+      "id": "contrib-1792307281217-83419",
       "date": "2025-08-28 00:00:00",
       "amount": 258,
       "candidate_name": "Tonya Marie Pfaff",
@@ -527,7 +555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83420",
+      "id": "contrib-1792307281217-83420",
       "date": "2025-08-28 00:00:00",
       "amount": 158,
       "candidate_name": "Tonya Marie Pfaff",
@@ -543,7 +571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83421",
+      "id": "contrib-1792307281217-83421",
       "date": "2025-08-28 00:00:00",
       "amount": 116,
       "candidate_name": "Tonya Marie Pfaff",
@@ -559,7 +587,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83422",
+      "id": "contrib-1792307281217-83422",
       "date": "2025-08-28 00:00:00",
       "amount": 2000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -575,7 +603,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83423",
+      "id": "contrib-1792307281217-83423",
       "date": "2025-02-09 00:00:00",
       "amount": 2000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -591,7 +619,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83424",
+      "id": "contrib-1792307281217-83424",
       "date": "2025-08-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -607,7 +635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83425",
+      "id": "contrib-1792307281217-83425",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -623,7 +651,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83426",
+      "id": "contrib-1792307281217-83426",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -639,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83427",
+      "id": "contrib-1792307281217-83427",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -655,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83428",
+      "id": "contrib-1792307281217-83428",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -671,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83429",
+      "id": "contrib-1792307281217-83429",
       "date": "2025-07-11 00:00:00",
       "amount": 5000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -687,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83430",
+      "id": "contrib-1792307281217-83430",
       "date": "2025-08-28 00:00:00",
       "amount": 151.75,
       "candidate_name": "Tonya Marie Pfaff",
@@ -703,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83431",
+      "id": "contrib-1792307281217-83431",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -719,7 +747,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83432",
+      "id": "contrib-1792307281217-83432",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -735,7 +763,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83433",
+      "id": "contrib-1792307281217-83433",
       "date": "2025-07-11 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -751,7 +779,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83434",
+      "id": "contrib-1792307281217-83434",
       "date": "2025-08-07 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -767,7 +795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83435",
+      "id": "contrib-1792307281217-83435",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -783,7 +811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83436",
+      "id": "contrib-1792307281217-83436",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -799,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83437",
+      "id": "contrib-1792307281217-83437",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -815,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83438",
+      "id": "contrib-1792307281217-83438",
       "date": "2025-07-11 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -831,7 +859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83439",
+      "id": "contrib-1792307281217-83439",
       "date": "2025-07-11 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -847,7 +875,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83440",
+      "id": "contrib-1792307281217-83440",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -863,7 +891,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83441",
+      "id": "contrib-1792307281217-83441",
       "date": "2025-11-03 00:00:00",
       "amount": 700,
       "candidate_name": "Tonya Marie Pfaff",
@@ -879,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83442",
+      "id": "contrib-1792307281217-83442",
       "date": "2025-08-28 00:00:00",
       "amount": 1500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -895,7 +923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769425-83443",
+      "id": "contrib-1792307281217-83443",
       "date": "2025-07-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -911,7 +939,199 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17308",
+      "id": "contrib-1792307281973-49146",
+      "date": "2026-09-08 00:00:00",
+      "amount": 40,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49147",
+      "date": "2026-10-05 00:00:00",
+      "amount": 43,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49148",
+      "date": "2026-04-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49149",
+      "date": "2026-08-06 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49150",
+      "date": "2026-09-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49151",
+      "date": "2026-09-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49152",
+      "date": "2026-09-23 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49153",
+      "date": "2026-10-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49154",
+      "date": "2026-09-14 00:00:00",
+      "amount": 59,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49155",
+      "date": "2026-09-23 00:00:00",
+      "amount": 59,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49156",
+      "date": "2026-10-05 00:00:00",
+      "amount": 60,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49157",
+      "date": "2026-04-17 00:00:00",
+      "amount": 90,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49158",
       "date": "2026-02-12 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -927,7 +1147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17309",
+      "id": "contrib-1792307281973-49159",
       "date": "2026-03-12 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -943,7 +1163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17310",
+      "id": "contrib-1792307281973-49160",
       "date": "2026-03-23 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -959,7 +1179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17311",
+      "id": "contrib-1792307281973-49161",
       "date": "2026-04-07 00:00:00",
       "amount": 100,
       "candidate_name": "Tonya Marie Pfaff",
@@ -975,7 +1195,183 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17312",
+      "id": "contrib-1792307281973-49162",
+      "date": "2026-04-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49163",
+      "date": "2026-06-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49164",
+      "date": "2026-07-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49165",
+      "date": "2026-08-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49166",
+      "date": "2026-08-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49167",
+      "date": "2026-09-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49168",
+      "date": "2026-09-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49169",
+      "date": "2026-09-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49170",
+      "date": "2026-10-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49171",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Bose Public Affairs",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49172",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Alex Hodge",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49173",
       "date": "2026-04-07 00:00:00",
       "amount": 150,
       "candidate_name": "Tonya Marie Pfaff",
@@ -991,7 +1387,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17313",
+      "id": "contrib-1792307281973-49174",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Alpa  Patel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49175",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Andreas Kummerow",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47804",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49176",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1007,7 +1435,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17314",
+      "id": "contrib-1792307281973-49177",
+      "date": "2026-09-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Anna White",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49178",
+      "date": "2026-10-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Anthony Dinkel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49179",
+      "date": "2026-09-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "April Frazier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49180",
+      "date": "2026-10-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Barbara Weber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49181",
       "date": "2026-04-07 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1023,7 +1515,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17315",
+      "id": "contrib-1792307281973-49182",
+      "date": "2026-05-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Caleb Fleschner",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49183",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1039,7 +1547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17316",
+      "id": "contrib-1792307281973-49184",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1055,7 +1563,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17317",
+      "id": "contrib-1792307281973-49185",
+      "date": "2026-05-29 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Clinton McKay",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49186",
+      "date": "2026-08-06 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Clyde Kersey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49187",
       "date": "2026-04-07 00:00:00",
       "amount": 150,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1071,7 +1611,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17318",
+      "id": "contrib-1792307281973-49188",
+      "date": "2026-08-21 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Daniel Weber",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49189",
+      "date": "2026-10-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Diana Hews",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brazil",
+      "address_state": "IN",
+      "address_zip": "47834",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49190",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Diann McKee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49191",
+      "date": "2026-08-06 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Janice Dukes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49192",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Jennifer Perry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Castle Rock",
+      "address_state": "CO",
+      "address_zip": "80108",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49193",
+      "date": "2026-07-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "John Frantz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Needham",
+      "address_state": "MA",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49194",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Jon Robeson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49195",
+      "date": "2026-08-06 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Judith Hatch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49196",
       "date": "2026-04-07 00:00:00",
       "amount": 300,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1087,7 +1755,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17319",
+      "id": "contrib-1792307281973-49197",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Linda  Lambert",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49198",
+      "date": "2026-08-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Lorrie Heber",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49199",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Margaret Nation",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49200",
+      "date": "2026-06-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Michael  Mervis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49201",
+      "date": "2026-10-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Nancy  Nation",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47804",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49202",
       "date": "2026-04-07 00:00:00",
       "amount": 250,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1103,7 +1851,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17320",
+      "id": "contrib-1792307281973-49203",
+      "date": "2026-09-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Nancy  Nation",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47804",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49204",
+      "date": "2026-10-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Patrick Martin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47801",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49205",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Paul Ryan",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49206",
       "date": "2026-04-07 00:00:00",
       "amount": 254,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1119,7 +1915,231 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17321",
+      "id": "contrib-1792307281973-49207",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Rita Senseman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49208",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Ronald Hodge",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49209",
+      "date": "2026-08-06 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Steve Williams",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49210",
+      "date": "2026-09-23 00:00:00",
+      "amount": 200,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Susan Powers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49211",
+      "date": "2026-04-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Tamara Boland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49212",
+      "date": "2026-09-14 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Terri Conley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49213",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Timothy Tunney",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Trabuco",
+      "address_state": "CA",
+      "address_zip": "92679",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49214",
+      "date": "2026-09-23 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Todd Boland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49215",
+      "date": "2026-09-23 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "IBEW Local Union 725",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49216",
+      "date": "2026-08-21 00:00:00",
+      "amount": 150,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Roofers Local 150",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49217",
+      "date": "2026-04-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "United Mine Workers of America",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Triangle",
+      "address_state": "VA",
+      "address_zip": "22172",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49218",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "United Mine Workers of America",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Triangle",
+      "address_state": "VA",
+      "address_zip": "22172",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49219",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "8th INDEMS",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49220",
+      "date": "2026-09-08 00:00:00",
+      "amount": 350,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "BAC Local 4 IN/KY",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49221",
       "date": "2026-04-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1135,7 +2155,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17322",
+      "id": "contrib-1792307281973-49222",
+      "date": "2026-05-29 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Committee to Elect Brandon Sakbun",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49223",
+      "date": "2026-10-05 00:00:00",
+      "amount": 150,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Committee to Elect Marie Theisz",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49224",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Faegre Drinker Biddle Operating LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49225",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Friends of IN Hospitals Restricted",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49226",
+      "date": "2026-04-17 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Friends of Justin Moed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46217",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49227",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1151,7 +2251,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769699-17323",
+      "id": "contrib-1792307281973-49228",
+      "date": "2026-09-14 00:00:00",
+      "amount": 5600,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Indiana House Democrats",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49229",
+      "date": "2026-09-30 00:00:00",
+      "amount": 5600,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Indiana House Democrats",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49230",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49231",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "New Millennium",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "FT Wayne",
+      "address_state": "IN",
+      "address_zip": "46804",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49232",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Tonya Marie Pfaff",
@@ -1163,6 +2327,310 @@
       "address_city": "Terre Haute",
       "address_state": "IN",
       "address_zip": "47807",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49233",
+      "date": "2026-07-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Vincennes Township",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Vincennes",
+      "address_state": "IN",
+      "address_zip": "47591",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49234",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Indiana BANKPAC - State Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49235",
+      "date": "2026-08-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "SHEET METAL WORKERS LOCAL 20 VOL. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49236",
+      "date": "2026-07-20 00:00:00",
+      "amount": 700,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "AFT IN INC, PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49237",
+      "date": "2026-06-05 00:00:00",
+      "amount": 350,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "CenterPoint Energy PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49238",
+      "date": "2026-08-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Duke Energy Corporation",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20004",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49239",
+      "date": "2026-05-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Eli Lilly PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49240",
+      "date": "2026-09-30 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Hoosier Beverage Association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49241",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49242",
+      "date": "2026-09-08 00:00:00",
+      "amount": 4000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49243",
+      "date": "2026-05-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "In Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49244",
+      "date": "2026-06-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "IN muliti-family housing",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49245",
+      "date": "2026-05-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Indiana American Water Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49246",
+      "date": "2026-05-29 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Ironworkers Local 22",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49247",
+      "date": "2026-08-21 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Labors International Union Local 204",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47804",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49248",
+      "date": "2026-05-29 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Lawyers PAC of Indiana",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49249",
+      "date": "2026-09-23 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Local 157 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47803",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49250",
+      "date": "2026-07-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Stand For Children IN",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Elect Tonya Pfaff",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281973-49251",
+      "date": "2026-08-21 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Tonya Marie Pfaff",
+      "contributor_name": "Union of Operating Engineers Local 841",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
       "recipient_committee": "Elect Tonya Pfaff",
       "source": "indiana"
     }

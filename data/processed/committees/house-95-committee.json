@@ -2,17 +2,33 @@
   "id": "house-95-committee",
   "name": "House 95 Committee",
   "totals": {
-    "total_given": "200.00",
-    "total_contributions": 1,
+    "total_given": "2700.00",
+    "total_contributions": 4,
     "candidates_supported": 1
   },
   "by_contribution_size": {
-    "medium": {
+    "small": {
       "count": 1,
-      "total": "200.00"
+      "total": "50.00"
+    },
+    "medium": {
+      "count": 2,
+      "total": "700.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "1950.00"
     }
   },
   "by_month": {
+    "2026-05": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "500.00"
+    },
     "2026-03": {
       "count": 1,
       "total": "200.00"
@@ -28,7 +44,52 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769748-33986",
+      "id": "contrib-1792307281900-2187",
+      "date": "2026-05-31 00:00:00",
+      "amount": 50,
+      "contributor_name": "House 95 Committee",
+      "contributor_type": "committee",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2188",
+      "date": "2026-04-30 00:00:00",
+      "amount": 500,
+      "contributor_name": "House 95 Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2189",
+      "date": "2026-05-31 00:00:00",
+      "amount": 1950,
+      "contributor_name": "House 95 Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282045-91966",
       "date": "2026-03-26 00:00:00",
       "amount": 200,
       "candidate_name": "Kimberly Grace Townsend",

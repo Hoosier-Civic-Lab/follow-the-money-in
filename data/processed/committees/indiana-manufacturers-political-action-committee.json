@@ -2,18 +2,18 @@
   "id": "indiana-manufacturers-political-action-committee",
   "name": "Indiana Manufacturers Political Action Committee",
   "totals": {
-    "total_given": "13000.00",
-    "total_contributions": 13,
-    "candidates_supported": 10
+    "total_given": "24700.00",
+    "total_contributions": 20,
+    "candidates_supported": 12
   },
   "by_contribution_size": {
     "large": {
-      "count": 4,
-      "total": "8500.00"
+      "count": 10,
+      "total": "19700.00"
     },
     "medium": {
-      "count": 9,
-      "total": "4500.00"
+      "count": 10,
+      "total": "5000.00"
     }
   },
   "by_month": {
@@ -41,9 +41,29 @@
       "count": 1,
       "total": "500.00"
     },
+    "2026-07": {
+      "count": 1,
+      "total": "2500.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "2000.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "2500.00"
+    },
     "2026-03": {
       "count": 4,
       "total": "4500.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "2200.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "2500.00"
     },
     "2026-04": {
       "count": 2,
@@ -58,10 +78,28 @@
       "count": 1
     },
     {
+      "id": "todd-michael-huston",
+      "name": "Todd Michael Huston",
+      "total": "2500.00",
+      "count": 1
+    },
+    {
       "id": "linda-lee-rogers",
       "name": "Linda Lee Rogers",
       "total": "2500.00",
       "count": 1
+    },
+    {
+      "id": "gregory-earl-steuerwald",
+      "name": "Gregory Earl Steuerwald",
+      "total": "1700.00",
+      "count": 2
+    },
+    {
+      "id": "christopher-paul-jeter",
+      "name": "Christopher Paul Jeter",
+      "total": "1500.00",
+      "count": 2
     },
     {
       "id": "matthew-scott-lehman",
@@ -88,20 +126,8 @@
       "count": 1
     },
     {
-      "id": "christopher-paul-jeter",
-      "name": "Christopher Paul Jeter",
-      "total": "500.00",
-      "count": 1
-    },
-    {
       "id": "scott-a-baldwin",
       "name": "Scott A. Baldwin",
-      "total": "500.00",
-      "count": 1
-    },
-    {
-      "id": "gregory-earl-steuerwald",
-      "name": "Gregory Earl Steuerwald",
       "total": "500.00",
       "count": 1
     },
@@ -110,11 +136,17 @@
       "name": "Scott Allen Alexander",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "julie-anne-mcguire",
+      "name": "Julie Anne McGuire",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769323-12461",
+      "id": "contrib-1792307281112-12461",
       "date": "2025-10-17 00:00:00",
       "amount": 2500,
       "contributor_name": "Indiana Manufacturers Political Action Committee",
@@ -129,7 +161,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31765",
+      "id": "contrib-1792307281151-31765",
       "date": "2025-09-03 00:00:00",
       "amount": 500,
       "candidate_name": "Eric Allan Koch",
@@ -145,7 +177,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769405-64965",
+      "id": "contrib-1792307281198-64965",
       "date": "2025-05-21 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Lehman",
@@ -161,7 +193,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769413-68099",
+      "id": "contrib-1792307281204-68099",
       "date": "2025-07-22 00:00:00",
       "amount": 500,
       "candidate_name": "Peggy Mayfield",
@@ -177,7 +209,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-82333",
+      "id": "contrib-1792307281216-82333",
       "date": "2025-07-28 00:00:00",
       "amount": 2500,
       "candidate_name": "Christopher Paul Garten",
@@ -193,7 +225,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84317",
+      "id": "contrib-1792307281218-84317",
       "date": "2025-06-22 00:00:00",
       "amount": 500,
       "candidate_name": "Christopher Paul Jeter",
@@ -209,7 +241,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-84536",
+      "id": "contrib-1792307281218-84536",
       "date": "2025-12-22 00:00:00",
       "amount": 500,
       "candidate_name": "Scott A. Baldwin",
@@ -225,7 +257,52 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11072",
+      "id": "contrib-1792307281903-3648",
+      "date": "2026-07-15 00:00:00",
+      "amount": 2500,
+      "contributor_name": "INDIANA MANUFACTURERS POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9646",
+      "date": "2026-08-25 00:00:00",
+      "amount": 1500,
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9647",
+      "date": "2026-10-01 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "SENATE MAJORITY CAMPAIGN COMMITTEE (SMCC)",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31546",
       "date": "2026-03-21 00:00:00",
       "amount": 500,
       "candidate_name": "Gregory Earl Steuerwald",
@@ -241,7 +318,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11203",
+      "id": "contrib-1792307281946-31547",
+      "date": "2026-09-15 00:00:00",
+      "amount": 1200,
+      "candidate_name": "Gregory Earl Steuerwald",
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Steuerwald for State Rep.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31887",
       "date": "2026-03-19 00:00:00",
       "amount": 500,
       "candidate_name": "Matthew Scott Lehman",
@@ -257,7 +350,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11376",
+      "id": "contrib-1792307281947-32149",
       "date": "2026-03-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Travis Linn Holdman",
@@ -273,7 +366,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769689-12002",
+      "id": "contrib-1792307281954-33535",
+      "date": "2026-06-23 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Todd Michael Huston",
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Todd Huston for State Representative",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281955-34045",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "Peggy Mayfield",
@@ -289,7 +398,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769698-16924",
+      "id": "contrib-1792307281972-47966",
       "date": "2026-03-12 00:00:00",
       "amount": 2500,
       "candidate_name": "Linda Lee Rogers",
@@ -305,7 +414,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769715-22039",
+      "id": "contrib-1792307281974-50038",
+      "date": "2026-09-15 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Christopher Paul Jeter",
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Jeter for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59702",
       "date": "2026-04-01 00:00:00",
       "amount": 500,
       "candidate_name": "Scott Allen Alexander",
@@ -318,6 +443,22 @@
       "address_state": "IN",
       "address_zip": "46204",
       "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59860",
+      "date": "2026-08-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Julie Anne McGuire",
+      "contributor_name": "Indiana Manufacturers Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Julie McGuire for State Representative",
       "source": "indiana"
     }
   ],

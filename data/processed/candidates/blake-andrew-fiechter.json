@@ -6,47 +6,67 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "75355.00",
-    "total_contributions": 34,
-    "total_itemized": 34,
+    "total_raised": "156756.57",
+    "total_contributions": 90,
+    "total_itemized": 90,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "corporate": {
-      "count": 3,
-      "total": "26000.00"
+      "count": 13,
+      "total": "33575.00"
     },
     "individual": {
-      "count": 31,
-      "total": "49355.00"
+      "count": 68,
+      "total": "118381.57"
+    },
+    "committee": {
+      "count": 9,
+      "total": "4800.00"
     }
   },
   "by_contribution_size": {
+    "medium": {
+      "count": 51,
+      "total": "17799.41"
+    },
     "large": {
-      "count": 12,
-      "total": "23500.00"
+      "count": 22,
+      "total": "40500.00"
     },
     "mega": {
-      "count": 3,
-      "total": "48000.00"
-    },
-    "medium": {
-      "count": 15,
-      "total": "3750.00"
+      "count": 5,
+      "total": "98000.00"
     },
     "small": {
-      "count": 4,
-      "total": "105.00"
+      "count": 12,
+      "total": "457.16"
     }
   },
   "by_month": {
+    "2026-08": {
+      "count": 12,
+      "total": "7500.00"
+    },
+    "2026-05": {
+      "count": 8,
+      "total": "33221.06"
+    },
+    "2026-06": {
+      "count": 11,
+      "total": "7625.00"
+    },
+    "2026-10": {
+      "count": 8,
+      "total": "4070.31"
+    },
     "2026-03": {
       "count": 11,
       "total": "14500.00"
     },
     "2026-04": {
-      "count": 21,
-      "total": "60705.00"
+      "count": 31,
+      "total": "62085.40"
     },
     "2026-01": {
       "count": 1,
@@ -55,11 +75,131 @@
     "2026-02": {
       "count": 1,
       "total": "50.00"
+    },
+    "2026-09": {
+      "count": 5,
+      "total": "2504.80"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "25100.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769748-33908",
+      "id": "contrib-1792307282044-91698",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Bose Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91699",
+      "date": "2026-05-06 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Brick & Mortar Properties LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91700",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Catalyst Public Affairs",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91701",
+      "date": "2026-06-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Faegre Drinker Biddle & Reath LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91702",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Hallowell Consulting, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91703",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Wholesale Liquor Dealors",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91704",
+      "date": "2026-10-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Kreig Devault LLP",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91705",
       "date": "2026-03-31 00:00:00",
       "amount": 2000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -75,7 +215,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33909",
+      "id": "contrib-1792307282044-91706",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Samuel Solutions Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91707",
       "date": "2026-04-10 00:00:00",
       "amount": 24000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -91,7 +247,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33910",
+      "id": "contrib-1792307282044-91708",
+      "date": "2026-05-05 00:00:00",
+      "amount": 96.06,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Alan Blair",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Vienna",
+      "address_state": "VA",
+      "address_zip": "22181",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91709",
       "date": "2026-04-10 00:00:00",
       "amount": 500,
       "candidate_name": "Blake Andrew Fiechter",
@@ -107,7 +279,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33911",
+      "id": "contrib-1792307282044-91710",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Ben Bauer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91711",
       "date": "2026-01-28 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -123,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33912",
+      "id": "contrib-1792307282044-91712",
       "date": "2026-03-10 00:00:00",
       "amount": 1500,
       "candidate_name": "Blake Andrew Fiechter",
@@ -139,7 +327,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33913",
+      "id": "contrib-1792307282044-91713",
+      "date": "2026-04-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Dana Hoopingarner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91714",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -155,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33914",
+      "id": "contrib-1792307282044-91715",
       "date": "2026-03-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -171,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33915",
+      "id": "contrib-1792307282044-91716",
       "date": "2026-04-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -187,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33916",
+      "id": "contrib-1792307282044-91717",
       "date": "2026-03-31 00:00:00",
       "amount": 300,
       "candidate_name": "Blake Andrew Fiechter",
@@ -203,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33917",
+      "id": "contrib-1792307282044-91718",
       "date": "2026-04-10 00:00:00",
       "amount": 300,
       "candidate_name": "Blake Andrew Fiechter",
@@ -219,7 +423,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33918",
+      "id": "contrib-1792307282044-91719",
+      "date": "2026-05-14 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Fawn Gerber",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91720",
       "date": "2026-02-26 00:00:00",
       "amount": 50,
       "candidate_name": "Blake Andrew Fiechter",
@@ -235,7 +455,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33919",
+      "id": "contrib-1792307282044-91721",
+      "date": "2026-04-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Grant Frauhiger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91722",
       "date": "2026-04-08 00:00:00",
       "amount": 10,
       "candidate_name": "Blake Andrew Fiechter",
@@ -251,7 +487,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33920",
+      "id": "contrib-1792307282044-91723",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "James A Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91724",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "Blake Andrew Fiechter",
@@ -267,7 +519,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33921",
+      "id": "contrib-1792307282044-91725",
+      "date": "2026-04-30 00:00:00",
+      "amount": 50,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "John Schumacher",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Zanesville",
+      "address_state": "IN",
+      "address_zip": "46799",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91726",
       "date": "2026-04-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -283,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33922",
+      "id": "contrib-1792307282044-91727",
       "date": "2026-04-10 00:00:00",
       "amount": 25,
       "candidate_name": "Blake Andrew Fiechter",
@@ -299,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33923",
+      "id": "contrib-1792307282044-91728",
       "date": "2026-04-10 00:00:00",
       "amount": 20,
       "candidate_name": "Blake Andrew Fiechter",
@@ -315,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33924",
+      "id": "contrib-1792307282044-91729",
       "date": "2026-03-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -331,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33925",
+      "id": "contrib-1792307282044-91730",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "Blake Andrew Fiechter",
@@ -347,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33926",
+      "id": "contrib-1792307282044-91731",
       "date": "2026-03-31 00:00:00",
       "amount": 600,
       "candidate_name": "Blake Andrew Fiechter",
@@ -363,7 +631,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33927",
+      "id": "contrib-1792307282044-91732",
+      "date": "2026-04-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Lori Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91733",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -379,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33928",
+      "id": "contrib-1792307282044-91734",
       "date": "2026-04-01 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -395,7 +679,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33929",
+      "id": "contrib-1792307282044-91735",
+      "date": "2026-05-06 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Martin Obst",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91736",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -411,7 +711,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33930",
+      "id": "contrib-1792307282044-91737",
+      "date": "2026-04-30 00:00:00",
+      "amount": 50,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Michael  Todd",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Ossian",
+      "address_state": "IN",
+      "address_zip": "46777",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91738",
       "date": "2026-03-31 00:00:00",
       "amount": 5000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -427,7 +743,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33931",
+      "id": "contrib-1792307282044-91739",
+      "date": "2026-09-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Nicholas Huffman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91740",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -443,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33932",
+      "id": "contrib-1792307282044-91741",
       "date": "2026-04-08 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -459,7 +791,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33933",
+      "id": "contrib-1792307282044-91742",
+      "date": "2026-04-30 00:00:00",
+      "amount": 150,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Robert  Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91743",
       "date": "2026-04-10 00:00:00",
       "amount": 250,
       "candidate_name": "Blake Andrew Fiechter",
@@ -475,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33934",
+      "id": "contrib-1792307282044-91744",
       "date": "2026-04-08 00:00:00",
       "amount": 5000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -491,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33935",
+      "id": "contrib-1792307282044-91745",
       "date": "2026-03-31 00:00:00",
       "amount": 2000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -507,7 +855,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33936",
+      "id": "contrib-1792307282044-91746",
+      "date": "2026-04-30 00:00:00",
+      "amount": 25,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Ronald Hamm",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46819",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91747",
       "date": "2026-03-31 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -523,7 +887,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33937",
+      "id": "contrib-1792307282044-91748",
+      "date": "2026-05-27 00:00:00",
+      "amount": 100,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Seth Sailors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91749",
+      "date": "2026-06-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Seth Sailors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91750",
+      "date": "2026-07-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Seth Sailors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91751",
+      "date": "2026-04-22 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Seth Sailors",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Office and Administrative Occupations",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91752",
+      "date": "2026-04-26 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Teryl Smith",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Decatur",
+      "address_state": "IN",
+      "address_zip": "46733",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91753",
+      "date": "2026-05-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Thomas Milosevik",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Sierra Vista",
+      "address_state": "AZ",
+      "address_zip": "85650",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91754",
       "date": "2026-04-06 00:00:00",
       "amount": 2000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -539,7 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33938",
+      "id": "contrib-1792307282044-91755",
       "date": "2026-04-10 00:00:00",
       "amount": 1000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -555,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33939",
+      "id": "contrib-1792307282044-91756",
       "date": "2026-04-01 00:00:00",
       "amount": 100,
       "candidate_name": "Blake Andrew Fiechter",
@@ -571,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33940",
+      "id": "contrib-1792307282044-91757",
       "date": "2026-04-10 00:00:00",
       "amount": 12000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -587,7 +1047,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769748-33941",
+      "id": "contrib-1792307282044-91758",
+      "date": "2026-05-10 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Black Gold Ventures Indiana LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91759",
+      "date": "2026-07-07 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Friends Of Chris Garten",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Henryville",
+      "address_state": "IN",
+      "address_zip": "47126",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91760",
       "date": "2026-04-10 00:00:00",
       "amount": 12000,
       "candidate_name": "Blake Andrew Fiechter",
@@ -599,6 +1091,438 @@
       "address_city": "Bluffton",
       "address_state": "IN",
       "address_zip": "46714",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91761",
+      "date": "2026-09-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Vote Dr Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Leo",
+      "address_state": "IN",
+      "address_zip": "46765",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91762",
+      "date": "2026-10-02 00:00:00",
+      "amount": 420.31,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Wine & Spirits Distributors Of Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91763",
+      "date": "2026-09-23 00:00:00",
+      "amount": 4.8,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "WINRED",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91764",
+      "date": "2026-04-19 00:00:00",
+      "amount": 49.25,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "WINRED",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91765",
+      "date": "2026-06-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "American Electric Power",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91766",
+      "date": "2026-10-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "AT&T Indiana",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91767",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Beer Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91768",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Build Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91769",
+      "date": "2026-10-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "CAPNI",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91770",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Catalyst Public Affairs",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91771",
+      "date": "2026-10-02 00:00:00",
+      "amount": 750,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Community Health Network",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91772",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Elevance Health PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91773",
+      "date": "2026-09-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "General Motors Company",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91774",
+      "date": "2026-10-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Hoosiers For Quality Education",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91775",
+      "date": "2026-06-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91776",
+      "date": "2026-09-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91777",
+      "date": "2026-08-20 00:00:00",
+      "amount": 300,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91778",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46202",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91779",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Food & Fuel Association",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91780",
+      "date": "2026-08-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Healthcare PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91781",
+      "date": "2026-10-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Multifamily Housing",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91782",
+      "date": "2026-06-01 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Multifamily Housing",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91783",
+      "date": "2026-08-20 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Indiana Multifamily Housing",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91784",
+      "date": "2026-05-06 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "The Presidential Coalition",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20003",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91785",
+      "date": "2026-06-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Trucking Industry PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91786",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Valero PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Antionio",
+      "address_state": "TX",
+      "address_zip": "78269",
+      "recipient_committee": "Friends of Blake Fiechter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282044-91787",
+      "date": "2026-06-01 00:00:00",
+      "amount": 575,
+      "candidate_name": "Blake Andrew Fiechter",
+      "contributor_name": "Wine & Spirits Wholesalers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Friends of Blake Fiechter",
       "source": "indiana"
     }

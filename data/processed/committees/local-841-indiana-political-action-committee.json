@@ -2,17 +2,21 @@
   "id": "local-841-indiana-political-action-committee",
   "name": "Local 841 Indiana Political Action Committee",
   "totals": {
-    "total_given": "5000.00",
-    "total_contributions": 1,
+    "total_given": "7500.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "5000.00"
+      "count": 2,
+      "total": "7500.00"
     }
   },
   "by_month": {
+    "2026-08": {
+      "count": 1,
+      "total": "2500.00"
+    },
     "2026-06": {
       "count": 1,
       "total": "5000.00"
@@ -28,7 +32,22 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769739-30059",
+      "id": "contrib-1792307281915-11457",
+      "date": "2026-08-08 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Local 841 Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "TERRE HAUTE",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "8th Congressional District Democrat Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80970",
       "date": "2026-06-26 00:00:00",
       "amount": 5000,
       "candidate_name": "Beau Bayh",

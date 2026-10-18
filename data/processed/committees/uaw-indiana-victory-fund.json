@@ -1,0 +1,91 @@
+{
+  "id": "uaw-indiana-victory-fund",
+  "name": "UAW Indiana Victory Fund",
+  "totals": {
+    "total_given": "15500.00",
+    "total_contributions": 3,
+    "candidates_supported": 1
+  },
+  "by_contribution_size": {
+    "medium": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "large": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "10000.00"
+    }
+  },
+  "by_month": {
+    "2026-08": {
+      "count": 1,
+      "total": "500.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "15000.00"
+    }
+  },
+  "top_recipients": [
+    {
+      "id": "scott-eugene-houldieson",
+      "name": "Scott Eugene Houldieson",
+      "total": "15000.00",
+      "count": 2
+    }
+  ],
+  "contributions": [
+    {
+      "id": "contrib-1792307281904-3927",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "contributor_name": "UAW Indiana Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "48214",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85421",
+      "date": "2026-09-09 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "UAW Indiana Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Detroit",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85422",
+      "date": "2026-09-05 00:00:00",
+      "amount": 10000,
+      "candidate_name": "Scott Eugene Houldieson",
+      "contributor_name": "UAW Indiana Victory Fund",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Detroit",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    }
+  ],
+  "receipts": null
+}

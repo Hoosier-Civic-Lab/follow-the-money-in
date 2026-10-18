@@ -6,41 +6,41 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "135526.96",
-    "total_contributions": 159,
-    "total_itemized": 159,
+    "total_raised": "338780.36",
+    "total_contributions": 307,
+    "total_itemized": 307,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 134,
-      "total": "108226.96"
+      "count": 260,
+      "total": "216201.26"
     },
     "committee": {
-      "count": 10,
-      "total": "16800.00"
+      "count": 23,
+      "total": "102329.10"
     },
     "corporate": {
-      "count": 15,
-      "total": "10500.00"
+      "count": 24,
+      "total": "20250.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 112,
-      "total": "36264.92"
+      "count": 201,
+      "total": "66777.40"
     },
     "large": {
-      "count": 45,
-      "total": "89225.60"
-    },
-    "mega": {
-      "count": 1,
-      "total": "10000.00"
+      "count": 93,
+      "total": "181636.39"
     },
     "small": {
-      "count": 1,
-      "total": "36.44"
+      "count": 8,
+      "total": "366.57"
+    },
+    "mega": {
+      "count": 5,
+      "total": "90000.00"
     }
   },
   "by_month": {
@@ -80,18 +80,42 @@
       "count": 28,
       "total": "16203.30"
     },
+    "2026-07": {
+      "count": 13,
+      "total": "11852.54"
+    },
+    "2026-09": {
+      "count": 58,
+      "total": "74984.50"
+    },
+    "2026-08": {
+      "count": 35,
+      "total": "23095.11"
+    },
     "2026-04": {
-      "count": 10,
-      "total": "13400.61"
+      "count": 27,
+      "total": "22120.34"
     },
     "2026-01": {
       "count": 9,
       "total": "2595.11"
+    },
+    "2026-10": {
+      "count": 10,
+      "total": "59300.88"
+    },
+    "2026-05": {
+      "count": 9,
+      "total": "14846.54"
+    },
+    "2026-06": {
+      "count": 6,
+      "total": "10454.10"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769423-80846",
+      "id": "contrib-1792307281215-80846",
       "date": "2025-10-24 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -107,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80847",
+      "id": "contrib-1792307281215-80847",
       "date": "2025-12-17 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -123,7 +147,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80848",
+      "id": "contrib-1792307281215-80848",
       "date": "2025-08-06 00:00:00",
       "amount": 1041.02,
       "candidate_name": "John Christian Ruckelshaus",
@@ -139,7 +163,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80849",
+      "id": "contrib-1792307281215-80849",
       "date": "2025-09-15 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -155,7 +179,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80850",
+      "id": "contrib-1792307281215-80850",
       "date": "2025-12-03 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -171,7 +195,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80851",
+      "id": "contrib-1792307281215-80851",
       "date": "2025-12-03 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -187,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80852",
+      "id": "contrib-1792307281215-80852",
       "date": "2025-03-02 00:00:00",
       "amount": 2000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -203,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80853",
+      "id": "contrib-1792307281215-80853",
       "date": "2025-11-15 00:00:00",
       "amount": 2000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -219,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80854",
+      "id": "contrib-1792307281215-80854",
       "date": "2025-08-04 00:00:00",
       "amount": 103.61,
       "candidate_name": "John Christian Ruckelshaus",
@@ -235,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80855",
+      "id": "contrib-1792307281215-80855",
       "date": "2025-12-20 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -251,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80856",
+      "id": "contrib-1792307281215-80856",
       "date": "2025-12-29 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -267,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80857",
+      "id": "contrib-1792307281215-80857",
       "date": "2025-11-19 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -283,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80858",
+      "id": "contrib-1792307281215-80858",
       "date": "2025-12-08 00:00:00",
       "amount": 150,
       "candidate_name": "John Christian Ruckelshaus",
@@ -299,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80859",
+      "id": "contrib-1792307281215-80859",
       "date": "2025-11-26 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -315,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80860",
+      "id": "contrib-1792307281215-80860",
       "date": "2025-12-08 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -331,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80861",
+      "id": "contrib-1792307281215-80861",
       "date": "2025-12-17 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -347,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80862",
+      "id": "contrib-1792307281215-80862",
       "date": "2025-12-19 00:00:00",
       "amount": 1041.02,
       "candidate_name": "John Christian Ruckelshaus",
@@ -363,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80863",
+      "id": "contrib-1792307281215-80863",
       "date": "2025-11-14 00:00:00",
       "amount": 156.15,
       "candidate_name": "John Christian Ruckelshaus",
@@ -379,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80864",
+      "id": "contrib-1792307281215-80864",
       "date": "2025-12-11 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Christian Ruckelshaus",
@@ -395,7 +419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80865",
+      "id": "contrib-1792307281215-80865",
       "date": "2025-08-13 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -411,7 +435,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80866",
+      "id": "contrib-1792307281215-80866",
       "date": "2025-11-20 00:00:00",
       "amount": 1041.02,
       "candidate_name": "John Christian Ruckelshaus",
@@ -427,7 +451,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80867",
+      "id": "contrib-1792307281215-80867",
       "date": "2025-09-15 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -443,7 +467,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80868",
+      "id": "contrib-1792307281215-80868",
       "date": "2025-10-01 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -459,7 +483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80869",
+      "id": "contrib-1792307281215-80869",
       "date": "2025-10-30 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -475,7 +499,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80870",
+      "id": "contrib-1792307281215-80870",
       "date": "2025-07-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -491,7 +515,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80871",
+      "id": "contrib-1792307281215-80871",
       "date": "2025-12-15 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -507,7 +531,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80872",
+      "id": "contrib-1792307281215-80872",
       "date": "2025-09-21 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -523,7 +547,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769423-80873",
+      "id": "contrib-1792307281215-80873",
       "date": "2025-10-10 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -539,7 +563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-15996",
+      "id": "contrib-1792307281969-45633",
       "date": "2026-03-15 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -555,7 +579,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-15997",
+      "id": "contrib-1792307281969-45634",
       "date": "2026-03-18 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -571,7 +595,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-15998",
+      "id": "contrib-1792307281969-45635",
       "date": "2026-02-25 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -587,7 +611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-15999",
+      "id": "contrib-1792307281969-45636",
       "date": "2026-03-13 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -603,7 +627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16000",
+      "id": "contrib-1792307281969-45637",
       "date": "2026-02-17 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -619,7 +643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16001",
+      "id": "contrib-1792307281969-45638",
       "date": "2026-02-24 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -635,7 +659,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16002",
+      "id": "contrib-1792307281969-45639",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Budweiser Zink Distributing Company",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45640",
       "date": "2026-03-10 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -651,7 +691,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16003",
+      "id": "contrib-1792307281969-45641",
+      "date": "2026-09-28 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Helmling Strategic Insights, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45642",
       "date": "2026-03-18 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -667,7 +723,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16004",
+      "id": "contrib-1792307281969-45643",
+      "date": "2026-08-10 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jackson Investment Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Alpharetta",
+      "address_state": "GA",
+      "address_zip": "30009",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45644",
+      "date": "2026-07-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "LONGPAC LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45645",
       "date": "2026-04-01 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -683,7 +771,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16005",
+      "id": "contrib-1792307281969-45646",
       "date": "2026-04-08 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -699,7 +787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16006",
+      "id": "contrib-1792307281969-45647",
       "date": "2026-02-23 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -715,7 +803,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16007",
+      "id": "contrib-1792307281969-45648",
       "date": "2026-03-10 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -731,7 +819,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16008",
+      "id": "contrib-1792307281969-45649",
       "date": "2026-03-12 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -747,7 +835,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16009",
+      "id": "contrib-1792307281969-45650",
+      "date": "2026-07-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Pellinore Advisors LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45651",
+      "date": "2026-08-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Roberts Glass & Service Inc",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45652",
+      "date": "2026-09-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Sepro Corporation",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45653",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "South Dunbar Holdings II LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45654",
       "date": "2026-03-19 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -763,7 +915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16010",
+      "id": "contrib-1792307281970-45655",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -779,7 +931,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16011",
+      "id": "contrib-1792307281970-45656",
       "date": "2026-02-04 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -795,7 +947,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16012",
+      "id": "contrib-1792307281970-45657",
+      "date": "2026-09-25 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Alek Venturino",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45658",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Alexander Choi",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45659",
+      "date": "2026-04-15 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Alexander Choi",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45660",
       "date": "2026-01-08 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -811,7 +1011,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16013",
+      "id": "contrib-1792307281970-45661",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Amy Kent",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45662",
+      "date": "2026-07-16 00:00:00",
+      "amount": 200,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Amy Schumacher",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45663",
       "date": "2026-03-04 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -827,7 +1059,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16014",
+      "id": "contrib-1792307281970-45664",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Andrew  Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45665",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Andrew Trobridge",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Fortville",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45666",
+      "date": "2026-08-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Andy Hammond",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Fortville",
+      "address_state": "IN",
+      "address_zip": "46040",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45667",
+      "date": "2026-08-07 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Anthony Samuel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45668",
       "date": "2026-03-17 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -843,7 +1139,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16015",
+      "id": "contrib-1792307281970-45669",
+      "date": "2026-05-21 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Barry Blitzer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Corrales",
+      "address_state": "IN",
+      "address_zip": "87048",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45670",
       "date": "2026-01-20 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -859,7 +1171,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16016",
+      "id": "contrib-1792307281970-45671",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Bob Powell",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "30324",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45672",
+      "date": "2026-04-26 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Bradley Davis",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45673",
       "date": "2026-03-17 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -875,7 +1219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16017",
+      "id": "contrib-1792307281970-45674",
       "date": "2026-03-14 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -891,7 +1235,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16018",
+      "id": "contrib-1792307281970-45675",
+      "date": "2026-10-06 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Brian Adams",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45676",
       "date": "2026-03-23 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -907,7 +1267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16019",
+      "id": "contrib-1792307281970-45677",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -923,7 +1283,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16020",
+      "id": "contrib-1792307281970-45678",
       "date": "2026-03-24 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -939,7 +1299,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16021",
+      "id": "contrib-1792307281970-45679",
+      "date": "2026-09-10 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Carrie Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45680",
       "date": "2026-03-18 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -955,7 +1331,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16022",
+      "id": "contrib-1792307281970-45681",
+      "date": "2026-09-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Cathleen Rooney",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Windermere",
+      "address_state": "IN",
+      "address_zip": "34786",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45682",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Chad  Dilley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45683",
       "date": "2026-02-19 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -971,7 +1379,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16023",
+      "id": "contrib-1792307281970-45684",
+      "date": "2026-09-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Charles E Schalliol",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45685",
+      "date": "2026-10-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Charles Eberhardt",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45686",
+      "date": "2026-06-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Chris Cash",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45687",
+      "date": "2026-09-18 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Christopher Osan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383.",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45688",
       "date": "2026-02-08 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -987,7 +1459,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16024",
+      "id": "contrib-1792307281970-45689",
       "date": "2026-03-10 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1003,7 +1475,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16025",
+      "id": "contrib-1792307281970-45690",
+      "date": "2026-09-03 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Daniel T Kozlowski",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45691",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1001,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Darshan Soni",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45692",
       "date": "2026-03-21 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1019,7 +1523,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16026",
+      "id": "contrib-1792307281970-45693",
       "date": "2026-02-28 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1035,7 +1539,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16027",
+      "id": "contrib-1792307281970-45694",
       "date": "2026-02-23 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1051,7 +1555,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16028",
+      "id": "contrib-1792307281970-45695",
       "date": "2026-03-11 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1067,7 +1571,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16029",
+      "id": "contrib-1792307281970-45696",
       "date": "2026-03-25 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1083,7 +1587,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16030",
+      "id": "contrib-1792307281970-45697",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "David Willkie",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45698",
+      "date": "2026-09-20 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Deepak Azad",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Floyd Knobs",
+      "address_state": "IN",
+      "address_zip": "47176",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45699",
+      "date": "2026-08-14 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Diana J Hunter",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45700",
       "date": "2026-04-02 00:00:00",
       "amount": 2602.54,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1099,7 +1651,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16031",
+      "id": "contrib-1792307281970-45701",
+      "date": "2026-09-06 00:00:00",
+      "amount": 3000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Diane Smith",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45702",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Dwight  Holland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45703",
+      "date": "2026-09-23 00:00:00",
+      "amount": 1250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Earl A  Goode",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45704",
+      "date": "2026-08-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Ebony  Thompson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45705",
       "date": "2026-03-17 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1115,7 +1731,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16032",
+      "id": "contrib-1792307281970-45706",
+      "date": "2026-09-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Eileen Meulbroek",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45707",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1131,7 +1763,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16033",
+      "id": "contrib-1792307281970-45708",
+      "date": "2026-08-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Elizabeth  G Ruckelshaus",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Aiken",
+      "address_state": "SC",
+      "address_zip": "29801",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45709",
       "date": "2026-02-01 00:00:00",
       "amount": 300,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1147,7 +1795,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16034",
+      "id": "contrib-1792307281970-45710",
       "date": "2026-03-02 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1163,7 +1811,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16035",
+      "id": "contrib-1792307281970-45711",
+      "date": "2026-04-27 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Evan Bartel",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "New Palestine",
+      "address_state": "IN",
+      "address_zip": "46163",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45712",
       "date": "2026-03-26 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1179,7 +1843,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16036",
+      "id": "contrib-1792307281970-45713",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Francis Price",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45714",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1195,7 +1875,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16037",
+      "id": "contrib-1792307281970-45715",
+      "date": "2026-09-14 00:00:00",
+      "amount": 200,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Gerald Coraz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45716",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1211,7 +1907,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16038",
+      "id": "contrib-1792307281970-45717",
+      "date": "2026-07-19 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Greg Harrell",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46216",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45718",
+      "date": "2026-09-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Harry Brickley",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45719",
       "date": "2026-03-14 00:00:00",
       "amount": 10000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1227,7 +1955,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16039",
+      "id": "contrib-1792307281970-45720",
       "date": "2026-03-23 00:00:00",
       "amount": 1500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1243,7 +1971,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16040",
+      "id": "contrib-1792307281970-45721",
+      "date": "2026-08-10 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Heather Davis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Winters",
+      "address_state": "CA",
+      "address_zip": "95694",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45722",
+      "date": "2026-08-27 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Herbert Simon",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45723",
       "date": "2026-01-08 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1259,7 +2019,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16041",
+      "id": "contrib-1792307281970-45724",
       "date": "2026-04-06 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1275,7 +2035,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16042",
+      "id": "contrib-1792307281970-45725",
       "date": "2026-03-24 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1291,7 +2051,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16043",
+      "id": "contrib-1792307281970-45726",
+      "date": "2026-09-08 00:00:00",
+      "amount": 150,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jacqueline Sergi",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46143",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45727",
+      "date": "2026-08-14 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "James  Sheffield",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45728",
       "date": "2026-01-06 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1307,7 +2099,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16044",
+      "id": "contrib-1792307281970-45729",
       "date": "2026-03-15 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1323,7 +2115,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16045",
+      "id": "contrib-1792307281970-45730",
+      "date": "2026-06-18 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "James T Crews",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45731",
       "date": "2026-01-21 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1339,7 +2147,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16046",
+      "id": "contrib-1792307281970-45732",
+      "date": "2026-08-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jan  E  Roberts",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45733",
+      "date": "2026-04-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jason  Bredenkamp",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Newburgh",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45734",
       "date": "2026-01-29 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1355,7 +2195,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16047",
+      "id": "contrib-1792307281970-45735",
+      "date": "2026-07-17 00:00:00",
+      "amount": 2602.54,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jay  Weiss",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45736",
+      "date": "2026-09-18 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jay Jump",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46254",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45737",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1371,7 +2243,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16048",
+      "id": "contrib-1792307281970-45738",
+      "date": "2026-05-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jeffery Roush",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45739",
       "date": "2026-03-24 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1387,7 +2275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16049",
+      "id": "contrib-1792307281970-45740",
       "date": "2026-02-02 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1403,7 +2291,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16050",
+      "id": "contrib-1792307281970-45741",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jeffrey Soldatis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45742",
+      "date": "2026-09-03 00:00:00",
+      "amount": 208.2,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jennifer Demuth",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fremont",
+      "address_state": "IN",
+      "address_zip": "68025",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45743",
+      "date": "2026-04-30 00:00:00",
+      "amount": 400,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jerry  Chapman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45744",
       "date": "2026-03-25 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1419,7 +2355,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16051",
+      "id": "contrib-1792307281970-45745",
+      "date": "2026-09-20 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jess Stump",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45746",
+      "date": "2026-05-05 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jill S Ruckelshaus",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Seattle",
+      "address_state": "WA",
+      "address_zip": "98104",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45747",
+      "date": "2026-06-22 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jim Klaunig",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45748",
       "date": "2026-01-07 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1435,7 +2419,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16052",
+      "id": "contrib-1792307281970-45749",
       "date": "2026-03-26 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1451,7 +2435,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16053",
+      "id": "contrib-1792307281970-45750",
+      "date": "2026-08-12 00:00:00",
+      "amount": 1500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John  Keeler",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45751",
+      "date": "2026-06-14 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John  Maley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45752",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John  T Minturn M.D.",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45753",
+      "date": "2026-05-18 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John & Donna Dearth",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45754",
+      "date": "2026-09-10 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John & Karen McGoff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45755",
+      "date": "2026-04-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John & Karen McGoff",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45756",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John Dietz",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45757",
       "date": "2026-03-23 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1467,7 +2563,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16054",
+      "id": "contrib-1792307281970-45758",
       "date": "2026-03-25 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1483,7 +2579,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16055",
+      "id": "contrib-1792307281970-45759",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John Hart",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45760",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1499,7 +2611,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16056",
+      "id": "contrib-1792307281970-45761",
+      "date": "2026-09-20 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "John Ruckelshaus",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45762",
       "date": "2026-03-10 00:00:00",
       "amount": 150,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1515,7 +2643,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16057",
+      "id": "contrib-1792307281970-45763",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Joseph Bielawski",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46250",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45764",
       "date": "2026-01-29 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1531,7 +2675,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16058",
+      "id": "contrib-1792307281970-45765",
+      "date": "2026-05-21 00:00:00",
+      "amount": 26.03,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Joseph Soria",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45766",
+      "date": "2026-04-19 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Joseph T Sutheralnd",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46259",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45767",
       "date": "2026-04-05 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1547,7 +2723,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16059",
+      "id": "contrib-1792307281970-45768",
+      "date": "2026-09-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Joyce M Marshall",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45769",
+      "date": "2026-09-18 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Julie Redman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45770",
+      "date": "2026-04-14 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Julie Reed",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45771",
+      "date": "2026-04-15 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Karen T Bush",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45772",
       "date": "2026-03-27 00:00:00",
       "amount": 100,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1563,7 +2803,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16060",
+      "id": "contrib-1792307281970-45773",
+      "date": "2026-08-07 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Katie Kluger",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45774",
+      "date": "2026-08-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Kim Stickney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45775",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1579,7 +2851,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16061",
+      "id": "contrib-1792307281970-45776",
+      "date": "2026-09-03 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Lauren  Stanley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45777",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1595,7 +2883,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16062",
+      "id": "contrib-1792307281970-45778",
       "date": "2026-02-27 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1611,7 +2899,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16063",
+      "id": "contrib-1792307281970-45779",
+      "date": "2026-04-13 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Lisa Elmore",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45780",
       "date": "2026-04-07 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1627,7 +2931,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16064",
+      "id": "contrib-1792307281970-45781",
+      "date": "2026-09-10 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Luke McNamee",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47401",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45782",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1643,7 +2963,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16065",
+      "id": "contrib-1792307281970-45783",
       "date": "2026-03-23 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1659,7 +2979,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16066",
+      "id": "contrib-1792307281970-45784",
+      "date": "2026-04-24 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Mariann  H  Burnside",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45785",
+      "date": "2026-07-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Mark & Teresa Lubbers",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45786",
+      "date": "2026-07-06 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Mark Messmer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Jasper",
+      "address_state": "IN",
+      "address_zip": "47546",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45787",
+      "date": "2026-07-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Martha J Finneran",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45788",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1675,7 +3059,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16067",
+      "id": "contrib-1792307281970-45789",
       "date": "2026-02-02 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1691,7 +3075,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16068",
+      "id": "contrib-1792307281970-45790",
+      "date": "2026-09-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Matthew Lavery",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46278",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45791",
       "date": "2026-03-10 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1707,7 +3107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16069",
+      "id": "contrib-1792307281970-45792",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1723,7 +3123,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16070",
+      "id": "contrib-1792307281970-45793",
+      "date": "2026-09-10 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Michael Agostino",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45794",
+      "date": "2026-05-30 00:00:00",
+      "amount": 5000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Michael F Petrie",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45795",
+      "date": "2026-04-20 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Michael Garvey",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45796",
+      "date": "2026-09-29 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Michael Shebek",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Westfield",
+      "address_state": "IN",
+      "address_zip": "46074",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45797",
       "date": "2026-02-04 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1739,7 +3203,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16071",
+      "id": "contrib-1792307281970-45798",
+      "date": "2026-08-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Michael W. Wells",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45799",
       "date": "2026-03-18 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1755,7 +3235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16072",
+      "id": "contrib-1792307281970-45800",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1771,7 +3251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16073",
+      "id": "contrib-1792307281970-45801",
       "date": "2026-03-23 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1787,7 +3267,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16074",
+      "id": "contrib-1792307281970-45802",
       "date": "2026-03-01 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1803,7 +3283,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16075",
+      "id": "contrib-1792307281970-45803",
+      "date": "2026-09-15 00:00:00",
+      "amount": 2082.03,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Nicholas T Orange",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45804",
+      "date": "2026-06-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Nick  T Foltz",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46253",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45805",
       "date": "2026-02-13 00:00:00",
       "amount": 208.2,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1819,7 +3331,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16076",
+      "id": "contrib-1792307281970-45806",
+      "date": "2026-09-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Pardeep Kumar",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Terra Haute",
+      "address_state": "IN",
+      "address_zip": "47802",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45807",
+      "date": "2026-09-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Patricia Dean",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45808",
+      "date": "2026-08-19 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Patrick  O'Connor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45809",
+      "date": "2026-04-22 00:00:00",
+      "amount": 200,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Patrick Loehrer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45810",
+      "date": "2026-09-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Paul Mannweiler",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bradenton",
+      "address_state": "FL",
+      "address_zip": "34209",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45811",
+      "date": "2026-09-16 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Paul Shoopman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45812",
       "date": "2026-03-06 00:00:00",
       "amount": 36.44,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1835,7 +3443,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16077",
+      "id": "contrib-1792307281970-45813",
+      "date": "2026-05-06 00:00:00",
+      "amount": 200,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Philip  Conklin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45814",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Quincy Cunningham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45815",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1851,7 +3491,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16078",
+      "id": "contrib-1792307281970-45816",
       "date": "2026-02-24 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1867,7 +3507,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16079",
+      "id": "contrib-1792307281970-45817",
+      "date": "2026-08-11 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Randy Phillips",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45818",
       "date": "2026-02-11 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1883,7 +3539,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16080",
+      "id": "contrib-1792307281970-45819",
+      "date": "2026-06-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Rex M Barrett",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45820",
       "date": "2026-03-15 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1899,7 +3571,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16081",
+      "id": "contrib-1792307281970-45821",
+      "date": "2026-09-19 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Richard  Gunderman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45822",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1915,7 +3603,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16082",
+      "id": "contrib-1792307281970-45823",
+      "date": "2026-08-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Richard M Ellery",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45824",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1931,7 +3635,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16083",
+      "id": "contrib-1792307281970-45825",
       "date": "2026-03-17 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1947,7 +3651,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16084",
+      "id": "contrib-1792307281970-45826",
+      "date": "2026-09-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Robert  Klein",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45827",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1963,7 +3683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16085",
+      "id": "contrib-1792307281970-45828",
       "date": "2026-02-01 00:00:00",
       "amount": 150,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1979,7 +3699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16086",
+      "id": "contrib-1792307281970-45829",
       "date": "2026-03-08 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -1995,7 +3715,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16087",
+      "id": "contrib-1792307281970-45830",
+      "date": "2026-08-16 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Robert T Grand",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45831",
       "date": "2026-02-24 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2011,7 +3747,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16088",
+      "id": "contrib-1792307281970-45832",
+      "date": "2026-08-15 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Roger Schmetzer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45833",
+      "date": "2026-09-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Rose Paul",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Logansport",
+      "address_state": "IN",
+      "address_zip": "46947",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45834",
+      "date": "2026-09-23 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Ryan  Singerman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45835",
       "date": "2026-04-03 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2027,7 +3811,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16089",
+      "id": "contrib-1792307281970-45836",
       "date": "2026-02-17 00:00:00",
       "amount": 200,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2043,7 +3827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16090",
+      "id": "contrib-1792307281970-45837",
       "date": "2026-02-04 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2059,7 +3843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16091",
+      "id": "contrib-1792307281970-45838",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2075,7 +3859,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16092",
+      "id": "contrib-1792307281970-45839",
       "date": "2026-03-16 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2091,7 +3875,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16093",
+      "id": "contrib-1792307281970-45840",
+      "date": "2026-08-07 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Stephen Freeland",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45841",
       "date": "2026-03-25 00:00:00",
       "amount": 300,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2107,7 +3907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16094",
+      "id": "contrib-1792307281970-45842",
       "date": "2026-03-17 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2123,7 +3923,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16095",
+      "id": "contrib-1792307281970-45843",
       "date": "2026-03-23 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2139,7 +3939,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16096",
+      "id": "contrib-1792307281970-45844",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2155,7 +3955,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16097",
+      "id": "contrib-1792307281970-45845",
+      "date": "2026-09-11 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Terry  McNabb",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45846",
       "date": "2026-02-20 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2171,7 +3987,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16098",
+      "id": "contrib-1792307281970-45847",
+      "date": "2026-07-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Thomas Hoback",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45848",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2187,7 +4019,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16099",
+      "id": "contrib-1792307281970-45849",
+      "date": "2026-10-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Thomas P Dakich",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45850",
       "date": "2026-03-10 00:00:00",
       "amount": 200,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2203,7 +4051,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16100",
+      "id": "contrib-1792307281970-45851",
+      "date": "2026-08-07 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Thomas V Easterly",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45852",
       "date": "2026-02-07 00:00:00",
       "amount": 200,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2219,7 +4083,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16101",
+      "id": "contrib-1792307281970-45853",
       "date": "2026-02-04 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2235,7 +4099,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16102",
+      "id": "contrib-1792307281970-45854",
+      "date": "2026-09-10 00:00:00",
+      "amount": 200,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Toni T Sim",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45855",
       "date": "2026-01-31 00:00:00",
       "amount": 104.1,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2251,7 +4131,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16103",
+      "id": "contrib-1792307281970-45856",
+      "date": "2026-07-31 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Tracy Sims",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45857",
       "date": "2026-03-14 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2267,7 +4163,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16104",
+      "id": "contrib-1792307281970-45858",
+      "date": "2026-09-13 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Tyler Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Leo",
+      "address_state": "IN",
+      "address_zip": "46765",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45859",
       "date": "2026-03-30 00:00:00",
       "amount": 520.51,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2283,7 +4195,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16105",
+      "id": "contrib-1792307281970-45860",
+      "date": "2026-09-22 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Vicky Erwin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45861",
       "date": "2026-02-13 00:00:00",
       "amount": 260.25,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2299,7 +4227,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16106",
+      "id": "contrib-1792307281970-45862",
+      "date": "2026-09-02 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Vincent  Griffin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45863",
       "date": "2026-03-23 00:00:00",
       "amount": 200,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2315,7 +4259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16107",
+      "id": "contrib-1792307281970-45864",
       "date": "2026-03-31 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2331,7 +4275,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16108",
+      "id": "contrib-1792307281970-45865",
+      "date": "2026-10-08 00:00:00",
+      "amount": 520.51,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "William  Salin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Cromwell",
+      "address_state": "IN",
+      "address_zip": "46732",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45866",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2347,7 +4307,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16109",
+      "id": "contrib-1792307281970-45867",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "William Kirsch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46062",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45868",
+      "date": "2026-08-14 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "William Shumaker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45869",
+      "date": "2026-08-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "William Vanlandingham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45870",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "William W Pond",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46814",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45871",
       "date": "2026-02-23 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2363,7 +4387,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16110",
+      "id": "contrib-1792307281970-45872",
+      "date": "2026-05-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Good Government PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46236",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45873",
+      "date": "2026-08-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Greater Indianapolis Women's Republican Club",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": "IN",
+      "address_zip": null,
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45874",
+      "date": "2026-04-23 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Business for Responsive Government",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45875",
+      "date": "2026-10-08 00:00:00",
+      "amount": 9229.1,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45876",
+      "date": "2026-09-03 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Society of Anesthesiologists",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46208",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45877",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2379,7 +4483,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16111",
+      "id": "contrib-1792307281970-45878",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2395,7 +4499,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16112",
+      "id": "contrib-1792307281970-45879",
+      "date": "2026-08-08 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Marion County Young Republicans",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45880",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2411,7 +4531,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16113",
+      "id": "contrib-1792307281970-45881",
+      "date": "2026-10-08 00:00:00",
+      "amount": 10000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Rodric D Bray for State Senate",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Martinsville",
+      "address_state": "IN",
+      "address_zip": "46151",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45882",
+      "date": "2026-07-31 00:00:00",
+      "amount": 1500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Zink Properties, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45883",
+      "date": "2026-04-13 00:00:00",
+      "amount": 300,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "AT&T Indiana Political Action Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45884",
+      "date": "2026-09-29 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Frost Brown Todd PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45885",
       "date": "2026-03-25 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2427,7 +4611,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16114",
+      "id": "contrib-1792307281970-45886",
       "date": "2026-03-25 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2443,7 +4627,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16115",
+      "id": "contrib-1792307281970-45887",
       "date": "2026-04-10 00:00:00",
       "amount": 227.56,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2459,7 +4643,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16116",
+      "id": "contrib-1792307281970-45888",
       "date": "2026-04-08 00:00:00",
       "amount": 5000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2475,7 +4659,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16117",
+      "id": "contrib-1792307281970-45889",
+      "date": "2026-05-11 00:00:00",
+      "amount": 5000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "OORAH! POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45890",
+      "date": "2026-09-24 00:00:00",
+      "amount": 5000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "OORAH! POLITICAL ACTION COMMITTEE",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "CARMEL",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45891",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2491,7 +4707,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16118",
+      "id": "contrib-1792307281970-45892",
+      "date": "2026-04-26 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Citizens for Crider",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45893",
+      "date": "2026-09-22 00:00:00",
+      "amount": 10000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Citizens for Crider",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenfield",
+      "address_state": "IN",
+      "address_zip": "46140",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45894",
       "date": "2026-02-26 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2507,7 +4755,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16119",
+      "id": "contrib-1792307281970-45895",
+      "date": "2026-08-18 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Friends of John Stehr",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45896",
       "date": "2026-03-23 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2523,7 +4787,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16120",
+      "id": "contrib-1792307281970-45897",
       "date": "2026-03-10 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2539,7 +4803,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16121",
+      "id": "contrib-1792307281970-45898",
+      "date": "2026-08-05 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "IHLA PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46038",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45899",
+      "date": "2026-08-13 00:00:00",
+      "amount": 500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "IMHA/RVIC PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46241",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45900",
       "date": "2026-04-06 00:00:00",
       "amount": 300,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2555,7 +4851,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16122",
+      "id": "contrib-1792307281970-45901",
       "date": "2026-03-04 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2571,7 +4867,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16123",
+      "id": "contrib-1792307281970-45902",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1500,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Indiana Firefighters PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46885",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45903",
       "date": "2026-03-16 00:00:00",
       "amount": 2500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2587,7 +4899,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16124",
+      "id": "contrib-1792307281970-45904",
       "date": "2026-02-01 00:00:00",
       "amount": 500,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2603,7 +4915,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16125",
+      "id": "contrib-1792307281970-45905",
       "date": "2026-03-25 00:00:00",
       "amount": 1000,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2619,7 +4931,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769692-16126",
+      "id": "contrib-1792307281970-45906",
+      "date": "2026-08-25 00:00:00",
+      "amount": 2000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Jean Leising for State Senate",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Oldenberg",
+      "address_state": "IN",
+      "address_zip": "47036",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45907",
       "date": "2026-03-14 00:00:00",
       "amount": 250,
       "candidate_name": "John Christian Ruckelshaus",
@@ -2631,6 +4959,70 @@
       "address_city": "Greenville",
       "address_state": "IN",
       "address_zip": "47124",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45908",
+      "date": "2026-09-29 00:00:00",
+      "amount": 25000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Senate Majority Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45909",
+      "date": "2026-10-08 00:00:00",
+      "amount": 35000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Senate Majority Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45910",
+      "date": "2026-08-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "Sue Glick for Senate Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaGrange",
+      "address_state": "IN",
+      "address_zip": "46761",
+      "recipient_committee": "Hoosiers for Ruckelshaus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281970-45911",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "John Christian Ruckelshaus",
+      "contributor_name": "The Heritage Group Indiana PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
       "recipient_committee": "Hoosiers for Ruckelshaus",
       "source": "indiana"
     }

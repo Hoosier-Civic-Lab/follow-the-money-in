@@ -6,25 +6,25 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "2120.44",
-    "total_contributions": 32,
-    "total_itemized": 32,
+    "total_raised": "4603.03",
+    "total_contributions": 63,
+    "total_itemized": 63,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 32,
-      "total": "2120.44"
+      "count": 63,
+      "total": "4603.03"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 8,
-      "total": "1670.00"
+      "count": 20,
+      "total": "3820.00"
     },
     "small": {
-      "count": 24,
-      "total": "450.44"
+      "count": 43,
+      "total": "783.03"
     }
   },
   "by_month": {
@@ -35,6 +35,14 @@
     "2025-10": {
       "count": 1,
       "total": "25.00"
+    },
+    "2026-08": {
+      "count": 9,
+      "total": "518.76"
+    },
+    "2026-04": {
+      "count": 3,
+      "total": "16.67"
     },
     "2026-03": {
       "count": 6,
@@ -48,14 +56,26 @@
       "count": 12,
       "total": "240.79"
     },
-    "2026-04": {
-      "count": 1,
-      "total": "1.11"
+    "2026-05": {
+      "count": 4,
+      "total": "62.75"
+    },
+    "2026-06": {
+      "count": 8,
+      "total": "455.52"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "110.00"
+    },
+    "2026-09": {
+      "count": 6,
+      "total": "1320.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769446-101024",
+      "id": "contrib-1792307281241-101024",
       "date": "2025-11-17 00:00:00",
       "amount": 500,
       "candidate_name": "Ryan Christopher Price",
@@ -71,7 +91,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101025",
+      "id": "contrib-1792307281241-101025",
       "date": "2025-11-17 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Christopher Price",
@@ -87,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101026",
+      "id": "contrib-1792307281241-101026",
       "date": "2025-10-18 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Christopher Price",
@@ -103,7 +123,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101027",
+      "id": "contrib-1792307281241-101027",
       "date": "2025-11-07 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Christopher Price",
@@ -119,7 +139,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101028",
+      "id": "contrib-1792307281241-101028",
       "date": "2025-11-08 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Christopher Price",
@@ -135,7 +155,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-101029",
+      "id": "contrib-1792307281241-101029",
       "date": "2025-11-17 00:00:00",
       "amount": 250,
       "candidate_name": "Ryan Christopher Price",
@@ -151,7 +171,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28388",
+      "id": "contrib-1792307282015-77391",
+      "date": "2026-08-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Amy Rogers",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77392",
+      "date": "2026-04-14 00:00:00",
+      "amount": 5.56,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Anne Jorgenson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Verndale",
+      "address_state": "MN",
+      "address_zip": "56481",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77393",
       "date": "2026-03-03 00:00:00",
       "amount": 1,
       "candidate_name": "Ryan Christopher Price",
@@ -167,7 +219,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28389",
+      "id": "contrib-1792307282015-77394",
       "date": "2026-03-17 00:00:00",
       "amount": 1.22,
       "candidate_name": "Ryan Christopher Price",
@@ -183,7 +235,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28390",
+      "id": "contrib-1792307282015-77395",
       "date": "2026-01-27 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Christopher Price",
@@ -199,7 +251,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28391",
+      "id": "contrib-1792307282015-77396",
       "date": "2026-01-27 00:00:00",
       "amount": 100,
       "candidate_name": "Ryan Christopher Price",
@@ -215,7 +267,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28392",
+      "id": "contrib-1792307282015-77397",
+      "date": "2026-08-18 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Chris Napier",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77398",
       "date": "2026-02-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Christopher Price",
@@ -231,7 +299,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28393",
+      "id": "contrib-1792307282015-77399",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Dawn Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77400",
+      "date": "2026-04-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77401",
+      "date": "2026-05-27 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77402",
+      "date": "2026-06-30 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77403",
+      "date": "2026-07-28 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77404",
+      "date": "2026-09-01 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77405",
+      "date": "2026-09-29 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Ethan Sweetland-May",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retail Sales",
+      "occupation_category": "other",
+      "address_city": "New Albany",
+      "address_state": "IN",
+      "address_zip": "47150",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77406",
       "date": "2026-01-27 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Christopher Price",
@@ -247,7 +427,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28394",
+      "id": "contrib-1792307282015-77407",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Christopher Price",
@@ -263,7 +443,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28395",
+      "id": "contrib-1792307282015-77408",
       "date": "2026-03-31 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Christopher Price",
@@ -279,7 +459,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28396",
+      "id": "contrib-1792307282015-77409",
+      "date": "2026-06-09 00:00:00",
+      "amount": 10,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Heather Edrington",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Borden",
+      "address_state": "IN",
+      "address_zip": "47106",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77410",
       "date": "2026-02-24 00:00:00",
       "amount": 2.94,
       "candidate_name": "Ryan Christopher Price",
@@ -295,7 +491,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28397",
+      "id": "contrib-1792307282015-77411",
+      "date": "2026-06-30 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Jacquelynn Mowry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Bedford",
+      "address_state": "IN",
+      "address_zip": "47421",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77412",
+      "date": "2026-07-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "James Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77413",
+      "date": "2026-09-15 00:00:00",
+      "amount": 500,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "James Graham",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77414",
       "date": "2026-01-27 00:00:00",
       "amount": 25,
       "candidate_name": "Ryan Christopher Price",
@@ -311,7 +555,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28398",
+      "id": "contrib-1792307282015-77415",
+      "date": "2026-08-11 00:00:00",
+      "amount": 25,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Janet Lowry",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Hanover",
+      "address_state": "IN",
+      "address_zip": "47243",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77416",
+      "date": "2026-05-07 00:00:00",
+      "amount": 1.06,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Jessica Escalante",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "San Pedro",
+      "address_state": "CA",
+      "address_zip": "90731",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77417",
       "date": "2026-02-18 00:00:00",
       "amount": 1.67,
       "candidate_name": "Ryan Christopher Price",
@@ -327,7 +603,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28399",
+      "id": "contrib-1792307282015-77418",
+      "date": "2026-06-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "John Perkins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77419",
+      "date": "2026-06-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "John Zimmerman",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77420",
+      "date": "2026-09-02 00:00:00",
+      "amount": 300,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Julie Price",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Charlestown",
+      "address_state": "IN",
+      "address_zip": "47111",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77421",
       "date": "2026-01-27 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Christopher Price",
@@ -343,7 +667,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28400",
+      "id": "contrib-1792307282015-77422",
       "date": "2026-02-10 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Christopher Price",
@@ -359,7 +683,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28401",
+      "id": "contrib-1792307282015-77423",
       "date": "2026-02-24 00:00:00",
       "amount": 7.81,
       "candidate_name": "Ryan Christopher Price",
@@ -375,7 +699,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28402",
+      "id": "contrib-1792307282015-77424",
       "date": "2026-02-18 00:00:00",
       "amount": 1.67,
       "candidate_name": "Ryan Christopher Price",
@@ -391,7 +715,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28403",
+      "id": "contrib-1792307282015-77425",
       "date": "2026-02-24 00:00:00",
       "amount": 33.33,
       "candidate_name": "Ryan Christopher Price",
@@ -407,7 +731,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28404",
+      "id": "contrib-1792307282015-77426",
       "date": "2026-02-24 00:00:00",
       "amount": 3.33,
       "candidate_name": "Ryan Christopher Price",
@@ -423,7 +747,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28405",
+      "id": "contrib-1792307282015-77427",
+      "date": "2026-08-18 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Melissa Burgin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "New Washington",
+      "address_state": "IN",
+      "address_zip": "47162",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77428",
       "date": "2026-02-10 00:00:00",
       "amount": 20,
       "candidate_name": "Ryan Christopher Price",
@@ -439,7 +779,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28406",
+      "id": "contrib-1792307282015-77429",
+      "date": "2026-08-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Nancy Segraves",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77430",
+      "date": "2026-06-16 00:00:00",
+      "amount": 17.76,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Nate Wheatley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Chandler",
+      "address_state": "AZ",
+      "address_zip": "85286",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77431",
       "date": "2026-02-23 00:00:00",
       "amount": 56.71,
       "candidate_name": "Ryan Christopher Price",
@@ -455,7 +827,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28407",
+      "id": "contrib-1792307282015-77432",
       "date": "2026-02-10 00:00:00",
       "amount": 10,
       "candidate_name": "Ryan Christopher Price",
@@ -471,7 +843,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28408",
+      "id": "contrib-1792307282015-77433",
       "date": "2026-02-18 00:00:00",
       "amount": 3.33,
       "candidate_name": "Ryan Christopher Price",
@@ -487,7 +859,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28409",
+      "id": "contrib-1792307282015-77434",
+      "date": "2026-05-27 00:00:00",
+      "amount": 1.69,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Paul King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Sunnyvale",
+      "address_state": "CA",
+      "address_zip": "94086",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77435",
+      "date": "2026-06-09 00:00:00",
+      "amount": 17.76,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Rachel Wurfel",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77436",
       "date": "2026-01-28 00:00:00",
       "amount": 50,
       "candidate_name": "Ryan Christopher Price",
@@ -503,7 +907,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28410",
+      "id": "contrib-1792307282015-77437",
       "date": "2026-04-02 00:00:00",
       "amount": 1.11,
       "candidate_name": "Ryan Christopher Price",
@@ -519,7 +923,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28411",
+      "id": "contrib-1792307282015-77438",
+      "date": "2026-08-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Sharon Neal",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Otisco",
+      "address_state": "IN",
+      "address_zip": "47163",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77439",
       "date": "2026-03-27 00:00:00",
       "amount": 170,
       "candidate_name": "Ryan Christopher Price",
@@ -535,7 +955,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28412",
+      "id": "contrib-1792307282015-77440",
+      "date": "2026-08-18 00:00:00",
+      "amount": 17.76,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Stefani Hodgkins",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77441",
+      "date": "2026-05-12 00:00:00",
+      "amount": 50,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Stephanie Lockman",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Sellersburg",
+      "address_state": "IN",
+      "address_zip": "47172",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77442",
+      "date": "2026-08-04 00:00:00",
+      "amount": 150,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Susan Patterson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Madison",
+      "address_state": "IN",
+      "address_zip": "47250",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77443",
       "date": "2026-03-03 00:00:00",
       "amount": 1.32,
       "candidate_name": "Ryan Christopher Price",
@@ -551,7 +1019,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769735-28413",
+      "id": "contrib-1792307282015-77444",
+      "date": "2026-06-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Terry Price",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Clarksville",
+      "address_state": "IN",
+      "address_zip": "47129",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77445",
+      "date": "2026-09-22 00:00:00",
+      "amount": 100,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Virginia Peck",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77446",
       "date": "2026-01-28 00:00:00",
       "amount": 200,
       "candidate_name": "Ryan Christopher Price",
@@ -560,6 +1060,22 @@
       "contribution_size": "medium",
       "occupation": "Government/Civil",
       "occupation_category": "government",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Committee for Ryan Price for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77447",
+      "date": "2026-09-23 00:00:00",
+      "amount": 400,
+      "candidate_name": "Ryan Christopher Price",
+      "contributor_name": "Clark County Democrat Alliance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
       "address_city": "Jeffersonville",
       "address_state": "IN",
       "address_zip": "47130",

@@ -2,17 +2,33 @@
   "id": "committee-to-elect-tom-schmitt",
   "name": "Committee to Elect Tom Schmitt",
   "totals": {
-    "total_given": "140.00",
-    "total_contributions": 1,
-    "candidates_supported": 1
+    "total_given": "990.00",
+    "total_contributions": 8,
+    "candidates_supported": 7
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "140.00"
+      "count": 8,
+      "total": "990.00"
     }
   },
   "by_month": {
+    "2026-08": {
+      "count": 1,
+      "total": "150.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "250.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "350.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "140.00"
@@ -20,15 +36,115 @@
   },
   "top_recipients": [
     {
+      "id": "anthony-nicholas-oberman",
+      "name": "Anthony Nicholas Oberman",
+      "total": "200.00",
+      "count": 2
+    },
+    {
+      "id": "miguel-a-andrade",
+      "name": "Miguel A Andrade",
+      "total": "150.00",
+      "count": 1
+    },
+    {
+      "id": "nicholas-maurice-neal",
+      "name": "Nicholas  Maurice Neal",
+      "total": "150.00",
+      "count": 1
+    },
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "150.00",
+      "count": 1
+    },
+    {
       "id": "scott-eugene-houldieson",
       "name": "Scott Eugene Houldieson",
       "total": "140.00",
+      "count": 1
+    },
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "100.00",
+      "count": 1
+    },
+    {
+      "id": "kate-lynn-donna-holley",
+      "name": "Kate-Lynn Donna Holley",
+      "total": "100.00",
       "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769741-31246",
+      "id": "contrib-1792307281975-50561",
+      "date": "2026-08-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "Miguel A Andrade",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Citizens For Mike Andrade",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59073",
+      "date": "2026-05-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282015-77374",
+      "date": "2026-07-31 00:00:00",
+      "amount": 150,
+      "candidate_name": "Nicholas  Maurice Neal",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "The Campaign to Elect Nick Neal",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80872",
+      "date": "2026-09-09 00:00:00",
+      "amount": 150,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Beau Bayh for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85389",
       "date": "2026-04-09 00:00:00",
       "amount": 140,
       "candidate_name": "Scott Eugene Houldieson",
@@ -41,6 +157,54 @@
       "address_state": "IN",
       "address_zip": "46375",
       "recipient_committee": "Committee To Elect Scott Houldieson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282042-90514",
+      "date": "2026-07-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Kate-Lynn Donna Holley",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Kate-Lynn Holley for IN State Senate District 6",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282045-92480",
+      "date": "2026-09-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Anthony Nicholas Oberman",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Committee to Elect Anthony Oberman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282045-92481",
+      "date": "2026-09-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Anthony Nicholas Oberman",
+      "contributor_name": "Committee to Elect Tom Schmitt",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Committee to Elect Anthony Oberman",
       "source": "indiana"
     }
   ],

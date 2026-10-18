@@ -6,41 +6,45 @@
   "district": null,
   "party": "Republican",
   "totals": {
-    "total_raised": "280096.38",
-    "total_contributions": 290,
-    "total_itemized": 254,
-    "total_unitemized": 36
+    "total_raised": "448199.39",
+    "total_contributions": 435,
+    "total_itemized": 379,
+    "total_unitemized": 56
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 36,
-      "total": "2421.43"
+      "count": 56,
+      "total": "4171.43"
     },
     "corporate": {
-      "count": 24,
-      "total": "14427.91"
+      "count": 34,
+      "total": "27547.91"
     },
     "individual": {
-      "count": 218,
-      "total": "244497.04"
+      "count": 325,
+      "total": "380528.06"
     },
     "committee": {
-      "count": 12,
-      "total": "18750.00"
+      "count": 19,
+      "total": "35438.99"
+    },
+    "self": {
+      "count": 1,
+      "total": "513.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 32,
-      "total": "1491.20"
+      "count": 42,
+      "total": "2046.20"
     },
     "medium": {
-      "count": 132,
-      "total": "36105.18"
+      "count": 187,
+      "total": "52923.18"
     },
     "large": {
-      "count": 126,
-      "total": "242500.00"
+      "count": 206,
+      "total": "393230.01"
     }
   },
   "by_month": {
@@ -84,9 +88,21 @@
       "count": 2,
       "total": "6000.00"
     },
+    "2026-09": {
+      "count": 73,
+      "total": "56531.99"
+    },
+    "2026-08": {
+      "count": 53,
+      "total": "82765.00"
+    },
     "2026-06": {
       "count": 23,
       "total": "19727.06"
+    },
+    "2026-07": {
+      "count": 19,
+      "total": "28806.02"
     },
     "2026-05": {
       "count": 8,
@@ -111,7 +127,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769438-91027",
+      "id": "contrib-1792307281232-91027",
       "date": "2025-06-04 00:00:00",
       "amount": 0.13,
       "candidate_name": "Elise Nieshalla",
@@ -127,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91028",
+      "id": "contrib-1792307281232-91028",
       "date": "2025-09-26 00:00:00",
       "amount": 0.77,
       "candidate_name": "Elise Nieshalla",
@@ -143,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91029",
+      "id": "contrib-1792307281232-91029",
       "date": "2025-11-11 00:00:00",
       "amount": 3.8,
       "candidate_name": "Elise Nieshalla",
@@ -159,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91030",
+      "id": "contrib-1792307281232-91030",
       "date": "2025-07-15 00:00:00",
       "amount": 37,
       "candidate_name": "Elise Nieshalla",
@@ -175,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91031",
+      "id": "contrib-1792307281232-91031",
       "date": "2025-08-20 00:00:00",
       "amount": 37,
       "candidate_name": "Elise Nieshalla",
@@ -191,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91032",
+      "id": "contrib-1792307281232-91032",
       "date": "2025-08-20 00:00:00",
       "amount": 40,
       "candidate_name": "Elise Nieshalla",
@@ -207,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91033",
+      "id": "contrib-1792307281232-91033",
       "date": "2025-08-20 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -223,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91034",
+      "id": "contrib-1792307281232-91034",
       "date": "2025-08-26 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -239,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91035",
+      "id": "contrib-1792307281232-91035",
       "date": "2025-09-09 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -255,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91036",
+      "id": "contrib-1792307281232-91036",
       "date": "2025-10-28 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -271,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91037",
+      "id": "contrib-1792307281232-91037",
       "date": "2025-11-12 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -287,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91038",
+      "id": "contrib-1792307281232-91038",
       "date": "2025-11-19 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -303,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91039",
+      "id": "contrib-1792307281232-91039",
       "date": "2025-11-21 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -319,7 +335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91040",
+      "id": "contrib-1792307281232-91040",
       "date": "2025-08-25 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -335,7 +351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91041",
+      "id": "contrib-1792307281232-91041",
       "date": "2025-09-16 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -351,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91042",
+      "id": "contrib-1792307281232-91042",
       "date": "2025-10-16 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -367,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91043",
+      "id": "contrib-1792307281232-91043",
       "date": "2025-12-23 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -383,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91044",
+      "id": "contrib-1792307281232-91044",
       "date": "2025-08-26 00:00:00",
       "amount": 66,
       "candidate_name": "Elise Nieshalla",
@@ -399,7 +415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91045",
+      "id": "contrib-1792307281232-91045",
       "date": "2025-08-20 00:00:00",
       "amount": 74,
       "candidate_name": "Elise Nieshalla",
@@ -415,7 +431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91046",
+      "id": "contrib-1792307281232-91046",
       "date": "2025-08-19 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -431,7 +447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91047",
+      "id": "contrib-1792307281232-91047",
       "date": "2025-08-20 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -447,7 +463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91048",
+      "id": "contrib-1792307281232-91048",
       "date": "2025-08-26 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -463,7 +479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91049",
+      "id": "contrib-1792307281232-91049",
       "date": "2025-08-29 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -479,7 +495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91050",
+      "id": "contrib-1792307281232-91050",
       "date": "2025-09-05 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -495,7 +511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91051",
+      "id": "contrib-1792307281232-91051",
       "date": "2025-09-18 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -511,7 +527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91052",
+      "id": "contrib-1792307281232-91052",
       "date": "2025-09-25 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -527,7 +543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91053",
+      "id": "contrib-1792307281232-91053",
       "date": "2025-10-24 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -543,7 +559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91054",
+      "id": "contrib-1792307281232-91054",
       "date": "2025-10-30 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -559,7 +575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91055",
+      "id": "contrib-1792307281232-91055",
       "date": "2025-11-14 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -575,7 +591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91056",
+      "id": "contrib-1792307281232-91056",
       "date": "2025-11-19 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -591,7 +607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91057",
+      "id": "contrib-1792307281232-91057",
       "date": "2025-11-21 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -607,7 +623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91058",
+      "id": "contrib-1792307281232-91058",
       "date": "2025-08-26 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -623,7 +639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91059",
+      "id": "contrib-1792307281232-91059",
       "date": "2025-10-22 00:00:00",
       "amount": 25.67,
       "candidate_name": "Elise Nieshalla",
@@ -639,7 +655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91060",
+      "id": "contrib-1792307281232-91060",
       "date": "2025-10-29 00:00:00",
       "amount": 120.79,
       "candidate_name": "Elise Nieshalla",
@@ -655,7 +671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91061",
+      "id": "contrib-1792307281232-91061",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -671,7 +687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91062",
+      "id": "contrib-1792307281232-91062",
       "date": "2025-12-16 00:00:00",
       "amount": 81.27,
       "candidate_name": "Elise Nieshalla",
@@ -687,7 +703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91063",
+      "id": "contrib-1792307281232-91063",
       "date": "2025-08-08 00:00:00",
       "amount": 114.6,
       "candidate_name": "Elise Nieshalla",
@@ -703,7 +719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91064",
+      "id": "contrib-1792307281232-91064",
       "date": "2025-11-24 00:00:00",
       "amount": 126.65,
       "candidate_name": "Elise Nieshalla",
@@ -719,7 +735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91065",
+      "id": "contrib-1792307281232-91065",
       "date": "2025-07-15 00:00:00",
       "amount": 160.44,
       "candidate_name": "Elise Nieshalla",
@@ -735,7 +751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91066",
+      "id": "contrib-1792307281232-91066",
       "date": "2025-08-21 00:00:00",
       "amount": 160.44,
       "candidate_name": "Elise Nieshalla",
@@ -751,7 +767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91067",
+      "id": "contrib-1792307281232-91067",
       "date": "2025-09-12 00:00:00",
       "amount": 160.44,
       "candidate_name": "Elise Nieshalla",
@@ -767,7 +783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91068",
+      "id": "contrib-1792307281232-91068",
       "date": "2025-11-10 00:00:00",
       "amount": 161.23,
       "candidate_name": "Elise Nieshalla",
@@ -783,7 +799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91069",
+      "id": "contrib-1792307281232-91069",
       "date": "2025-10-15 00:00:00",
       "amount": 162.05,
       "candidate_name": "Elise Nieshalla",
@@ -799,7 +815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91070",
+      "id": "contrib-1792307281232-91070",
       "date": "2025-04-30 00:00:00",
       "amount": 30,
       "candidate_name": "Elise Nieshalla",
@@ -815,7 +831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91071",
+      "id": "contrib-1792307281232-91071",
       "date": "2025-05-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -831,7 +847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91072",
+      "id": "contrib-1792307281232-91072",
       "date": "2025-10-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -847,7 +863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91073",
+      "id": "contrib-1792307281232-91073",
       "date": "2025-12-22 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -863,7 +879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91074",
+      "id": "contrib-1792307281232-91074",
       "date": "2025-09-02 00:00:00",
       "amount": 2000,
       "candidate_name": "Elise Nieshalla",
@@ -879,7 +895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91075",
+      "id": "contrib-1792307281232-91075",
       "date": "2025-08-20 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -895,7 +911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91076",
+      "id": "contrib-1792307281232-91076",
       "date": "2025-12-18 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -911,7 +927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91077",
+      "id": "contrib-1792307281232-91077",
       "date": "2025-08-20 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -927,7 +943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91078",
+      "id": "contrib-1792307281232-91078",
       "date": "2025-09-25 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -943,7 +959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91079",
+      "id": "contrib-1792307281232-91079",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -959,7 +975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91080",
+      "id": "contrib-1792307281232-91080",
       "date": "2025-08-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -975,7 +991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91081",
+      "id": "contrib-1792307281232-91081",
       "date": "2025-10-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -991,7 +1007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91082",
+      "id": "contrib-1792307281232-91082",
       "date": "2025-08-26 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1007,7 +1023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91083",
+      "id": "contrib-1792307281232-91083",
       "date": "2025-12-22 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1023,7 +1039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91084",
+      "id": "contrib-1792307281232-91084",
       "date": "2025-09-29 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1039,7 +1055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91085",
+      "id": "contrib-1792307281232-91085",
       "date": "2025-08-25 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -1055,7 +1071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91086",
+      "id": "contrib-1792307281232-91086",
       "date": "2025-08-26 00:00:00",
       "amount": 240,
       "candidate_name": "Elise Nieshalla",
@@ -1071,7 +1087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91087",
+      "id": "contrib-1792307281232-91087",
       "date": "2025-12-10 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1087,7 +1103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91088",
+      "id": "contrib-1792307281232-91088",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1103,7 +1119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91089",
+      "id": "contrib-1792307281232-91089",
       "date": "2025-12-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1119,7 +1135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91090",
+      "id": "contrib-1792307281232-91090",
       "date": "2025-01-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1135,7 +1151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91091",
+      "id": "contrib-1792307281232-91091",
       "date": "2025-08-01 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1151,7 +1167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91092",
+      "id": "contrib-1792307281232-91092",
       "date": "2025-09-02 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1167,7 +1183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91093",
+      "id": "contrib-1792307281232-91093",
       "date": "2025-12-23 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -1183,7 +1199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91094",
+      "id": "contrib-1792307281232-91094",
       "date": "2025-09-02 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1199,7 +1215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91095",
+      "id": "contrib-1792307281232-91095",
       "date": "2025-08-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1215,7 +1231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91096",
+      "id": "contrib-1792307281232-91096",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -1231,7 +1247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91097",
+      "id": "contrib-1792307281232-91097",
       "date": "2025-10-28 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -1247,7 +1263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91098",
+      "id": "contrib-1792307281232-91098",
       "date": "2025-10-23 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1263,7 +1279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91099",
+      "id": "contrib-1792307281232-91099",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1279,7 +1295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91100",
+      "id": "contrib-1792307281232-91100",
       "date": "2025-08-15 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1295,7 +1311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91101",
+      "id": "contrib-1792307281232-91101",
       "date": "2025-08-13 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1311,7 +1327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91102",
+      "id": "contrib-1792307281232-91102",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1327,7 +1343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91103",
+      "id": "contrib-1792307281232-91103",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1343,7 +1359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91104",
+      "id": "contrib-1792307281232-91104",
       "date": "2025-12-05 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1359,7 +1375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91105",
+      "id": "contrib-1792307281232-91105",
       "date": "2025-08-20 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -1375,7 +1391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91106",
+      "id": "contrib-1792307281232-91106",
       "date": "2025-05-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1391,7 +1407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91107",
+      "id": "contrib-1792307281232-91107",
       "date": "2025-08-05 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1407,7 +1423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91108",
+      "id": "contrib-1792307281232-91108",
       "date": "2025-11-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1423,7 +1439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91109",
+      "id": "contrib-1792307281232-91109",
       "date": "2025-07-21 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -1439,7 +1455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91110",
+      "id": "contrib-1792307281232-91110",
       "date": "2025-09-02 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1455,7 +1471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91111",
+      "id": "contrib-1792307281232-91111",
       "date": "2025-08-26 00:00:00",
       "amount": 300,
       "candidate_name": "Elise Nieshalla",
@@ -1471,7 +1487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91112",
+      "id": "contrib-1792307281232-91112",
       "date": "2025-08-26 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -1487,7 +1503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91113",
+      "id": "contrib-1792307281232-91113",
       "date": "2025-06-25 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1503,7 +1519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91114",
+      "id": "contrib-1792307281232-91114",
       "date": "2025-11-21 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -1519,7 +1535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91115",
+      "id": "contrib-1792307281232-91115",
       "date": "2025-07-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1535,7 +1551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91116",
+      "id": "contrib-1792307281232-91116",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1551,7 +1567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91117",
+      "id": "contrib-1792307281232-91117",
       "date": "2025-08-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1567,7 +1583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91118",
+      "id": "contrib-1792307281232-91118",
       "date": "2025-11-21 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1583,7 +1599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91119",
+      "id": "contrib-1792307281232-91119",
       "date": "2025-09-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1599,7 +1615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91120",
+      "id": "contrib-1792307281232-91120",
       "date": "2025-08-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1615,7 +1631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91121",
+      "id": "contrib-1792307281232-91121",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -1631,7 +1647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91122",
+      "id": "contrib-1792307281232-91122",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1647,7 +1663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91123",
+      "id": "contrib-1792307281232-91123",
       "date": "2025-08-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1663,7 +1679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91124",
+      "id": "contrib-1792307281232-91124",
       "date": "2025-06-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1679,7 +1695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91125",
+      "id": "contrib-1792307281232-91125",
       "date": "2025-08-26 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -1695,7 +1711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91126",
+      "id": "contrib-1792307281232-91126",
       "date": "2025-12-09 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -1711,7 +1727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91127",
+      "id": "contrib-1792307281232-91127",
       "date": "2025-08-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1727,7 +1743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91128",
+      "id": "contrib-1792307281232-91128",
       "date": "2025-08-15 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -1743,7 +1759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91129",
+      "id": "contrib-1792307281232-91129",
       "date": "2025-10-10 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -1759,7 +1775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91130",
+      "id": "contrib-1792307281232-91130",
       "date": "2025-08-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1775,7 +1791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91131",
+      "id": "contrib-1792307281232-91131",
       "date": "2025-09-09 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -1791,7 +1807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91132",
+      "id": "contrib-1792307281232-91132",
       "date": "2025-07-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1807,7 +1823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91133",
+      "id": "contrib-1792307281232-91133",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1823,7 +1839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91134",
+      "id": "contrib-1792307281232-91134",
       "date": "2025-08-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1839,7 +1855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91135",
+      "id": "contrib-1792307281232-91135",
       "date": "2025-01-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1855,7 +1871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91136",
+      "id": "contrib-1792307281232-91136",
       "date": "2025-10-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1871,7 +1887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91137",
+      "id": "contrib-1792307281232-91137",
       "date": "2025-08-25 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -1887,7 +1903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91138",
+      "id": "contrib-1792307281232-91138",
       "date": "2025-09-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1903,7 +1919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91139",
+      "id": "contrib-1792307281232-91139",
       "date": "2025-08-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1919,7 +1935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91140",
+      "id": "contrib-1792307281232-91140",
       "date": "2025-08-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1935,7 +1951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91141",
+      "id": "contrib-1792307281232-91141",
       "date": "2025-08-20 00:00:00",
       "amount": 37,
       "candidate_name": "Elise Nieshalla",
@@ -1951,7 +1967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91142",
+      "id": "contrib-1792307281232-91142",
       "date": "2025-06-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1967,7 +1983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91143",
+      "id": "contrib-1792307281232-91143",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1983,7 +1999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91144",
+      "id": "contrib-1792307281232-91144",
       "date": "2025-08-29 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -1999,7 +2015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91145",
+      "id": "contrib-1792307281232-91145",
       "date": "2025-11-25 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2015,7 +2031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91146",
+      "id": "contrib-1792307281232-91146",
       "date": "2025-08-13 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -2031,7 +2047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91147",
+      "id": "contrib-1792307281232-91147",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2047,7 +2063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91148",
+      "id": "contrib-1792307281232-91148",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2063,7 +2079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91149",
+      "id": "contrib-1792307281232-91149",
       "date": "2025-12-05 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2079,7 +2095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91150",
+      "id": "contrib-1792307281232-91150",
       "date": "2025-07-22 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -2095,7 +2111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91151",
+      "id": "contrib-1792307281232-91151",
       "date": "2025-08-26 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2111,7 +2127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91152",
+      "id": "contrib-1792307281232-91152",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2127,7 +2143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91153",
+      "id": "contrib-1792307281232-91153",
       "date": "2025-12-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2143,7 +2159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91154",
+      "id": "contrib-1792307281232-91154",
       "date": "2025-12-10 00:00:00",
       "amount": 1500,
       "candidate_name": "Elise Nieshalla",
@@ -2159,7 +2175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91155",
+      "id": "contrib-1792307281232-91155",
       "date": "2025-09-23 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2175,7 +2191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91156",
+      "id": "contrib-1792307281232-91156",
       "date": "2025-09-02 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2191,7 +2207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91157",
+      "id": "contrib-1792307281232-91157",
       "date": "2025-09-02 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2207,7 +2223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91158",
+      "id": "contrib-1792307281232-91158",
       "date": "2025-06-17 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2223,7 +2239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91159",
+      "id": "contrib-1792307281232-91159",
       "date": "2025-09-02 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2239,7 +2255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91160",
+      "id": "contrib-1792307281232-91160",
       "date": "2025-09-08 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2255,7 +2271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91161",
+      "id": "contrib-1792307281232-91161",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2271,7 +2287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91162",
+      "id": "contrib-1792307281232-91162",
       "date": "2025-08-26 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2287,7 +2303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91163",
+      "id": "contrib-1792307281232-91163",
       "date": "2025-08-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2303,7 +2319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91164",
+      "id": "contrib-1792307281232-91164",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2319,7 +2335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91165",
+      "id": "contrib-1792307281232-91165",
       "date": "2025-12-11 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2335,7 +2351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91166",
+      "id": "contrib-1792307281232-91166",
       "date": "2025-10-20 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2351,7 +2367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91167",
+      "id": "contrib-1792307281232-91167",
       "date": "2025-08-05 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2367,7 +2383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91168",
+      "id": "contrib-1792307281232-91168",
       "date": "2025-10-28 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -2383,7 +2399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91169",
+      "id": "contrib-1792307281232-91169",
       "date": "2025-12-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2399,7 +2415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91170",
+      "id": "contrib-1792307281232-91170",
       "date": "2025-10-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2415,7 +2431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91171",
+      "id": "contrib-1792307281232-91171",
       "date": "2025-07-01 00:00:00",
       "amount": 105,
       "candidate_name": "Elise Nieshalla",
@@ -2431,7 +2447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91172",
+      "id": "contrib-1792307281232-91172",
       "date": "2025-10-21 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2447,7 +2463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91173",
+      "id": "contrib-1792307281232-91173",
       "date": "2025-09-02 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2463,7 +2479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91174",
+      "id": "contrib-1792307281232-91174",
       "date": "2025-11-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2479,7 +2495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91175",
+      "id": "contrib-1792307281232-91175",
       "date": "2025-08-26 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2495,7 +2511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91176",
+      "id": "contrib-1792307281232-91176",
       "date": "2025-05-20 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2511,7 +2527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91177",
+      "id": "contrib-1792307281232-91177",
       "date": "2025-08-15 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2527,7 +2543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91178",
+      "id": "contrib-1792307281232-91178",
       "date": "2025-12-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2543,7 +2559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91179",
+      "id": "contrib-1792307281232-91179",
       "date": "2025-11-11 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2559,7 +2575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91180",
+      "id": "contrib-1792307281232-91180",
       "date": "2025-08-26 00:00:00",
       "amount": 2000,
       "candidate_name": "Elise Nieshalla",
@@ -2575,7 +2591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91181",
+      "id": "contrib-1792307281232-91181",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2591,7 +2607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91182",
+      "id": "contrib-1792307281232-91182",
       "date": "2025-08-20 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -2607,7 +2623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91183",
+      "id": "contrib-1792307281232-91183",
       "date": "2025-08-26 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -2623,7 +2639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91184",
+      "id": "contrib-1792307281232-91184",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2639,7 +2655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91185",
+      "id": "contrib-1792307281232-91185",
       "date": "2025-12-03 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2655,7 +2671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91186",
+      "id": "contrib-1792307281232-91186",
       "date": "2025-10-24 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -2671,7 +2687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91187",
+      "id": "contrib-1792307281232-91187",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2687,7 +2703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91188",
+      "id": "contrib-1792307281232-91188",
       "date": "2025-10-28 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2703,7 +2719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91189",
+      "id": "contrib-1792307281232-91189",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2719,7 +2735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91190",
+      "id": "contrib-1792307281232-91190",
       "date": "2025-07-15 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2735,7 +2751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91191",
+      "id": "contrib-1792307281232-91191",
       "date": "2025-08-07 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2751,7 +2767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91192",
+      "id": "contrib-1792307281232-91192",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2767,7 +2783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91193",
+      "id": "contrib-1792307281232-91193",
       "date": "2025-08-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2783,7 +2799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91194",
+      "id": "contrib-1792307281232-91194",
       "date": "2025-08-15 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2799,7 +2815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91195",
+      "id": "contrib-1792307281232-91195",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2815,7 +2831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91196",
+      "id": "contrib-1792307281232-91196",
       "date": "2025-06-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2831,7 +2847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91197",
+      "id": "contrib-1792307281232-91197",
       "date": "2025-09-10 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -2847,7 +2863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91198",
+      "id": "contrib-1792307281232-91198",
       "date": "2025-08-25 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2863,7 +2879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91199",
+      "id": "contrib-1792307281232-91199",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -2879,7 +2895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91200",
+      "id": "contrib-1792307281232-91200",
       "date": "2025-11-17 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2895,7 +2911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91201",
+      "id": "contrib-1792307281232-91201",
       "date": "2025-08-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2911,7 +2927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91202",
+      "id": "contrib-1792307281232-91202",
       "date": "2025-08-25 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -2927,7 +2943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91203",
+      "id": "contrib-1792307281232-91203",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2943,7 +2959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91204",
+      "id": "contrib-1792307281232-91204",
       "date": "2025-10-15 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -2959,7 +2975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91205",
+      "id": "contrib-1792307281232-91205",
       "date": "2025-08-07 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -2975,7 +2991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91206",
+      "id": "contrib-1792307281232-91206",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -2991,7 +3007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91207",
+      "id": "contrib-1792307281232-91207",
       "date": "2025-07-21 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3007,7 +3023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91208",
+      "id": "contrib-1792307281232-91208",
       "date": "2025-05-20 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3023,7 +3039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91209",
+      "id": "contrib-1792307281232-91209",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -3039,7 +3055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91210",
+      "id": "contrib-1792307281232-91210",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3055,7 +3071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91211",
+      "id": "contrib-1792307281232-91211",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3071,7 +3087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91212",
+      "id": "contrib-1792307281232-91212",
       "date": "2025-09-22 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3087,7 +3103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91213",
+      "id": "contrib-1792307281232-91213",
       "date": "2025-07-07 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3103,7 +3119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91214",
+      "id": "contrib-1792307281232-91214",
       "date": "2025-08-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3119,7 +3135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91215",
+      "id": "contrib-1792307281232-91215",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -3135,7 +3151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91216",
+      "id": "contrib-1792307281232-91216",
       "date": "2025-10-30 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3151,7 +3167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91217",
+      "id": "contrib-1792307281232-91217",
       "date": "2025-07-15 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3167,7 +3183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91218",
+      "id": "contrib-1792307281232-91218",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3183,7 +3199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91219",
+      "id": "contrib-1792307281232-91219",
       "date": "2025-11-12 00:00:00",
       "amount": 2000,
       "candidate_name": "Elise Nieshalla",
@@ -3199,7 +3215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91220",
+      "id": "contrib-1792307281232-91220",
       "date": "2025-09-02 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3215,7 +3231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91221",
+      "id": "contrib-1792307281232-91221",
       "date": "2025-08-20 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -3231,7 +3247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91222",
+      "id": "contrib-1792307281232-91222",
       "date": "2025-08-19 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3247,7 +3263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91223",
+      "id": "contrib-1792307281232-91223",
       "date": "2025-08-26 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -3263,7 +3279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91224",
+      "id": "contrib-1792307281232-91224",
       "date": "2025-10-28 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3279,7 +3295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91225",
+      "id": "contrib-1792307281232-91225",
       "date": "2025-11-19 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3295,7 +3311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91226",
+      "id": "contrib-1792307281232-91226",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3311,7 +3327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91227",
+      "id": "contrib-1792307281232-91227",
       "date": "2025-08-26 00:00:00",
       "amount": 400,
       "candidate_name": "Elise Nieshalla",
@@ -3327,7 +3343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91228",
+      "id": "contrib-1792307281232-91228",
       "date": "2025-06-09 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3343,7 +3359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91229",
+      "id": "contrib-1792307281232-91229",
       "date": "2025-11-25 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3359,7 +3375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91230",
+      "id": "contrib-1792307281232-91230",
       "date": "2025-07-07 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -3375,7 +3391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91231",
+      "id": "contrib-1792307281232-91231",
       "date": "2025-08-15 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -3391,7 +3407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91232",
+      "id": "contrib-1792307281232-91232",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3407,7 +3423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91233",
+      "id": "contrib-1792307281232-91233",
       "date": "2025-10-24 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3423,7 +3439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91234",
+      "id": "contrib-1792307281232-91234",
       "date": "2025-11-19 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -3439,7 +3455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91235",
+      "id": "contrib-1792307281232-91235",
       "date": "2025-08-28 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -3455,7 +3471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91236",
+      "id": "contrib-1792307281232-91236",
       "date": "2025-10-28 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -3471,7 +3487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91237",
+      "id": "contrib-1792307281232-91237",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3487,7 +3503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91238",
+      "id": "contrib-1792307281232-91238",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3503,7 +3519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91239",
+      "id": "contrib-1792307281232-91239",
       "date": "2025-08-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3519,7 +3535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91240",
+      "id": "contrib-1792307281232-91240",
       "date": "2025-09-16 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3535,7 +3551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91241",
+      "id": "contrib-1792307281232-91241",
       "date": "2025-09-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3551,7 +3567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91242",
+      "id": "contrib-1792307281232-91242",
       "date": "2025-06-04 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3567,7 +3583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91243",
+      "id": "contrib-1792307281232-91243",
       "date": "2025-08-26 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3583,7 +3599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91244",
+      "id": "contrib-1792307281232-91244",
       "date": "2025-10-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3599,7 +3615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91245",
+      "id": "contrib-1792307281232-91245",
       "date": "2025-09-08 00:00:00",
       "amount": 100.86,
       "candidate_name": "Elise Nieshalla",
@@ -3615,7 +3631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91246",
+      "id": "contrib-1792307281232-91246",
       "date": "2025-09-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3631,7 +3647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91247",
+      "id": "contrib-1792307281232-91247",
       "date": "2025-08-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3647,7 +3663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91248",
+      "id": "contrib-1792307281232-91248",
       "date": "2025-05-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3663,7 +3679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91249",
+      "id": "contrib-1792307281232-91249",
       "date": "2025-09-09 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3679,7 +3695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91250",
+      "id": "contrib-1792307281232-91250",
       "date": "2025-07-24 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3695,7 +3711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91251",
+      "id": "contrib-1792307281232-91251",
       "date": "2025-12-22 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3711,7 +3727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91252",
+      "id": "contrib-1792307281232-91252",
       "date": "2025-12-22 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3727,7 +3743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91253",
+      "id": "contrib-1792307281232-91253",
       "date": "2025-09-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3743,7 +3759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91254",
+      "id": "contrib-1792307281232-91254",
       "date": "2025-09-02 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3759,7 +3775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769438-91255",
+      "id": "contrib-1792307281232-91255",
       "date": "2025-07-21 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -3775,7 +3791,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21633",
+      "id": "contrib-1792307281987-58745",
+      "date": "2026-09-11 00:00:00",
+      "amount": 20,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58746",
+      "date": "2026-08-26 00:00:00",
+      "amount": 50,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58747",
+      "date": "2026-09-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58748",
+      "date": "2026-09-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58749",
+      "date": "2026-09-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58750",
       "date": "2026-06-04 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -3791,7 +3887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21634",
+      "id": "contrib-1792307281987-58751",
       "date": "2026-06-30 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -3807,7 +3903,247 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21635",
+      "id": "contrib-1792307281987-58752",
+      "date": "2026-07-07 00:00:00",
+      "amount": 65,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58753",
+      "date": "2026-08-05 00:00:00",
+      "amount": 65,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58754",
+      "date": "2026-09-09 00:00:00",
+      "amount": 65,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58755",
+      "date": "2026-09-11 00:00:00",
+      "amount": 75,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58756",
+      "date": "2026-07-01 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58757",
+      "date": "2026-07-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58758",
+      "date": "2026-08-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58759",
+      "date": "2026-09-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58760",
+      "date": "2026-09-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58761",
+      "date": "2026-09-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58762",
+      "date": "2026-09-17 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58763",
+      "date": "2026-09-21 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58764",
+      "date": "2026-09-25 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58765",
+      "date": "2026-09-28 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58766",
+      "date": "2026-09-11 00:00:00",
+      "amount": 260,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58767",
       "date": "2026-06-18 00:00:00",
       "amount": 47.06,
       "candidate_name": "Elise Nieshalla",
@@ -3823,7 +4159,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21636",
+      "id": "contrib-1792307281987-58768",
+      "date": "2026-08-03 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Enzyme Solutions, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Garrett",
+      "address_state": "IN",
+      "address_zip": "46738",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58769",
+      "date": "2026-08-26 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Farbest Foods, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Huntington",
+      "address_state": "IN",
+      "address_zip": "47542",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58770",
       "date": "2026-05-18 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3839,7 +4207,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21637",
+      "id": "contrib-1792307281987-58771",
+      "date": "2026-09-30 00:00:00",
+      "amount": 310,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Zionsville Printing Pros",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58772",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Alfonso Vidal",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Newburgh",
+      "address_state": "IN",
+      "address_zip": "47630",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58773",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -3855,7 +4255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21638",
+      "id": "contrib-1792307281987-58774",
       "date": "2026-04-20 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -3871,7 +4271,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21639",
+      "id": "contrib-1792307281987-58775",
+      "date": "2026-07-25 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Anthony Samuel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58776",
+      "date": "2026-07-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "April Sasso",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58777",
       "date": "2026-04-21 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -3887,7 +4319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21640",
+      "id": "contrib-1792307281987-58778",
       "date": "2026-06-23 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3903,7 +4335,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21641",
+      "id": "contrib-1792307281987-58779",
+      "date": "2026-09-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Becky Foltz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58780",
       "date": "2026-06-08 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -3919,7 +4367,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21642",
+      "id": "contrib-1792307281987-58781",
+      "date": "2026-08-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Billie Dragoo",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58782",
       "date": "2026-05-22 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -3935,7 +4399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21643",
+      "id": "contrib-1792307281987-58783",
       "date": "2026-06-12 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3951,7 +4415,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21644",
+      "id": "contrib-1792307281987-58784",
+      "date": "2026-08-11 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Bob Bowen",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58785",
+      "date": "2026-08-05 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Bob Laikin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58786",
+      "date": "2026-09-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Brad Claretto",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58787",
       "date": "2026-06-23 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -3967,7 +4479,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21645",
+      "id": "contrib-1792307281987-58788",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Brent  Tilson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58789",
       "date": "2026-06-30 00:00:00",
       "amount": 200,
       "candidate_name": "Elise Nieshalla",
@@ -3983,7 +4511,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21646",
+      "id": "contrib-1792307281987-58790",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Bryan Fischer",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58791",
+      "date": "2026-09-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Carly Brandenburg",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Munster",
+      "address_state": "IN",
+      "address_zip": "46321",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58792",
+      "date": "2026-09-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Caroline Robbins",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58793",
       "date": "2026-04-24 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -3999,7 +4575,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21647",
+      "id": "contrib-1792307281987-58794",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Charlie Hiltunen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58795",
       "date": "2026-05-29 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -4015,7 +4607,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21648",
+      "id": "contrib-1792307281987-58796",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Christopher King",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58797",
+      "date": "2026-08-11 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Chuck Surack",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46818",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58798",
       "date": "2026-06-30 00:00:00",
       "amount": 150,
       "candidate_name": "Elise Nieshalla",
@@ -4031,7 +4655,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21649",
+      "id": "contrib-1792307281987-58799",
+      "date": "2026-08-26 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Cullen McCarty",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47404",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58800",
+      "date": "2026-07-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Dale Budzon",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Sarasota",
+      "address_state": "FL",
+      "address_zip": "34231",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58801",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Dan Chancellor",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47711",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58802",
+      "date": "2026-09-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Danielle Robinson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58803",
+      "date": "2026-07-01 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Danny Huston",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Media/Public Relations",
+      "occupation_category": "government",
+      "address_city": "Parker City",
+      "address_state": "IN",
+      "address_zip": "47368",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58804",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Darren Reese",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58805",
+      "date": "2026-09-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "David Abbott",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Rome City",
+      "address_state": "IN",
+      "address_zip": "46784",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58806",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4047,7 +4783,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21650",
+      "id": "contrib-1792307281987-58807",
+      "date": "2026-08-01 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "David Carr",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58808",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "David Lahey",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46229",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58809",
       "date": "2026-03-25 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4063,7 +4831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21651",
+      "id": "contrib-1792307281987-58810",
       "date": "2026-01-22 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -4079,7 +4847,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21652",
+      "id": "contrib-1792307281987-58811",
+      "date": "2026-09-30 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Don Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58812",
+      "date": "2026-07-24 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Donald Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58813",
+      "date": "2026-08-26 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Donald Steel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58814",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Drew Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58815",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Elaine Bedel",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58816",
+      "date": "2026-09-03 00:00:00",
+      "amount": 513,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Elise Nieshalla",
+      "contributor_type": "self",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58817",
+      "date": "2026-09-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "G Michael Schopmeyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58818",
+      "date": "2026-07-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Gary Dillon",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Pierceton",
+      "address_state": "IN",
+      "address_zip": "46562",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58819",
+      "date": "2026-09-28 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Gary Fox",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Granger",
+      "address_state": "IN",
+      "address_zip": "46530",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58820",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Gary Lehman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47903",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58821",
       "date": "2026-05-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4095,7 +5023,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21653",
+      "id": "contrib-1792307281987-58822",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Glen Scolnik",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58823",
+      "date": "2026-09-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Greg Holzum",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58824",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Greg Hubler",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Camby",
+      "address_state": "IN",
+      "address_zip": "46113",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58825",
+      "date": "2026-07-21 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Gregory Gurnik",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bargersville",
+      "address_state": "IN",
+      "address_zip": "46106",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58826",
+      "date": "2026-08-01 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "HAMILTON SMITH",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "ANDERSON",
+      "address_state": "IN",
+      "address_zip": "46011",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58827",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Harry Brickley",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58828",
+      "date": "2026-09-11 00:00:00",
+      "amount": 300,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Hunter Smith",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58829",
       "date": "2026-06-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4111,7 +5151,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21654",
+      "id": "contrib-1792307281987-58830",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jacqueline Stout",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Science/Technology",
+      "occupation_category": "other",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58831",
       "date": "2026-03-26 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4127,7 +5183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21655",
+      "id": "contrib-1792307281987-58832",
       "date": "2026-03-31 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4143,7 +5199,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21656",
+      "id": "contrib-1792307281987-58833",
+      "date": "2026-08-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "James Bopp",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58834",
       "date": "2026-05-18 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -4159,7 +5231,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21657",
+      "id": "contrib-1792307281987-58835",
+      "date": "2026-09-02 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "James Longest",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58836",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jane Myers",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lebanon",
+      "address_state": "IN",
+      "address_zip": "46052",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58837",
       "date": "2026-06-04 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4175,7 +5279,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21658",
+      "id": "contrib-1792307281987-58838",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jefferson Shreve",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58839",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jeffery Cardwell",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46227",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58840",
       "date": "2026-03-05 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4191,7 +5327,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21659",
+      "id": "contrib-1792307281987-58841",
+      "date": "2026-08-18 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jeffrey Kittle",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46228",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58842",
       "date": "2026-05-28 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4207,7 +5359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21660",
+      "id": "contrib-1792307281987-58843",
       "date": "2026-05-06 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4223,7 +5375,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21661",
+      "id": "contrib-1792307281987-58844",
+      "date": "2026-08-05 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Jim Purucker",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Lobbyist",
+      "occupation_category": "other",
+      "address_city": "Culver",
+      "address_state": "IN",
+      "address_zip": "46511",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58845",
+      "date": "2026-09-02 00:00:00",
+      "amount": 350,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "JoAnn Brouillette",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47901",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58846",
+      "date": "2026-07-24 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "John Demaree",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58847",
+      "date": "2026-08-26 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "John Moran",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58848",
+      "date": "2026-09-11 00:00:00",
+      "amount": 125,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "John Stehr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58849",
       "date": "2026-06-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4239,7 +5471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21662",
+      "id": "contrib-1792307281987-58850",
       "date": "2026-03-20 00:00:00",
       "amount": 65,
       "candidate_name": "Elise Nieshalla",
@@ -4255,7 +5487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21663",
+      "id": "contrib-1792307281987-58851",
       "date": "2026-03-17 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -4271,7 +5503,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21664",
+      "id": "contrib-1792307281987-58852",
+      "date": "2026-08-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Kent Lanum",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58853",
+      "date": "2026-09-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Kian Hudson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58854",
+      "date": "2026-07-01 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Lawren Mills",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58855",
       "date": "2026-04-14 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -4287,7 +5567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21665",
+      "id": "contrib-1792307281987-58856",
       "date": "2026-01-08 00:00:00",
       "amount": 9.5,
       "candidate_name": "Elise Nieshalla",
@@ -4303,7 +5583,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769713-21666",
+      "id": "contrib-1792307281987-58857",
+      "date": "2026-09-02 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Linda Sanders",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Shelbyville",
+      "address_state": "IN",
+      "address_zip": "46176",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58858",
+      "date": "2026-08-19 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Liza Najem",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46260",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58859",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Lloyd Winnecke",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47708",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58860",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4319,7 +5647,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21667",
+      "id": "contrib-1792307281987-58861",
+      "date": "2026-09-17 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Margaret Nicholson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58862",
+      "date": "2026-09-25 00:00:00",
+      "amount": 300,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Margie Sheffield",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58863",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Mark Bowell",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46256",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58864",
+      "date": "2026-08-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Mary Martin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Angola",
+      "address_state": "IN",
+      "address_zip": "46703",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58865",
+      "date": "2026-08-01 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Melissa Proffitt Schmidt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58866",
       "date": "2026-06-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4335,7 +5743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21668",
+      "id": "contrib-1792307281987-58867",
       "date": "2026-04-30 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4351,7 +5759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21669",
+      "id": "contrib-1792307281987-58868",
       "date": "2026-06-02 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4367,7 +5775,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21670",
+      "id": "contrib-1792307281987-58869",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Mike Speedy",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46259",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58870",
       "date": "2026-03-20 00:00:00",
       "amount": 17,
       "candidate_name": "Elise Nieshalla",
@@ -4383,7 +5807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21671",
+      "id": "contrib-1792307281987-58871",
       "date": "2026-06-30 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4399,7 +5823,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21672",
+      "id": "contrib-1792307281987-58872",
+      "date": "2026-07-27 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Paul Mullin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46220",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58873",
       "date": "2026-03-31 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -4415,7 +5855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21673",
+      "id": "contrib-1792307281987-58874",
       "date": "2026-06-08 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -4431,7 +5871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21674",
+      "id": "contrib-1792307281987-58875",
       "date": "2026-03-31 00:00:00",
       "amount": 50,
       "candidate_name": "Elise Nieshalla",
@@ -4447,7 +5887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21675",
+      "id": "contrib-1792307281987-58876",
       "date": "2026-04-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4463,7 +5903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21676",
+      "id": "contrib-1792307281987-58877",
       "date": "2026-06-16 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4479,7 +5919,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21677",
+      "id": "contrib-1792307281987-58878",
+      "date": "2026-09-11 00:00:00",
+      "amount": 100,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Richard Peltier",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Crown Point",
+      "address_state": "IN",
+      "address_zip": "46307",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58879",
+      "date": "2026-09-09 00:00:00",
+      "amount": 150,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Rob Brown",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Insurance Industry",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58880",
       "date": "2026-06-30 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -4495,7 +5967,215 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21678",
+      "id": "contrib-1792307281987-58881",
+      "date": "2026-09-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Robert Koch",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58882",
+      "date": "2026-08-26 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Robert Koch",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58883",
+      "date": "2026-09-11 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Rockford Stites",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46060",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58884",
+      "date": "2026-07-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Roger Muselman",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Berne",
+      "address_state": "IN",
+      "address_zip": "46711",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58885",
+      "date": "2026-08-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Roger Stark",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60660",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58886",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Ron Turpin",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58887",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Ronda Shrewsbury",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58888",
+      "date": "2026-09-02 00:00:00",
+      "amount": 65,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Russell Connan",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58889",
+      "date": "2026-09-02 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Russell Connan",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Automotive Industry",
+      "occupation_category": "other",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58890",
+      "date": "2026-09-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Russell Lloyd",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Eva",
+      "address_state": "IN",
+      "address_zip": "47714",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58891",
+      "date": "2026-07-25 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Sally  Booth",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58892",
+      "date": "2026-07-27 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Sam Barke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Mishawaka",
+      "address_state": "IN",
+      "address_zip": "46544",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58893",
+      "date": "2026-08-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Scott Guenthner",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58894",
       "date": "2026-06-30 00:00:00",
       "amount": 100,
       "candidate_name": "Elise Nieshalla",
@@ -4511,7 +6191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21679",
+      "id": "contrib-1792307281987-58895",
       "date": "2026-06-08 00:00:00",
       "amount": 5000,
       "candidate_name": "Elise Nieshalla",
@@ -4527,7 +6207,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21680",
+      "id": "contrib-1792307281987-58896",
+      "date": "2026-09-02 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Sovilla Mennen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Kirklin",
+      "address_state": "IN",
+      "address_zip": "46050",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58897",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Steve Huggins",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Bluffton",
+      "address_state": "IN",
+      "address_zip": "46713",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58898",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Steve Schreckengast",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58899",
       "date": "2026-03-25 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4543,7 +6271,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21681",
+      "id": "contrib-1792307281987-58900",
+      "date": "2026-09-02 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Stewart McMillan",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58901",
+      "date": "2026-08-11 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Susan Brooks",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Government/Civil",
+      "occupation_category": "government",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58902",
+      "date": "2026-09-28 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Ted Nolting",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46214",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58903",
+      "date": "2026-08-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Tera Klutz",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Fishers",
+      "address_state": "IN",
+      "address_zip": "46037",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58904",
+      "date": "2026-09-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Theresa Boots",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47720",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58905",
+      "date": "2026-08-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Thomas Rayl",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Fremont",
+      "address_state": "IN",
+      "address_zip": "46737",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58906",
+      "date": "2026-09-11 00:00:00",
+      "amount": 150,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Thomas Santelli",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58907",
       "date": "2026-03-27 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4559,7 +6399,119 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21682",
+      "id": "contrib-1792307281987-58908",
+      "date": "2026-09-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Tim Litz",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Brownsburg",
+      "address_state": "IN",
+      "address_zip": "46112",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58909",
+      "date": "2026-09-11 00:00:00",
+      "amount": 200,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Timothy Neese",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Elkhart",
+      "address_state": "IN",
+      "address_zip": "46514",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58910",
+      "date": "2026-09-11 00:00:00",
+      "amount": 450,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Tom Andrew",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58911",
+      "date": "2026-08-18 00:00:00",
+      "amount": 350,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Tory Castor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58912",
+      "date": "2026-09-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Tory Castor",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46033",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58913",
+      "date": "2026-09-30 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Valerie Swack",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58914",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "William Barrett",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Greenwood",
+      "address_state": "IN",
+      "address_zip": "46142",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58915",
       "date": "2026-02-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4575,7 +6527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21683",
+      "id": "contrib-1792307281987-58916",
       "date": "2026-04-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4591,7 +6543,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21684",
+      "id": "contrib-1792307281987-58917",
+      "date": "2026-07-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "William E. Marcrum",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Healthcare/Medical",
+      "occupation_category": "medical",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47715",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58918",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Yasmin Stump",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46032",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58919",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Barnes & Thornburg LLP",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58920",
       "date": "2026-03-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4607,7 +6607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21685",
+      "id": "contrib-1792307281987-58921",
       "date": "2026-01-14 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4623,7 +6623,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21686",
+      "id": "contrib-1792307281987-58922",
+      "date": "2026-08-19 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Catalyst Public Affairs Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58923",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Committee to Elect Brian Bosma",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58924",
       "date": "2026-04-13 00:00:00",
       "amount": 250,
       "candidate_name": "Elise Nieshalla",
@@ -4639,7 +6671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21687",
+      "id": "contrib-1792307281987-58925",
       "date": "2026-06-18 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4655,7 +6687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21688",
+      "id": "contrib-1792307281987-58926",
       "date": "2026-06-18 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4671,7 +6703,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21689",
+      "id": "contrib-1792307281987-58927",
+      "date": "2026-08-20 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Elect Luke Kenley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Noblesville",
+      "address_state": "IN",
+      "address_zip": "46061",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58928",
+      "date": "2026-09-11 00:00:00",
+      "amount": 250,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Friends of Lori-Goss Reaves",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58929",
+      "date": "2026-08-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Hathaway Strategies LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58930",
+      "date": "2026-09-14 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Henke Development",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58931",
       "date": "2026-02-12 00:00:00",
       "amount": 192.68,
       "candidate_name": "Elise Nieshalla",
@@ -4687,7 +6783,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21690",
+      "id": "contrib-1792307281987-58932",
+      "date": "2026-09-03 00:00:00",
+      "amount": 6188.99,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58933",
+      "date": "2026-09-19 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Krieg Devault LLP",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58934",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Lowden Financial Partners LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Merrillville",
+      "address_state": "IN",
+      "address_zip": "46410",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58935",
+      "date": "2026-08-26 00:00:00",
+      "amount": 500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Miller Real Estate LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bloomington",
+      "address_state": "IN",
+      "address_zip": "47402",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58936",
+      "date": "2026-09-30 00:00:00",
+      "amount": 810,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "My Sugar Pie, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Zionsville",
+      "address_state": "IN",
+      "address_zip": "46077",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58937",
+      "date": "2026-08-19 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Peters for Allen County Commissioner",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46835",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58938",
+      "date": "2026-09-17 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Property Advocacy Group LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58939",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "RJL Solutions, LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Terre Haute",
+      "address_state": "IN",
+      "address_zip": "47807",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58940",
       "date": "2026-06-30 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4703,7 +6927,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21691",
+      "id": "contrib-1792307281987-58941",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Frost Brown Todd PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46244",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58942",
       "date": "2026-04-07 00:00:00",
       "amount": 2500,
       "candidate_name": "Elise Nieshalla",
@@ -4719,7 +6959,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21692",
+      "id": "contrib-1792307281987-58943",
+      "date": "2026-09-11 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Indiana Dealers Election Action for Survival",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDPLS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58944",
+      "date": "2026-07-13 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Taft Stettinius & Hollister Better Government Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58945",
       "date": "2026-04-13 00:00:00",
       "amount": 1000,
       "candidate_name": "Elise Nieshalla",
@@ -4735,7 +7007,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769714-21693",
+      "id": "contrib-1792307281987-58946",
+      "date": "2026-08-01 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "ICE PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46282",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58947",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Indiana BankPAC",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58948",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Indiana Builders PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis ",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58949",
       "date": "2026-05-18 00:00:00",
       "amount": 500,
       "candidate_name": "Elise Nieshalla",
@@ -4747,6 +7067,22 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46250",
+      "recipient_committee": "Friends for Elise Nieshalla",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-58950",
+      "date": "2026-08-05 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Elise Nieshalla",
+      "contributor_name": "Northern Indiana Operators Joint Labor-Management PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Countryside",
+      "address_state": "IL",
+      "address_zip": "60525",
       "recipient_committee": "Friends for Elise Nieshalla",
       "source": "indiana"
     }

@@ -2,14 +2,14 @@
   "id": "family-express-pac",
   "name": "Family Express PAC",
   "totals": {
-    "total_given": "6700.00",
-    "total_contributions": 3,
-    "candidates_supported": 2
+    "total_given": "26700.00",
+    "total_contributions": 7,
+    "candidates_supported": 4
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "6200.00"
+      "count": 6,
+      "total": "26200.00"
     },
     "medium": {
       "count": 1,
@@ -25,12 +25,40 @@
       "count": 1,
       "total": "5000.00"
     },
+    "2026-06": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-04": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-05": {
+      "count": 1,
+      "total": "5000.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "5000.00"
+    },
     "2026-02": {
       "count": 1,
       "total": "500.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "edmond-lewis-soliday",
+      "name": "Edmond Lewis Soliday",
+      "total": "5000.00",
+      "count": 1
+    },
+    {
+      "id": "daniel-michael-elliott",
+      "name": "Daniel Michael Elliott",
+      "total": "5000.00",
+      "count": 1
+    },
     {
       "id": "ronnie-j-alting",
       "name": "Ronnie J. Alting",
@@ -46,7 +74,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769356-28730",
+      "id": "contrib-1792307281149-28730",
       "date": "2025-07-18 00:00:00",
       "amount": 1200,
       "candidate_name": "Ronnie J. Alting",
@@ -62,7 +90,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769358-31591",
+      "id": "contrib-1792307281151-31591",
       "date": "2025-04-04 00:00:00",
       "amount": 5000,
       "contributor_name": "Family Express PAC",
@@ -77,7 +105,69 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769742-31407",
+      "id": "contrib-1792307281912-8688",
+      "date": "2026-06-22 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Family Express PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "INDIANA BUSINESS FOR RESPONSIVE GOVERNMENT",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281939-25943",
+      "date": "2026-04-24 00:00:00",
+      "amount": 5000,
+      "contributor_name": "Family Express PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valpraraiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Porter County Republican Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281945-30585",
+      "date": "2026-05-16 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Edmond Lewis Soliday",
+      "contributor_name": "FAMILY EXPRESS PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "VALPARAISO",
+      "address_state": "IN",
+      "address_zip": "46308",
+      "recipient_committee": "Friends of Ed Soliday Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281983-55496",
+      "date": "2026-08-26 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Daniel Michael Elliott",
+      "contributor_name": "Family Express PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Friends of Daniel Elliott",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282027-85585",
       "date": "2026-02-02 00:00:00",
       "amount": 500,
       "candidate_name": "Kristi Marie Risk",

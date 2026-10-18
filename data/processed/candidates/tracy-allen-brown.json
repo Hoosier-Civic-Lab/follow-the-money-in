@@ -6,48 +6,164 @@
   "district": null,
   "party": "Republican",
   "totals": {
-    "total_raised": "3226.74",
-    "total_contributions": 5,
-    "total_itemized": 5,
+    "total_raised": "36115.78",
+    "total_contributions": 23,
+    "total_itemized": 23,
     "total_unitemized": 0
   },
   "by_contributor_type": {
+    "corporate": {
+      "count": 2,
+      "total": "2000.00"
+    },
     "individual": {
-      "count": 3,
-      "total": "2195.00"
+      "count": 12,
+      "total": "7595.00"
     },
     "committee": {
-      "count": 2,
-      "total": "1031.74"
+      "count": 9,
+      "total": "26520.78"
     }
   },
   "by_contribution_size": {
+    "large": {
+      "count": 11,
+      "total": "31863.72"
+    },
     "medium": {
-      "count": 3,
-      "total": "1338.48"
+      "count": 11,
+      "total": "4208.80"
     },
     "small": {
       "count": 1,
       "total": "43.26"
-    },
-    "large": {
-      "count": 1,
-      "total": "1845.00"
     }
   },
   "by_month": {
+    "2026-10": {
+      "count": 7,
+      "total": "9550.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "600.00"
+    },
+    "2026-04": {
+      "count": 7,
+      "total": "10561.98"
+    },
     "2026-03": {
       "count": 4,
       "total": "3183.48"
     },
-    "2026-04": {
+    "2026-05": {
       "count": 1,
-      "total": "43.26"
+      "total": "3750.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "8470.32"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769757-35147",
+      "id": "contrib-1792307282051-95454",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Bestway of Indiana, Inc.",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kalamazoo",
+      "address_state": "MI",
+      "address_zip": "49048",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95455",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Tippecanoe Development LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47902",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95456",
+      "date": "2026-07-24 00:00:00",
+      "amount": 100,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Alan Kemper",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95457",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Arlan N Stavnheim",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95458",
+      "date": "2026-04-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Carolyn  T Elliott",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Greencastle",
+      "address_state": "IN",
+      "address_zip": "46135",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95459",
+      "date": "2026-04-27 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Greg Milakis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95460",
       "date": "2026-03-05 00:00:00",
       "amount": 250,
       "candidate_name": "Tracy Allen Brown",
@@ -63,7 +179,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35148",
+      "id": "contrib-1792307282051-95461",
+      "date": "2026-10-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Mark Genda",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Frankfort",
+      "address_state": "IN",
+      "address_zip": "46041",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95462",
+      "date": "2026-07-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Mark Genda",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Frankfort",
+      "address_state": "IN",
+      "address_zip": "46041",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95463",
+      "date": "2026-04-12 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Mary C Ellis",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "General Business",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47909-6984",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95464",
       "date": "2026-03-05 00:00:00",
       "amount": 100,
       "candidate_name": "Tracy Allen Brown",
@@ -79,7 +243,103 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35149",
+      "id": "contrib-1792307282051-95465",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "William W Anderson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Linden",
+      "address_state": "IN",
+      "address_zip": "47955",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95466",
+      "date": "2026-05-11 00:00:00",
+      "amount": 3750,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95467",
+      "date": "2026-04-28 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95468",
+      "date": "2026-10-05 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95469",
+      "date": "2026-09-08 00:00:00",
+      "amount": 7500,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95470",
+      "date": "2026-09-21 00:00:00",
+      "amount": 970.32,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95471",
       "date": "2026-03-26 00:00:00",
       "amount": 988.48,
       "candidate_name": "Tracy Allen Brown",
@@ -95,7 +355,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35150",
+      "id": "contrib-1792307282051-95472",
+      "date": "2026-04-20 00:00:00",
+      "amount": 2268.72,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "House Republican Campaign Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46206",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95473",
       "date": "2026-04-08 00:00:00",
       "amount": 43.26,
       "candidate_name": "Tracy Allen Brown",
@@ -111,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769757-35151",
+      "id": "contrib-1792307282051-95474",
       "date": "2026-03-03 00:00:00",
       "amount": 1845,
       "candidate_name": "Tracy Allen Brown",
@@ -123,6 +399,38 @@
       "address_city": "Lafayette",
       "address_state": "IN",
       "address_zip": "47904",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95475",
+      "date": "2026-10-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Builder's Association of Greater Lafayette PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LAFAYETTE",
+      "address_state": "IN",
+      "address_zip": "47902",
+      "recipient_committee": "Tracy Brown for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282051-95476",
+      "date": "2026-04-12 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Tracy Allen Brown",
+      "contributor_name": "Builder's Association of Lafayette",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47902-0066",
       "recipient_committee": "Tracy Brown for Indiana",
       "source": "indiana"
     }

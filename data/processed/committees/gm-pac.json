@@ -2,18 +2,18 @@
   "id": "gm-pac",
   "name": "GM PAC",
   "totals": {
-    "total_given": "17000.00",
-    "total_contributions": 9,
-    "candidates_supported": 7
+    "total_given": "22500.00",
+    "total_contributions": 15,
+    "candidates_supported": 11
   },
   "by_contribution_size": {
     "large": {
-      "count": 6,
-      "total": "15500.00"
+      "count": 10,
+      "total": "20000.00"
     },
     "medium": {
-      "count": 3,
-      "total": "1500.00"
+      "count": 5,
+      "total": "2500.00"
     }
   },
   "by_month": {
@@ -25,6 +25,10 @@
       "count": 1,
       "total": "500.00"
     },
+    "2026-08": {
+      "count": 1,
+      "total": "1000.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "5000.00"
@@ -32,6 +36,14 @@
     "2026-03": {
       "count": 1,
       "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 3,
+      "total": "2000.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "2500.00"
     }
   },
   "top_recipients": [
@@ -42,20 +54,32 @@
       "count": 1
     },
     {
+      "id": "dave-allen-heine",
+      "name": "Dave Allen Heine",
+      "total": "2000.00",
+      "count": 2
+    },
+    {
+      "id": "ethan-j-lawson",
+      "name": "ETHAN J LAWSON",
+      "total": "1500.00",
+      "count": 1
+    },
+    {
       "id": "andy-r-zay",
       "name": "Andy R Zay",
       "total": "1000.00",
       "count": 1
     },
     {
-      "id": "dave-allen-heine",
-      "name": "Dave Allen Heine",
+      "id": "travis-linn-holdman",
+      "name": "Travis Linn Holdman",
       "total": "1000.00",
       "count": 1
     },
     {
-      "id": "travis-linn-holdman",
-      "name": "Travis Linn Holdman",
+      "id": "kerry-joseph-forestal",
+      "name": "Kerry Joseph Forestal",
       "total": "1000.00",
       "count": 1
     },
@@ -76,11 +100,23 @@
       "name": "Kyle Robert Miller",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "heath-randall-van-natter",
+      "name": "Heath Randall Van Natter",
+      "total": "500.00",
+      "count": 1
+    },
+    {
+      "id": "christopher-david-may",
+      "name": "Christopher David May",
+      "total": "500.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769318-6571",
+      "id": "contrib-1792307281105-6571",
       "date": "2025-06-03 00:00:00",
       "amount": 2500,
       "contributor_name": "GM PAC",
@@ -95,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769323-12414",
+      "id": "contrib-1792307281112-12414",
       "date": "2025-06-05 00:00:00",
       "amount": 5000,
       "contributor_name": "GM PAC",
@@ -110,7 +146,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769359-33018",
+      "id": "contrib-1792307281152-33018",
       "date": "2025-06-06 00:00:00",
       "amount": 500,
       "candidate_name": "James Andrew Tomes",
@@ -126,7 +162,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-79983",
+      "id": "contrib-1792307281214-79983",
       "date": "2025-06-19 00:00:00",
       "amount": 1000,
       "candidate_name": "Andy R Zay",
@@ -142,7 +178,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80510",
+      "id": "contrib-1792307281215-80510",
       "date": "2025-06-25 00:00:00",
       "amount": 500,
       "candidate_name": "C. Blake Doriot",
@@ -158,7 +194,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769422-80599",
+      "id": "contrib-1792307281215-80599",
       "date": "2025-06-24 00:00:00",
       "amount": 1000,
       "candidate_name": "Dave Allen Heine",
@@ -174,7 +210,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769424-83169",
+      "id": "contrib-1792307281217-83169",
       "date": "2025-11-10 00:00:00",
       "amount": 500,
       "candidate_name": "Kyle Robert Miller",
@@ -190,7 +226,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769685-7980",
+      "id": "contrib-1792307281904-3883",
+      "date": "2026-08-27 00:00:00",
+      "amount": 1000,
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281937-23035",
       "date": "2026-04-02 00:00:00",
       "amount": 5000,
       "candidate_name": "JAMES R BUCK",
@@ -206,7 +257,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11372",
+      "id": "contrib-1792307281947-32145",
       "date": "2026-03-27 00:00:00",
       "amount": 1000,
       "candidate_name": "Travis Linn Holdman",
@@ -219,6 +270,86 @@
       "address_state": "DC",
       "address_zip": "20001",
       "recipient_committee": "Hoosiers for Holdman",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281947-32260",
+      "date": "2026-09-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Heath Randall Van Natter",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Committee to Elect Heath VanNatter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45561",
+      "date": "2026-09-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Dave Allen Heine",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington ",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Citizens For Dave Heine",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281969-45621",
+      "date": "2026-09-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Christopher David May",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Chris May for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281999-64399",
+      "date": "2026-10-06 00:00:00",
+      "amount": 1500,
+      "candidate_name": "ETHAN J LAWSON",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "ETHAN LAWSON FOR INDIANA",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282038-88431",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Kerry Joseph Forestal",
+      "contributor_name": "GM PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Washington",
+      "address_state": "DC",
+      "address_zip": "20001",
+      "recipient_committee": "Forestal for State Senate",
       "source": "indiana"
     }
   ],

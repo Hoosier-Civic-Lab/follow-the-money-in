@@ -2,18 +2,18 @@
   "id": "committee-to-elect-carolyn-jackson",
   "name": "Committee to Elect Carolyn Jackson",
   "totals": {
-    "total_given": "2000.00",
-    "total_contributions": 2,
-    "candidates_supported": 1
+    "total_given": "4800.00",
+    "total_contributions": 4,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "1500.00"
+      "count": 2,
+      "total": "4000.00"
     },
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_month": {
@@ -21,9 +21,17 @@
       "count": 1,
       "total": "1500.00"
     },
+    "2026-06": {
+      "count": 1,
+      "total": "2500.00"
+    },
     "2026-04": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "300.00"
     }
   },
   "top_recipients": [
@@ -32,11 +40,17 @@
       "name": "Cherrish S Pryor",
       "total": "500.00",
       "count": 1
+    },
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "300.00",
+      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769319-7199",
+      "id": "contrib-1792307281106-7199",
       "date": "2025-08-07 00:00:00",
       "amount": 1500,
       "contributor_name": "Committee to Elect Carolyn Jackson",
@@ -51,7 +65,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11214",
+      "id": "contrib-1792307281907-5634",
+      "date": "2026-06-19 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Committee to Elect Carolyn Jackson",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hammond",
+      "address_state": "IN",
+      "address_zip": "46324",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281946-31916",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Cherrish S Pryor",
@@ -64,6 +93,22 @@
       "address_state": "IN",
       "address_zip": "46324",
       "recipient_committee": "Committee to Elect Cherrish Pryor",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282020-80866",
+      "date": "2026-09-09 00:00:00",
+      "amount": 300,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "Committee to Elect Carolyn Jackson",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Hammond",
+      "address_state": "IN",
+      "address_zip": "46324",
+      "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
     }
   ],

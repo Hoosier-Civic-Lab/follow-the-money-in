@@ -2,9 +2,9 @@
   "id": "indiana-merit-construction-pac-of-abc",
   "name": "Indiana Merit-Construction PAC of ABC",
   "totals": {
-    "total_given": "9000.00",
-    "total_contributions": 4,
-    "candidates_supported": 4
+    "total_given": "27500.00",
+    "total_contributions": 7,
+    "candidates_supported": 6
   },
   "by_contribution_size": {
     "medium": {
@@ -12,8 +12,12 @@
       "total": "500.00"
     },
     "large": {
-      "count": 3,
-      "total": "8500.00"
+      "count": 5,
+      "total": "12000.00"
+    },
+    "mega": {
+      "count": 1,
+      "total": "15000.00"
     }
   },
   "by_month": {
@@ -24,6 +28,10 @@
     "2025-07": {
       "count": 1,
       "total": "5000.00"
+    },
+    "2026-10": {
+      "count": 3,
+      "total": "18500.00"
     },
     "2026-03": {
       "count": 1,
@@ -44,6 +52,18 @@
       "count": 1
     },
     {
+      "id": "amy-l-kippenbrock",
+      "name": "Amy L Kippenbrock",
+      "total": "2000.00",
+      "count": 1
+    },
+    {
+      "id": "scott-allen-alexander",
+      "name": "Scott Allen Alexander",
+      "total": "1500.00",
+      "count": 1
+    },
+    {
       "id": "kyle-edward-pierce",
       "name": "Kyle Edward Pierce",
       "total": "1000.00",
@@ -58,7 +78,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769325-13928",
+      "id": "contrib-1792307281114-13928",
       "date": "2025-09-11 00:00:00",
       "amount": 500,
       "candidate_name": "R Michael Young",
@@ -74,7 +94,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769426-85153",
+      "id": "contrib-1792307281219-85153",
       "date": "2025-09-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Kyle Edward Pierce",
@@ -90,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90216",
+      "id": "contrib-1792307281231-90216",
       "date": "2025-07-26 00:00:00",
       "amount": 5000,
       "candidate_name": "Timothy Andrew O'Brien",
@@ -106,7 +126,22 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769688-11455",
+      "id": "contrib-1792307281903-3649",
+      "date": "2026-10-08 00:00:00",
+      "amount": 15000,
+      "contributor_name": "Indiana Merit-Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "House Republican Campaign Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281947-32276",
       "date": "2026-03-26 00:00:00",
       "amount": 2500,
       "candidate_name": "Heath Randall Van Natter",
@@ -119,6 +154,38 @@
       "address_state": "IN",
       "address_zip": "46226",
       "recipient_committee": "Committee to Elect Heath VanNatter",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281988-59704",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1500,
+      "candidate_name": "Scott Allen Alexander",
+      "contributor_name": "INDIANA MERIT-CONSTRUCTION PAC OF ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "INDIANAPOLIS",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Committee to Elect Scott Alexander",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282023-82733",
+      "date": "2026-10-08 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Amy L Kippenbrock",
+      "contributor_name": "Indiana Merit-Construction PAC of ABC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46226",
+      "recipient_committee": "Amy for Indiana",
       "source": "indiana"
     }
   ],

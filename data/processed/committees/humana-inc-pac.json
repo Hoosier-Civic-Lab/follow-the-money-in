@@ -2,8 +2,8 @@
   "id": "humana-inc-pac",
   "name": "Humana INC PAC",
   "totals": {
-    "total_given": "1750.00",
-    "total_contributions": 2,
+    "total_given": "2350.00",
+    "total_contributions": 3,
     "candidates_supported": 2
   },
   "by_contribution_size": {
@@ -12,33 +12,37 @@
       "total": "1000.00"
     },
     "medium": {
-      "count": 1,
-      "total": "750.00"
+      "count": 2,
+      "total": "1350.00"
     }
   },
   "by_month": {
     "2025-12": {
       "count": 2,
       "total": "1750.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "600.00"
     }
   },
   "top_recipients": [
+    {
+      "id": "tyler-guthrie-johnson",
+      "name": "Tyler Guthrie Johnson",
+      "total": "1350.00",
+      "count": 2
+    },
     {
       "id": "scott-a-baldwin",
       "name": "Scott A. Baldwin",
       "total": "1000.00",
       "count": 1
-    },
-    {
-      "id": "tyler-guthrie-johnson",
-      "name": "Tyler Guthrie Johnson",
-      "total": "750.00",
-      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769426-84528",
+      "id": "contrib-1792307281218-84528",
       "date": "2025-12-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Scott A. Baldwin",
@@ -54,9 +58,25 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769437-90611",
+      "id": "contrib-1792307281232-90611",
       "date": "2025-12-12 00:00:00",
       "amount": 750,
+      "candidate_name": "Tyler Guthrie Johnson",
+      "contributor_name": "Humana Inc PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Louisville",
+      "address_state": "KY",
+      "address_zip": "40202",
+      "recipient_committee": "Vote Dr Johnson",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281984-55857",
+      "date": "2026-09-17 00:00:00",
+      "amount": 600,
       "candidate_name": "Tyler Guthrie Johnson",
       "contributor_name": "Humana Inc PAC",
       "contributor_type": "committee",

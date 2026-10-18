@@ -2,26 +2,37 @@
   "id": "committee-to-elect-jesse-harper",
   "name": "Committee to Elect Jesse Harper",
   "totals": {
-    "total_given": "500.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "750.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "500.00"
+      "count": 2,
+      "total": "750.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "500.00"
+    },
+    "2026-10": {
+      "count": 1,
+      "total": "250.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "rodney-pol",
+      "name": "Rodney Pol",
+      "total": "250.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-442",
+      "id": "contrib-1792307281095-442",
       "date": "2025-10-26 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Jesse Harper",
@@ -33,6 +44,22 @@
       "address_state": "IN",
       "address_zip": "46383",
       "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281987-59071",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "Committee to Elect Jesse Harper",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46384",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
       "source": "indiana"
     }
   ],

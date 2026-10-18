@@ -6,9 +6,9 @@
   "district": "27",
   "party": "Democratic",
   "totals": {
-    "total_raised": "8903.01",
-    "total_contributions": 10,
-    "total_itemized": 9,
+    "total_raised": "18503.01",
+    "total_contributions": 32,
+    "total_itemized": 31,
     "total_unitemized": 1
   },
   "by_contributor_type": {
@@ -21,22 +21,26 @@
       "total": "550.00"
     },
     "committee": {
-      "count": 5,
-      "total": "2600.00"
+      "count": 6,
+      "total": "2950.00"
     },
     "individual": {
-      "count": 2,
-      "total": "800.00"
+      "count": 23,
+      "total": "10050.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "5953.01"
+      "count": 5,
+      "total": "13553.01"
     },
     "medium": {
+      "count": 19,
+      "total": "4675.00"
+    },
+    "small": {
       "count": 8,
-      "total": "2950.00"
+      "total": "275.00"
     }
   },
   "by_month": {
@@ -51,11 +55,31 @@
     "2025-07": {
       "count": 2,
       "total": "1000.00"
+    },
+    "2026-09": {
+      "count": 11,
+      "total": "6650.00"
+    },
+    "2026-10": {
+      "count": 6,
+      "total": "450.00"
+    },
+    "2026-07": {
+      "count": 3,
+      "total": "2050.00"
+    },
+    "2026-08": {
+      "count": 1,
+      "total": "100.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "350.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769324-12558",
+      "id": "contrib-1792307281112-12558",
       "date": "2025-01-01 00:00:00",
       "amount": 4953.01,
       "candidate_name": "Sheila A. Klinker",
@@ -71,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12559",
+      "id": "contrib-1792307281112-12559",
       "date": "2025-08-12 00:00:00",
       "amount": 300,
       "candidate_name": "Sheila A. Klinker",
@@ -87,7 +111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12560",
+      "id": "contrib-1792307281112-12560",
       "date": "2025-08-11 00:00:00",
       "amount": 250,
       "candidate_name": "Sheila A. Klinker",
@@ -103,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12561",
+      "id": "contrib-1792307281112-12561",
       "date": "2025-08-07 00:00:00",
       "amount": 300,
       "candidate_name": "Sheila A. Klinker",
@@ -119,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12562",
+      "id": "contrib-1792307281112-12562",
       "date": "2025-08-11 00:00:00",
       "amount": 1000,
       "candidate_name": "Sheila A. Klinker",
@@ -135,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12563",
+      "id": "contrib-1792307281112-12563",
       "date": "2025-08-22 00:00:00",
       "amount": 300,
       "candidate_name": "Sheila A. Klinker",
@@ -151,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12564",
+      "id": "contrib-1792307281112-12564",
       "date": "2025-07-31 00:00:00",
       "amount": 500,
       "candidate_name": "Sheila A. Klinker",
@@ -167,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12565",
+      "id": "contrib-1792307281112-12565",
       "date": "2025-08-06 00:00:00",
       "amount": 300,
       "candidate_name": "Sheila A. Klinker",
@@ -183,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12566",
+      "id": "contrib-1792307281112-12566",
       "date": "2025-07-15 00:00:00",
       "amount": 500,
       "candidate_name": "Sheila A. Klinker",
@@ -199,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769324-12567",
+      "id": "contrib-1792307281112-12567",
       "date": "2025-01-01 00:00:00",
       "amount": 500,
       "candidate_name": "Sheila A. Klinker",
@@ -211,6 +235,358 @@
       "address_city": "Indianapolis",
       "address_state": "IN",
       "address_zip": "46204",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9700",
+      "date": "2026-09-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Daniel Lybrook",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9701",
+      "date": "2026-09-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Daniel Lybrook",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9702",
+      "date": "2026-09-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Daniel Trinkle",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "In",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9703",
+      "date": "2026-09-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "David Raymer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47904",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9704",
+      "date": "2026-10-06 00:00:00",
+      "amount": 150,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Dawn  Baldwin",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47901",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9705",
+      "date": "2026-09-03 00:00:00",
+      "amount": 250,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Donna  Osborn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9706",
+      "date": "2026-09-26 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Donna Osborn",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "IN",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9707",
+      "date": "2026-10-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "GT Koning",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9708",
+      "date": "2026-07-14 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Lisa Pullum",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "In",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9709",
+      "date": "2026-09-02 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Malcom Duncan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9710",
+      "date": "2026-10-06 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Mary Finnegan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9711",
+      "date": "2026-10-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Monica Casanova",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47904",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9712",
+      "date": "2026-09-12 00:00:00",
+      "amount": 125,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Pam Burroff-Murr",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Williamsport",
+      "address_state": "IN",
+      "address_zip": "47933",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9713",
+      "date": "2026-08-03 00:00:00",
+      "amount": 100,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Randall Studt",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47904",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9714",
+      "date": "2026-09-02 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Rita Zawisza",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "In",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9715",
+      "date": "2026-10-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Sandra Sweval",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47905",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9716",
+      "date": "2026-09-02 00:00:00",
+      "amount": 50,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Stephen Durbin",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "West Lafayette",
+      "address_state": "In",
+      "address_zip": "47906",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9717",
+      "date": "2026-10-06 00:00:00",
+      "amount": 25,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Steven Flowers",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46201",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9718",
+      "date": "2026-07-21 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Tippecanoe Building & Construction Trades",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Lafayette",
+      "address_state": "IN",
+      "address_zip": "47902",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9719",
+      "date": "2026-09-25 00:00:00",
+      "amount": 5600,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "Indiana House Democratic Caucus",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9720",
+      "date": "2026-06-29 00:00:00",
+      "amount": 350,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "CenterPoint Energy, INC. PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "77210",
+      "recipient_committee": "Klinker for State Representative Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281913-9721",
+      "date": "2026-07-30 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Sheila A. Klinker",
+      "contributor_name": "I-PACE",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46240",
       "recipient_committee": "Klinker for State Representative Committee",
       "source": "indiana"
     }

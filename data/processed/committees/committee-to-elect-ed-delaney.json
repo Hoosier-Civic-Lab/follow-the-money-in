@@ -2,18 +2,22 @@
   "id": "committee-to-elect-ed-delaney",
   "name": "Committee to Elect Ed Delaney",
   "totals": {
-    "total_given": "5950.00",
-    "total_contributions": 8,
-    "candidates_supported": 2
+    "total_given": "64736.25",
+    "total_contributions": 22,
+    "candidates_supported": 3
   },
   "by_contribution_size": {
     "medium": {
-      "count": 5,
-      "total": "1950.00"
+      "count": 7,
+      "total": "2700.00"
     },
     "large": {
-      "count": 3,
-      "total": "4000.00"
+      "count": 13,
+      "total": "32036.25"
+    },
+    "mega": {
+      "count": 2,
+      "total": "30000.00"
     }
   },
   "by_month": {
@@ -41,6 +45,26 @@
       "count": 1,
       "total": "250.00"
     },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "3821.00"
+    },
+    "2026-10": {
+      "count": 3,
+      "total": "22740.75"
+    },
+    "2026-09": {
+      "count": 5,
+      "total": "23240.75"
+    },
+    "2026-07": {
+      "count": 3,
+      "total": "7983.75"
+    },
     "2026-04": {
       "count": 1,
       "total": "1500.00"
@@ -50,8 +74,14 @@
     {
       "id": "lindsay-danielle-gramlich",
       "name": "Lindsay Danielle Gramlich",
-      "total": "1500.00",
-      "count": 1
+      "total": "10500.00",
+      "count": 2
+    },
+    {
+      "id": "amy-huffman-oliver",
+      "name": "Amy Huffman Oliver",
+      "total": "2500.00",
+      "count": 2
     },
     {
       "id": "racheal-bleicher",
@@ -62,7 +92,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1791707769305-439",
+      "id": "contrib-1792307281095-439",
       "date": "2025-08-15 00:00:00",
       "amount": 400,
       "contributor_name": "Committee to Elect Ed Delaney",
@@ -77,7 +107,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769305-440",
+      "id": "contrib-1792307281095-440",
       "date": "2025-04-01 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Ed Delaney",
@@ -92,7 +122,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769305-441",
+      "id": "contrib-1792307281095-441",
       "date": "2025-12-05 00:00:00",
       "amount": 1000,
       "contributor_name": "Committee to Elect Ed Delaney",
@@ -107,7 +137,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769309-2084",
+      "id": "contrib-1792307281098-2084",
       "date": "2025-07-28 00:00:00",
       "amount": 500,
       "contributor_name": "Committee to Elect Ed DeLaney",
@@ -122,7 +152,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769319-7202",
+      "id": "contrib-1792307281106-7202",
       "date": "2025-08-07 00:00:00",
       "amount": 1500,
       "contributor_name": "Committee to Elect Ed Delaney",
@@ -137,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769446-100898",
+      "id": "contrib-1792307281241-100898",
       "date": "2025-10-15 00:00:00",
       "amount": 300,
       "candidate_name": "Racheal Bleicher",
@@ -153,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769674-141",
+      "id": "contrib-1792307281897-492",
       "date": "2026-03-30 00:00:00",
       "amount": 250,
       "contributor_name": "Committee to Elect Ed Delaney",
@@ -168,9 +198,222 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769741-30887",
+      "id": "contrib-1792307281897-493",
+      "date": "2026-06-05 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana Democratic State Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2157",
+      "date": "2026-08-31 00:00:00",
+      "amount": 250,
+      "contributor_name": "Committee to Elect Ed DeLaney",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281900-2158",
+      "date": "2026-10-09 00:00:00",
+      "amount": 1000,
+      "contributor_name": "Committee to Elect Ed DeLaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Marion County Democratic Central Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5637",
+      "date": "2026-09-08 00:00:00",
+      "amount": 1740.75,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5638",
+      "date": "2026-10-06 00:00:00",
+      "amount": 1740.75,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5639",
+      "date": "2026-07-07 00:00:00",
+      "amount": 1912.75,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5640",
+      "date": "2026-07-07 00:00:00",
+      "amount": 2500,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5641",
+      "date": "2026-07-07 00:00:00",
+      "amount": 3571,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5642",
+      "date": "2026-08-04 00:00:00",
+      "amount": 3571,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5643",
+      "date": "2026-09-21 00:00:00",
+      "amount": 10000,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307281907-5644",
+      "date": "2026-10-08 00:00:00",
+      "amount": 20000,
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "mega",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Indiana House Democratic Caucus",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75263",
+      "date": "2026-09-10 00:00:00",
+      "amount": 500,
+      "candidate_name": "Amy Huffman Oliver",
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Friends of Amy Huffman Oliver",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282013-75264",
+      "date": "2026-09-30 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Amy Huffman Oliver",
+      "contributor_name": "Committee to Elect Ed Delaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Friends of Amy Huffman Oliver",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282025-84128",
       "date": "2026-04-09 00:00:00",
       "amount": 1500,
+      "candidate_name": "Lindsay Danielle Gramlich",
+      "contributor_name": "Committee to Elect Ed DeLaney",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46205",
+      "recipient_committee": "Our Community for Lindsay Gramlich",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282025-84129",
+      "date": "2026-09-14 00:00:00",
+      "amount": 9000,
       "candidate_name": "Lindsay Danielle Gramlich",
       "contributor_name": "Committee to Elect Ed DeLaney",
       "contributor_type": "committee",

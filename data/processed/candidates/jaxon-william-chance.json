@@ -6,33 +6,37 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "7726.15",
-    "total_contributions": 57,
-    "total_itemized": 54,
+    "total_raised": "13354.07",
+    "total_contributions": 114,
+    "total_itemized": 111,
     "total_unitemized": 3
   },
   "by_contributor_type": {
     "individual": {
-      "count": 54,
-      "total": "7681.15"
+      "count": 110,
+      "total": "12309.07"
     },
     "unitemized": {
       "count": 3,
       "total": "45.00"
+    },
+    "committee": {
+      "count": 1,
+      "total": "1000.00"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "2655.12"
+      "count": 3,
+      "total": "3655.12"
     },
     "medium": {
-      "count": 18,
-      "total": "4476.70"
+      "count": 29,
+      "total": "8101.70"
     },
     "small": {
-      "count": 37,
-      "total": "594.33"
+      "count": 82,
+      "total": "1597.25"
     }
   },
   "by_month": {
@@ -65,17 +69,41 @@
       "total": "352.33"
     },
     "2026-04": {
-      "count": 14,
-      "total": "2727.26"
+      "count": 19,
+      "total": "3282.26"
+    },
+    "2026-06": {
+      "count": 11,
+      "total": "1522.00"
+    },
+    "2026-05": {
+      "count": 18,
+      "total": "665.92"
     },
     "2026-02": {
       "count": 12,
       "total": "316.44"
+    },
+    "2026-09": {
+      "count": 7,
+      "total": "801.00"
+    },
+    "2026-07": {
+      "count": 7,
+      "total": "601.00"
+    },
+    "2026-08": {
+      "count": 4,
+      "total": "82.00"
+    },
+    "2026-10": {
+      "count": 5,
+      "total": "1401.00"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769445-98828",
+      "id": "contrib-1792307281239-98828",
       "date": "2025-07-03 00:00:00",
       "amount": 1327.56,
       "candidate_name": "Jaxon William Chance",
@@ -91,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98829",
+      "id": "contrib-1792307281239-98829",
       "date": "2025-08-07 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -107,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98830",
+      "id": "contrib-1792307281239-98830",
       "date": "2025-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -123,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98831",
+      "id": "contrib-1792307281239-98831",
       "date": "2025-11-02 00:00:00",
       "amount": 10,
       "candidate_name": "Jaxon William Chance",
@@ -139,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98832",
+      "id": "contrib-1792307281239-98832",
       "date": "2025-12-23 00:00:00",
       "amount": 20,
       "candidate_name": "Jaxon William Chance",
@@ -155,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98833",
+      "id": "contrib-1792307281239-98833",
       "date": "2025-07-01 00:00:00",
       "amount": 1327.56,
       "candidate_name": "Jaxon William Chance",
@@ -171,7 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98834",
+      "id": "contrib-1792307281239-98834",
       "date": "2025-12-21 00:00:00",
       "amount": 200,
       "candidate_name": "Jaxon William Chance",
@@ -187,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98835",
+      "id": "contrib-1792307281239-98835",
       "date": "2025-11-04 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -203,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98836",
+      "id": "contrib-1792307281239-98836",
       "date": "2025-07-22 00:00:00",
       "amount": 50,
       "candidate_name": "Jaxon William Chance",
@@ -219,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98837",
+      "id": "contrib-1792307281239-98837",
       "date": "2025-11-11 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -235,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98838",
+      "id": "contrib-1792307281239-98838",
       "date": "2025-12-16 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -251,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98839",
+      "id": "contrib-1792307281239-98839",
       "date": "2025-08-07 00:00:00",
       "amount": 350,
       "candidate_name": "Jaxon William Chance",
@@ -267,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98840",
+      "id": "contrib-1792307281239-98840",
       "date": "2025-07-24 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -283,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98841",
+      "id": "contrib-1792307281239-98841",
       "date": "2025-12-31 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -299,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98842",
+      "id": "contrib-1792307281239-98842",
       "date": "2025-10-14 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -315,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-98843",
+      "id": "contrib-1792307281239-98843",
       "date": "2025-10-24 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -331,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25432",
+      "id": "contrib-1792307282008-70660",
       "date": "2026-01-17 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -347,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25433",
+      "id": "contrib-1792307282008-70661",
       "date": "2026-03-14 00:00:00",
       "amount": 20,
       "candidate_name": "Jaxon William Chance",
@@ -363,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25434",
+      "id": "contrib-1792307282008-70662",
       "date": "2026-03-27 00:00:00",
       "amount": 20,
       "candidate_name": "Jaxon William Chance",
@@ -379,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25435",
+      "id": "contrib-1792307282008-70663",
       "date": "2026-04-09 00:00:00",
       "amount": 688.35,
       "candidate_name": "Jaxon William Chance",
@@ -395,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25436",
+      "id": "contrib-1792307282008-70664",
       "date": "2026-01-17 00:00:00",
       "amount": 200,
       "candidate_name": "Jaxon William Chance",
@@ -411,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25437",
+      "id": "contrib-1792307282008-70665",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Jaxon William Chance",
@@ -427,7 +455,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25438",
+      "id": "contrib-1792307282008-70666",
+      "date": "2026-06-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Alex Garcia",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Russiaville",
+      "address_state": "IN",
+      "address_zip": "46979",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70667",
+      "date": "2026-05-05 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Andrew Betzner",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70668",
       "date": "2026-04-08 00:00:00",
       "amount": 5.56,
       "candidate_name": "Jaxon William Chance",
@@ -443,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25439",
+      "id": "contrib-1792307282008-70669",
       "date": "2026-02-27 00:00:00",
       "amount": 1,
       "candidate_name": "Jaxon William Chance",
@@ -459,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25440",
+      "id": "contrib-1792307282008-70670",
       "date": "2026-04-09 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -475,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25441",
+      "id": "contrib-1792307282008-70671",
       "date": "2026-03-11 00:00:00",
       "amount": 1.22,
       "candidate_name": "Jaxon William Chance",
@@ -491,7 +551,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25442",
+      "id": "contrib-1792307282008-70672",
+      "date": "2026-09-16 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Bonnie Fisher",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70673",
       "date": "2026-01-17 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -507,7 +583,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25443",
+      "id": "contrib-1792307282008-70674",
+      "date": "2026-06-30 00:00:00",
+      "amount": 200,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Caleb  Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70675",
+      "date": "2026-09-21 00:00:00",
+      "amount": 320,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Caleb  Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70676",
+      "date": "2026-07-17 00:00:00",
+      "amount": 500,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Caleb  Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70677",
       "date": "2026-04-09 00:00:00",
       "amount": 688.35,
       "candidate_name": "Jaxon William Chance",
@@ -523,7 +647,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25444",
+      "id": "contrib-1792307282008-70678",
+      "date": "2026-06-26 00:00:00",
+      "amount": 960,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Caleb  Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70679",
+      "date": "2026-05-02 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Candace Staton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Russiaville",
+      "address_state": "IN",
+      "address_zip": "46979",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70680",
+      "date": "2026-06-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Candace Staton",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Russiaville",
+      "address_state": "IN",
+      "address_zip": "46979",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70681",
       "date": "2026-04-04 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -539,7 +711,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25445",
+      "id": "contrib-1792307282008-70682",
+      "date": "2026-08-06 00:00:00",
+      "amount": 1,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Dawn Moore",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "Portage",
+      "address_state": "IN",
+      "address_zip": "46368",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70683",
+      "date": "2026-05-01 00:00:00",
+      "amount": 5,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Denise Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70684",
+      "date": "2026-04-22 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Denise Johnson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70685",
+      "date": "2026-05-19 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Edwin Faunce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70686",
+      "date": "2026-05-26 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Edwin Faunce",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70687",
       "date": "2026-03-14 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -555,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25446",
+      "id": "contrib-1792307282008-70688",
       "date": "2026-03-21 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -571,7 +823,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25447",
+      "id": "contrib-1792307282008-70689",
+      "date": "2026-06-05 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Erica Edgar",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70690",
+      "date": "2026-07-18 00:00:00",
+      "amount": 1,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Erin Braune",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Jeffersonville",
+      "address_state": "IN",
+      "address_zip": "47130",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70691",
       "date": "2026-04-03 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -587,7 +871,247 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25448",
+      "id": "contrib-1792307282008-70692",
+      "date": "2026-05-03 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70693",
+      "date": "2026-06-03 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70694",
+      "date": "2026-06-17 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70695",
+      "date": "2026-08-03 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70696",
+      "date": "2026-09-03 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70697",
+      "date": "2026-10-03 00:00:00",
+      "amount": 6,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70698",
+      "date": "2026-06-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70699",
+      "date": "2026-07-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70700",
+      "date": "2026-08-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70701",
+      "date": "2026-09-17 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "George Sullivan-Davis",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Tipton",
+      "address_state": "IN",
+      "address_zip": "46072",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70702",
+      "date": "2026-06-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Glen Bois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70703",
+      "date": "2026-07-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Glen Bois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70704",
+      "date": "2026-08-17 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Glen Bois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70705",
+      "date": "2026-09-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Glen Bois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70706",
+      "date": "2026-10-07 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Glen Bois",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70707",
       "date": "2026-02-21 00:00:00",
       "amount": 2.94,
       "candidate_name": "Jaxon William Chance",
@@ -603,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25449",
+      "id": "contrib-1792307282008-70708",
       "date": "2026-01-17 00:00:00",
       "amount": 200,
       "candidate_name": "Jaxon William Chance",
@@ -619,7 +1143,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25450",
+      "id": "contrib-1792307282008-70709",
+      "date": "2026-05-10 00:00:00",
+      "amount": 27.15,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Jaxon Chance",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70710",
+      "date": "2026-06-23 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Jaxon Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70711",
+      "date": "2026-04-24 00:00:00",
+      "amount": 475,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Jaxon Chance",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901-4426",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70712",
       "date": "2026-04-09 00:00:00",
       "amount": 500,
       "candidate_name": "Jaxon William Chance",
@@ -635,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25451",
+      "id": "contrib-1792307282008-70713",
       "date": "2026-02-11 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -651,7 +1223,55 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25452",
+      "id": "contrib-1792307282008-70714",
+      "date": "2026-05-05 00:00:00",
+      "amount": 1.07,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Jessica Escalante",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "San Pedro",
+      "address_state": "CA",
+      "address_zip": "90731",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70715",
+      "date": "2026-05-08 00:00:00",
+      "amount": 5,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Joe  Rife",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70716",
+      "date": "2026-07-17 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Joe  Rife",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70717",
       "date": "2026-02-12 00:00:00",
       "amount": 1.67,
       "candidate_name": "Jaxon William Chance",
@@ -667,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25453",
+      "id": "contrib-1792307282008-70718",
       "date": "2026-04-03 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -683,7 +1303,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25454",
+      "id": "contrib-1792307282008-70719",
+      "date": "2026-05-08 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Kelly L Ringer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70720",
+      "date": "2026-04-14 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Kelly L Ringer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70721",
+      "date": "2026-05-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Kelly L Ringer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70722",
+      "date": "2026-07-11 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Lauren Soblotne",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70723",
+      "date": "2026-05-30 00:00:00",
+      "amount": 20,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Lauren Soblotne",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70724",
       "date": "2026-02-19 00:00:00",
       "amount": 7.82,
       "candidate_name": "Jaxon William Chance",
@@ -699,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25455",
+      "id": "contrib-1792307282008-70725",
       "date": "2026-01-03 00:00:00",
       "amount": 25,
       "candidate_name": "Jaxon William Chance",
@@ -715,7 +1415,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25456",
+      "id": "contrib-1792307282008-70726",
+      "date": "2026-05-01 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Maria Frye",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70727",
       "date": "2026-03-15 00:00:00",
       "amount": 200,
       "candidate_name": "Jaxon William Chance",
@@ -731,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25457",
+      "id": "contrib-1792307282008-70728",
       "date": "2026-02-13 00:00:00",
       "amount": 1.67,
       "candidate_name": "Jaxon William Chance",
@@ -747,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25458",
+      "id": "contrib-1792307282008-70729",
       "date": "2026-02-16 00:00:00",
       "amount": 33.34,
       "candidate_name": "Jaxon William Chance",
@@ -763,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25459",
+      "id": "contrib-1792307282008-70730",
       "date": "2026-02-16 00:00:00",
       "amount": 3.34,
       "candidate_name": "Jaxon William Chance",
@@ -779,7 +1495,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25460",
+      "id": "contrib-1792307282008-70731",
+      "date": "2026-06-05 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Melanie Wright",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Teacher/Education",
+      "occupation_category": "education",
+      "address_city": "Yorktown",
+      "address_state": "IN",
+      "address_zip": "47396",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70732",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -795,7 +1527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25461",
+      "id": "contrib-1792307282008-70733",
       "date": "2026-02-13 00:00:00",
       "amount": 3.34,
       "candidate_name": "Jaxon William Chance",
@@ -811,7 +1543,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25462",
+      "id": "contrib-1792307282008-70734",
+      "date": "2026-05-22 00:00:00",
+      "amount": 1.7,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Paul King",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Not Currently Employed",
+      "occupation_category": "other",
+      "address_city": "Sunnyvale",
+      "address_state": "CA",
+      "address_zip": "94086",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70735",
+      "date": "2026-09-01 00:00:00",
+      "amount": 50,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Phillip Goss",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Agriculture",
+      "occupation_category": "agriculture",
+      "address_city": "Fort Wayne",
+      "address_state": "IN",
+      "address_zip": "46809",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70736",
       "date": "2026-01-17 00:00:00",
       "amount": 100,
       "candidate_name": "Jaxon William Chance",
@@ -827,7 +1591,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25463",
+      "id": "contrib-1792307282008-70737",
+      "date": "2026-09-29 00:00:00",
+      "amount": 300,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Robert Stephenson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46903",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70738",
       "date": "2026-03-30 00:00:00",
       "amount": 1.11,
       "candidate_name": "Jaxon William Chance",
@@ -843,7 +1623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25464",
+      "id": "contrib-1792307282008-70739",
       "date": "2026-02-01 00:00:00",
       "amount": 150,
       "candidate_name": "Jaxon William Chance",
@@ -859,7 +1639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25465",
+      "id": "contrib-1792307282008-70740",
       "date": "2026-03-27 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -875,7 +1655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25466",
+      "id": "contrib-1792307282008-70741",
       "date": "2026-04-09 00:00:00",
       "amount": 5,
       "candidate_name": "Jaxon William Chance",
@@ -891,7 +1671,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25467",
+      "id": "contrib-1792307282008-70742",
+      "date": "2026-05-01 00:00:00",
+      "amount": 5,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Shelbi Name",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70743",
+      "date": "2026-04-18 00:00:00",
+      "amount": 10,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Shelbi Name",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70744",
       "date": "2026-02-10 00:00:00",
       "amount": 10,
       "candidate_name": "Jaxon William Chance",
@@ -907,7 +1719,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25468",
+      "id": "contrib-1792307282008-70745",
+      "date": "2026-05-21 00:00:00",
+      "amount": 250,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Stephen Daily",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Russiaville",
+      "address_state": "IN",
+      "address_zip": "46979",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70746",
+      "date": "2026-10-06 00:00:00",
+      "amount": 320,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Steven Bouyer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Manufacturing",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70747",
       "date": "2026-02-23 00:00:00",
       "amount": 1.32,
       "candidate_name": "Jaxon William Chance",
@@ -923,7 +1767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25469",
+      "id": "contrib-1792307282008-70748",
       "date": "2026-04-10 00:00:00",
       "amount": 50,
       "candidate_name": "Jaxon William Chance",
@@ -939,7 +1783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25470",
+      "id": "contrib-1792307282008-70749",
       "date": "2026-04-03 00:00:00",
       "amount": 20,
       "candidate_name": "Jaxon William Chance",
@@ -955,7 +1799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25471",
+      "id": "contrib-1792307282008-70750",
       "date": "2026-04-07 00:00:00",
       "amount": 20,
       "candidate_name": "Jaxon William Chance",
@@ -971,7 +1815,71 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769724-25472",
+      "id": "contrib-1792307282008-70751",
+      "date": "2026-05-01 00:00:00",
+      "amount": 80,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Thomas  Sharp",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Environmental Services",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70752",
+      "date": "2026-04-23 00:00:00",
+      "amount": 20,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Tom Roop",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Marion",
+      "address_state": "IN",
+      "address_zip": "46952",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70753",
+      "date": "2026-10-04 00:00:00",
+      "amount": 25,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Tonya Stephenson",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Real Estate Professional",
+      "occupation_category": "real_estate",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70754",
+      "date": "2026-05-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Vicki Emry",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46902",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70755",
       "date": "2026-04-10 00:00:00",
       "amount": 75,
       "candidate_name": "Jaxon William Chance",
@@ -983,6 +1891,38 @@
       "address_city": "Macy",
       "address_state": "IN",
       "address_zip": "46951",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70756",
+      "date": "2026-07-17 00:00:00",
+      "amount": 5,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "Yennifer Brumley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Food Services",
+      "occupation_category": "other",
+      "address_city": "Kokomo",
+      "address_state": "IN",
+      "address_zip": "46901",
+      "recipient_committee": "Friends of Jack Chance",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282008-70757",
+      "date": "2026-10-05 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Jaxon William Chance",
+      "contributor_name": "IN Power PAC, Inc.",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "BARGERSVILLE",
+      "address_state": "IN",
+      "address_zip": "46106",
       "recipient_committee": "Friends of Jack Chance",
       "source": "indiana"
     }

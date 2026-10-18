@@ -6,31 +6,71 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "4207.18",
-    "total_contributions": 11,
-    "total_itemized": 10,
-    "total_unitemized": 1
+    "total_raised": "10564.18",
+    "total_contributions": 22,
+    "total_itemized": 14,
+    "total_unitemized": 8
   },
   "by_contributor_type": {
     "unitemized": {
+      "count": 8,
+      "total": "4257.00"
+    },
+    "corporate": {
       "count": 1,
-      "total": "300.00"
+      "total": "1000.00"
     },
     "individual": {
-      "count": 10,
-      "total": "3907.18"
+      "count": 12,
+      "total": "4807.18"
+    },
+    "committee": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "by_contribution_size": {
     "medium": {
-      "count": 11,
-      "total": "4207.18"
+      "count": 17,
+      "total": "6889.18"
+    },
+    "large": {
+      "count": 3,
+      "total": "3665.00"
+    },
+    "small": {
+      "count": 2,
+      "total": "10.00"
     }
   },
   "by_month": {
     "2026-03": {
       "count": 10,
       "total": "4100.00"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "787.00"
+    },
+    "2026-07": {
+      "count": 2,
+      "total": "2665.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "5.00"
+    },
+    "2026-10": {
+      "count": 2,
+      "total": "700.00"
+    },
+    "2026-08": {
+      "count": 2,
+      "total": "1300.00"
+    },
+    "2026-09": {
+      "count": 2,
+      "total": "900.00"
     },
     "2026-02": {
       "count": 1,
@@ -39,7 +79,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1791707769746-33077",
+      "id": "contrib-1792307282041-89686",
       "date": "2026-03-11 00:00:00",
       "amount": 300,
       "candidate_name": "Richard M ivy",
@@ -55,7 +95,135 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33078",
+      "id": "contrib-1792307282041-89687",
+      "date": "2026-04-29 00:00:00",
+      "amount": 782,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89688",
+      "date": "2026-07-18 00:00:00",
+      "amount": 1665,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89689",
+      "date": "2026-06-29 00:00:00",
+      "amount": 5,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89690",
+      "date": "2026-04-25 00:00:00",
+      "amount": 5,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89691",
+      "date": "2026-10-02 00:00:00",
+      "amount": 200,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89692",
+      "date": "2026-08-18 00:00:00",
+      "amount": 300,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89693",
+      "date": "2026-08-26 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89694",
+      "date": "2026-07-20 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "General Construction & Consulting LLC",
+      "contributor_type": "corporate",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47303",
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89695",
       "date": "2026-03-10 00:00:00",
       "amount": 750,
       "candidate_name": "Richard M ivy",
@@ -71,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33079",
+      "id": "contrib-1792307282041-89696",
       "date": "2026-03-11 00:00:00",
       "amount": 200,
       "candidate_name": "Richard M ivy",
@@ -87,7 +255,39 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33080",
+      "id": "contrib-1792307282041-89697",
+      "date": "2026-09-08 00:00:00",
+      "amount": 400,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "Dalvir Kaur",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89698",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "Daniel Ridenour",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Muncie",
+      "address_state": "IN",
+      "address_zip": "47304",
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89699",
       "date": "2026-03-17 00:00:00",
       "amount": 500,
       "candidate_name": "Richard M ivy",
@@ -103,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33081",
+      "id": "contrib-1792307282041-89700",
       "date": "2026-03-17 00:00:00",
       "amount": 200,
       "candidate_name": "Richard M ivy",
@@ -119,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33082",
+      "id": "contrib-1792307282041-89701",
       "date": "2026-03-11 00:00:00",
       "amount": 500,
       "candidate_name": "Richard M ivy",
@@ -135,7 +335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33083",
+      "id": "contrib-1792307282041-89702",
       "date": "2026-02-20 00:00:00",
       "amount": 107.18,
       "candidate_name": "Richard M ivy",
@@ -151,7 +351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33084",
+      "id": "contrib-1792307282041-89703",
       "date": "2026-03-10 00:00:00",
       "amount": 750,
       "candidate_name": "Richard M ivy",
@@ -167,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33085",
+      "id": "contrib-1792307282041-89704",
       "date": "2026-03-16 00:00:00",
       "amount": 500,
       "candidate_name": "Richard M ivy",
@@ -183,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33086",
+      "id": "contrib-1792307282041-89705",
       "date": "2026-03-04 00:00:00",
       "amount": 200,
       "candidate_name": "Richard M ivy",
@@ -199,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769746-33087",
+      "id": "contrib-1792307282041-89706",
       "date": "2026-03-11 00:00:00",
       "amount": 200,
       "candidate_name": "Richard M ivy",
@@ -211,6 +411,22 @@
       "address_city": "Muncie",
       "address_state": "IN",
       "address_zip": "47303",
+      "recipient_committee": "Committee to Elect Richard M. Ivy",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282041-89707",
+      "date": "2026-10-09 00:00:00",
+      "amount": 500,
+      "candidate_name": "Richard M ivy",
+      "contributor_name": "Oorah Political Action  Committee",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Carmel",
+      "address_state": "IN",
+      "address_zip": "46082",
       "recipient_committee": "Committee to Elect Richard M. Ivy",
       "source": "indiana"
     }

@@ -6,41 +6,45 @@
   "district": "LaPorte",
   "party": "Republican",
   "totals": {
-    "total_raised": "93520.87",
-    "total_contributions": 50,
-    "total_itemized": 49,
-    "total_unitemized": 1
+    "total_raised": "142835.27",
+    "total_contributions": 97,
+    "total_itemized": 95,
+    "total_unitemized": 2
   },
   "by_contributor_type": {
     "unitemized": {
-      "count": 1,
-      "total": "1199.55"
+      "count": 2,
+      "total": "1514.55"
     },
     "individual": {
-      "count": 33,
-      "total": "29991.55"
+      "count": 77,
+      "total": "73747.25"
     },
     "self": {
       "count": 16,
       "total": "62329.77"
+    },
+    "committee": {
+      "count": 2,
+      "total": "5243.70"
     }
   },
   "by_contribution_size": {
     "large": {
-      "count": 10,
-      "total": "33302.09"
+      "count": 15,
+      "total": "48836.81"
     },
     "medium": {
-      "count": 34,
-      "total": "10075.05"
+      "count": 68,
+      "total": "18626.65"
     },
     "mega": {
-      "count": 1,
-      "total": "50000.00"
+      "count": 2,
+      "total": "75000.00"
     },
     "small": {
-      "count": 5,
-      "total": "143.73"
+      "count": 12,
+      "total": "371.81"
     }
   },
   "by_month": {
@@ -64,9 +68,29 @@
       "count": 3,
       "total": "220.21"
     },
+    "2026-08": {
+      "count": 22,
+      "total": "9052.02"
+    },
+    "2026-05": {
+      "count": 4,
+      "total": "1787.32"
+    },
+    "2026-07": {
+      "count": 6,
+      "total": "5612.77"
+    },
     "2026-01": {
       "count": 4,
       "total": "4259.93"
+    },
+    "2026-09": {
+      "count": 6,
+      "total": "26434.81"
+    },
+    "2026-10": {
+      "count": 5,
+      "total": "5764.20"
     },
     "2026-02": {
       "count": 1,
@@ -75,11 +99,19 @@
     "2026-03": {
       "count": 1,
       "total": "192.36"
+    },
+    "2026-06": {
+      "count": 2,
+      "total": "216.66"
+    },
+    "2026-04": {
+      "count": 2,
+      "total": "446.62"
     }
   },
   "contributions": [
     {
-      "id": "contrib-1791707769445-99945",
+      "id": "contrib-1792307281240-99945",
       "date": "2025-12-31 00:00:00",
       "amount": 1199.55,
       "candidate_name": "Chris Cleveland",
@@ -95,7 +127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99946",
+      "id": "contrib-1792307281240-99946",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Chris Cleveland",
@@ -111,7 +143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99947",
+      "id": "contrib-1792307281240-99947",
       "date": "2025-10-19 00:00:00",
       "amount": 150,
       "candidate_name": "Chris Cleveland",
@@ -127,7 +159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99948",
+      "id": "contrib-1792307281240-99948",
       "date": "2025-12-30 00:00:00",
       "amount": 260.25,
       "candidate_name": "Chris Cleveland",
@@ -143,7 +175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99949",
+      "id": "contrib-1792307281240-99949",
       "date": "2025-08-05 00:00:00",
       "amount": 5000,
       "candidate_name": "Chris Cleveland",
@@ -159,7 +191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99950",
+      "id": "contrib-1792307281240-99950",
       "date": "2025-12-31 00:00:00",
       "amount": 50000,
       "candidate_name": "Chris Cleveland",
@@ -175,7 +207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99951",
+      "id": "contrib-1792307281240-99951",
       "date": "2025-10-06 00:00:00",
       "amount": 5000,
       "candidate_name": "Chris Cleveland",
@@ -191,7 +223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99952",
+      "id": "contrib-1792307281240-99952",
       "date": "2025-12-03 00:00:00",
       "amount": 143.7,
       "candidate_name": "Chris Cleveland",
@@ -207,7 +239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99953",
+      "id": "contrib-1792307281240-99953",
       "date": "2025-12-01 00:00:00",
       "amount": 338.88,
       "candidate_name": "Chris Cleveland",
@@ -223,7 +255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99954",
+      "id": "contrib-1792307281240-99954",
       "date": "2025-10-31 00:00:00",
       "amount": 375,
       "candidate_name": "Chris Cleveland",
@@ -239,7 +271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99955",
+      "id": "contrib-1792307281240-99955",
       "date": "2025-07-10 00:00:00",
       "amount": 53.73,
       "candidate_name": "Chris Cleveland",
@@ -255,7 +287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99956",
+      "id": "contrib-1792307281240-99956",
       "date": "2025-11-03 00:00:00",
       "amount": 30.47,
       "candidate_name": "Chris Cleveland",
@@ -271,7 +303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99957",
+      "id": "contrib-1792307281240-99957",
       "date": "2025-11-01 00:00:00",
       "amount": 732.95,
       "candidate_name": "Chris Cleveland",
@@ -287,7 +319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99958",
+      "id": "contrib-1792307281240-99958",
       "date": "2025-07-09 00:00:00",
       "amount": 15.19,
       "candidate_name": "Chris Cleveland",
@@ -303,7 +335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99959",
+      "id": "contrib-1792307281240-99959",
       "date": "2025-11-02 00:00:00",
       "amount": 14.17,
       "candidate_name": "Chris Cleveland",
@@ -319,7 +351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99960",
+      "id": "contrib-1792307281240-99960",
       "date": "2025-10-17 00:00:00",
       "amount": 30.17,
       "candidate_name": "Chris Cleveland",
@@ -335,7 +367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99961",
+      "id": "contrib-1792307281240-99961",
       "date": "2025-07-03 00:00:00",
       "amount": 151.29,
       "candidate_name": "Chris Cleveland",
@@ -351,7 +383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99962",
+      "id": "contrib-1792307281240-99962",
       "date": "2025-11-03 00:00:00",
       "amount": 185,
       "candidate_name": "Chris Cleveland",
@@ -367,7 +399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99963",
+      "id": "contrib-1792307281240-99963",
       "date": "2025-11-07 00:00:00",
       "amount": 143.68,
       "candidate_name": "Chris Cleveland",
@@ -383,7 +415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99964",
+      "id": "contrib-1792307281240-99964",
       "date": "2025-11-02 00:00:00",
       "amount": 115.54,
       "candidate_name": "Chris Cleveland",
@@ -399,7 +431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99965",
+      "id": "contrib-1792307281240-99965",
       "date": "2025-12-04 00:00:00",
       "amount": 500,
       "candidate_name": "Chris Cleveland",
@@ -415,7 +447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99966",
+      "id": "contrib-1792307281240-99966",
       "date": "2025-11-01 00:00:00",
       "amount": 250,
       "candidate_name": "Chris Cleveland",
@@ -431,7 +463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99967",
+      "id": "contrib-1792307281240-99967",
       "date": "2025-11-17 00:00:00",
       "amount": 150,
       "candidate_name": "Chris Cleveland",
@@ -447,7 +479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99968",
+      "id": "contrib-1792307281240-99968",
       "date": "2025-12-02 00:00:00",
       "amount": 250,
       "candidate_name": "Chris Cleveland",
@@ -463,7 +495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99969",
+      "id": "contrib-1792307281240-99969",
       "date": "2025-11-03 00:00:00",
       "amount": 500,
       "candidate_name": "Chris Cleveland",
@@ -479,7 +511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99970",
+      "id": "contrib-1792307281240-99970",
       "date": "2025-12-02 00:00:00",
       "amount": 500,
       "candidate_name": "Chris Cleveland",
@@ -495,7 +527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99971",
+      "id": "contrib-1792307281240-99971",
       "date": "2025-12-01 00:00:00",
       "amount": 520.51,
       "candidate_name": "Chris Cleveland",
@@ -511,7 +543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99972",
+      "id": "contrib-1792307281240-99972",
       "date": "2025-11-03 00:00:00",
       "amount": 250,
       "candidate_name": "Chris Cleveland",
@@ -527,7 +559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99973",
+      "id": "contrib-1792307281240-99973",
       "date": "2025-12-30 00:00:00",
       "amount": 5000,
       "candidate_name": "Chris Cleveland",
@@ -543,7 +575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99974",
+      "id": "contrib-1792307281240-99974",
       "date": "2025-12-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Chris Cleveland",
@@ -559,7 +591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99975",
+      "id": "contrib-1792307281240-99975",
       "date": "2025-12-02 00:00:00",
       "amount": 520.51,
       "candidate_name": "Chris Cleveland",
@@ -575,7 +607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99976",
+      "id": "contrib-1792307281240-99976",
       "date": "2025-10-27 00:00:00",
       "amount": 500,
       "candidate_name": "Chris Cleveland",
@@ -591,7 +623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99977",
+      "id": "contrib-1792307281240-99977",
       "date": "2025-12-26 00:00:00",
       "amount": 520.51,
       "candidate_name": "Chris Cleveland",
@@ -607,7 +639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99978",
+      "id": "contrib-1792307281240-99978",
       "date": "2025-11-01 00:00:00",
       "amount": 260.25,
       "candidate_name": "Chris Cleveland",
@@ -623,7 +655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99979",
+      "id": "contrib-1792307281240-99979",
       "date": "2025-12-02 00:00:00",
       "amount": 200,
       "candidate_name": "Chris Cleveland",
@@ -639,7 +671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99980",
+      "id": "contrib-1792307281240-99980",
       "date": "2025-12-29 00:00:00",
       "amount": 104.1,
       "candidate_name": "Chris Cleveland",
@@ -655,7 +687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99981",
+      "id": "contrib-1792307281240-99981",
       "date": "2025-11-28 00:00:00",
       "amount": 200,
       "candidate_name": "Chris Cleveland",
@@ -671,7 +703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99982",
+      "id": "contrib-1792307281240-99982",
       "date": "2025-11-29 00:00:00",
       "amount": 312.3,
       "candidate_name": "Chris Cleveland",
@@ -687,7 +719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99983",
+      "id": "contrib-1792307281240-99983",
       "date": "2025-12-31 00:00:00",
       "amount": 250,
       "candidate_name": "Chris Cleveland",
@@ -703,7 +735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99984",
+      "id": "contrib-1792307281240-99984",
       "date": "2025-12-01 00:00:00",
       "amount": 156.16,
       "candidate_name": "Chris Cleveland",
@@ -719,7 +751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99985",
+      "id": "contrib-1792307281240-99985",
       "date": "2025-11-01 00:00:00",
       "amount": 260.25,
       "candidate_name": "Chris Cleveland",
@@ -735,7 +767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99986",
+      "id": "contrib-1792307281240-99986",
       "date": "2025-11-03 00:00:00",
       "amount": 5000,
       "candidate_name": "Chris Cleveland",
@@ -751,7 +783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99987",
+      "id": "contrib-1792307281240-99987",
       "date": "2025-12-31 00:00:00",
       "amount": 5000,
       "candidate_name": "Chris Cleveland",
@@ -767,7 +799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769445-99988",
+      "id": "contrib-1792307281240-99988",
       "date": "2025-12-02 00:00:00",
       "amount": 2500,
       "candidate_name": "Chris Cleveland",
@@ -783,7 +815,87 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27409",
+      "id": "contrib-1792307282012-74377",
+      "date": "2026-08-08 00:00:00",
+      "amount": 315,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "",
+      "contributor_type": "unitemized",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": null,
+      "address_state": null,
+      "address_zip": null,
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74378",
+      "date": "2026-05-02 00:00:00",
+      "amount": 1041.02,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Adam Mortara",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Attorney/Legal",
+      "occupation_category": "legal",
+      "address_city": "Brentwood",
+      "address_state": "TN",
+      "address_zip": "37027",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74379",
+      "date": "2026-07-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Alan Spitz",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60610",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74380",
+      "date": "2026-08-08 00:00:00",
+      "amount": 50,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Annette Dobrzeniecki",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74381",
+      "date": "2026-08-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Anthony Ferraro",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Schererville",
+      "address_state": "IN",
+      "address_zip": "46375",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74382",
       "date": "2026-01-23 00:00:00",
       "amount": 2602.54,
       "candidate_name": "Chris Cleveland",
@@ -799,7 +911,167 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27410",
+      "id": "contrib-1792307282012-74383",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Barbara Bolesch",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74384",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Bill Christakes",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74385",
+      "date": "2026-08-08 00:00:00",
+      "amount": 300,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Cheryl Evans",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74386",
+      "date": "2026-05-04 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Dan Frank",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Arlington",
+      "address_state": "VA",
+      "address_zip": "22203",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74387",
+      "date": "2026-07-29 00:00:00",
+      "amount": 25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Daniel Kelley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60659",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74388",
+      "date": "2026-09-28 00:00:00",
+      "amount": 25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Daniel Kelley",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60659",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74389",
+      "date": "2026-10-08 00:00:00",
+      "amount": 312.3,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Diane Chillian",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Valparaiso",
+      "address_state": "IN",
+      "address_zip": "46383",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74390",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Duane Miller",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74391",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Eloise Gerson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "60611",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74392",
+      "date": "2026-09-19 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Eric Ridge",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Greenville",
+      "address_state": "NC",
+      "address_zip": "27834",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74393",
       "date": "2026-01-30 00:00:00",
       "amount": 157.39,
       "candidate_name": "Chris Cleveland",
@@ -815,7 +1087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27411",
+      "id": "contrib-1792307282012-74394",
       "date": "2026-02-27 00:00:00",
       "amount": 174.42,
       "candidate_name": "Chris Cleveland",
@@ -831,7 +1103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27412",
+      "id": "contrib-1792307282012-74395",
       "date": "2026-03-31 00:00:00",
       "amount": 192.36,
       "candidate_name": "Chris Cleveland",
@@ -847,7 +1119,375 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27413",
+      "id": "contrib-1792307282012-74396",
+      "date": "2026-10-01 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Gary Larson",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Long Beach",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74397",
+      "date": "2026-08-08 00:00:00",
+      "amount": 25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Jason Meentemeyer",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Bartelso",
+      "address_state": "IL",
+      "address_zip": "62218",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74398",
+      "date": "2026-08-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Jeanne Ives",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": "Other",
+      "occupation_category": "other",
+      "address_city": "Wheaton",
+      "address_state": "IL",
+      "address_zip": "60189",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74399",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Jim Marseilles",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Union Mills",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74400",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Jody Slabaugh",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74401",
+      "date": "2026-08-08 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "John Manley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74402",
+      "date": "2026-07-20 00:00:00",
+      "amount": 5000,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "John Snider",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74403",
+      "date": "2026-09-15 00:00:00",
+      "amount": 25000,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "John Snider",
+      "contributor_type": "individual",
+      "contribution_size": "mega",
+      "occupation": "Retired",
+      "occupation_category": "retired",
+      "address_city": "South Bend",
+      "address_state": "IN",
+      "address_zip": "46617",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74404",
+      "date": "2026-06-10 00:00:00",
+      "amount": 26.03,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Katherine Magon",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74405",
+      "date": "2026-08-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Katie Bowen",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74406",
+      "date": "2026-08-08 00:00:00",
+      "amount": 200,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Michael Fish",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74407",
+      "date": "2026-07-28 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Neal Silbert",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Madison",
+      "address_state": "WI",
+      "address_zip": "53717",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74408",
+      "date": "2026-10-08 00:00:00",
+      "amount": 104.1,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Nicholas Kammer",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Monticello",
+      "address_state": "IL",
+      "address_zip": "61856",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74409",
+      "date": "2026-05-12 00:00:00",
+      "amount": 52.05,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Norman Lindskog",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74410",
+      "date": "2026-10-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Peter Heinecke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94110",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74411",
+      "date": "2026-04-16 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Peter Heinecke",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94110",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74412",
+      "date": "2026-07-22 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "R Bredehoft",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Vernon Hills",
+      "address_state": "IL",
+      "address_zip": "60061",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74413",
+      "date": "2026-08-08 00:00:00",
+      "amount": 100,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Raymond Maloney",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michigan City",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74414",
+      "date": "2026-08-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Rhonda Graves",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74415",
+      "date": "2026-09-05 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Robert Badgley",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wheaton",
+      "address_state": "IL",
+      "address_zip": "60189",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74416",
+      "date": "2026-08-08 00:00:00",
+      "amount": 2000,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Ronald Stone",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Construction/Engineering",
+      "occupation_category": "other",
+      "address_city": "Chesterton",
+      "address_state": "IN",
+      "address_zip": "46304",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74417",
+      "date": "2026-08-08 00:00:00",
+      "amount": 260.25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Sean Fagan",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Wanatah",
+      "address_state": "IN",
+      "address_zip": "46390",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74418",
+      "date": "2026-08-08 00:00:00",
+      "amount": 2500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Tim Stabosz",
+      "contributor_type": "individual",
+      "contribution_size": "large",
+      "occupation": "Financial/Investment",
+      "occupation_category": "finance",
+      "address_city": "La Porte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74419",
       "date": "2026-01-30 00:00:00",
       "amount": 500,
       "candidate_name": "Chris Cleveland",
@@ -863,7 +1503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1791707769732-27414",
+      "id": "contrib-1792307282012-74420",
       "date": "2026-01-12 00:00:00",
       "amount": 1000,
       "candidate_name": "Chris Cleveland",
@@ -875,6 +1515,150 @@
       "address_city": "Naperville",
       "address_state": "IL",
       "address_zip": "60540",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74421",
+      "date": "2026-09-12 00:00:00",
+      "amount": 500,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "463 GOP Club",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "LaPorte",
+      "address_state": "IN",
+      "address_zip": "46350",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74422",
+      "date": "2026-08-08 00:00:00",
+      "amount": 250,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Committee to Elect Bohacek Senate",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Michiana Shores",
+      "address_state": "IN",
+      "address_zip": "46360",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74423",
+      "date": "2026-09-30 00:00:00",
+      "amount": 159.81,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74424",
+      "date": "2026-04-30 00:00:00",
+      "amount": 186.37,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74425",
+      "date": "2026-06-30 00:00:00",
+      "amount": 190.63,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74426",
+      "date": "2026-05-29 00:00:00",
+      "amount": 194.25,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74427",
+      "date": "2026-07-31 00:00:00",
+      "amount": 198.42,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74428",
+      "date": "2026-08-31 00:00:00",
+      "amount": 201.77,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Fidelity Investments",
+      "contributor_type": "individual",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Boston",
+      "address_state": "MA",
+      "address_zip": "02210",
+      "recipient_committee": "Cleveland for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792307282012-74429",
+      "date": "2026-10-06 00:00:00",
+      "amount": 4993.7,
+      "candidate_name": "Chris Cleveland",
+      "contributor_name": "Indiana Republican State Committee",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46204",
       "recipient_committee": "Cleveland for Indiana",
       "source": "indiana"
     }
