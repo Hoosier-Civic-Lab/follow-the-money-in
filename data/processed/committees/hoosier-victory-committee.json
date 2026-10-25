@@ -50,7 +50,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1792307281897-672",
+      "id": "contrib-1792913339355-672",
       "date": "2026-06-05 00:00:00",
       "amount": 10000,
       "contributor_name": "Hoosier Victory Committee",
@@ -65,7 +65,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307281897-673",
+      "id": "contrib-1792913339355-673",
       "date": "2026-09-22 00:00:00",
       "amount": 50000,
       "contributor_name": "Hoosier Victory Committee",
@@ -80,7 +80,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307281904-3863",
+      "id": "contrib-1792913339359-3863",
       "date": "2026-10-07 00:00:00",
       "amount": 40000,
       "contributor_name": "Hoosier Victory Committee",
@@ -95,7 +95,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307281907-5680",
+      "id": "contrib-1792913339361-5680",
       "date": "2026-10-09 00:00:00",
       "amount": 20000,
       "contributor_name": "Hoosier Victory Committee",
@@ -110,7 +110,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307281907-5681",
+      "id": "contrib-1792913339361-5681",
       "date": "2026-09-22 00:00:00",
       "amount": 75000,
       "contributor_name": "Hoosier Victory Committee",
@@ -125,7 +125,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307282020-80931",
+      "id": "contrib-1792913339451-81308",
       "date": "2026-06-23 00:00:00",
       "amount": 1000,
       "candidate_name": "Beau Bayh",
@@ -141,7 +141,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307282020-80932",
+      "id": "contrib-1792913339451-81309",
       "date": "2026-08-27 00:00:00",
       "amount": 10000,
       "candidate_name": "Beau Bayh",
@@ -157,7 +157,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307282052-95929",
+      "id": "contrib-1792913339471-96352",
       "date": "2026-09-18 00:00:00",
       "amount": 15000,
       "candidate_name": "Sean S. Steele",
@@ -174,16 +174,22 @@
     }
   ],
   "receipts": {
-    "total_raised": "42446.00",
-    "total_contributions": 7,
-    "unique_donors": 6,
+    "total_raised": "326351.00",
+    "total_contributions": 20,
+    "unique_donors": 18,
     "by_contributor_type": {
       "individual": {
-        "count": 7,
-        "total": "42446.00"
+        "count": 20,
+        "total": "326351.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Katheleen Pettijohn",
+        "type": "individual",
+        "total": "250000.00",
+        "count": 1
+      },
       {
         "name": "Michael G. Browning",
         "type": "individual",
@@ -191,9 +197,33 @@
         "count": 1
       },
       {
+        "name": "Michael Gouloff",
+        "type": "individual",
+        "total": "10000.00",
+        "count": 1
+      },
+      {
+        "name": "Robert Urbanksi",
+        "type": "individual",
+        "total": "10000.00",
+        "count": 1
+      },
+      {
         "name": "Christopher Felts",
         "type": "individual",
-        "total": "5500.00",
+        "total": "5515.00",
+        "count": 2
+      },
+      {
+        "name": "Bart and Amy Peterson",
+        "type": "individual",
+        "total": "5000.00",
+        "count": 1
+      },
+      {
+        "name": "Shawn Mulholland",
+        "type": "individual",
+        "total": "5000.00",
         "count": 1
       },
       {
@@ -213,17 +243,41 @@
         "type": "individual",
         "total": "1196.00",
         "count": 2
-      },
-      {
-        "name": "Clinton McKay",
-        "type": "individual",
-        "total": "750.00",
-        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1792307282046-92934",
+        "id": "contrib-1792913339468-93342",
+        "date": "2026-07-25 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Ann Moreau",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93343",
+        "date": "2026-07-14 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Bart and Amy Peterson",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93344",
         "date": "2026-02-05 00:00:00",
         "amount": 1000,
         "contributor_name": "Brian Tabor",
@@ -238,7 +292,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92935",
+        "id": "contrib-1792913339468-93345",
         "date": "2026-01-26 00:00:00",
         "amount": 196,
         "contributor_name": "Brian Tabor",
@@ -253,7 +307,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92936",
+        "id": "contrib-1792913339468-93346",
+        "date": "2026-10-09 00:00:00",
+        "amount": 190,
+        "contributor_name": "Chris Felts",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46236",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93347",
         "date": "2026-03-16 00:00:00",
         "amount": 5500,
         "contributor_name": "Christopher Felts",
@@ -268,7 +337,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92937",
+        "id": "contrib-1792913339468-93348",
+        "date": "2026-05-15 00:00:00",
+        "amount": 15,
+        "contributor_name": "Christopher Felts",
+        "contributor_type": "individual",
+        "contribution_size": "small",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46236",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93349",
         "date": "2026-03-02 00:00:00",
         "amount": 750,
         "contributor_name": "Clinton McKay",
@@ -283,7 +367,22 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92938",
+        "id": "contrib-1792913339468-93350",
+        "date": "2026-05-15 00:00:00",
+        "amount": 100,
+        "contributor_name": "Denny Southerland",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93351",
         "date": "2026-03-02 00:00:00",
         "amount": 2500,
         "contributor_name": "Douglas Brown",
@@ -298,7 +397,82 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92939",
+        "id": "contrib-1792913339468-93352",
+        "date": "2026-07-20 00:00:00",
+        "amount": 100,
+        "contributor_name": "E. Timothy Delaney",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Attorney/Legal",
+        "occupation_category": "legal",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46240",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93353",
+        "date": "2026-07-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Eric Johnson",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46208",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93354",
+        "date": "2026-07-30 00:00:00",
+        "amount": 1000,
+        "contributor_name": "Jessica and Christopher Bayh",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46032",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93355",
+        "date": "2026-05-15 00:00:00",
+        "amount": 500,
+        "contributor_name": "Julie Finke",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46236",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93356",
+        "date": "2026-09-09 00:00:00",
+        "amount": 250000,
+        "contributor_name": "Katheleen Pettijohn",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "Elberfeld",
+        "address_state": "IN",
+        "address_zip": "47613",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93357",
         "date": "2026-04-06 00:00:00",
         "amount": 30000,
         "contributor_name": "Michael G. Browning",
@@ -313,7 +487,52 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1792307282046-92940",
+        "id": "contrib-1792913339468-93358",
+        "date": "2026-09-03 00:00:00",
+        "amount": 10000,
+        "contributor_name": "Michael Gouloff",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Fort Wayne",
+        "address_state": "IN",
+        "address_zip": "46804",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93359",
+        "date": "2026-05-04 00:00:00",
+        "amount": 10000,
+        "contributor_name": "Robert Urbanksi",
+        "contributor_type": "individual",
+        "contribution_size": "mega",
+        "occupation": "Retired",
+        "occupation_category": "retired",
+        "address_city": "South Bend",
+        "address_state": "IN",
+        "address_zip": "46628",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93360",
+        "date": "2026-05-04 00:00:00",
+        "amount": 5000,
+        "contributor_name": "Shawn Mulholland",
+        "contributor_type": "individual",
+        "contribution_size": "large",
+        "occupation": "Construction/Engineering",
+        "occupation_category": "other",
+        "address_city": "Indianapolis",
+        "address_state": "IN",
+        "address_zip": "46260",
+        "recipient_committee": "Hoosier Victory Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1792913339468-93361",
         "date": "2026-02-23 00:00:00",
         "amount": 2500,
         "contributor_name": "Tim Jeffers",

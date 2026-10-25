@@ -2,20 +2,24 @@
   "id": "bac-local-4-inky-involuntary-political-action-fund",
   "name": "BAC Local 4 IN/KY Involuntary Political Action Fund",
   "totals": {
-    "total_given": "4500.00",
-    "total_contributions": 2,
+    "total_given": "5500.00",
+    "total_contributions": 3,
     "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 2,
-      "total": "4500.00"
+      "count": 3,
+      "total": "5500.00"
     }
   },
   "by_month": {
     "2025-10": {
       "count": 1,
       "total": "1500.00"
+    },
+    "2026-06": {
+      "count": 1,
+      "total": "1000.00"
     },
     "2026-08": {
       "count": 1,
@@ -32,13 +36,13 @@
     {
       "id": "rodney-pol",
       "name": "Rodney Pol",
-      "total": "1500.00",
-      "count": 1
+      "total": "2500.00",
+      "count": 2
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1792307281233-91307",
+      "id": "contrib-1792913338628-91307",
       "date": "2025-10-31 00:00:00",
       "amount": 1500,
       "candidate_name": "Rodney Pol",
@@ -54,7 +58,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792307282020-80985",
+      "id": "contrib-1792913339426-59374",
+      "date": "2026-06-08 00:00:00",
+      "amount": 1000,
+      "candidate_name": "Rodney Pol",
+      "contributor_name": "BAC Local 4 IN/KY Involuntary Political Action Fund",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Indianapolis",
+      "address_state": "IN",
+      "address_zip": "46268",
+      "recipient_committee": "Committee to Elect Rodney Pol Jr.",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1792913339451-81362",
       "date": "2026-08-27 00:00:00",
       "amount": 3000,
       "candidate_name": "Beau Bayh",
