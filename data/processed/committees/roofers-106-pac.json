@@ -2,20 +2,24 @@
   "id": "roofers-106-pac",
   "name": "Roofers 106 PAC",
   "totals": {
-    "total_given": "300.00",
-    "total_contributions": 1,
+    "total_given": "800.00",
+    "total_contributions": 2,
     "candidates_supported": 1
   },
   "by_contribution_size": {
     "medium": {
-      "count": 1,
-      "total": "300.00"
+      "count": 2,
+      "total": "800.00"
     }
   },
   "by_month": {
     "2025-08": {
       "count": 1,
       "total": "300.00"
+    },
+    "2026-09": {
+      "count": 1,
+      "total": "500.00"
     }
   },
   "top_recipients": [
@@ -28,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1792913338632-96560",
+      "id": "contrib-1793523538356-96560",
       "date": "2025-08-14 00:00:00",
       "amount": 300,
       "candidate_name": "Alexander Richard Burton",
@@ -41,6 +45,21 @@
       "address_state": "IN",
       "address_zip": "47710",
       "recipient_committee": "Alex Burton for Indiana",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539134-24362",
+      "date": "2026-09-18 00:00:00",
+      "amount": 500,
+      "contributor_name": "Roofers 106 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "medium",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Evansville",
+      "address_state": "IN",
+      "address_zip": "47710",
+      "recipient_committee": "Warrick County Democratic Central Committee",
       "source": "indiana"
     }
   ],

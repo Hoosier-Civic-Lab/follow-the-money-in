@@ -2,26 +2,33 @@
   "id": "ufcw-local-881-pac",
   "name": "UFCW Local 881 PAC",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 1,
-    "candidates_supported": 0
+    "total_given": "6000.00",
+    "total_contributions": 2,
+    "candidates_supported": 1
   },
   "by_contribution_size": {
     "large": {
-      "count": 1,
-      "total": "3000.00"
+      "count": 2,
+      "total": "6000.00"
     }
   },
   "by_month": {
     "2026-10": {
-      "count": 1,
-      "total": "3000.00"
+      "count": 2,
+      "total": "6000.00"
     }
   },
-  "top_recipients": [],
+  "top_recipients": [
+    {
+      "id": "beau-bayh",
+      "name": "Beau Bayh",
+      "total": "3000.00",
+      "count": 1
+    }
+  ],
   "contributions": [
     {
-      "id": "contrib-1792913339359-3929",
+      "id": "contrib-1793523539104-3994",
       "date": "2026-10-01 00:00:00",
       "amount": 3000,
       "contributor_name": "UFCW Local 881 PAC",
@@ -33,6 +40,22 @@
       "address_state": "IL",
       "address_zip": "60018",
       "recipient_committee": "Indiana Senate Democrat Committee",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539196-82547",
+      "date": "2026-10-13 00:00:00",
+      "amount": 3000,
+      "candidate_name": "Beau Bayh",
+      "contributor_name": "UFCW Local 881 PAC",
+      "contributor_type": "committee",
+      "contribution_size": "large",
+      "occupation": null,
+      "occupation_category": "unknown",
+      "address_city": "Des Plaines",
+      "address_state": "IL",
+      "address_zip": "60018",
+      "recipient_committee": "Beau Bayh for Indiana",
       "source": "indiana"
     }
   ],
