@@ -6,21 +6,21 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "387.96",
-    "total_contributions": 19,
-    "total_itemized": 19,
+    "total_raised": "441.02",
+    "total_contributions": 23,
+    "total_itemized": 23,
     "total_unitemized": 0
   },
   "by_contributor_type": {
     "individual": {
-      "count": 19,
-      "total": "387.96"
+      "count": 23,
+      "total": "441.02"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 17,
-      "total": "187.96"
+      "count": 21,
+      "total": "241.02"
     },
     "medium": {
       "count": 2,
@@ -28,6 +28,10 @@
     }
   },
   "by_month": {
+    "2026-05": {
+      "count": 4,
+      "total": "53.06"
+    },
     "2026-04": {
       "count": 5,
       "total": "165.26"
@@ -47,7 +51,39 @@
   },
   "contributions": [
     {
-      "id": "contrib-1792913339466-92076",
+      "id": "contrib-1793523539212-93676",
+      "date": "2026-05-18 00:00:00",
+      "amount": 1,
+      "candidate_name": "Joey Dee Baughman",
+      "contributor_name": "Adam Decker",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Chester",
+      "address_state": "IL",
+      "address_zip": "62233",
+      "recipient_committee": "Committee to Elect Baughman for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539212-93677",
+      "date": "2026-05-10 00:00:00",
+      "amount": 1,
+      "candidate_name": "Joey Dee Baughman",
+      "contributor_name": "Ann Smock",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Mooresville",
+      "address_state": "IN",
+      "address_zip": "46158",
+      "recipient_committee": "Committee to Elect Baughman for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539212-93678",
       "date": "2026-04-08 00:00:00",
       "amount": 5.55,
       "candidate_name": "Joey Dee Baughman",
@@ -63,7 +99,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339466-92077",
+      "id": "contrib-1793523539212-93679",
       "date": "2026-03-11 00:00:00",
       "amount": 1.22,
       "candidate_name": "Joey Dee Baughman",
@@ -79,7 +115,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339466-92078",
+      "id": "contrib-1793523539212-93680",
       "date": "2026-04-03 00:00:00",
       "amount": 25,
       "candidate_name": "Joey Dee Baughman",
@@ -95,7 +131,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92079",
+      "id": "contrib-1793523539212-93681",
       "date": "2026-04-01 00:00:00",
       "amount": 100,
       "candidate_name": "Joey Dee Baughman",
@@ -111,7 +147,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92080",
+      "id": "contrib-1793523539212-93682",
+      "date": "2026-05-11 00:00:00",
+      "amount": 50,
+      "candidate_name": "Joey Dee Baughman",
+      "contributor_name": "David Morenus",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "Alexandria",
+      "address_state": "VA",
+      "address_zip": "22307",
+      "recipient_committee": "Committee to Elect Baughman for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539212-93683",
       "date": "2026-02-21 00:00:00",
       "amount": 2.94,
       "candidate_name": "Joey Dee Baughman",
@@ -127,7 +179,23 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92081",
+      "id": "contrib-1793523539212-93684",
+      "date": "2026-05-05 00:00:00",
+      "amount": 1.06,
+      "candidate_name": "Joey Dee Baughman",
+      "contributor_name": "Jessica Escalante",
+      "contributor_type": "individual",
+      "contribution_size": "small",
+      "occupation": "Unknown",
+      "occupation_category": "other",
+      "address_city": "San Pedro",
+      "address_state": "CA",
+      "address_zip": "90731",
+      "recipient_committee": "Committee to Elect Baughman for Senate",
+      "source": "indiana"
+    },
+    {
+      "id": "contrib-1793523539212-93685",
       "date": "2026-02-12 00:00:00",
       "amount": 1.66,
       "candidate_name": "Joey Dee Baughman",
@@ -143,7 +211,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92082",
+      "id": "contrib-1793523539212-93686",
       "date": "2026-04-02 00:00:00",
       "amount": 20,
       "candidate_name": "Joey Dee Baughman",
@@ -159,7 +227,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92083",
+      "id": "contrib-1793523539212-93687",
       "date": "2026-02-19 00:00:00",
       "amount": 7.81,
       "candidate_name": "Joey Dee Baughman",
@@ -175,7 +243,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92084",
+      "id": "contrib-1793523539212-93688",
       "date": "2026-03-16 00:00:00",
       "amount": 100,
       "candidate_name": "Joey Dee Baughman",
@@ -191,7 +259,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92085",
+      "id": "contrib-1793523539212-93689",
       "date": "2026-02-13 00:00:00",
       "amount": 1.66,
       "candidate_name": "Joey Dee Baughman",
@@ -207,7 +275,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92086",
+      "id": "contrib-1793523539212-93690",
       "date": "2026-02-16 00:00:00",
       "amount": 33.33,
       "candidate_name": "Joey Dee Baughman",
@@ -223,7 +291,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92087",
+      "id": "contrib-1793523539212-93691",
       "date": "2026-02-16 00:00:00",
       "amount": 3.33,
       "candidate_name": "Joey Dee Baughman",
@@ -239,7 +307,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92088",
+      "id": "contrib-1793523539212-93692",
       "date": "2026-04-07 00:00:00",
       "amount": 14.71,
       "candidate_name": "Joey Dee Baughman",
@@ -255,7 +323,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92089",
+      "id": "contrib-1793523539212-93693",
       "date": "2026-01-13 00:00:00",
       "amount": 20,
       "candidate_name": "Joey Dee Baughman",
@@ -271,7 +339,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92090",
+      "id": "contrib-1793523539212-93694",
       "date": "2026-02-13 00:00:00",
       "amount": 3.33,
       "candidate_name": "Joey Dee Baughman",
@@ -287,7 +355,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92091",
+      "id": "contrib-1793523539212-93695",
       "date": "2026-03-30 00:00:00",
       "amount": 1.11,
       "candidate_name": "Joey Dee Baughman",
@@ -303,7 +371,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92092",
+      "id": "contrib-1793523539212-93696",
       "date": "2026-01-30 00:00:00",
       "amount": 25,
       "candidate_name": "Joey Dee Baughman",
@@ -319,7 +387,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92093",
+      "id": "contrib-1793523539212-93697",
       "date": "2026-02-23 00:00:00",
       "amount": 1.31,
       "candidate_name": "Joey Dee Baughman",
@@ -335,7 +403,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339467-92094",
+      "id": "contrib-1793523539212-93698",
       "date": "2026-03-16 00:00:00",
       "amount": 20,
       "candidate_name": "Joey Dee Baughman",

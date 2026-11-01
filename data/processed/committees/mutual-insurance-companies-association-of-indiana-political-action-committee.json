@@ -28,7 +28,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1792913339416-50659",
+      "id": "contrib-1793523539161-51261",
       "date": "2026-09-10 00:00:00",
       "amount": 200,
       "candidate_name": "Craig Thomas Snow",
@@ -45,26 +45,42 @@
     }
   ],
   "receipts": {
-    "total_raised": "370.00",
-    "total_contributions": 1,
-    "unique_donors": 0,
+    "total_raised": "2620.00",
+    "total_contributions": 3,
+    "unique_donors": 2,
     "by_contributor_type": {
       "unitemized": {
         "count": 1,
         "total": "370.00"
+      },
+      "corporate": {
+        "count": 2,
+        "total": "2250.00"
       }
     },
     "top_donors": [
+      {
+        "name": "Oakwood Mutual Insurance Company",
+        "type": "corporate",
+        "total": "2000.00",
+        "count": 1
+      },
       {
         "name": "(Unknown)",
         "type": "unitemized",
         "total": "370.00",
         "count": 1
+      },
+      {
+        "name": "Farmers Mutual Insurance Company of Tipton",
+        "type": "corporate",
+        "total": "250.00",
+        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1792913338547-28123",
+        "id": "contrib-1793523538268-28123",
         "date": "2025-12-01 00:00:00",
         "amount": 370,
         "contributor_name": "",
@@ -75,6 +91,36 @@
         "address_city": null,
         "address_state": null,
         "address_zip": null,
+        "recipient_committee": "Mutual Insurance Companies Association of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539133-23485",
+        "date": "2026-07-10 00:00:00",
+        "amount": 250,
+        "contributor_name": "Farmers Mutual Insurance Company of Tipton",
+        "contributor_type": "corporate",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Tipton",
+        "address_state": "IN",
+        "address_zip": "46072",
+        "recipient_committee": "Mutual Insurance Companies Association of Indiana Political Action Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539133-23486",
+        "date": "2026-07-27 00:00:00",
+        "amount": 2000,
+        "contributor_name": "Oakwood Mutual Insurance Company",
+        "contributor_type": "corporate",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Evansville",
+        "address_state": "IN",
+        "address_zip": "47710",
         "recipient_committee": "Mutual Insurance Companies Association of Indiana Political Action Committee",
         "source": "indiana"
       }

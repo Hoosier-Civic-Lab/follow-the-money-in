@@ -32,7 +32,7 @@
   ],
   "contributions": [
     {
-      "id": "contrib-1792913339355-616",
+      "id": "contrib-1793523539100-616",
       "date": "2026-05-15 00:00:00",
       "amount": 245,
       "contributor_name": "Pike County Democratic Central Committee",
@@ -47,7 +47,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1792913339473-98093",
+      "id": "contrib-1793523539218-99987",
       "date": "2026-09-29 00:00:00",
       "amount": 250,
       "candidate_name": "Jessica Amy Bailey",
@@ -63,5 +63,128 @@
       "source": "indiana"
     }
   ],
-  "receipts": null
+  "receipts": {
+    "total_raised": "2555.00",
+    "total_contributions": 5,
+    "unique_donors": 4,
+    "by_contributor_type": {
+      "unitemized": {
+        "count": 1,
+        "total": "1655.00"
+      },
+      "individual": {
+        "count": 4,
+        "total": "900.00"
+      }
+    },
+    "top_donors": [
+      {
+        "name": "(Unknown)",
+        "type": "unitemized",
+        "total": "1655.00",
+        "count": 1
+      },
+      {
+        "name": "Stephanie Gaskins McGuire",
+        "type": "individual",
+        "total": "300.00",
+        "count": 1
+      },
+      {
+        "name": "Chris Garland",
+        "type": "individual",
+        "total": "250.00",
+        "count": 1
+      },
+      {
+        "name": "Donna Dyer",
+        "type": "individual",
+        "total": "200.00",
+        "count": 1
+      },
+      {
+        "name": "Teresa Houtsch",
+        "type": "individual",
+        "total": "150.00",
+        "count": 1
+      }
+    ],
+    "contributions": [
+      {
+        "id": "contrib-1793523539217-98880",
+        "date": "2026-07-04 00:00:00",
+        "amount": 1655,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "large",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": "Pike County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539217-98881",
+        "date": "2026-08-12 00:00:00",
+        "amount": 250,
+        "contributor_name": "Chris Garland",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Petersburg",
+        "address_state": "IN",
+        "address_zip": "47567",
+        "recipient_committee": "Pike County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539217-98882",
+        "date": "2026-10-01 00:00:00",
+        "amount": 200,
+        "contributor_name": "Donna Dyer",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Petersburg",
+        "address_state": "IN",
+        "address_zip": "47567",
+        "recipient_committee": "Pike County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539217-98883",
+        "date": "2026-10-01 00:00:00",
+        "amount": 300,
+        "contributor_name": "Stephanie Gaskins McGuire",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Petersburg",
+        "address_state": "IN",
+        "address_zip": "47567",
+        "recipient_committee": "Pike County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1793523539217-98884",
+        "date": "2026-10-01 00:00:00",
+        "amount": 150,
+        "contributor_name": "Teresa Houtsch",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Petersburg",
+        "address_state": "IN",
+        "address_zip": "47567",
+        "recipient_committee": "Pike County Democratic Central Committee",
+        "source": "indiana"
+      }
+    ]
+  }
 }
