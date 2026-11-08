@@ -21,7 +21,7 @@
   "top_recipients": [],
   "contributions": [
     {
-      "id": "contrib-1793523539100-661",
+      "id": "contrib-1794127767335-661",
       "date": "2026-03-05 00:00:00",
       "amount": 315,
       "contributor_name": "White County Democratic Central Committee",
@@ -37,36 +37,70 @@
     }
   ],
   "receipts": {
-    "total_raised": "2604.00",
-    "total_contributions": 5,
-    "unique_donors": 1,
+    "total_raised": "5421.00",
+    "total_contributions": 13,
+    "unique_donors": 6,
     "by_contributor_type": {
       "unitemized": {
-        "count": 2,
-        "total": "404.00"
+        "count": 3,
+        "total": "1021.00"
       },
       "individual": {
-        "count": 3,
-        "total": "2200.00"
+        "count": 9,
+        "total": "4300.00"
+      },
+      "committee": {
+        "count": 1,
+        "total": "100.00"
       }
     },
     "top_donors": [
       {
         "name": "Contest Every Race",
         "type": "individual",
-        "total": "2200.00",
-        "count": 3
+        "total": "3400.00",
+        "count": 5
       },
       {
         "name": "(Unknown)",
         "type": "unitemized",
-        "total": "404.00",
-        "count": 2
+        "total": "1021.00",
+        "count": 3
+      },
+      {
+        "name": "Kathy Altman",
+        "type": "individual",
+        "total": "600.00",
+        "count": 1
+      },
+      {
+        "name": "Beth Brown",
+        "type": "individual",
+        "total": "100.00",
+        "count": 1
+      },
+      {
+        "name": "Linda Lasiter",
+        "type": "individual",
+        "total": "100.00",
+        "count": 1
+      },
+      {
+        "name": "Better Indiana",
+        "type": "individual",
+        "total": "100.00",
+        "count": 1
+      },
+      {
+        "name": "Committee for Rural Engagement",
+        "type": "committee",
+        "total": "100.00",
+        "count": 1
       }
     ],
     "contributions": [
       {
-        "id": "contrib-1793523538324-67453",
+        "id": "contrib-1794127766772-67453",
         "date": "2025-12-31 00:00:00",
         "amount": 402,
         "contributor_name": "",
@@ -81,7 +115,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1793523538324-67454",
+        "id": "contrib-1794127766772-67454",
         "date": "2025-12-31 00:00:00",
         "amount": 1000,
         "contributor_name": "Contest Every Race",
@@ -96,7 +130,7 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1793523539147-34359",
+        "id": "contrib-1794127767374-34388",
         "date": "2026-05-01 00:00:00",
         "amount": 2,
         "contributor_name": "",
@@ -111,7 +145,97 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1793523539147-34360",
+        "id": "contrib-1794127767374-34389",
+        "date": "2026-07-04 00:00:00",
+        "amount": 617,
+        "contributor_name": "",
+        "contributor_type": "unitemized",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": null,
+        "address_state": null,
+        "address_zip": null,
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34390",
+        "date": "2026-09-16 00:00:00",
+        "amount": 100,
+        "contributor_name": "Beth Brown",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Monticello",
+        "address_state": "IN",
+        "address_zip": "47960",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34391",
+        "date": "2026-06-29 00:00:00",
+        "amount": 600,
+        "contributor_name": "Kathy Altman",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Monticello",
+        "address_state": "IN",
+        "address_zip": "47960",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34392",
+        "date": "2026-06-26 00:00:00",
+        "amount": 100,
+        "contributor_name": "Linda Lasiter",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Plainfield",
+        "address_state": "IN",
+        "address_zip": "46158",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34393",
+        "date": "2026-09-16 00:00:00",
+        "amount": 100,
+        "contributor_name": "Better Indiana",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "ZIONSVILLE",
+        "address_state": "IN",
+        "address_zip": "46077",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34394",
+        "date": "2026-06-26 00:00:00",
+        "amount": 100,
+        "contributor_name": "Committee for Rural Engagement",
+        "contributor_type": "committee",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "BLOOMINGTON",
+        "address_state": "IN",
+        "address_zip": "47402",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34395",
         "date": "2026-01-29 00:00:00",
         "amount": 600,
         "contributor_name": "Contest Every Race",
@@ -126,8 +250,38 @@
         "source": "indiana"
       },
       {
-        "id": "contrib-1793523539147-34361",
+        "id": "contrib-1794127767374-34396",
+        "date": "2026-04-24 00:00:00",
+        "amount": 600,
+        "contributor_name": "Contest Every Race",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Los Angeles",
+        "address_state": "CA",
+        "address_zip": "90029",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34397",
         "date": "2026-04-29 00:00:00",
+        "amount": 600,
+        "contributor_name": "Contest Every Race",
+        "contributor_type": "individual",
+        "contribution_size": "medium",
+        "occupation": null,
+        "occupation_category": "unknown",
+        "address_city": "Los Angeles",
+        "address_state": "CA",
+        "address_zip": "90029",
+        "recipient_committee": " White County Democratic Central Committee",
+        "source": "indiana"
+      },
+      {
+        "id": "contrib-1794127767374-34398",
+        "date": "2026-07-24 00:00:00",
         "amount": 600,
         "contributor_name": "Contest Every Race",
         "contributor_type": "individual",

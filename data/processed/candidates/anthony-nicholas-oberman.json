@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "43027.10",
-    "total_contributions": 411,
-    "total_itemized": 404,
+    "total_raised": "41382.10",
+    "total_contributions": 402,
+    "total_itemized": 395,
     "total_unitemized": 7
   },
   "by_contributor_type": {
@@ -16,27 +16,27 @@
       "count": 7,
       "total": "106.44"
     },
-    "corporate": {
-      "count": 2,
-      "total": "372.00"
-    },
     "individual": {
-      "count": 393,
-      "total": "40348.66"
+      "count": 386,
+      "total": "38989.66"
+    },
+    "corporate": {
+      "count": 1,
+      "total": "186.00"
     },
     "committee": {
-      "count": 9,
-      "total": "2200.00"
+      "count": 8,
+      "total": "2100.00"
     }
   },
   "by_contribution_size": {
     "small": {
-      "count": 262,
-      "total": "8513.14"
+      "count": 260,
+      "total": "8402.14"
     },
     "medium": {
-      "count": 143,
-      "total": "24513.96"
+      "count": 136,
+      "total": "22979.96"
     },
     "large": {
       "count": 6,
@@ -47,10 +47,6 @@
     "2026-06": {
       "count": 37,
       "total": "4943.44"
-    },
-    "2026-09": {
-      "count": 89,
-      "total": "6792.79"
     },
     "2026-07": {
       "count": 85,
@@ -63,6 +59,10 @@
     "2026-02": {
       "count": 59,
       "total": "6388.63"
+    },
+    "2026-09": {
+      "count": 80,
+      "total": "5147.79"
     },
     "2026-05": {
       "count": 8,
@@ -87,7 +87,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1793523539212-94101",
+      "id": "contrib-1794127767427-94302",
       "date": "2026-06-21 00:00:00",
       "amount": 4.35,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -103,7 +103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94102",
+      "id": "contrib-1794127767427-94303",
       "date": "2026-06-08 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -119,7 +119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94103",
+      "id": "contrib-1794127767427-94304",
       "date": "2026-06-22 00:00:00",
       "amount": 1.09,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -135,7 +135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94104",
+      "id": "contrib-1794127767427-94305",
       "date": "2026-06-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -151,7 +151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94105",
+      "id": "contrib-1794127767427-94306",
       "date": "2026-06-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -167,7 +167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94106",
+      "id": "contrib-1794127767427-94307",
       "date": "2026-06-18 00:00:00",
       "amount": 2,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -183,7 +183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94107",
+      "id": "contrib-1794127767427-94308",
       "date": "2026-06-14 00:00:00",
       "amount": 14,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -199,23 +199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94108",
-      "date": "2026-09-17 00:00:00",
-      "amount": 186,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Arrow Strategy Group LLC",
-      "contributor_type": "corporate",
-      "contribution_size": "medium",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Dyer",
-      "address_state": "IN",
-      "address_zip": "46311",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539212-94109",
+      "id": "contrib-1794127767427-94309",
       "date": "2026-07-13 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -231,7 +215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94110",
+      "id": "contrib-1794127767427-94310",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -247,7 +231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94111",
+      "id": "contrib-1794127767427-94311",
       "date": "2026-03-22 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -263,7 +247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94112",
+      "id": "contrib-1794127767427-94312",
       "date": "2026-02-27 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -279,7 +263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94113",
+      "id": "contrib-1794127767427-94313",
       "date": "2026-02-11 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -295,7 +279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94114",
+      "id": "contrib-1794127767427-94314",
       "date": "2026-09-09 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -311,7 +295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94115",
+      "id": "contrib-1794127767427-94315",
       "date": "2026-02-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -327,7 +311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94116",
+      "id": "contrib-1794127767427-94316",
       "date": "2026-05-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -343,7 +327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94117",
+      "id": "contrib-1794127767427-94317",
       "date": "2026-06-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -359,7 +343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94118",
+      "id": "contrib-1794127767427-94318",
       "date": "2026-07-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -375,7 +359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94119",
+      "id": "contrib-1794127767427-94319",
       "date": "2026-08-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -391,7 +375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94120",
+      "id": "contrib-1794127767427-94320",
       "date": "2026-09-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -407,7 +391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94121",
+      "id": "contrib-1794127767427-94321",
       "date": "2026-03-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -423,7 +407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94122",
+      "id": "contrib-1794127767427-94322",
       "date": "2026-03-18 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -439,7 +423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94123",
+      "id": "contrib-1794127767427-94323",
       "date": "2026-04-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -455,7 +439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94124",
+      "id": "contrib-1794127767427-94324",
       "date": "2026-04-03 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -471,7 +455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94125",
+      "id": "contrib-1794127767427-94325",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -487,7 +471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94126",
+      "id": "contrib-1794127767427-94326",
       "date": "2026-09-15 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -503,7 +487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94127",
+      "id": "contrib-1794127767427-94327",
       "date": "2026-03-07 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -519,7 +503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94128",
+      "id": "contrib-1794127767427-94328",
       "date": "2026-09-15 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -535,7 +519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94129",
+      "id": "contrib-1794127767427-94329",
       "date": "2026-03-10 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -551,7 +535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94130",
+      "id": "contrib-1794127767427-94330",
       "date": "2026-03-03 00:00:00",
       "amount": 15,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -567,7 +551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94131",
+      "id": "contrib-1794127767427-94331",
       "date": "2026-08-19 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -583,7 +567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94132",
+      "id": "contrib-1794127767427-94332",
       "date": "2026-02-17 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -599,7 +583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94133",
+      "id": "contrib-1794127767427-94333",
       "date": "2026-02-05 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -615,7 +599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94134",
+      "id": "contrib-1794127767427-94334",
       "date": "2026-03-21 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -631,7 +615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94135",
+      "id": "contrib-1794127767427-94335",
       "date": "2026-02-14 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -647,7 +631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94136",
+      "id": "contrib-1794127767427-94336",
       "date": "2026-02-11 00:00:00",
       "amount": 1,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -663,7 +647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94137",
+      "id": "contrib-1794127767427-94337",
       "date": "2026-04-08 00:00:00",
       "amount": 30,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -679,7 +663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94138",
+      "id": "contrib-1794127767427-94338",
       "date": "2026-05-08 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -695,7 +679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94139",
+      "id": "contrib-1794127767427-94339",
       "date": "2026-02-01 00:00:00",
       "amount": 12.95,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -711,7 +695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94140",
+      "id": "contrib-1794127767427-94340",
       "date": "2026-02-03 00:00:00",
       "amount": 33,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -727,7 +711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94141",
+      "id": "contrib-1794127767427-94341",
       "date": "2026-02-01 00:00:00",
       "amount": 191.96,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -743,7 +727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94142",
+      "id": "contrib-1794127767427-94342",
       "date": "2026-01-30 00:00:00",
       "amount": 54.06,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -759,7 +743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94143",
+      "id": "contrib-1794127767427-94343",
       "date": "2026-01-21 00:00:00",
       "amount": 196,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -775,7 +759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94144",
+      "id": "contrib-1794127767427-94344",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -791,7 +775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94145",
+      "id": "contrib-1794127767427-94345",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -807,7 +791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94146",
+      "id": "contrib-1794127767427-94346",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -823,7 +807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94147",
+      "id": "contrib-1794127767427-94347",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -839,7 +823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94148",
+      "id": "contrib-1794127767427-94348",
       "date": "2026-06-24 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -855,7 +839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94149",
+      "id": "contrib-1794127767427-94349",
       "date": "2026-02-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -871,7 +855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94150",
+      "id": "contrib-1794127767427-94350",
       "date": "2026-02-26 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -887,7 +871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94151",
+      "id": "contrib-1794127767427-94351",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -903,7 +887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94152",
+      "id": "contrib-1794127767427-94352",
       "date": "2026-04-13 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -919,7 +903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94153",
+      "id": "contrib-1794127767427-94353",
       "date": "2026-02-05 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -935,7 +919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94154",
+      "id": "contrib-1794127767427-94354",
       "date": "2026-09-17 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -951,7 +935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94155",
+      "id": "contrib-1794127767427-94355",
       "date": "2026-03-29 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -967,7 +951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94156",
+      "id": "contrib-1794127767427-94356",
       "date": "2026-08-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -983,7 +967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94157",
+      "id": "contrib-1794127767427-94357",
       "date": "2026-07-13 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -999,7 +983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94158",
+      "id": "contrib-1794127767427-94358",
       "date": "2026-09-18 00:00:00",
       "amount": 2,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1015,23 +999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94159",
-      "date": "2026-09-17 00:00:00",
-      "amount": 63,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Chris Vega",
-      "contributor_type": "individual",
-      "contribution_size": "small",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Crown Point",
-      "address_state": "IN",
-      "address_zip": "46307",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539212-94160",
+      "id": "contrib-1794127767427-94359",
       "date": "2026-03-22 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1047,7 +1015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94161",
+      "id": "contrib-1794127767427-94360",
       "date": "2026-09-17 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1063,7 +1031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94162",
+      "id": "contrib-1794127767427-94361",
       "date": "2026-09-15 00:00:00",
       "amount": 30,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1079,7 +1047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94163",
+      "id": "contrib-1794127767427-94362",
       "date": "2026-09-15 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1095,7 +1063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94164",
+      "id": "contrib-1794127767427-94363",
       "date": "2026-04-02 00:00:00",
       "amount": 1,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1111,7 +1079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94165",
+      "id": "contrib-1794127767427-94364",
       "date": "2026-03-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1127,7 +1095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94166",
+      "id": "contrib-1794127767427-94365",
       "date": "2026-02-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1143,7 +1111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94167",
+      "id": "contrib-1794127767427-94366",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1159,7 +1127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94168",
+      "id": "contrib-1794127767427-94367",
       "date": "2026-09-25 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1175,7 +1143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94169",
+      "id": "contrib-1794127767427-94368",
       "date": "2026-07-21 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1191,7 +1159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94170",
+      "id": "contrib-1794127767427-94369",
       "date": "2026-03-22 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1207,7 +1175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94171",
+      "id": "contrib-1794127767427-94370",
       "date": "2026-08-05 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1223,7 +1191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94172",
+      "id": "contrib-1794127767427-94371",
       "date": "2026-02-24 00:00:00",
       "amount": 5.89,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1239,7 +1207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94173",
+      "id": "contrib-1794127767427-94372",
       "date": "2026-06-08 00:00:00",
       "amount": 5,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1255,7 +1223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94174",
+      "id": "contrib-1794127767427-94373",
       "date": "2026-02-04 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1271,7 +1239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94175",
+      "id": "contrib-1794127767427-94374",
       "date": "2026-02-25 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1287,7 +1255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94176",
+      "id": "contrib-1794127767427-94375",
       "date": "2026-03-31 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1303,7 +1271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94177",
+      "id": "contrib-1794127767427-94376",
       "date": "2026-06-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1319,7 +1287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94178",
+      "id": "contrib-1794127767427-94377",
       "date": "2026-10-08 00:00:00",
       "amount": 90,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1335,7 +1303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94179",
+      "id": "contrib-1794127767427-94378",
       "date": "2026-03-31 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1351,7 +1319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94180",
+      "id": "contrib-1794127767427-94379",
       "date": "2026-07-20 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1367,7 +1335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94181",
+      "id": "contrib-1794127767427-94380",
       "date": "2026-03-22 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1383,7 +1351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94182",
+      "id": "contrib-1794127767427-94381",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1399,7 +1367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94183",
+      "id": "contrib-1794127767427-94382",
       "date": "2026-07-20 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1415,7 +1383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94184",
+      "id": "contrib-1794127767427-94383",
       "date": "2026-06-29 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1431,7 +1399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94185",
+      "id": "contrib-1794127767427-94384",
       "date": "2026-03-22 00:00:00",
       "amount": 70,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1447,7 +1415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94186",
+      "id": "contrib-1794127767427-94385",
       "date": "2026-09-15 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1463,7 +1431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94187",
+      "id": "contrib-1794127767427-94386",
       "date": "2026-07-22 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1479,7 +1447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94188",
+      "id": "contrib-1794127767427-94387",
       "date": "2026-09-15 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1495,7 +1463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94189",
+      "id": "contrib-1794127767427-94388",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1511,7 +1479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94190",
+      "id": "contrib-1794127767427-94389",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1527,7 +1495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94191",
+      "id": "contrib-1794127767427-94390",
       "date": "2026-10-06 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1543,7 +1511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94192",
+      "id": "contrib-1794127767427-94391",
       "date": "2026-02-15 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1559,7 +1527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94193",
+      "id": "contrib-1794127767427-94392",
       "date": "2026-07-11 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1575,7 +1543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94194",
+      "id": "contrib-1794127767427-94393",
       "date": "2026-07-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1591,7 +1559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94195",
+      "id": "contrib-1794127767427-94394",
       "date": "2026-02-28 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1607,7 +1575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94196",
+      "id": "contrib-1794127767427-94395",
       "date": "2026-09-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1623,7 +1591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94197",
+      "id": "contrib-1794127767427-94396",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1639,7 +1607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94198",
+      "id": "contrib-1794127767427-94397",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1655,7 +1623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94199",
+      "id": "contrib-1794127767427-94398",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1671,7 +1639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94200",
+      "id": "contrib-1794127767427-94399",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1687,7 +1655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94201",
+      "id": "contrib-1794127767427-94400",
       "date": "2026-07-21 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1703,7 +1671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94202",
+      "id": "contrib-1794127767427-94401",
       "date": "2026-03-20 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1719,7 +1687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94203",
+      "id": "contrib-1794127767427-94402",
       "date": "2026-09-15 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1735,7 +1703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94204",
+      "id": "contrib-1794127767427-94403",
       "date": "2026-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1751,7 +1719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94205",
+      "id": "contrib-1794127767427-94404",
       "date": "2026-02-24 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1767,7 +1735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94206",
+      "id": "contrib-1794127767427-94405",
       "date": "2026-08-28 00:00:00",
       "amount": 2.18,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1783,7 +1751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94207",
+      "id": "contrib-1794127767427-94406",
       "date": "2026-02-21 00:00:00",
       "amount": 2.94,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1799,7 +1767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94208",
+      "id": "contrib-1794127767427-94407",
       "date": "2026-02-21 00:00:00",
       "amount": 5.89,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1815,7 +1783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94209",
+      "id": "contrib-1794127767427-94408",
       "date": "2026-02-16 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1831,7 +1799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94210",
+      "id": "contrib-1794127767427-94409",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1847,7 +1815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94211",
+      "id": "contrib-1794127767427-94410",
       "date": "2026-04-20 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1863,7 +1831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94212",
+      "id": "contrib-1794127767427-94411",
       "date": "2026-03-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1879,7 +1847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94213",
+      "id": "contrib-1794127767427-94412",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1895,7 +1863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94214",
+      "id": "contrib-1794127767427-94413",
       "date": "2026-03-24 00:00:00",
       "amount": 70,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1911,7 +1879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94215",
+      "id": "contrib-1794127767427-94414",
       "date": "2026-03-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1927,7 +1895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94216",
+      "id": "contrib-1794127767427-94415",
       "date": "2026-08-03 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1943,7 +1911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94217",
+      "id": "contrib-1794127767427-94416",
       "date": "2026-09-17 00:00:00",
       "amount": 120,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1959,7 +1927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94218",
+      "id": "contrib-1794127767427-94417",
       "date": "2026-02-12 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1975,7 +1943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94219",
+      "id": "contrib-1794127767427-94418",
       "date": "2026-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -1991,7 +1959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94220",
+      "id": "contrib-1794127767427-94419",
       "date": "2026-09-25 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2007,7 +1975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94221",
+      "id": "contrib-1794127767427-94420",
       "date": "2026-09-17 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2023,23 +1991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94222",
-      "date": "2026-09-17 00:00:00",
-      "amount": 170,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Janice Malinowski",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Schererville",
-      "address_state": "IN",
-      "address_zip": "46375",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539212-94223",
+      "id": "contrib-1794127767427-94421",
       "date": "2026-06-30 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2055,7 +2007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94224",
+      "id": "contrib-1794127767427-94422",
       "date": "2026-03-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2071,7 +2023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94225",
+      "id": "contrib-1794127767427-94423",
       "date": "2026-03-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2087,7 +2039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94226",
+      "id": "contrib-1794127767427-94424",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2103,7 +2055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94227",
+      "id": "contrib-1794127767427-94425",
       "date": "2026-03-31 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2119,7 +2071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94228",
+      "id": "contrib-1794127767427-94426",
       "date": "2026-06-25 00:00:00",
       "amount": 5,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2135,7 +2087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94229",
+      "id": "contrib-1794127767427-94427",
       "date": "2026-02-26 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2151,7 +2103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94230",
+      "id": "contrib-1794127767427-94428",
       "date": "2026-09-15 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2167,7 +2119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94231",
+      "id": "contrib-1794127767427-94429",
       "date": "2026-09-15 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2183,7 +2135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94232",
+      "id": "contrib-1794127767427-94430",
       "date": "2026-02-06 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2199,7 +2151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94233",
+      "id": "contrib-1794127767427-94431",
       "date": "2026-02-27 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2215,7 +2167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94234",
+      "id": "contrib-1794127767427-94432",
       "date": "2026-04-06 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2231,7 +2183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94235",
+      "id": "contrib-1794127767427-94433",
       "date": "2026-04-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2247,7 +2199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94236",
+      "id": "contrib-1794127767427-94434",
       "date": "2026-05-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2263,7 +2215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94237",
+      "id": "contrib-1794127767427-94435",
       "date": "2026-06-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2279,7 +2231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94238",
+      "id": "contrib-1794127767427-94436",
       "date": "2026-07-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2295,7 +2247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94239",
+      "id": "contrib-1794127767427-94437",
       "date": "2026-08-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2311,7 +2263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539212-94240",
+      "id": "contrib-1794127767427-94438",
       "date": "2026-09-15 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2327,7 +2279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94241",
+      "id": "contrib-1794127767427-94439",
       "date": "2026-09-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2343,7 +2295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94242",
+      "id": "contrib-1794127767427-94440",
       "date": "2026-09-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2359,7 +2311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94243",
+      "id": "contrib-1794127767427-94441",
       "date": "2026-03-22 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2375,7 +2327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94244",
+      "id": "contrib-1794127767427-94442",
       "date": "2026-03-20 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2391,7 +2343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94245",
+      "id": "contrib-1794127767427-94443",
       "date": "2026-06-28 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2407,7 +2359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94246",
+      "id": "contrib-1794127767427-94444",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2423,7 +2375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94247",
+      "id": "contrib-1794127767427-94445",
       "date": "2026-02-05 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2439,7 +2391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94248",
+      "id": "contrib-1794127767427-94446",
       "date": "2026-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2455,7 +2407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94249",
+      "id": "contrib-1794127767427-94447",
       "date": "2026-05-29 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2471,7 +2423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94250",
+      "id": "contrib-1794127767427-94448",
       "date": "2026-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2487,7 +2439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94251",
+      "id": "contrib-1794127767427-94449",
       "date": "2026-07-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2503,7 +2455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94252",
+      "id": "contrib-1794127767427-94450",
       "date": "2026-03-13 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2519,7 +2471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94253",
+      "id": "contrib-1794127767427-94451",
       "date": "2026-07-31 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2535,7 +2487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94254",
+      "id": "contrib-1794127767427-94452",
       "date": "2026-07-23 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2551,7 +2503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94255",
+      "id": "contrib-1794127767427-94453",
       "date": "2026-06-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2567,7 +2519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94256",
+      "id": "contrib-1794127767427-94454",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2583,7 +2535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94257",
+      "id": "contrib-1794127767427-94455",
       "date": "2026-05-28 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2599,7 +2551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94258",
+      "id": "contrib-1794127767427-94456",
       "date": "2026-07-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2615,7 +2567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94259",
+      "id": "contrib-1794127767427-94457",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2631,7 +2583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94260",
+      "id": "contrib-1794127767427-94458",
       "date": "2026-02-04 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2647,7 +2599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94261",
+      "id": "contrib-1794127767427-94459",
       "date": "2026-03-31 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2663,7 +2615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94262",
+      "id": "contrib-1794127767427-94460",
       "date": "2026-07-20 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2679,7 +2631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94263",
+      "id": "contrib-1794127767427-94461",
       "date": "2026-07-22 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2695,7 +2647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94264",
+      "id": "contrib-1794127767427-94462",
       "date": "2026-02-12 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2711,7 +2663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94265",
+      "id": "contrib-1794127767427-94463",
       "date": "2026-02-28 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2727,7 +2679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94266",
+      "id": "contrib-1794127767427-94464",
       "date": "2026-07-22 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2743,7 +2695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94267",
+      "id": "contrib-1794127767427-94465",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2759,7 +2711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94268",
+      "id": "contrib-1794127767427-94466",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2775,7 +2727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94269",
+      "id": "contrib-1794127767427-94467",
       "date": "2026-06-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2791,7 +2743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94270",
+      "id": "contrib-1794127767427-94468",
       "date": "2026-02-05 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2807,7 +2759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94271",
+      "id": "contrib-1794127767427-94469",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2823,7 +2775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94272",
+      "id": "contrib-1794127767427-94470",
       "date": "2026-07-23 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2839,7 +2791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94273",
+      "id": "contrib-1794127767427-94471",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2855,7 +2807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94274",
+      "id": "contrib-1794127767427-94472",
       "date": "2026-03-19 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2871,7 +2823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94275",
+      "id": "contrib-1794127767427-94473",
       "date": "2026-02-12 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2887,7 +2839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94276",
+      "id": "contrib-1794127767427-94474",
       "date": "2026-03-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2903,7 +2855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94277",
+      "id": "contrib-1794127767427-94475",
       "date": "2026-07-02 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2919,7 +2871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94278",
+      "id": "contrib-1794127767427-94476",
       "date": "2026-07-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2935,7 +2887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94279",
+      "id": "contrib-1794127767427-94477",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2951,7 +2903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94280",
+      "id": "contrib-1794127767427-94478",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2967,7 +2919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94281",
+      "id": "contrib-1794127767427-94479",
       "date": "2026-07-22 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2983,7 +2935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94282",
+      "id": "contrib-1794127767427-94480",
       "date": "2026-08-31 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -2999,7 +2951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94283",
+      "id": "contrib-1794127767427-94481",
       "date": "2026-02-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3015,7 +2967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94284",
+      "id": "contrib-1794127767427-94482",
       "date": "2026-03-05 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3031,7 +2983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94285",
+      "id": "contrib-1794127767427-94483",
       "date": "2026-04-16 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3047,7 +2999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94286",
+      "id": "contrib-1794127767427-94484",
       "date": "2026-05-15 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3063,7 +3015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94287",
+      "id": "contrib-1794127767427-94485",
       "date": "2026-06-18 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3079,7 +3031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94288",
+      "id": "contrib-1794127767427-94486",
       "date": "2026-07-15 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3095,7 +3047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94289",
+      "id": "contrib-1794127767427-94487",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3111,7 +3063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94290",
+      "id": "contrib-1794127767427-94488",
       "date": "2026-03-22 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3127,7 +3079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94291",
+      "id": "contrib-1794127767427-94489",
       "date": "2026-03-03 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3143,7 +3095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94292",
+      "id": "contrib-1794127767427-94490",
       "date": "2026-03-16 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3159,7 +3111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94293",
+      "id": "contrib-1794127767427-94491",
       "date": "2026-09-17 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3175,7 +3127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94294",
+      "id": "contrib-1794127767427-94492",
       "date": "2026-02-28 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3191,7 +3143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94295",
+      "id": "contrib-1794127767427-94493",
       "date": "2026-03-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3207,7 +3159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94296",
+      "id": "contrib-1794127767427-94494",
       "date": "2026-07-31 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3223,7 +3175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94297",
+      "id": "contrib-1794127767427-94495",
       "date": "2026-07-17 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3239,7 +3191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94298",
+      "id": "contrib-1794127767427-94496",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3255,7 +3207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94299",
+      "id": "contrib-1794127767427-94497",
       "date": "2026-06-08 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3271,7 +3223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94300",
+      "id": "contrib-1794127767427-94498",
       "date": "2026-03-03 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3287,7 +3239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94301",
+      "id": "contrib-1794127767427-94499",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3303,7 +3255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94302",
+      "id": "contrib-1794127767427-94500",
       "date": "2026-09-15 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3319,7 +3271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94303",
+      "id": "contrib-1794127767427-94501",
       "date": "2026-06-29 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3335,7 +3287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94304",
+      "id": "contrib-1794127767427-94502",
       "date": "2026-07-06 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3351,7 +3303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94305",
+      "id": "contrib-1794127767427-94503",
       "date": "2026-09-15 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3367,7 +3319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94306",
+      "id": "contrib-1794127767427-94504",
       "date": "2026-09-15 00:00:00",
       "amount": 41.3,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3383,7 +3335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94307",
+      "id": "contrib-1794127767427-94505",
       "date": "2026-09-14 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3399,7 +3351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94308",
+      "id": "contrib-1794127767427-94506",
       "date": "2026-02-03 00:00:00",
       "amount": 5,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3415,7 +3367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94309",
+      "id": "contrib-1794127767427-94507",
       "date": "2026-03-15 00:00:00",
       "amount": 35,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3431,7 +3383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94310",
+      "id": "contrib-1794127767427-94508",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3447,7 +3399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94311",
+      "id": "contrib-1794127767427-94509",
       "date": "2026-03-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3463,7 +3415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94312",
+      "id": "contrib-1794127767427-94510",
       "date": "2026-07-22 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3479,7 +3431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94313",
+      "id": "contrib-1794127767427-94511",
       "date": "2026-07-20 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3495,7 +3447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94314",
+      "id": "contrib-1794127767427-94512",
       "date": "2026-06-25 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3511,7 +3463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94315",
+      "id": "contrib-1794127767427-94513",
       "date": "2026-08-18 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3527,7 +3479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94316",
+      "id": "contrib-1794127767427-94514",
       "date": "2026-03-10 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3543,7 +3495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94317",
+      "id": "contrib-1794127767427-94515",
       "date": "2026-07-10 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3559,7 +3511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94318",
+      "id": "contrib-1794127767427-94516",
       "date": "2026-09-15 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3575,7 +3527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94319",
+      "id": "contrib-1794127767427-94517",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3591,7 +3543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94320",
+      "id": "contrib-1794127767427-94518",
       "date": "2026-03-05 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3607,7 +3559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94321",
+      "id": "contrib-1794127767427-94519",
       "date": "2026-06-26 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3623,7 +3575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94322",
+      "id": "contrib-1794127767427-94520",
       "date": "2026-09-06 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3639,7 +3591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94323",
+      "id": "contrib-1794127767427-94521",
       "date": "2026-02-27 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3655,7 +3607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94324",
+      "id": "contrib-1794127767427-94522",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3671,7 +3623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94325",
+      "id": "contrib-1794127767427-94523",
       "date": "2026-03-24 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3687,7 +3639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94326",
+      "id": "contrib-1794127767427-94524",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3703,7 +3655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94327",
+      "id": "contrib-1794127767427-94525",
       "date": "2026-09-15 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3719,7 +3671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94328",
+      "id": "contrib-1794127767427-94526",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3735,7 +3687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94329",
+      "id": "contrib-1794127767427-94527",
       "date": "2026-09-15 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3751,7 +3703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94330",
+      "id": "contrib-1794127767427-94528",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3767,7 +3719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94331",
+      "id": "contrib-1794127767427-94529",
       "date": "2026-03-19 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3783,7 +3735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94332",
+      "id": "contrib-1794127767427-94530",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3799,7 +3751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94333",
+      "id": "contrib-1794127767427-94531",
       "date": "2026-07-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3815,7 +3767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94334",
+      "id": "contrib-1794127767427-94532",
       "date": "2026-07-17 00:00:00",
       "amount": 175,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3831,7 +3783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94335",
+      "id": "contrib-1794127767427-94533",
       "date": "2026-02-28 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3847,7 +3799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94336",
+      "id": "contrib-1794127767427-94534",
       "date": "2026-03-31 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3863,7 +3815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94337",
+      "id": "contrib-1794127767427-94535",
       "date": "2026-07-13 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3879,7 +3831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94338",
+      "id": "contrib-1794127767427-94536",
       "date": "2026-07-20 00:00:00",
       "amount": 175,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3895,7 +3847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94339",
+      "id": "contrib-1794127767427-94537",
       "date": "2026-03-01 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3911,7 +3863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94340",
+      "id": "contrib-1794127767427-94538",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3927,7 +3879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94341",
+      "id": "contrib-1794127767427-94539",
       "date": "2026-06-18 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3943,7 +3895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94342",
+      "id": "contrib-1794127767427-94540",
       "date": "2026-09-29 00:00:00",
       "amount": 4.35,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3959,7 +3911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94343",
+      "id": "contrib-1794127767427-94541",
       "date": "2026-09-29 00:00:00",
       "amount": 4.35,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3975,7 +3927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94344",
+      "id": "contrib-1794127767427-94542",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -3991,7 +3943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94345",
+      "id": "contrib-1794127767427-94543",
       "date": "2026-09-17 00:00:00",
       "amount": 86,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4007,23 +3959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94346",
-      "date": "2026-09-17 00:00:00",
-      "amount": 106,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Marilyn Marocchi",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "St. John",
-      "address_state": "IN",
-      "address_zip": "46373",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94347",
+      "id": "contrib-1794127767427-94544",
       "date": "2026-07-23 00:00:00",
       "amount": 175,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4039,7 +3975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94348",
+      "id": "contrib-1794127767427-94545",
       "date": "2026-03-10 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4055,7 +3991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94349",
+      "id": "contrib-1794127767427-94546",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4071,7 +4007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94350",
+      "id": "contrib-1794127767427-94547",
       "date": "2026-09-15 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4087,7 +4023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94351",
+      "id": "contrib-1794127767427-94548",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4103,7 +4039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94352",
+      "id": "contrib-1794127767427-94549",
       "date": "2026-06-25 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4119,7 +4055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94353",
+      "id": "contrib-1794127767427-94550",
       "date": "2026-09-14 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4135,7 +4071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94354",
+      "id": "contrib-1794127767427-94551",
       "date": "2026-07-18 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4151,7 +4087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94355",
+      "id": "contrib-1794127767427-94552",
       "date": "2026-07-14 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4167,7 +4103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94356",
+      "id": "contrib-1794127767427-94553",
       "date": "2026-07-01 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4183,7 +4119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94357",
+      "id": "contrib-1794127767427-94554",
       "date": "2026-03-20 00:00:00",
       "amount": 75,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4199,7 +4135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94358",
+      "id": "contrib-1794127767427-94555",
       "date": "2026-09-17 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4215,7 +4151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94359",
+      "id": "contrib-1794127767427-94556",
       "date": "2026-08-03 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4231,7 +4167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94360",
+      "id": "contrib-1794127767427-94557",
       "date": "2026-03-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4247,7 +4183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94361",
+      "id": "contrib-1794127767427-94558",
       "date": "2026-03-31 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4263,7 +4199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94362",
+      "id": "contrib-1794127767427-94559",
       "date": "2026-06-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4279,7 +4215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94363",
+      "id": "contrib-1794127767427-94560",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4295,23 +4231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94364",
-      "date": "2026-09-17 00:00:00",
-      "amount": 48,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Michael Haughee",
-      "contributor_type": "individual",
-      "contribution_size": "small",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Shererville",
-      "address_state": "IN",
-      "address_zip": "46375",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94365",
+      "id": "contrib-1794127767427-94561",
       "date": "2026-09-17 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4327,7 +4247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94366",
+      "id": "contrib-1794127767427-94562",
       "date": "2026-03-11 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4343,7 +4263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94367",
+      "id": "contrib-1794127767427-94563",
       "date": "2026-02-03 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4359,7 +4279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94368",
+      "id": "contrib-1794127767427-94564",
       "date": "2026-02-03 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4375,7 +4295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94369",
+      "id": "contrib-1794127767427-94565",
       "date": "2026-02-14 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4391,7 +4311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94370",
+      "id": "contrib-1794127767427-94566",
       "date": "2026-03-12 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4407,7 +4327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94371",
+      "id": "contrib-1794127767427-94567",
       "date": "2026-09-15 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4423,7 +4343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94372",
+      "id": "contrib-1794127767427-94568",
       "date": "2026-03-16 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4439,7 +4359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94373",
+      "id": "contrib-1794127767427-94569",
       "date": "2026-07-23 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4455,7 +4375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94374",
+      "id": "contrib-1794127767427-94570",
       "date": "2026-06-17 00:00:00",
       "amount": 1000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4471,7 +4391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94375",
+      "id": "contrib-1794127767427-94571",
       "date": "2026-03-10 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4487,7 +4407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94376",
+      "id": "contrib-1794127767427-94572",
       "date": "2026-03-18 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4503,7 +4423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94377",
+      "id": "contrib-1794127767427-94573",
       "date": "2026-07-23 00:00:00",
       "amount": 60,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4519,7 +4439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94378",
+      "id": "contrib-1794127767427-94574",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4535,7 +4455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94379",
+      "id": "contrib-1794127767427-94575",
       "date": "2026-02-28 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4551,23 +4471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94380",
-      "date": "2026-09-17 00:00:00",
-      "amount": 150,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Nancy A Oberman",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": "Retired",
-      "occupation_category": "retired",
-      "address_city": "Crown Point",
-      "address_state": "IN",
-      "address_zip": "46307",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94381",
+      "id": "contrib-1794127767427-94576",
       "date": "2026-07-09 00:00:00",
       "amount": 175,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4583,7 +4487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94382",
+      "id": "contrib-1794127767427-94577",
       "date": "2026-08-25 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4599,7 +4503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94383",
+      "id": "contrib-1794127767427-94578",
       "date": "2026-02-02 00:00:00",
       "amount": 1000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4615,7 +4519,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94384",
+      "id": "contrib-1794127767427-94579",
       "date": "2026-06-27 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4631,7 +4535,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94385",
+      "id": "contrib-1794127767427-94580",
       "date": "2026-02-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4647,7 +4551,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94386",
+      "id": "contrib-1794127767427-94581",
       "date": "2026-02-26 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4663,7 +4567,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94387",
+      "id": "contrib-1794127767427-94582",
       "date": "2026-03-13 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4679,7 +4583,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94388",
+      "id": "contrib-1794127767427-94583",
       "date": "2026-07-12 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4695,7 +4599,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94389",
+      "id": "contrib-1794127767427-94584",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4711,7 +4615,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94390",
+      "id": "contrib-1794127767427-94585",
       "date": "2026-06-24 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4727,7 +4631,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94391",
+      "id": "contrib-1794127767427-94586",
       "date": "2026-02-04 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4743,7 +4647,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94392",
+      "id": "contrib-1794127767427-94587",
       "date": "2026-09-17 00:00:00",
       "amount": 90,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4759,7 +4663,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94393",
+      "id": "contrib-1794127767427-94588",
       "date": "2026-04-14 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4775,7 +4679,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94394",
+      "id": "contrib-1794127767427-94589",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4791,7 +4695,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94395",
+      "id": "contrib-1794127767427-94590",
       "date": "2026-03-22 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4807,7 +4711,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94396",
+      "id": "contrib-1794127767427-94591",
       "date": "2026-03-07 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4823,7 +4727,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94397",
+      "id": "contrib-1794127767427-94592",
       "date": "2026-02-27 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4839,7 +4743,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94398",
+      "id": "contrib-1794127767427-94593",
       "date": "2026-06-24 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4855,7 +4759,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94399",
+      "id": "contrib-1794127767427-94594",
       "date": "2026-08-01 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4871,7 +4775,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94400",
+      "id": "contrib-1794127767427-94595",
       "date": "2026-09-17 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4887,7 +4791,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94401",
+      "id": "contrib-1794127767427-94596",
       "date": "2026-03-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4903,7 +4807,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94402",
+      "id": "contrib-1794127767427-94597",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4919,7 +4823,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94403",
+      "id": "contrib-1794127767427-94598",
       "date": "2026-07-23 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4935,7 +4839,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94404",
+      "id": "contrib-1794127767427-94599",
       "date": "2026-09-17 00:00:00",
       "amount": 543,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4951,23 +4855,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94405",
-      "date": "2026-09-17 00:00:00",
-      "amount": 563,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Paula Wheeler",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": "Retired",
-      "occupation_category": "retired",
-      "address_city": "Schereville",
-      "address_state": "IN",
-      "address_zip": "46375",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94406",
+      "id": "contrib-1794127767427-94600",
       "date": "2026-03-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4983,7 +4871,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94407",
+      "id": "contrib-1794127767427-94601",
       "date": "2026-09-17 00:00:00",
       "amount": 143,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -4999,7 +4887,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94408",
+      "id": "contrib-1794127767427-94602",
       "date": "2026-02-26 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5015,7 +4903,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94409",
+      "id": "contrib-1794127767427-94603",
       "date": "2026-06-25 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5031,7 +4919,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94410",
+      "id": "contrib-1794127767427-94604",
       "date": "2026-03-07 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5047,7 +4935,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94411",
+      "id": "contrib-1794127767427-94605",
       "date": "2026-03-28 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5063,7 +4951,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94412",
+      "id": "contrib-1794127767427-94606",
       "date": "2026-09-17 00:00:00",
       "amount": 63,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5079,7 +4967,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94413",
+      "id": "contrib-1794127767427-94607",
       "date": "2026-09-09 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5095,7 +4983,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94414",
+      "id": "contrib-1794127767427-94608",
       "date": "2026-03-29 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5111,7 +4999,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94415",
+      "id": "contrib-1794127767427-94609",
       "date": "2026-02-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5127,7 +5015,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94416",
+      "id": "contrib-1794127767427-94610",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5143,7 +5031,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94417",
+      "id": "contrib-1794127767427-94611",
       "date": "2026-03-07 00:00:00",
       "amount": 125,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5159,7 +5047,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94418",
+      "id": "contrib-1794127767427-94612",
       "date": "2026-09-17 00:00:00",
       "amount": 129,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5175,23 +5063,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94419",
-      "date": "2026-09-17 00:00:00",
-      "amount": 259,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Richard Osborne",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Munster",
-      "address_state": "IN",
-      "address_zip": "46321",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94420",
+      "id": "contrib-1794127767427-94613",
       "date": "2026-03-20 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5207,7 +5079,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94421",
+      "id": "contrib-1794127767427-94614",
       "date": "2026-03-22 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5223,7 +5095,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94422",
+      "id": "contrib-1794127767427-94615",
       "date": "2026-07-15 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5239,7 +5111,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94423",
+      "id": "contrib-1794127767427-94616",
       "date": "2026-08-08 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5255,7 +5127,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94424",
+      "id": "contrib-1794127767427-94617",
       "date": "2026-02-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5271,7 +5143,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94425",
+      "id": "contrib-1794127767427-94618",
       "date": "2026-03-21 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5287,7 +5159,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94426",
+      "id": "contrib-1794127767427-94619",
       "date": "2026-02-28 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5303,7 +5175,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94427",
+      "id": "contrib-1794127767427-94620",
       "date": "2026-03-03 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5319,7 +5191,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94428",
+      "id": "contrib-1794127767427-94621",
       "date": "2026-02-17 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5335,7 +5207,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94429",
+      "id": "contrib-1794127767427-94622",
       "date": "2026-04-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5351,7 +5223,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94430",
+      "id": "contrib-1794127767427-94623",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5367,7 +5239,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94431",
+      "id": "contrib-1794127767427-94624",
       "date": "2026-05-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5383,7 +5255,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94432",
+      "id": "contrib-1794127767427-94625",
       "date": "2026-07-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5399,7 +5271,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94433",
+      "id": "contrib-1794127767427-94626",
       "date": "2026-08-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5415,7 +5287,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94434",
+      "id": "contrib-1794127767427-94627",
       "date": "2026-09-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5431,7 +5303,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94435",
+      "id": "contrib-1794127767427-94628",
       "date": "2026-10-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5447,7 +5319,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94436",
+      "id": "contrib-1794127767427-94629",
       "date": "2026-07-21 00:00:00",
       "amount": 175,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5463,7 +5335,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94437",
+      "id": "contrib-1794127767427-94630",
       "date": "2026-09-27 00:00:00",
       "amount": 34.79,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5479,7 +5351,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94438",
+      "id": "contrib-1794127767427-94631",
       "date": "2026-07-06 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5495,7 +5367,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94439",
+      "id": "contrib-1794127767427-94632",
       "date": "2026-07-17 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5511,7 +5383,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94440",
+      "id": "contrib-1794127767427-94633",
       "date": "2026-09-15 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5527,7 +5399,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94441",
+      "id": "contrib-1794127767427-94634",
       "date": "2026-08-14 00:00:00",
       "amount": 43,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5543,7 +5415,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94442",
+      "id": "contrib-1794127767427-94635",
       "date": "2026-07-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5559,7 +5431,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94443",
+      "id": "contrib-1794127767427-94636",
       "date": "2026-03-22 00:00:00",
       "amount": 15,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5575,7 +5447,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94444",
+      "id": "contrib-1794127767427-94637",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5591,7 +5463,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94445",
+      "id": "contrib-1794127767427-94638",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5607,7 +5479,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94446",
+      "id": "contrib-1794127767427-94639",
       "date": "2026-09-15 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5623,7 +5495,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94447",
+      "id": "contrib-1794127767427-94640",
       "date": "2026-07-10 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5639,7 +5511,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94448",
+      "id": "contrib-1794127767427-94641",
       "date": "2026-03-19 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5655,7 +5527,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94449",
+      "id": "contrib-1794127767427-94642",
       "date": "2026-09-16 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5671,7 +5543,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94450",
+      "id": "contrib-1794127767427-94643",
       "date": "2026-02-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5687,7 +5559,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94451",
+      "id": "contrib-1794127767427-94644",
       "date": "2026-02-04 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5703,7 +5575,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94452",
+      "id": "contrib-1794127767427-94645",
       "date": "2026-03-03 00:00:00",
       "amount": 10,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5719,7 +5591,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94453",
+      "id": "contrib-1794127767427-94646",
       "date": "2026-07-16 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5735,7 +5607,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94454",
+      "id": "contrib-1794127767427-94647",
       "date": "2026-02-22 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5751,7 +5623,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94455",
+      "id": "contrib-1794127767427-94648",
       "date": "2026-02-06 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5767,7 +5639,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94456",
+      "id": "contrib-1794127767427-94649",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5783,7 +5655,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94457",
+      "id": "contrib-1794127767427-94650",
       "date": "2026-07-09 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5799,7 +5671,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94458",
+      "id": "contrib-1794127767427-94651",
       "date": "2026-08-25 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5815,7 +5687,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94459",
+      "id": "contrib-1794127767427-94652",
       "date": "2026-04-12 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5831,7 +5703,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94460",
+      "id": "contrib-1794127767427-94653",
       "date": "2026-02-24 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5847,7 +5719,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94461",
+      "id": "contrib-1794127767427-94654",
       "date": "2026-09-17 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5863,7 +5735,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94462",
+      "id": "contrib-1794127767427-94655",
       "date": "2026-09-17 00:00:00",
       "amount": 15,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5879,7 +5751,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94463",
+      "id": "contrib-1794127767427-94656",
       "date": "2026-06-27 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5895,7 +5767,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94464",
+      "id": "contrib-1794127767427-94657",
       "date": "2026-03-17 00:00:00",
       "amount": 125,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5911,7 +5783,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94465",
+      "id": "contrib-1794127767427-94658",
       "date": "2026-07-10 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5927,7 +5799,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94466",
+      "id": "contrib-1794127767427-94659",
       "date": "2026-03-06 00:00:00",
       "amount": 75,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5943,7 +5815,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94467",
+      "id": "contrib-1794127767427-94660",
       "date": "2026-04-18 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5959,7 +5831,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94468",
+      "id": "contrib-1794127767427-94661",
       "date": "2026-02-25 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5975,7 +5847,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94469",
+      "id": "contrib-1794127767427-94662",
       "date": "2026-09-06 00:00:00",
       "amount": 86,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -5991,7 +5863,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94470",
+      "id": "contrib-1794127767427-94663",
       "date": "2026-07-23 00:00:00",
       "amount": 20,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6007,7 +5879,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94471",
+      "id": "contrib-1794127767427-94664",
       "date": "2026-06-30 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6023,7 +5895,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94472",
+      "id": "contrib-1794127767427-94665",
       "date": "2026-07-20 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6039,7 +5911,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94473",
+      "id": "contrib-1794127767427-94666",
       "date": "2026-03-20 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6055,7 +5927,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94474",
+      "id": "contrib-1794127767427-94667",
       "date": "2026-08-12 00:00:00",
       "amount": 2,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6071,7 +5943,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94475",
+      "id": "contrib-1794127767427-94668",
       "date": "2026-06-03 00:00:00",
       "amount": 2,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6087,7 +5959,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94476",
+      "id": "contrib-1794127767427-94669",
       "date": "2026-06-30 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6103,7 +5975,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94477",
+      "id": "contrib-1794127767427-94670",
       "date": "2026-04-01 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6119,7 +5991,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94478",
+      "id": "contrib-1794127767427-94671",
       "date": "2026-03-22 00:00:00",
       "amount": 45,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6135,7 +6007,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94479",
+      "id": "contrib-1794127767427-94672",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6151,7 +6023,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94480",
+      "id": "contrib-1794127767427-94673",
       "date": "2026-07-23 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6167,7 +6039,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94481",
+      "id": "contrib-1794127767427-94674",
       "date": "2026-07-23 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6183,7 +6055,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94482",
+      "id": "contrib-1794127767427-94675",
       "date": "2026-05-24 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6199,7 +6071,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94483",
+      "id": "contrib-1794127767427-94676",
       "date": "2026-07-04 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6215,7 +6087,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94484",
+      "id": "contrib-1794127767427-94677",
       "date": "2026-07-30 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6231,7 +6103,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94485",
+      "id": "contrib-1794127767427-94678",
       "date": "2026-04-20 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6247,7 +6119,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94486",
+      "id": "contrib-1794127767427-94679",
       "date": "2026-04-30 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6263,7 +6135,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94487",
+      "id": "contrib-1794127767427-94680",
       "date": "2026-09-09 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6279,7 +6151,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94488",
+      "id": "contrib-1794127767427-94681",
       "date": "2026-03-01 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6295,7 +6167,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94489",
+      "id": "contrib-1794127767427-94682",
       "date": "2026-03-22 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6311,7 +6183,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94490",
+      "id": "contrib-1794127767427-94683",
       "date": "2026-03-22 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6327,7 +6199,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94491",
+      "id": "contrib-1794127767427-94684",
       "date": "2026-03-21 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6343,7 +6215,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94492",
+      "id": "contrib-1794127767427-94685",
       "date": "2026-03-20 00:00:00",
       "amount": 35,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6359,7 +6231,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94493",
+      "id": "contrib-1794127767427-94686",
       "date": "2026-07-17 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6375,7 +6247,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94494",
+      "id": "contrib-1794127767427-94687",
       "date": "2026-09-17 00:00:00",
       "amount": 40,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6391,7 +6263,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94495",
+      "id": "contrib-1794127767427-94688",
       "date": "2026-04-01 00:00:00",
       "amount": 25,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6407,7 +6279,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94496",
+      "id": "contrib-1794127767427-94689",
       "date": "2026-07-20 00:00:00",
       "amount": 380,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6423,7 +6295,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94497",
+      "id": "contrib-1794127767427-94690",
       "date": "2026-07-11 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6439,7 +6311,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94498",
+      "id": "contrib-1794127767427-94691",
       "date": "2026-06-14 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6455,7 +6327,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94499",
+      "id": "contrib-1794127767427-94692",
       "date": "2026-09-17 00:00:00",
       "amount": 186,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6471,7 +6343,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94500",
+      "id": "contrib-1794127767427-94693",
       "date": "2026-09-17 00:00:00",
       "amount": 50,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6487,7 +6359,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94501",
+      "id": "contrib-1794127767427-94694",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6503,7 +6375,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94502",
+      "id": "contrib-1794127767427-94695",
       "date": "2026-09-17 00:00:00",
       "amount": 100,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6519,23 +6391,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94503",
-      "date": "2026-09-17 00:00:00",
-      "amount": 100,
-      "candidate_name": "Anthony Nicholas Oberman",
-      "contributor_name": "Committee to Elect Tom Schmitt",
-      "contributor_type": "committee",
-      "contribution_size": "medium",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": "Schererville",
-      "address_state": "IN",
-      "address_zip": "46375",
-      "recipient_committee": "Committee to Elect Anthony Oberman",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539213-94504",
+      "id": "contrib-1794127767427-94696",
       "date": "2026-04-10 00:00:00",
       "amount": 616,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6551,7 +6407,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94505",
+      "id": "contrib-1794127767427-94697",
       "date": "2026-07-20 00:00:00",
       "amount": 150,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6567,7 +6423,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94506",
+      "id": "contrib-1794127767427-94698",
       "date": "2026-06-08 00:00:00",
       "amount": 1000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6583,7 +6439,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94507",
+      "id": "contrib-1794127767427-94699",
       "date": "2026-10-06 00:00:00",
       "amount": 5000,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6599,7 +6455,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94508",
+      "id": "contrib-1794127767427-94700",
       "date": "2026-09-09 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6615,7 +6471,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94509",
+      "id": "contrib-1794127767427-94701",
       "date": "2026-10-06 00:00:00",
       "amount": 250,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6631,7 +6487,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94510",
+      "id": "contrib-1794127767427-94702",
       "date": "2026-07-23 00:00:00",
       "amount": 200,
       "candidate_name": "Anthony Nicholas Oberman",
@@ -6647,7 +6503,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539213-94511",
+      "id": "contrib-1794127767427-94703",
       "date": "2026-02-24 00:00:00",
       "amount": 500,
       "candidate_name": "Anthony Nicholas Oberman",
