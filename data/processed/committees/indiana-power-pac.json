@@ -2,24 +2,20 @@
   "id": "indiana-power-pac",
   "name": "Indiana Power Pac",
   "totals": {
-    "total_given": "3000.00",
-    "total_contributions": 3,
-    "candidates_supported": 3
+    "total_given": "2000.00",
+    "total_contributions": 2,
+    "candidates_supported": 2
   },
   "by_contribution_size": {
     "large": {
-      "count": 3,
-      "total": "3000.00"
+      "count": 2,
+      "total": "2000.00"
     }
   },
   "by_month": {
     "2026-10": {
       "count": 2,
       "total": "2000.00"
-    },
-    "2026-09": {
-      "count": 1,
-      "total": "1000.00"
     }
   },
   "top_recipients": [
@@ -34,17 +30,11 @@
       "name": "Amy Huffman Oliver",
       "total": "1000.00",
       "count": 1
-    },
-    {
-      "id": "scott-eugene-houldieson",
-      "name": "Scott Eugene Houldieson",
-      "total": "1000.00",
-      "count": 1
     }
   ],
   "contributions": [
     {
-      "id": "contrib-1793523539176-60879",
+      "id": "contrib-1794127767397-60976",
       "date": "2026-10-06 00:00:00",
       "amount": 1000,
       "candidate_name": "John Eugene Bartlett",
@@ -60,7 +50,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1793523539191-76323",
+      "id": "contrib-1794127767409-76520",
       "date": "2026-10-05 00:00:00",
       "amount": 1000,
       "candidate_name": "Amy Huffman Oliver",
@@ -73,22 +63,6 @@
       "address_state": "IN",
       "address_zip": "46106",
       "recipient_committee": "Friends of Amy Huffman Oliver",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1793523539205-86958",
-      "date": "2026-09-29 00:00:00",
-      "amount": 1000,
-      "candidate_name": "Scott Eugene Houldieson",
-      "contributor_name": "Indiana Power PAC",
-      "contributor_type": "committee",
-      "contribution_size": "large",
-      "occupation": null,
-      "occupation_category": "unknown",
-      "address_city": null,
-      "address_state": "IN",
-      "address_zip": null,
-      "recipient_committee": "Committee To Elect Scott Houldieson",
       "source": "indiana"
     }
   ],
