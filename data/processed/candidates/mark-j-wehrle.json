@@ -6,9 +6,9 @@
   "district": null,
   "party": null,
   "totals": {
-    "total_raised": "628.26",
-    "total_contributions": 3,
-    "total_itemized": 2,
+    "total_raised": "128.26",
+    "total_contributions": 2,
+    "total_itemized": 1,
     "total_unitemized": 1
   },
   "by_contributor_type": {
@@ -17,8 +17,8 @@
       "total": "28.26"
     },
     "individual": {
-      "count": 2,
-      "total": "600.00"
+      "count": 1,
+      "total": "100.00"
     }
   },
   "by_contribution_size": {
@@ -27,14 +27,14 @@
       "total": "28.26"
     },
     "medium": {
-      "count": 2,
-      "total": "600.00"
+      "count": 1,
+      "total": "100.00"
     }
   },
   "by_month": {
     "2026-04": {
-      "count": 2,
-      "total": "528.26"
+      "count": 1,
+      "total": "28.26"
     },
     "2026-03": {
       "count": 1,
@@ -43,7 +43,7 @@
   },
   "contributions": [
     {
-      "id": "contrib-1794733396253-95924",
+      "id": "contrib-1795340105296-96020",
       "date": "2026-04-20 00:00:00",
       "amount": 28.26,
       "candidate_name": "Mark J Wehrle",
@@ -59,7 +59,7 @@
       "source": "indiana"
     },
     {
-      "id": "contrib-1794733396253-95925",
+      "id": "contrib-1795340105296-96021",
       "date": "2026-03-24 00:00:00",
       "amount": 100,
       "candidate_name": "Mark J Wehrle",
@@ -71,22 +71,6 @@
       "address_city": "Fort Wayne",
       "address_state": "IN",
       "address_zip": "46815",
-      "recipient_committee": "Wehrle",
-      "source": "indiana"
-    },
-    {
-      "id": "contrib-1794733396253-95926",
-      "date": "2026-04-01 00:00:00",
-      "amount": 500,
-      "candidate_name": "Mark J Wehrle",
-      "contributor_name": "Robert Benninghoff",
-      "contributor_type": "individual",
-      "contribution_size": "medium",
-      "occupation": "Not Currently Employed",
-      "occupation_category": "other",
-      "address_city": "Huntertown",
-      "address_state": "IN",
-      "address_zip": "46748",
       "recipient_committee": "Wehrle",
       "source": "indiana"
     }
